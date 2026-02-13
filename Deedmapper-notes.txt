@@ -1,0 +1,14 @@
+DeedMapper LOC data format
+DeedMappers coordinate system is based on x,y loc values. The canvas has a central point 0,0. Locations to the left or West of the 0,0 center are negative x. Locations to the right or East of 0,0 are positive x. Y values above 0,0 or North are negative y. Below or South of 0,0 are positive Y values. Locations in the left upper quadrant are -,- those in the upper right quadrant are +,-
+Locations in the lower left quadrant are -,+
+Locations in the lower right quadrant are +,+
+
+Only the 1st two values in the loc line are related to position.
+The F value is font related
+The L value is lock or unlocked position in the DeedMapper map
+The P value is a style value affecting line and corner styles
+The 3 digits at the end: digit one is line color, digit two is fill color, digit 3 uncertain at this time.
+
+The TXT line that may follow the LOC line give a position for the label text if the label center has been manually adjusted by the user. There is a R value in the TXT line presumable a style or color or rotation. The f value is a font value.
+
+The 'loc' line x and y values describe the location of the beginning corner of the parcel.

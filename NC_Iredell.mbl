@@ -1,0 +1,7792 @@
+Include
+Decl 0
+! Anchor='Rowan-3090' Lat='35/55/24' Lon='-80/49/35'
+End
+! -- n ------ watercourse ------ last, first
+TYP survey
+Id Rowan-1711
+ENTRY: 410
+GrantNo: 1079
+EntDat: 8/4/1778
+WarDat: 
+SurDat: 3/15/1785
+IssDat: 9/25/1786
+SurveyTo: John Dobbins
+IssuedTo: 
+Frm NC
+To John Dobbins
+Assignee: 
+Wat: Rocky Creek Main
+Ref 
+! -- abstract --
+! on the North Fork of Rockey Creek known by the name of the ? ? running Down said fork and including both sides of said fork for complement ... 8/4/1778
+! survey: on main Rocky Creek bounded by the lands of Kimmington, Bone, Swinford, and Scott.
+Rec 
+Re 636A Rocky Crk Mn
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. 636 A, dd mmm 1786 State of North Carolina -> John Dobbins
+! 2. 318 A, John Dobbins -to- Thomas McGuire Row-DB-11:76-77
+! 3. 318 A, 1793 John Dobbins Sr. -to- John Dobbins Jr. Ird-DB-B:23-24
+lbl %to\%dat\File# %Id\%Re\part Thos.McGuire\Jno.Dobbins.Jr 318a 1793
+! Metes and bounds
+loc 8705 -15781 F127 L0 P73 0 51 0
+txt 9829 -14086 F127 R0 %d =
+Pt Pine W side crk
+Ln s; 88p; 
+Pt stk swmp
+Ln w; 7p; 
+Pt lgPine edge swamp
+Ln s; 76p; 
+Pt BO div cnr sd trct
+Ln w; 20p; 
+Pt BO
+Ln s; 168p; 
+Pt lgBO
+Ln e; 172p; 
+Pt Birch crk W bnk
+Lm s25e; 50p; est
+Pt 
+Lm e; 55p; est 
+Pt
+Lm n25e; 50p; est
+Pt WO E bnk abt 50p abv mth sm br
+Ln e; 46p; 
+Pt leanWO bnk br
+Ln n; 332p; 
+Pt PO
+Ln w; 287p; to beg x crk
+End
+! -- n ------ watercourse ------ last, first
+TYP survey
+Id Rowan-0669
+ENTRY: 0728
+GrantNo: 
+EntDat: 04/10/1778
+WarDat: 
+SurDat: 10/06/1778
+IssDat: 03/21/1780
+SurveyTo: John Bone
+IssuedTo: John Bone
+Frm NC
+To John Bone
+Assignee: 
+Wat: Rocky Creek Middle Fork
+Ref 
+! -- abstract --
+EntryAbs: 728. Apr 10, 1778 John Bones enters 200 ac in Rowan Co on middle fork of Rocky Cr and on both sides said creek; border James McCrary on S, John Dobbins on E, and vacant land on other sides.
+WarrantAbs: 
+! 
+Rec 
+Re 230A Rocky Crk MidFk
+SCC: Richard Graham, Andrew Dobbins
+Adj John Dobbins
+Dat 3/21/1780
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. 230 A, 21 Mar 1780 State of NC -to- John Bone
+! 2. 230 A, 19 Aug 1793 John Bone Sr. -to- William Nesbit DB-B:87-88 wit Thomas McGuire, James McCreery / proved May 1794 Thomas McGuire
+lbl %to\%dat\File# %Id\%Re\Wm.Nesbit 1793
+! Metes and bounds
+loc 7919 -12201 F127 L0 P73 0 51 0
+txt 6170 -13213 F127 R0 %d =
+Pt BO
+Ln w; 47c; 
+Pt Pine
+Ln n; 49c; 
+Pt Pine
+Ln e; 47c; 
+Pt BO Jno.Dobbins ln
+Ln ;; S to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP survey
+Id Rowan-2902
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 10/30/1778
+SurDat: 10/16/1787
+IssDat: 12/05/1792
+SurveyTo: Aaron Luman
+IssuedTo: 
+Frm NC
+To Aaron Luman
+Assignee: 
+Wat: Rocky Creek, North Fork
+Ref Bk 79; Pg 298
+! -- abstract --
+! 
+Rec 
+Re 191A Rocky Creek N Fork
+SCC: Elisha Swinford, Joshua Swinford, Charles Bear?
+Adj George Lock, James Scott, James Swinford
+Dat 
+PRESENT: 
+ALTSPELL: Aaron Loomy
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 12203 -11284 F127 L0 P255
+Pt Hic E bnk crk Jas.Scott cnr
+Ln e; 5c; 
+Pt DW Scott cnr
+Ln s20e; 32c; 
+Pt Pine Geo.Lock cnr
+Ln s; 30.5c; 
+Pt Pine Lock cnr
+Ln w; 24c; 
+Pt PO Lock cnr
+Ln s; 12.5c; 
+Pt WO bnk RockyCrk
+Lm w; 14c; up crk estm.
+Pt Pine
+Ln n; 34.5c; longer on plat
+Pt WO Jas.Swinford cnr
+Ln n42w; 7.5c; 
+Pt Hic E bnk crk
+Lm ;; up crk to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP survey
+Id Rowan-1238
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 12/25/1778
+SurDat: 01/25/1783
+IssDat: 10/10/1783
+SurveyTo: 
+IssuedTo: Daniel Boyd
+Frm NC
+To Daniel Boyd
+Assignee: none listed
+Wat: Rocky Creek Middle Fork
+Ref 
+! -- abstract --
+! between Robert Boyd and Collin Campbell
+WarrantAbs: State of North Carolina No. 1559 ... survey for Daniel Boyd containing 500 acres on the middle fork of Rockey Creek including the improvement whereon he now lives ... 25 December 1778
+SurveyAbs: four hundred and twenty acres on the mniddle fork of Rocky Creek between Robert Boyds and Collin Campbells lines ... January 25 1783
+Rec 
+Re 420A Rocky Creek Middle Fork
+SCC: none listed
+Adj 
+Dat 10/10/1783
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. 420 A, dd mmm 17yy State of NC -> Daniel Boyd
+! x. 210 A, 05 Sep 1788 Daniel Boyd -to- Hugh Bone DB-A:167-169
+! x. xxx A, Hugh Bone -to- John Woodside DB-B:148
+lbl %to\%dat\File# %Id\%Re\Hu.Bone 210a 1788
+! Metes and bounds
+loc 1410 -15250 F127 L0 P73 0 51 0
+txt 175 -16358 F127 R0 %d =
+Pt WO stp bnk S crk
+Ln s25w; 20p; 
+Pt RO
+Ln n65w; 260p; 
+Pt Pine
+Ln n27w; 84p; 
+Pt Pine
+Ln n55e; 180p; x crk
+Pt Pine
+Ln s65e; 236p; 
+Pt BO
+Ln s34e; 104p; 
+Pt Pine
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP survey
+Id Iredell-0156
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 11/15/1794
+IssDat: 8/28/1795
+SurveyTo: 
+IssuedTo: 
+Frm NC
+To Collin Campbell
+Assignee: Robert Chambers
+Wat: Rocky Creek Middle Fork
+Ref 
+! -- abstract --
+! E side of John Brotherton
+! I do hereby assign over my right and title ... to Colin Campbell as his property ... 7th February 1783 Robert Chambers Test Thomas Morris
+Rec 
+Re 258A RockyCrk MidFk
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -2964 -18438 F127 L0 P255
+txt -1965 -18709 F127 R0 %d =
+Pt PO Jno.Brotherton beg cnr
+Ln s62e; 180p; 
+Pt PO
+Ln n55e; 122p; x crk nr ?
+Pt Pine
+Ln n5w; 280p; 
+Pt Pine Brotherton, Gregory cnrs
+Ln s38w; 240p; Brotherton
+Pt Pine Brotherton cnr
+Ln ;; his ln to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+ID Rowan-0877
+ENTRY: 
+GrantNo: 649
+EntDat: 
+WarDat: 1778-07-21
+SurDat: 1778-10-06
+IssDat: 1783-10-10
+Frm 
+To Thomas Bell
+Wat: Rocky Creek
+Ref 
+! -- abstract --
+! No. 649 ... for Thomas Bell ... 400 acres ... bounded by George Lock, John Reed and William Dobbins including his improvement
+Rec 
+Re 383A Rocky Crk
+SCC: 
+Adj 
+Dat 10/10/1783
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 13113 -6161 F127 L0 P73 0 51 0
+txt 12129 -5094 F127 R0 %d =
+Pt Hic RockyCrk
+Ln w; 44c; 
+Pt PO Wm.Dobbins
+Ln s; 32c; 
+Pt PO
+Ln e; 4c; 
+Pt PO Geo.Locks cnr
+Ln s; 30c; 
+Pt WO Licks cnr
+Ln e; 30c; 
+Pt WO Jno.Reid cnr
+Ln n; 5c; 
+Pt WO
+Ln e; 55c; 
+Pt stk on crk
+Lm ;; meanders to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP survey
+Id Rowan-2897
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 10/15/1787
+IssDat: 12/05/1792
+SurveyTo: James Swinford
+IssuedTo: James Swinford
+Frm 
+To James Swinford
+Assignee: 
+Wat: Rockey Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 370A RockyCrk
+SCC: Aaron Luman, Joshua Swinford
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 10153 -12122 F127 L0 P73 0 51 0
+txt 9943 -10441 F127 R0 %d =
+Pt BG Jno.Dobbins ln E bnk RC
+Ln w; 49.5c; 
+Pt BO Dobbins cnr
+Ln s; 3.5c; 
+Pt BO Jas.McCrary ln
+Ln e; 40c; 
+Pt stk McCrary cnr
+Ln s; 77c; 
+Pt PO McCrary cnr
+Ln w; 5c; 
+Pt stk crk bnk McCrary ln
+Lm s20e; 40c; down crk not shown
+Pt 
+Lm n30e; 30c; down crk not shown
+Pt 
+Lm e; 15c; down crk not shown
+Pt Pine Aar.Luman cnr
+Ln n; 34.5c; Luman
+Pt WO Luman cnr
+Ln n42w; 9c;
+Pt BO crk bnk
+Lm N40.2153E; 165.00p; up crk to beg
+Pt 
+Lm N38.6135W; 26.00p; not shown
+Pt 
+Lm S77.5052W; 84.00p; not shown
+Pt 
+Lm N53.7401W; 126.00p;
+End
+! -- n ------ watercourse ------ last, first
+TYP survey
+Id Rowan-1569
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 10/05/1778
+IssDat: 11/04/1784
+SurveyTo: George Locke
+IssuedTo: 
+Frm 
+To George Locke
+Assignee: 
+Wat: Rocky Creek
+Ref 
+! -- abstract --
+! on Rockey Creek bounded by William Dobbins, Aaron Lumen, Hugh Corran, James Scott, Charles Loveless and George Reed, including my own Mill
+Rec 
+Re 443A RockyCrk
+SCC: Charles Loveless, William Dobbins, ?
+Adj 
+Dat 11/4/1784
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 16634 -8416 F127 L0 P255
+txt 13303 -8995 F127 R0 %d =
+Pt Hic E Ltl Dutchman
+Ln n; 28c; 
+Pt Pine
+Ln w; 80c; 
+Pt Pine
+Ln n; 10c; 
+Pt BO
+Ln w; 25c; 
+Pt Pine
+Ln s; 27c; 
+Pt PO
+Ln w; 21c; 
+Pt PO
+Ln s; 13c; 
+Pt BO
+Ln e; 3c; 
+Pt BO
+Ln s; 30c; 
+Pt BO
+Ln E; 7c; 
+Pt stk crk bnk
+Ln n; 4c; 
+Pt stk
+Ln e; 28c; 
+Pt Pine
+Ln n; 28c;
+Pt BO
+Ln ;; E to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP survey
+Id Rowan-1273
+ENTRY: 654
+GrantNo: 0656
+EntDat: 
+WarDat: 07/22/1778
+SurDat: 10/05/1778
+IssDat: 10/10/1783
+SurveyTo: William Dobins
+IssuedTo: 
+Frm 
+To William Dobins
+Assignee: none
+Wat: Rocky Creek
+Ref Bk 51 pg 199
+! -- abstract --
+! Warrant: 320 acres ... both sides of Rockey Creek on the North Side of the South Yadkin bounded by Joseph Loveless's claim on the North by Thomas Bell's claim on the East, by George Locks line on the South and by David Logans claim on the West ... 7/22/1778
+Rec 
+Re 270A RockyCrk
+SCC: Richard Graham, George Lock
+Adj Thomas Bell, George Lock
+Dat 10/10/1783
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 11965 -8313 F127 L0 P255
+txt 10668 -7207 F127 R0 %d =
+Pt BO crk bnk Geo.Lock ln
+Ln s; 42c; 
+Pt WO Thos.Bell ln
+Ln w; 5c; 
+Pt WO Bell cnr
+Ln s; 32c; 
+Pt PO Bell cnr
+Ln w; 34c; 
+Pt BO Geo.Lock ln
+Ln n; 73c; 
+Pt BO bnk crk
+Lm ;; crk meanders to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP survey
+Id Rowan-2293
+ENTRY: 1203
+GrantNo: 164
+EntDat: 
+WarDat: 
+SurDat: 
+IssDat: 08/09/1787
+SurveyTo: Richard Rimmington
+IssuedTo: 
+Frm NC
+To Richard Rimmington
+Assignee: 
+Wat: Rocky Creek
+Ref Bk 67 Pg 164
+! -- abstract --
+! Warrant: ... joining John Dobbins and John Dowdins lands including two improvements or claims bought of William Brown ... 11/3/1778
+Rec 
+Re 640A RockyCrk
+SCC: 
+Adj 
+Dat 8/9/1787
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 11765 -15746 F127 L0 P73 0 51 0
+txt 9357 -17542 F127 R0 %d =
+Pt PO Jno.Dobbins NE cnr
+Ln w; 308p; his cnr x crk
+Pt Pine his other cnr
+Ln n; 14p; 
+Pt smPO Huston cnr
+Ln w; 44p; 
+Pt Pine
+Ln n; 290p; 
+Pt WO Dowden cnr
+Ln e; 40p; 
+Pt BO nr br
+Ln n; 28p; 
+Pt PO
+Ln e; 180p; 
+Pt smBO
+Ln n; 30p; 
+Pt Pine 
+Ln e; 130p; 
+Pt stk Alex.McConnell ln
+Ln ;; his courses to beg incompl.
+End
+! -- n ------ watercourse ------ last, first
+TYP survey
+Id Rowan-0952
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 01/27/1779
+SurDat: 03/01/1783
+IssDat: 10/10/1783
+SurveyTo: John Brotherton
+IssuedTo: 
+Frm NC
+To John Brotherton
+Assignee: 
+Wat: Rocky Creek, Middle Fork
+Ref 51:056
+! -- abstract --
+! warrant: for John Brotherton ... 640 acres ... little Rockey Creek joining Robert Chambers entry including his improvement and part of the Trinpot branch ...
+Rec 
+Re 640A RC MidFk
+SCC: not listed
+Adj Robert Chambers, Collin Campbell, James Gregory
+Dat 10/10/1783
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -3933 -18758 F127 L0 P255
+txt -4316 -21252 F127 R0 %d =
+Pt PO Col.Cambel cnr
+Ln n52e; 100p; Col.Campbell
+Pt Pine
+Ln n38e; 240p; x crk
+Pt Pine Jas.Gregory cnr
+Ln n10w; 140p; 
+Pt smBO
+Ln w; 425p; 
+Pt PO cnr his other srvy
+Ln s20e; 260p; 
+Pt PO nr crk bot
+Ln s; 140p; 
+Pt stk
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP survey
+Id Rowan-1658
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 10/04/1778
+SurDat: 02/29/1783
+IssDat: 11/04/1784
+SurveyTo: James Gregory
+IssuedTo: 
+Frm 
+To James Gregory
+Assignee: 
+Wat: Rocky Creek, Trumpet Branch
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 150A RC TrumpetBr
+SCC: none listed
+Adj John Brotherton
+Dat 11/4/1784
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -1308 -22421 F127 L0 P255
+txt -1181 -21883 F127 R0 %d =
+Pt PO Jno.Brotherton ln
+Ln s85e; 134p; x br
+Pt PO
+Ln s; 175p; 
+Pt PO
+Ln w; 170p; 
+Pt stk Brotherton ln
+Ln n38e; 100p; Brotherton
+Pt Pine his cnr
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP survey
+Id Rowan-1435
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 10/29/1778
+SurDat: 04/04/1782
+IssDat: 11/04/1784
+SurveyTo: James Scott
+IssuedTo: James Scott
+Frm NC
+To James Scott
+Assignee: 
+Wat: Little Dutchmans Creek. Rocky Creek
+Ref 
+! -- abstract --
+! warrant: ... on little Dutchmans Creek joining Hugh Currents line including all the lower end of the Maple Bottom from John Hankins Branch and then the Creek to the line to Nathanel Holmes's line thence to John Dobins line thence along said line to Rocky Creek thence to George Locks line to his sawmill land along that line ot Hugh Currents line thence to the beginning ...
+Rec 
+Re 640A 
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 10915 -12247 F127 L0 P73 0 51 0
+txt 12470 -12116 F127 R0 %d =
+Pt smHic E bnk Jno.Dobbins ln
+Ln e; 13c; with same
+Pt Pine his cnr
+Ln n; 40c; 
+Pt sBO Nat.Hams cnr
+Ln e; 74c; Hams ln
+Pt WO bnk lDC
+Lm s8e; 30c; est. down crk to beg
+Pt smPop E bnk lDC bel mth Hams br Jno.Little cnr
+Ln e; 7.12c; Jno.Little
+Pt BO
+Ln s15e; 3.25c; Little
+Pt smPO
+Ln s8e; 25.5c; with same
+Pt 3Map Hu.Currens ln
+Ln w; 11c; Curren
+Pt Bch
+Ln s65w; 26.25c; with same
+Pt smPO
+Ln s; 19c; 
+Pt BO his cnr
+Ln w; 7c; 
+Pt Geo.Lock cnr BO
+Ln w; 27c; Geo.Lock
+Pt Pine Lock cnr
+Ln n23w; 27c; same
+Pt DW
+Ln w; 4c; 
+Pt smHic E bnk RC
+Ln ;; 
+End
+! -- n ------ watercourse ------ last, first
+TYP grant
+Id Rowan-1945
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 10/28/1778
+SurDat: 09/14/1784
+IssDat: 10/25/1786
+SurveyTo: 
+IssuedTo: John Current
+Frm NC
+To John Current
+Assignee: Hugh Current
+Wat: Little Dutchmans Creek
+Ref Bk 67 Pg 35
+! -- abstract --
+! warrant: ... for Hugh Currents ... 200 acres on Dutchmans Creek joining George Lock, James Scott, Charles Loveless on the corner of said Loveless land and from that corner to John Hankins's corner and including his improvement ...
+Rec 
+Re 177A ltDC
+SCC: John Little, John Current
+Adj 
+Dat 10/25/1786
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 15003 -11222 F127 L0 P73 0 51 0
+Pt SG S bnk Jno.Little cnr
+Ln e; 23c; Jno.Little
+Pt WOsap his cnr
+Ln s; 15c; his ln
+Pt stk Little cnr
+Ln s52e; 25c; Little
+Pt Pine Thos.Berleys cnr
+Ln s; 2.8c; his ln
+Pt Pine Geo.Lock cnr
+Ln w; 73c; Lock
+Pt BO Jas.Scott cnr
+Ln n; 19c; his ln
+Pt PO his cnr
+Ln n65e; 26c; his ln
+Pt Bch crk bnk
+Lm ;; meanders to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP grant
+Id Rowan-0671
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 08/06/1778
+SurDat: 10/07/1778
+IssDat: 03/21/1780
+SurveyTo: 
+IssuedTo: 
+Frm NC
+To James Bone
+Assignee: 
+Wat: Rocky Creek South Fork
+Ref 28:470
+! -- abstract --
+EntryAbs: 725. Apr 14, 1778 James Bones enters 500 ac in Rowan Co on S side of S fork of Rocky Cr; border: land claimed by Joshua Nichols and John Callihan and lines formerly run by William Sharpe for John Hankins.
+WarrantAbs: ... 500 acres ... South side of the South Rockey Creek joining lands claimed by Joshua Nicholls and John Callihan bounded by lines formerly run by William Sharp for John Hankins ... 8/6/1778
+Rec 
+Re 335A RC SoFk
+SCC: Richard Graham, John Bones
+Adj 
+Dat 3/21/1780
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. 335 A, 21 Mar 1780 State of North Carolina -to- James Bone
+! 2. 335 A, 12 Sep 1792 James Bone and Esther Mary Bone -to- William Bone Jr. DB-A:573-574
+! x.  35 A, 13 Jan 1795 William Bone Jr. -to- James Callahan DB-D:061-062
+lbl %to\%dat\File# %Id\%Re\Wm.Bone Jr 1792\Jas.Callahan 35a 1795
+! Metes and bounds
+loc 1846 -10852 F127 L0 P73 0 51 0
+txt 60 -9477 F127 R0 %d =
+Pt Gum bnk crk
+Ln s; 67.5c; 
+Pt PO
+Ln w; 56.5c; 
+Pt PO Josh.Nicholls ln
+Ln n; 51c; 
+Pt Crab crk bnk
+Lm ;; crk to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-1882
+ENTRY: 1817
+GrantNo: 
+EntDat: 12/09/1178
+WarDat: 03/14/1779
+SurDat: 05/24/1784
+IssDat: 10/25/1786
+SurveyTo: Robert Wasson
+IssuedTo: Robert Wasson
+Frm NC
+To Robert Wasson (J.Wallace)
+Assignee: John Wallace
+Wat: Rocky Creek, Middle Fork
+Ref 
+! -- abstract --
+EntryAbs: 1817. Dec 9, 1778 John Wallace enters 500 ac in Rowan Co on N side of S fork of Rocky Cr; border: John Callehan, James McWhorter, Robert Boyd, William McDowell, and Thomas Bones
+! ... for John Wallace ... 500 acres ... on the North side of South Rocky Creek, bouded by John Callahan, James McWhorter, Robert Boyd, William McDowell and Thomas Bones ... 3/14/1779
+Rec 
+Re 366A RC MidFk
+SCC: none listed
+Adj Thomas Bone, John Bone
+Dat 10/25/1786
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 5482 -12128 F127 L0 P73 0 51 0
+txt 3058 -12428 F127 R0 %d =
+Pt Hic N bnk crk Thos.Bone ln
+Ln n; 38p; Thos.Bone
+Pt PO Bones cnr
+Ln e; 62p; 
+Pt Pine Jno.Bone cnr
+Ln n; 64p; Jno.Bone
+Pt PO Hu.Andrews cnr
+Ln w; 382p; Andrews + Stuart lns
+Pt BO by glade Stuart + Smith cnr
+Ln s; 240p; Smith + Little
+Pt Bch bnk crk
+Lm ;; down creek to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-2048
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 09/15/1778
+SurDat: 05/24/1784
+IssDat: 10/25/1786
+SurveyTo: Hugh Andrews
+IssuedTo: Hugh Andrews
+Frm NC
+To Hugh Andrews (Wm.McDowell)
+Assignee: William McDowell
+Wat: Rocky Creek Middle Fork
+Ref 67:76
+! -- abstract --
+! warrant: William McDowell ... 400 acres ... on both sides of middle Rockey Creek bounded by Robert Boyd and John Wallace, vacant elsewhere ... 9/15/1778
+! I assign over my right and title of the within warrant to Hugh Andrews for value received this 3rd day of March 1780
+Rec 
+Re 400A RC MidFk
+SCC: 
+Adj 
+Dat 10/25/1786
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. 400 A, 25 Oct 1786 State of North Carolina -to- Hugh Andrews
+! x. 102 A, 17 Feb 1801 Hugh Andrew -to- Amos Sharpe DB-D-302
+lbl %to\%dat\File# %Id\%Re\Am.Sharpe 102a 1801
+! Metes and bounds
+loc 4114 -13122 F127 L0 P73 0 51 0
+txt 4310 -14637 F127 R0 %d =
+Pt BO Rob.Wasson ln Stuart cnr
+Ln n; 300p; Stuart
+Pt BOsap
+Ln e; 230p; 
+Pt 2Pine by br
+Ln s; 170p; 
+Pt BO
+Ln w; 40p; 
+Pt PO hd hol
+Ln s; 130p; 
+Pt PO Jno.Bone ln
+Ln ;; Wasson ln to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Iredell-0011
+ENTRY: 
+GrantNo: 9
+EntDat: 
+WarDat: 
+SurDat: 
+IssDat: 01/04/1792
+SurveyTo: John Callahan
+IssuedTo: John Callahan
+Frm NC
+To John Callahan
+Assignee: 
+Wat: Rocky Creek South
+Ref 72:478
+! -- abstract --
+! Dear Sir With this will be handed you the grant and platt of John Callahan land wherein you will see the error when compared with the platts which is now sent - rectify the error, if in your power - I will pledge my reputation that there is no fraud intended - Wm Sharpe Colo Glasgow
+Rec 
+Re 345A Rocky Creek South
+SCC: Richard Graham, James Bealy
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 2227 -10940 F127 L0 P73 0 51 0
+txt 3174 -10574 F127 R0 %d =
+Pt Gum crk bnk
+Ln s; 120p; 
+Pt WO Bone's ln
+Ln e; 310p; 
+Pt BO Thos.Bone cnr
+Ln n; 232p; 
+Pt Sas on crk bnk
+Lm ;; creek to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-0664
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 09/15/1778
+SurDat: 10/07/1778
+IssDat: 03/21/1780
+SurveyTo: John Callahan
+IssuedTo: John Callahan
+Frm NC
+To John Callahan
+Assignee: 
+Wat: Rocky Creek South
+Ref 28:463
+! -- abstract --
+! warrant: John Callahan ... 350 acres ... lying on the South side of South Rockey Creek, joining lines with James Bones, bounded by lines formerly run for Samuel Forgey ... 9/15/1778
+Rec 
+Re 340A Rocky Creek South
+SCC: Richard Graham, James Bealy
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 5441 3478 F127 L0 P255
+Pt Gum crk bnk Jas.Bone cnr
+Ln n; 30c; 
+Pt PO Bone's ln
+Ln e; 77.5c; 
+Pt BO Thos.Bone cnr
+Ln s; 58c; 
+Pt Sas on crk bnk
+Lm ;; creek to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-0640
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 05/26/1778
+SurDat: 
+IssDat: 03/21/1780
+SurveyTo: David Logan
+IssuedTo: David Logan
+Frm NC
+To David Logan
+Assignee: none listed
+Wat: Rocky Creek
+Ref 28:439
+! -- abstract --
+! warrant: No. 492 ... for David Logan ... 640 acres ... bounded by John Archibald and William Laughrey ... 5/26/1778
+Rec 
+Re 367A RC
+SCC: Richard Graham, William Dobbins
+Adj 
+Dat 3/21/1780
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 10277 -5448 F127 L0 P73 0 51 0
+txt 8426 -6591 F127 R0 %d =
+Pt BO
+Ln n; 53c; 
+Pt stk Wm.Lockreys cnr
+Ln w; 31c; 
+Pt BO Lochreys cnr
+Ln n; 5c; 
+Pt BO Lockrey cnr
+Ln w; 35c; 
+Pt PO
+Ln s; 58c; 
+Pt stk Jno.Archiblad ln
+Ln e; 66c; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-3094
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 08/26/1778
+SurDat: 
+IssDat: 12/16/1793
+SurveyTo: William Laughrey
+IssuedTo: 
+Frm NC
+To William Laughrey
+Assignee: 
+Wat: Rocky Creek
+Ref 31:348
+! -- abstract --
+! warrant: ... William Laughrey ... 150 acres on Rocky Creek joining David Logan, Joseph Loveless, James McCrery and William McCrery + including his Improvement ... 8/26/1778
+Rec 
+Re 150A RC
+SCC: 
+Adj 
+Dat 12/16/1793
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 10252 -8047 F127 L0 P73 0 51 0
+txt 8059 -8350 F127 R0 %d =
+Pt stk crk bnk Wm.Dobbins ln
+Ln s; 10c; 
+Pt stk Dav.Logan cnr
+Ln w; 30c; Dav.Logan
+Pt BO Logan cnr
+Ln n; 5c; 
+Pt BO Logan cnr
+Ln w; 30c; 
+Pt PO Logan cnr
+Ln n; 33c; 
+Pt stk Wm.Mcrary cnr Thos.Bone ln
+Ln e; 30c; 
+Pt stk crk bnk
+Lm ;; meanders to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-0715
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 07/21/1778
+SurDat: 10/02/1778
+IssDat: 03/21/1780
+SurveyTo: 
+IssuedTo: 
+Frm NC
+To John Reid
+Assignee: 
+Wat: Rocky Creek mouth, South Yadkin
+Ref 35:348
+! -- abstract --
+! warrant: John Reed ... 400 acres ... bounded by George Lock, Thomas Bell, John Andrew and William Bailey including his own Improvement and running down both sides of the River taking in the mouth of Rockey Creek ... 7/21/1778
+Rec 
+Re 400A RC, SoYadkin
+SCC: George Reid, David Henry
+Adj 
+Dat 3/21/1780
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 12683 -3784 F127 L0 P73 0 51 0
+txt 13920 -2447 F127 R0 %d =
+Pt WO Thos.Bell ln
+Ln e; 74c; 
+Pt PO
+Ln s; 54c; 
+Pt Pine Andrew + Wm.Bailey ln
+Ln w; 74c; 
+Pt Pine Geo.Lock ln
+Ln ;; N to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-2401
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 04/08/1786
+IssDat: 08/09/1787
+SurveyTo: George Locke, Thomas Bell
+IssuedTo: George Lock, Thomas Bell
+Frm NC
+To George Lock, Thomas Bell
+Assignee: 
+Wat: Rocky Creek
+Ref 67:208
+! -- abstract --
+! warramt: ... on the South side of Rocky Creek joining Thomas Bell, William Dobbins, George Lock and George Reed
+Rec 
+Re 30A RC
+SCC: Joshua Ellis, William Clark
+Adj Thomas Bell, George Lock, William Dobbins
+Dat 8/9/1787
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 13102 -6373 F127 L0 P255
+txt 11683 -6575 F127 R0 %d =
+Pt Hic Thos.Bell cnr RC bnk
+Ln w; 39c; his ln
+Pt WO Wm.Dobbins cnr
+Ln n; 12c; his ln
+Pt BO Lock's cnr
+Ln e; 8c; 
+Pt Pers bnk crk
+Lm ;; dwn meanders to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-3090
+ENTRY: 0829
+GrantNo: 
+EntDat: 05/20/1778
+WarDat: 
+SurDat: 10/06/1779
+IssDat: 12/16/1793
+SurveyTo: Thomas Bones
+IssuedTo: 
+Frm NC
+To Thomas Bones
+Assignee: 
+Wat: Rocky Creek South Fork
+Ref 81:347
+! -- abstract --
+EntryAbs: 829. May 20, 1778 Thomas Bone enters 350 ac in Rowan Co on S and middle forks of Rocky Cr; border James McCrary; being half of tract said McCrary lives on formerly surveyed for William Archibald.
+WarrantAbs:  Thomas Bones ... 350 acres ... on the South and Middle fork of Rocky Creek joining James McCrary ... formery for William Archibald ... 
+Rec 
+Re 350A RC SoFk
+SCC: Richard Graham, Andrew Dobbins
+Adj 
+Dat 12/16/1793
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. 350 A, 16 Dec 1793 State of NC -to- Thomas Bone
+! 2. 150 A, 13 Aug 1794 Thomas Bone -to- Dennis Copeland DB-B:338-339
+! 3. 200 A, 13 Aug 1794 Thomas Bone -to- Humphrey Becket Tomlinson
+lbl %to\%dat\File# %Id\%Re\D.Copeland e150a 1794\H.B.Tomplinson w200a 1794
+! Metes and bounds
+loc 8739 -10502 F127 L0 P73 0 51 0
+txt 6719 -10202 F127 R0 %d =
+Pt Hic sap bnk fk Jas.McCrary cnr
+Ln s30e; 7c; 
+Pt BO
+Ln n80e; 17c; 
+Pt PO on crk bnk
+Ln s; 25.5c; 
+Pt WO
+Ln w; 104c; 
+Pt BO
+Ln n; 57.5c; 
+Pt Bch N bnk crk
+Lm ;; down meanders to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-3091
+ENTRY: 0828
+GrantNo: 
+EntDat: 05/20/1778
+WarDat: 
+SurDat: 10/06/1779
+IssDat: 12/16/1793
+SurveyTo: James McCrary
+IssuedTo: James McCrary
+Frm NC
+To James McCrary
+Assignee: 
+Wat: Rocky Creek Middle Fork
+Ref 81:347
+! -- abstract --
+EntryAbs: 828. May 20, 1778 James McCrery enters 350 ac in Rowan Co on S and middle forks of Rocky Cr; border: Thomas Bone; being half of tract said Bones lives on formerly surveyed from William Archibald
+! warrant: No. 828 ... James McCrery ... 350 acres ... on the South and Middle fork of Rocky Creek, joining Thomas Bones being half of the said tract said Bones lives on formerly surveyed for William Archibald
+Rec 
+Re 350A RC MidFk
+SCC: 
+Adj 
+Dat 12/16/1793
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 8770 -10603 F127 L0 P73 0 51 0
+txt 7517 -11430 F127 R0 %d =
+Pt Hic sap S bnk MidFk Thos.Bone cnr
+Ln s30e; 7c; 
+Pt BO
+Ln n80e; 17c; 
+Pt PO bnk crk
+Ln n; 42c; 
+Pt WO Jno.Dobbins ln
+Ln w; 104c; 
+Pt PO
+Ln s; 10c; 
+Pt Bch bnk crk
+Lm ;; meanders to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-0729
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 08/06/1778
+SurDat: 10/06/1778
+IssDat: 03/21/1780
+SurveyTo: William McCrary
+IssuedTo: William McCrary
+Frm NC
+To William McCrary
+Assignee: 
+Wat: Rocky Creek
+Ref 35:362
+! -- abstract --
+! warrant: bounded by James McCrary James Baty, John Callihan and David Logan 8/6/1778
+Rec 
+Re 250A RC
+SCC: Richard Graham, Thomas Brotherton
+Adj 
+Dat 3/21/1780
+PRESENT: 
+ALTSPELL: William McCreary
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 5508 -9203 F127 L0 P73 0 51 0
+txt 6088 -8455 F127 R0 %d =
+Pt PO
+Ln s; 42.5c; 
+Pt stk
+Ln e; 59c; 
+Pt stk Dav.Logan ln
+Ln n; 42.5c; 
+Pt stk Thos.Bones ln
+Ln w; 59c; Thomas Bones to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Iredell-0020
+ENTRY: 0250
+GrantNo: 
+EntDat: 
+WarDat: 07/17/1778
+SurDat: 11/29/1790
+IssDat: 06/04/1792
+SurveyTo: 
+IssuedTo: Thomas Beaty
+Frm NC
+To Thomas Beaty (Jas.Beaty)
+Assignee: James Beaty
+Wat: 
+Ref 75:482
+! -- abstract --
+! warrant: No. 250 ... James Beaty ... 640 acres ... in the forks of the Yadkin on Red Bank Branch, bounded by the lines of John Kellihan, James Bones, and Joshua Nicholls ... 
+Rec 
+Re 640A
+SCC: none listed
+Adj 
+Dat 6/4/1792
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 3851 -3696 F127 L0 P73 0 51 0
+txt 2344 -7492 F127 R0 %d =
+Pt WO by br
+Ln e; 184p; 
+Pt BO
+Ln n; 118p; 
+Pt PO
+Ln n38w; 138p; 
+Pt PO
+Ln n; 340p; 
+Pt PO Wm.McCreery cnr Callahan ln
+Ln w; 290p; with same
+Pt WO Bones ln
+Ln s; 150p; 
+Pt PO Bones cnr
+Ln w; 72p; 
+Pt BO Laird cnr
+Ln s30e; 60p; 
+Pt PO
+Ln e; 40p; 
+Pt SO 
+Ln s30e; 140p;
+Pt lgWO by hd sm br
+Lm ;; dn br to mouth then up red bnk br to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-1814
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 12/18/1778
+SurDat: 12/15/1786
+IssDat: 07/11/1788
+SurveyTo: 
+IssuedTo: Mary Traverse
+Frm NC
+To Mary Travers
+Assignee: 
+Wat: South Fork of Yadkin
+Ref 
+! -- abstract --
+! warrant: No. 1539 ... Mary Travers ... 520 acres ... on the North side of the South Fork of the Yadkin River, joining James Sharp, Joshua Nichols, John Laird, Andrew Kilpatrick and John McWhorter ... 12/18/1778
+Rec 
+Re 500A Yadkin SoFk
+SCC: none listed
+Adj Mary Travis
+Dat 1788/07/11
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! x. 167 A, 19 May 1795 Mary Travers -to- Robert McCorkle DB-B:340
+lbl %to\%dat\File# %Id\%Re\Rob.McCorkle 167a 1795
+! Metes and bounds
+loc -3532 -4259 F127 L0 P73 0 51 0
+txt -3136 -5310 F127 R0 %d =
+Pt WO river Jas.Sharpe low cnr
+Ln n; 190p; 
+Pt PO his cnr
+Ln e; 40p; 
+Pt fkWO Nichols cnr
+Ln n65e; 212p; 
+Pt smPO
+Ln e; 16p; 
+Pt BO Nichols cnr
+Ln n; 74p; 
+Pt PO Bones cnr
+Ln e; 40p; 
+Pt BO Laird cnr
+Ln s; 290p; 
+Pt WO his other cnr
+Ln s13e; 160p; 
+Pt BO river bnk his beg cnr
+Lm ;; up river to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-1037
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 06/10/1778
+SurDat: 12/23/1782
+IssDat: 10/10/1783
+SurveyTo: James Sharpe
+IssuedTo: James Sharpe
+Frm NC
+To James Sharpe
+Assignee: 
+Wat: South Yadkin
+Ref 51:094
+! -- abstract --
+! 
+Rec 
+Re 400A S Yadkin
+SCC: none listed
+Adj James King, Mary Travers, William Sharpe
+Dat 10/10/1783
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -6226 -4464 F1 L0 P73 0 51 0
+txt -5963 -5477 F1 R0 %d =
+Pt Pop bnk sm br Jas.King ln
+Ln e; 168p; 
+Pt WO rvr bnk
+Lm s80e; 95p; estimate dn rvr
+Pt WO Ma.Travers cnr
+Ln n; 190p; 
+Pt PO Nichols ln
+Ln w; 196p; 
+Pt WO
+Ln n; 64p; 
+Pt PO
+Ln w; 150p; 
+Pt PO Wm.Sharpe ln
+Ln s25w; 90p; Wm.Sharpe
+Pt BO King ln
+Ln e; 44p; 
+Pt BO
+Ln s26e; 88p; 
+Pt PO hd hol
+Lm ;; dwn hollow br ot beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-1057
+ENTRY: 0463
+GrantNo: 
+EntDat: 02/21/1778
+WarDat: 07/15/1778
+SurDat: 11/01/1782
+IssDat: 10/10/1783
+SurveyTo: John Laird
+IssuedTo: John Laird
+Frm NC
+To John Laird
+Assignee: 
+Wat: South Yadkin
+Ref 51:104
+! -- abstract --
+EntryAbs: 463. Feb 21, 1778 John Lard enters 640 ac in Rowan Co on S Yakdin R; border: James Beaty, James Bone, John Nichols, and widow Traves.
+! warrant: No. 463 ... John Laird ... 640 acres ... bounded by the South Yadkin River James Beaty, James Bone Joshua Nicholls and the Widow Travers including a small improvement ... 7/15/1778
+Rec 
+Re 521A S Yadkin
+SCC: none listed
+Adj Widow Travers, James Bones, James Beaty, John C?per
+Dat 10/10/1783
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 189 -3157 F127 L0 P73 0 51 0
+txt 413 -5528 F127 R0 %d =
+Pt BO rvr bnk
+Ln n13w; 160p; Travers
+Pt WO
+Ln n; 290p; 
+Pt BO Bones ln
+Ln e; 112p; 
+Pt PO
+Ln s30e; 60p; 
+Pt PO
+Ln e; 40p; 
+Pt SO
+Ln s30e; 140p; 
+Pt lgWO hd sm br
+Lm s7e; 180p; est. branch Jas.Beaty br
+Pt wCher mth br
+Lm ;; up rvr to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-0655
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 07/22/1778
+SurDat: 10/02/1778
+IssDat: 03/21/1780
+SurveyTo: George Reed
+IssuedTo: 
+Frm NC
+To George Reed
+Assignee: 
+Wat: Rocky Creek
+Ref 28:454
+! -- abstract --
+! warrant: No. 644 ... George Reed ... 400 acres ... bounded by John Andrew + Charles Loveless, George Lock, and Thomas Bell which land is on the East side of Rockey Creek, including his own improvement ... 7/22/1778
+Rec 
+Re 380A RC
+SCC: John Reid, David Henry
+Adj David Henry, George Lock
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 14133 -5141 F127 L0 P73 0 51 0
+txt 13108 -7593 F127 R0 %d =
+Pt Ha? bnk crk
+Ln n20e; 11.5c; 
+Pt BO Dav.Henry ln
+Ln n; 11c; 
+Pt Pine Henry cnr
+Ln e; 11.5c; 
+Pt BO Henry ln
+Ln n; 60c; 
+Pt BO Geo.Lock ln
+Ln w; 50c; 
+Pt BO Lock ln
+Ln s; 30c; 
+Pt Pine Lock cnr
+Ln w; 25c; 
+Pt BO crk bnk
+Lm ;; crk meanders to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-x0005
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 1779/09/05
+SurDat: 1783/02/29
+IssDat: not listed
+SurveyTo: 
+IssuedTo: 
+Frm 
+To Robert Chambers
+Assignee: 
+Wat: Rocky Creek, Trumpet Branch
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 200A RC TrumpetBr
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -2862 -24881 F127 L0 P255
+txt -1342 -23941 F127 R0 %d =
+Pt PO Brotherton ln
+Ln e; 60p; Brotherton
+Pt Ches his cnr
+Ln s30e; 180p; 
+Pt BO his other cnr
+Ln s10e; 30p; 
+Pt PO
+Ln s85e; 154p; x br w Gregory
+Pt BO
+Ln n10w; 60p; 
+Pt PO
+Ln n10e; 44p; 
+Pt pine cnr his other
+Ln n20w; 46p; 
+Pt PO
+Ln n77w; 120p; 
+Pt pine
+Ln n52w; 120p;
+Pt PO
+Ln w; 80p;
+Pt stk
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-1048
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 09/19/1778
+SurDat: 02/16/1782
+IssDat: 10/10/1783
+SurveyTo: James King
+IssuedTo: 
+Frm NC
+To James King
+Assignee: 
+Wat: Rocky Creek, Main
+Ref 
+! -- abstract --
+! warrant: No. 859 ... James King ... 450 acres ... on both sides of the North fork of Rockey Creek begining on the South side of said creek and including the mouth of a branch between said King and Daniel Elley and running up both sides of the Creek, including my Improvement
+! survey: joining Robert King, Richard Cook and William Hughes
+Rec 
+Re 450A RC Main
+SCC: 
+Adj 
+Dat 10/10/1783
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -17365 -16476 F127 L0 P255
+Pt 2lgPop N bnk crk by mth lg br
+Lm n66w; 184p; 
+Pt Gum WO Hughes cnr by br
+Ln s6w; 50p; Hughes
+Pt Ches
+Ln w; 134p; 
+Pt Pop Rob.King ln nr crk
+Ln s; 160p; 
+Pt PO ridge beg cnr his other
+Ln e; 188p; 
+Pt 2WO by edge low grnd
+Ln s; 80p; 
+Pt PO his other ln
+Ln e; 150p; 
+Pt Pine
+Ln n; 220p; 
+Pt Pine Cooks ln
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-0774
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 07/22/1778
+SurDat: 10/02/1778
+1IssDat: 03/21/1780
+SurveyTo: David Henry
+IssuedTo: 
+Frm NC
+To David Henry
+Assignee: 
+Wat: South Yadkin, Rocky Creek
+Ref 35:407
+! -- abstract --
+! warrant: No. 661 ... David Henry ... 600 acres ... lying on the North side of the South fork of the Yadkin River joining Rocky Creek and John Reeds Lands and from thence down the North side of the said fork to the bent above the fish dam and then across  the said fork and down the South side of the same below my field and then crossing said fork joining Lands of Jacob Nicholls, William Rosebrough, Charles Loveless, George Reed, Alexander Sloane and James Stuart, including the improvement that I bought from John Little and my brother John Andrews Improvement ... 7/22/1778
+Rec 
+Re 501A RC SoYadkin
+SCC: William Rosebrough, David Henry Jr.
+Adj 
+Dat 3/21/1780
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 17903 -4276 F127 L0 P73 0 51 0
+txt 15776 -4419 F127 R0 %d =
+Pt WO rvr bnk Jac.Nichols cnr
+Ln n; 17c; 
+Pt Hic Nicholls cnr
+Ln w; 52.5c; 
+Pt Hic Nicholls cnr
+Ln n; 12c; 
+Pt BO Nichols ln
+Ln w; 40c; 
+Pt Pine Geo.Reid's cnr
+Ln s; 11c; 
+Pt Pine
+Ln s20w; 11.5c; 
+Pt stk on crk bnk
+Lm s80e; 17c; 
+Pt 
+Lm s24e; 25c; 
+Pt stk Jno.Reid ln crk bnk
+Ln e; 19c; 
+Pt PO Reid cnr
+Ln s; 26c; 
+Pt Hic rvr bnk Reid ln
+Lm ;; etc. down meanders to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-1815
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 12/11/1786
+IssDat: 07/11/1788
+SurveyTo: Robert Boyd
+IssuedTo: Robert Boyd
+Frm NC
+To Robert Boyd
+Assignee: 
+Wat: Rocky Creek, Trumpet Branch
+Ref 64:414
+! -- abstract --
+! warrant: No. 2247 ... Robert Boyd ... 150 acres ... on the Trumpet Branch waters of Rocky Creek joining John B? on both sides of said branch downward for complement ... 09/12/1779
+Rec 
+Re 150A RC TrumpetBr
+SCC: none listed
+Adj 
+Dat 7/11/1788
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 1284 -21225 F127 L0 P255
+txt 80 -19903 F127 R0 %d =
+Pt PO Henderson and Shelly 2nd cnr
+Ln n38w; 116p; 
+Pt BO Chambers cnr
+Ln w; 22p; 
+Pt PO Gregory cnr
+Ln s; 175p; Gregory
+Pt PO his other cnr
+Ln w; 40p; 
+Pt stk
+Ln s; 125p; 
+Pt Pine
+Ln e; 145p; 
+Pt stk Henderson ln
+Ln ;; same to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-2294
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 09/13/1778
+SurDat: 
+IssDat: 08/09/1787
+SurveyTo: 
+IssuedTo: 
+Frm NC
+To Matthew Cowden, John Cowden, William Cowden
+Assignee: 
+Wat: Rocky Creek
+Ref 63:164
+! -- abstract --
+! warrant: ... for Matthew, John and William Cowdan ... 500 acres on Rocky Creek joining John Cowdens deeded land upon the West side, including an improvement made by John Cowdan ... 9/13/1778
+Rec 
+Re 500A RC
+SCC: not listed
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. 500 A, 09 Aug 1787 State of NC -> Cowden heirs DB-C:176-177
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 7284 -19201 F127 L0 P255
+txt 5475 -18427 F127 R0 %d =
+Pt Syc N bnk crk beg cnr father old srvy
+Ln n; 120p; 
+Pt smHic
+Ln e; 116p; 
+Pt WO Jno.McConnell cnr
+Ln s; 144p; 
+Pt BO Rimmington cnr by br
+Ln w; 40p; 
+Pt WO
+Ln s; 290p; 
+Pt Pine Hustins ln
+Ln w; 160p; 
+Pt Pine
+Ln n31w; 320p; 
+Pt stk in old ln
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-0784
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 09/08/1778
+SurDat: 10/07/1778
+IssDat: 03/21/1780
+SurveyTo: Benjamin Dobson
+IssuedTo: 
+Frm NC
+To Benjamin Dobson
+Assignee: 
+Wat: Rocky Creek
+Ref 35:417
+! -- abstract --
+! warrant: No. 838 ... Benjamin Dobson ... 350 acres ... on the North side of South Rocky Creek joining lands claimed by Joshua Nicholls, Joseph Dobson, James McWhorter and James Bones ... 9/8/1778
+Rec 
+Re 300A RC
+SCC: Richard Graham, John Bones
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 291 -10970 F127 L0 P73 0 51 0
+txt -1463 -10962 F127 R0 %d =
+Pt Plmb crk bnk
+Ln n30w; 20c; 
+Pt PO
+Ln n; 30c; 
+Pt BO
+Ln w; 20c; 
+Pt PO
+Ln s21w; 37c; 
+Pt WO
+Ln w; 5c; 
+Pt PO
+Ln s24w; 38c; 
+Pt PO
+Ln s57e; 29c; 
+Pt PO Josh.Nicholls cnr
+Lm ;; meanders to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-0870
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 02/27/1779
+SurDat: 12/24/1782
+IssDat: 10/10/1783
+SurveyTo: Joseph Dobson
+IssuedTo: 
+Frm NC
+To Joseph Dobson
+Assignee: 
+Wat: Rocky Creek Middle Fork
+Ref 51:18
+! -- abstract --
+! warrant: No. 1688 ... Joseph Dobson ... 400 acres ... on the South fork of Rockey Creek joining Benjamin Dobson and Robert Harden including his improvements ... 2/27/1779
+Rec 
+Re 400A RC MidFk
+SCC: none listed
+Adj Benjamin Dobson, John King, Joshua Nichols
+Dat 10/10/1783
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -2332 -10344 F127 L0 P73 0 51 0
+txt -2959 -13316 F127 R0 %d =
+Pt PO Ben.Dobson Josh.Nicholls cnr
+Ln w; 40p; Nichols
+Pt lBO nr Jno.King crk
+Ln n78w; 42p; 
+Pt lgPine McHargue cnr
+Ln n70w; 60p; 
+Pt Pine by sm br
+Ln n70e; 22p; 
+Pt Pine Harden cnr
+Ln n17e; 195p; x crk
+Pt lgPine nr br
+Ln n75w; 100p; 
+Pt Pine
+Ln n; 120p; 
+Pt Pine
+Ln e; 270p; 
+Pt PO
+Ln s; 150p; 
+Pt stk Ben.Dobson ln
+Ln w; 60p; 
+Pt PO Ben W cnr
+Ln ;; his ln to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-1020
+ENTRY: 0727
+GrantNo: 
+EntDat: 04/10/1778
+WarDat: 08/16/1778
+SurDat: 12/30/1782
+IssDat: 10/10/1783
+SurveyTo: James McHargue
+IssuedTo: 
+Frm NC
+To James McHargue
+Assignee: 
+Wat: Rocky Creek
+Ref 
+! -- abstract --
+EntryAbs: 727. Apr 10, 1778 James McHarge enters 350 ac in Rowan Co; border John King, runs down both sides of Rocky Cr and joins the N of William Nuttervill, Robert Harden's N side, and Joshua Nichols E end
+! warrant: No. 727 ... James McHargue ... 350 acres ... joining John King and running down both sides of Rocky Creek, Joining the North of Valentine Naturvals Robert Harden North side Joshua Nichols East End and including his own improvement ... 08/16/1778
+Rec 
+Re 380A RC
+SCC: none listed
+Adj 
+Dat 10/10/1783
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -6733 -8214 F1 L0 P73 0 51 0
+txt -6563 -9795 F1 R0 %d =
+Pt PO Jno.King ln 60p beg
+Ln n83e; 156p; 
+Pt BO Nichols ln
+Ln n; 56p; 
+Pt BO
+Ln e; 32p; 
+Pt PO
+Ln n40e; 180p; 
+Pt lgPine by crk
+Ln n70w; 60p; 
+Pt Pine by br
+Ln n73w; 290p; 
+Pt PO
+Ln s; 242p; 
+Pt Pine King cnr
+Ln e; 30p; 
+Pt lPO by crk
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-1036
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 08/17/1778
+SurDat: 12/30/1782
+IssDat: 10/10/1783
+SurveyTo: John King
+IssuedTo: John King
+Frm NC
+To John King
+Assignee: 
+Wat: Rocky Creek, South Branch
+Ref 51:93
+! -- abstract --
+! warrant: No. 585 ... John King ... 860 acres ... on the South fork of Rocky Creek joining the lands of Robert Landsail near the fork of the creek, and John Montgomery William Sharp and James McHargue including his own improvement ... 8/17/1778
+Rec 
+Re 860A RC
+SCC: none listed
+Adj 
+Dat 10/10/1783
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -7083 -7227 F1 L0 P73 0 51 0
+txt -9995 -8622 F1 R0 %d =
+Pt lgBO Sharpes cnr
+Ln w; 380p; 
+Pt Pine nr lg br
+Ln n18w; 24p; 
+Pt PO fk of br
+Ln w; 92p; 
+Pt Pine
+Ln n; 120p; Montgomery
+Pt lgPine
+Ln e; 8p; 
+Pt Pine Lansdale cnr
+Ln n; 177p; x crk
+Pt PO
+Ln e; 436p; 
+Pt Pine
+Ln s; 162p; 
+Pt Pine McHargue cnr
+Ln e; 30p; 
+Pt lPO nr crk
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-1790
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 11/05/1778
+SurDat: 12/11/1786
+IssDat: 07/11/1788
+SurveyTo: Benjamin Shelly
+IssuedTo: 
+Frm NC
+To Benjamin Shelly
+Assignee: 
+Wat: Rocky Creek
+Ref 64:400
+! -- abstract --
+! warrant: No. 14?4 ... Benjamin Shelly ... 150 acres of land on Rocky Creek joining Chambers, Boyd and Henderson lines ... 11/05/1778
+Rec 
+Re 150A RC
+SCC: not listed
+Adj 
+Dat 7/11/1788
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 3234 -21214 F127 L0 P255
+txt 1506 -21713 F127 R0 %d =
+Pt WO Henderson cnr bnk crk
+Ln w; 170p; 
+Pt PO his other cnr
+Ln n38w; 116p; Boyd 30 in txt
+Pt BO Chambers cnr
+Ln e; 60p; Chambers
+Pt smBO his other cnr
+Ln n; 80p; 
+Pt stk
+Ln s55e; 100p; 
+Pt WO bent crk
+Lm ;; dwn crk to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-1852
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 12/19/1778
+SurDat: 12/12/1786?
+IssDat: 07/11/1788
+SurveyTo: Samuel Henderson
+IssuedTo: Samuel Henderson
+Frm NC
+To Samuel Henderson
+Assignee: 
+Wat: Rocky Creek
+Ref 64:434
+! -- abstract --
+! warrant: No. 1541 ... Samuel Henderson ... 200 acres ... both sides of Rocky Creek and on both sides of a small branch that runs into said creek running up both sides of said creek and branch for complement including a small improvement ... 12/19/1778
+Rec 
+Re 200A RC
+SCC: none listed
+Adj 
+Dat 7/11/1788
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 5435 -36474 F127 L0 P255
+Pt WO N bnk crk
+Ln n; 70p; 
+Pt BO
+Ln e; 20p; 
+Pt BO
+Ln n; 130p; 
+Pt BO
+Ln w; 130p; 
+Pt PO Walks ln
+Ln s12w; 160p; with same
+Pt PO hollow
+Ln s30e; 34p; 
+Pt WO
+Ln s; 90p; x crk at pine
+Pt PO
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-1826
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 12/16/1779
+SurDat: 12/11/1786
+IssDat: 07/11/1788
+SurveyTo: Samuel Henderson in trust for orphans of ? Burnett
+IssuedTo: Samuel Henderson
+Frm NC
+To Samuel Henderson
+Assignee: 
+Wat: Rocky Creek, Main
+Ref 64:421
+! -- abstract --
+! warrant: No. 2295 ... Samuel Henderson ... 200 acres ... on the mouth of Trumpet Branch joining Robert Boyd, including Sarah Burnetts improvement ... 12/16/1779
+Rec 
+Re 200A RC Mn
+SCC: none listed
+Adj 
+Dat 7/11/1788
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 2897 -21825 F127 L0 P255
+txt 1619 -20636 F127 R0 %d =
+Pt WO bnk crk Shelly cnr
+Ln w; 140p; Shelly
+Pt PO Boyd cnr
+Ln s; 300p; x Trumpet br
+Pt PO
+Ln e; 90p; 
+Pt PO
+Ln n; 25p; 
+Pt lgPine Templeton cnr
+Ln n20e; 160p; 
+Pt mouth Trumpet br
+Lm ;; up crk to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-1827
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 12/11/1786
+IssDat: 07/11/1788
+SurveyTo: John Templeton
+IssuedTo: 
+Frm NC
+To John Templeton
+Assignee: John Booker, Robert Chambers
+Wat: Rocky Creek
+Ref 64:422
+! -- abstract --
+! warrant: No. 642 ... Robert Chambers ... 300 acres ... lying on both sides of Rocky Creek including Sherrills ford and Francums? improvement now his property ... 7/14/1778
+! I do assign my right and title or claim of the within warrant from me and my heirs, unto John Booker Hoy. It being for value received of him. In witness whereof I have hereunto set my hand this 1/21/1782 - Robert Chambers / Test James x Gregory his mark, Elisabeth x Gregory her mark
+! I do here by assign all my right and title of the within warrant unto John Templeton it being for value received of him in witness whereof I have hereunto set my hand this 9/9/1782 - John B Hoy (seal) / Test Robert Chambers, John x Chessec? his mark
+Rec 
+Re 300A RC
+SCC: none listed
+Adj 
+Dat 7/11/1788
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 3095 -22400 F127 L0 P255
+Pt Brch E bnk crk Shelly cnr
+Ln e; 110p; 
+Pt WO Cowden cnr
+Ln s; 220p; x crk
+Pt Pine Dowden cnr
+Ln e; 80p; 
+Pt Pine Cowden ln
+Ln s; 120p; 
+Pt Pine
+Ln w; 240p; 
+Pt lgPine
+Ln n20e; 160p; 
+Pt mth Trumpet br
+Lm ;; up crk to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-2015
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 01/27/1772
+SurDat: 05/25/1784
+IssDat: 10/25/1786
+SurveyTo: Robert Smith
+IssuedTo: Robert Smith
+Frm NC
+To Robert Smith
+Assignee: none listed
+Wat: Rocky Creek
+Ref 67:064
+! -- abstract --
+! warrant: No. 1689 .. Robert Smith ... 300 acres ... South Fork of Rocky Creek joining James McWhorter and Robert Boyd including his improvement ... 1/27/1772
+Rec 
+Re 300A RC
+SCC: none listed
+Adj Benjamin Dobson, Joseph Dobson
+Dat 10/25/1786
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 1272 -14906 F127 L0 P73 0 51 0
+txt -69 -14054 F127 R0 %d =
+Pt RO Stewart and Boyd 2nd cnr
+Ln e; 20p; 
+Pt WO by edge low grnd mid fk
+Ln s; 100p; 
+Pt BO by rdg Rd
+Ln s30e; 70p; 
+Pt fkdOak
+Ln e; 30p; 
+Pt BO Wasson cnr at glade
+Ln s; 20p; 
+Pt BO
+Ln s83w; 240p; Little
+Pt PO
+Ln s; 18p; 
+Pt BO Ben.Dobson cnr
+Ln w; 28p; 
+Pt stk Jo.Dobson ln
+Ln n; 150p; 
+Pt PO
+Ln w; 35p; 
+Pt Hic Morris? cnr
+Ln n26e; 175p; 
+Pt PO Boyd ln
+Ln s65e; 160p; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-1865
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 12/15/1778
+SurDat: 05/25/1784
+IssDat: 10/25/1786
+SurveyTo: James Stuart
+IssuedTo: James Stewart
+Frm NC
+To James Stuart (R.Boyd)
+Assignee: Robert Boyd
+Wat: Rocky Creek Middle Fork
+Ref 67:003
+! -- abstract --
+! warrant: No. 1501 ... Robert Boyd ... 410 acres ... on the middle fork of Rocky Creek, joining William McDowell and John Wallis including his own improvement ... 12/15/1778
+! I Robert Boyde ? in consideration of ten pounds to me in hand paid by James Stuart I do by these presents assign over all my right title claim and ? unto the said James Stuart his heirs and assigns forever Given under my hand this 30th August 1784 Robert Boyd / Test Wm Sharpe
+Rec 
+Re 410A RC MidFk
+SCC: none listed
+Adj Daniel Boyd
+Dat 10/25/1786
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 1404 -15119 F127 L0 P73 0 51 0
+txt 1765 -14684 F127 R0 %d =
+Pt WO stp bnk S sd crk Dan.Boyd beg cnr
+Ln s25w; 20p; 
+Pt RO
+Ln e; 20p; 
+Pt WO edge crk lw grnd
+Ln s; 100p; 
+Pt BO by rdg rd Smith cnr
+Ln s30e; 70p; 
+Pt fkdBO his +cnr
+Ln e; 222p; pass Wasson cnr by glade
+Pt BO Andrews cnr
+Ln n; 300p; Andrews
+Pt BOsap
+Ln w; 80p; 
+Pt Pine
+Ln s59w; 215p; Dan.Boyd ln to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-2176
+ENTRY: 1687
+GrantNo: 
+EntDat: 10/27/1778
+WarDat: 01/27/1779
+SurDat: 05/26/1784
+IssDat: 10/25/1786
+SurveyTo: John Little
+IssuedTo: John Little
+Frm NC
+To John Little (J.McWhorter)
+Assignee: James McWhorter
+Wat: Rocky Creek Middle Fork
+Ref 67:121
+! -- abstract --
+! warrant: No. 1686 ... James McWhorter ... 340 acres ... on the North of the middle fork of Rocky Creek adjoining lands of Benjamin Dobson, James Bones, John Wallace,a nd vacant lands on the North including the Improvement on which he now lives ... 1/27/1779
+! For and in consideration of one hundred pounds to me paid by John Little I do hereby assign the within warrant to the said John Little his heirs and assigns forever - given under my hand this 8/27/1784 James McWhorter / Test Wm Sharpe
+Rec 
+Re 310A RC MidFk
+SCC: none listed
+Adj Robert Wasson, Benjamin Dobson
+Dat 10/25/1786
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 2378 -10989 F127 L0 P73 0 51 0
+txt 286 -12076 F127 R0 %d =
+Pt Bch N bnk crk Rob.Wasson cnr
+Ln n; 220p; R.Wasson
+Pt BOsap Smith cnr
+Ln s83w; 240p; 
+Pt PO
+Ln s; 138p; 
+Pt PO Ben.Dobson cnr
+Ln s30e; 80p; 
+Pt Plmb crk bnk Dobson beg cnr
+Lm ;; dwn crk to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-2342
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 10/20/1786
+IssDat: 08/09/1787
+SurveyTo: Christopher Houston
+IssuedTo: Christopher Houston
+Frm NC
+To Christopher Houston (Loveless)
+Assignee: Charles Loveless
+Wat: Rocky Creek
+Ref 67:183
+! -- abstract --
+! warrant: No. 1643 ... Charles Loveless ... 300 acres ... on Rocky Creek joining John Bones, John Dobbins, John Huntsman and McDowells lands including William Clerks improvement and entry ... 1/14/1779
+! I do hereby assign the within warrant to Christ'r Houston his heirs or assigns for value received Witness my hand this 10/20/1786 Charles Lovelace / Test - Ths? Prather
+Rec 
+Re 300A RC
+SCC: Bekett? Nichols, James Holman
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 8366 -14081 F127 L0 P255
+txt 6714 -15225 F127 R0 %d =
+Pt SO Thos.McGuire cnr Jno.Dobbins ln
+Ln n; 54c; N past his cnr
+Pt PO
+Ln w; 16c; 
+Pt Hic
+Ln n; 26c; 
+Pt PO
+Ln w; 28c; 
+Pt Pine
+Ln s; 78c; Hu.Anderson
+Pt stk Jno.Bones ln
+Ln e; 40c; Bone
+Pt BO Bones cnr
+Ln s; 2.5c; 
+Pt BO Jno.Dobbins cnr Bones ln
+Ln ;; E to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-2217
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 08/12/1778
+SurDat: 
+IssDat: 10/25/1786
+SurveyTo: 
+IssuedTo: John Archibald
+Frm NC
+To John Archibald (R.Hardin)
+Assignee: Robert Hardin
+Wat: Rocky Creek Middle Fork
+Ref 67:135
+! -- abstract --
+! warrant: No. 797 ... Robert Hardin ... 480 acres begining on Joshua Nichols's line below Sherrels path and below a big bottom of Timber in the second ? fork of Rocky Creek running up the creek so as to include his improvement ... 8/12/1778
+! John Archibald in trust for Robert Hardins legatees 480 acres No. 1432 dated 25th Oct 1786
+Rec 
+Re 480A RC MidFk
+SCC: 
+Adj 
+Dat 10/25/1786
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -4045 -12915 F127 L0 P73 0 51 0
+txt -6756 -12921 F127 R0 %d =
+Pt Pine nr br Jos.Dobson cnr
+Ln s75e; 100p; 
+Pt lgPine
+Ln s17w; 195p; x crk
+Pt Pine
+Ln s70w; 22p; 
+Pt Pine by sm br
+Ln n73w; 290p; 
+Pt PO
+Ln n35w; 190p; 
+Pt PO
+Ln n40e; 80p; x crk
+Pt lPO
+Ln n20e; 100p; 
+Pt Pine
+Ln s73e; 280p; 
+Pt stk Dobson ln
+Ln ;; his ln to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-1423
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 07/24/1780
+SurDat: 05/01/1784
+IssDat: 11/04/1784
+SurveyTo: Robert Chambers
+IssuedTo: 
+Frm NC
+To Robert Chambers
+Assignee: 
+Wat: Rocky Creek Main, Trumpet Branch
+Ref 57:256
+! -- abstract --
+! warrant: No. 2314 ... Robert Chambers ... 200 acres ... on the middle fork of Rocky Creek adjoining Robert Boyds Entry on the North side whereon he now lives, including both sides of the Bridge Branch for complement ... 7/24/1780
+Rec 
+Re 50A RC Mn
+SCC: none listed
+Adj 
+Dat 11/4/1784
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 677 -23702 F127 L0 P255
+txt 690 -23381 F127 R0 %d =
+Pt Pine SW cnr mill pl he lives
+Ln s10w; 44p; 
+Pt PO
+Ln s10e; 60p; 
+Pt BO
+Ln e; 60p; 
+Pt BO
+Ln n; 160p; 
+Pt stk his present ln
+Ln s70w; 30p; 
+Pt POsap his cnr
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+ID Rowan-0827
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 02/17/1780
+IssDat: 10/28/1782
+SurveyTo: William Sharpe
+IssuedTo: William Sharpe
+Frm NC
+To William Sharpe
+Assignee: 
+Wat: Rocky Creek South Fork
+Ref 43:150 ?160
+! -- abstract --
+! warrant: No. ... William Sharpe ... 100 acres ... on both sides of Main Rocky above ? Kings land including his own improvement ... 8/8/1778
+Rec 
+Re 100A RC SoFk
+SCC: John Sharpe, John Smith
+Adj 
+Dat 10/28/1782
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -5151 -7578 F127 L0 P255
+txt -6573 -7623 F127 R0 %d =
+Pt BOsap N bnk crk
+Ln n; 50p; 
+Pt WO
+Ln w; 180p; 
+Pt BO
+Ln s; 90p; pass lgWO bnk crk bg other
+Pt Ches
+Ln e; 180p; 
+Pt stk
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-0953
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 07/14/1778
+SurDat: 02/22/1783
+IssDat: 10/10/1783
+SurveyTo: 
+IssuedTo: Robert Chambers
+Frm NC
+To Robert Chambers
+Assignee: 
+Wat: Rocky Creek Main
+Ref 51:057
+! -- abstract --
+! warrant: No. 643 ... Robert Chambers ... 400 acres ... on both sides of Rocky Creek bounded by Joseph Shelly's conditional line, being at the big Shoal and vacant on the other three points including his improvement ... 7/14/1778
+Rec 
+Re 400A RC Mn
+SCC: none listed
+Adj 
+Dat 10/10/1783
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 3272 -24758 F127 L0 P255
+txt 1282 -25518 F127 R0 %d =
+Pt PO N sd crk
+Ln w; 80p; 
+Pt Pine
+Ln s; 30p; 
+Pt WO by br
+Ln w; 82p; x crk bel mill
+Pt Pine
+Ln s70w; 80p; 
+Pt PO
+Ln s40w; 60p; 
+Pt Pine
+Ln n20w; 130p; 
+Pt PO by glade
+Ln n20e; 200p; x crk
+Pt Pine
+Ln e; 250p; 
+Pt PO
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-0957
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 08/05/1779
+SurDat: 03/01/1783
+IssDat: 10/10/1783
+SurveyTo: John Brotherton
+IssuedTo: John Brotherton
+Frm NC
+To John Brotherton
+Assignee: Moses Mitchell
+Wat: Rocky Creek Middle Fork, Trumpet Branch
+Ref 51:058
+! -- abstract --
+! warrant: No. 2201 ... Moses Mitchell ... 370 acres ... on the waters of Hunting Creek on the South East corner of his own line and joining William Grant and William Donaldson ... 8/5/1779
+! I do hereby assign and make over my right to the within order of survey unto John McDonnel witness my hand this 26th of January 1782 - Moses Mitchell
+! I do hereby assign and make over my right to within order of surveing unto Moses Mitchell witness my hand this 27 day of February 1782 - John Donnel
+! Moses Mitchell assigns over all his interest in this warrant to John Brotherson before Wm Sharpe
+Rec 
+Re 370A RC MidFk Trumpet
+SCC: none listed
+Adj 
+Dat 10/10/1783
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -1689 -23152 F127 L0 P255
+txt -4689 -23948 F127 R0 %d =
+Pt smBO cnr +srvy
+Ln n30w; 180p; Chambers ln nr Trumpet
+Pt 
+Ln w; 340p; 
+Pt PO nr ltlMtn
+Ln s; 160p; 
+Pt PO cnr +srvy
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-1050
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 05/09/1780
+SurDat: 11/03/1782
+IssDat: 10/10/1783
+SurveyTo: 
+IssuedTo: William Sharpe
+Frm NC
+To William Sharpe
+Assignee: 
+Wat: Rocky Creek, Snow Creek
+Ref 51:100
+! -- abstract --
+! warrant: No. 2250 ... William Sharpe ... 320 acres ... on the waters of Snow Creek and Rocky Creek joining on the North of John Montgomerys tract where he lives, on the West of Robert Lansdale's entry and including a ridge of pine timber ... 5/9/1780
+Rec 
+Re 320A RC SnowCrk
+SCC: none listed
+Adj 
+Dat 10/10/1783
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -13794 -9052 F127 L0 P73 0 51 0
+txt -14775 -10879 F127 R0 %d =
+Pt BO Montgomery ln Lansdale cnr
+Ln n; 144p; 
+Pt smPO
+Ln e; 114p; 
+Pt WO
+Ln n; 120p; 
+Pt Pine
+Ln w; 292p; 
+Pt Pine
+Ln s; 160p; 
+Pt Pine Ormands ln
+Ln e; 91p; 
+Pt Pine
+Ln s; 104p; 
+Pt WO Montgomery cnr
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-1082
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 03/13/1779
+SurDat:
+IssDat: 10/10/1783
+SurveyTo: James King
+IssuedTo: James King
+Frm NC
+To James King
+Assignee: 
+Wat: Rocky Creek
+Ref 51:113
+! -- abstract --
+! warrant: No. 1836 ... James King ... 200 acres ... on the branches of main Rocky Creek joining the South side of his former entry ... 3/13/1779
+Rec 
+Re 200A RC
+SCC: John King, Robert King
+Adj 
+Dat 10/10/1783
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -20545 -15365 F127 L0 P255
+Pt PO ridge cnr +srvy
+Ln e; 188p; +srvy x br
+Pt 2WOsap ege lw grnd
+Ln s; 170p; 
+Pt BO
+Ln w; 188p; 
+Pt stk
+Ln n; 170p; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-1097
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 09/03/1778
+SurDat: 
+IssDat: 10/10/1783
+SurveyTo: 
+IssuedTo: Robert King
+Frm NC
+To Robert King
+Assignee: 
+Wat: Rocky Creek Main
+Ref 51:122
+! -- abstract --
+! warrant: No. 861 ... Robert King ... 200 acres on North Rocky Creek lying above James Kings entry running at both sides of the Creek so as to join John King's improvement .. 9/3/1778
+Rec 
+Re 200A RC Mn
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -21764 -17228 F127 L0 P255
+txt -22398 -16702 F127 R0 %d =
+Pt lgWal S bnk crk Jno.King cnr
+Ln w; 165p; pass Jno.King 2nd cnr
+Pt Pine
+Ln s; 105p; x lg br
+Pt BO
+Ln e; 300p; 
+Pt BOsap Jas.King ln nr hd hol
+Ln n; 82p; Jas.King x crk pass cnr
+Pt lgRO
+Ln n56w; 62p; 
+Pt ROsap Jno.King ln
+Ln ;; Jno.King to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-1096
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 11/05/1778
+SurDat: 02/25/1782
+IssDat: 10/10/1783
+SurveyTo: John King
+IssuedTo: John King
+Frm NC
+To John King
+Assignee: 
+Wat: Rocky Creek Main
+Ref 51:121
+! -- abstract --
+! warrant: No. 1301 ... John King ... 400 acres on main Rocky Creek joining above a claim of Robert Kings land and including the improvement made by Robert Barton ... 11/5/1778
+Rec 
+Re 400A RC Mn
+SCC: none listed
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -21771 -17271 F127 L0 P255
+txt -22401 -18373 F127 R0 %d =
+Pt lgWal S bnk crk
+Ln w; 65p; 
+Pt WO Rob.King ln by sm br
+Ln n; 40p; 
+Pt WOsap
+Ln w; 140p; 
+Pt lgPop
+Ln n; 172p; x crk at shoal
+Pt Pine
+Ln e; 358p; 
+Pt Pine
+Ln s; 192p; 
+Pt BOsap Wm.Hughes cnr
+Ln s83w; 68p; 
+Pt ROsap Rob.King cnr
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-1098
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 11/07/1778
+SurDat: 02/26/1782
+IssDat: 10/10/1783
+SurveyTo: William Hughes
+IssuedTo: William Hughes
+Frm NC
+To William Hughes
+Assignee: 
+Wat: Rocky Creek
+Ref 51:122
+! -- abstract --
+! warrant: No. 1342 ... William Hughs ... 100 acres ... on the North side of Rocky Creek on both sides and including the forks of a big branch that falls into Rocky Creek below James King's land and joining Daniel Weldon, Easleys claim and the bald mountain ... 11/7/1778
+Rec 
+Re 100a RC
+SCC: John King, Fra's Quinn
+Adj 
+Dat 10/10/1783
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -19002 -17359 F127 L0 P255
+Pt Gum WO by br Jas.King cnr
+Ln n; 98p; 
+Pt BOsap
+Ln w; 123p; Bald Mtn
+Pt stk Jno.King ln
+Ln s; 84p; Jno.King
+Pt BOsap his cnr
+Ln s; 30p; 
+Pt Pine
+Ln s74e; 123p; 
+Pt Ches Jas.King cnr
+Ln n6e; 50p; Jas.King to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-1111
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 09/19/1778
+SurDat: 02/22/1787
+IssDat: 10/10/1783?
+SurveyTo: Thomas Morris
+IssuedTo: Thomas Morris
+Frm NC
+To Thomas Morris
+Assignee: 
+Wat: Rocky Creek
+Ref 51:128
+! -- abstract --
+! warrant: No. 953 ... Thomas Morris ... 350 acres ... in the forks of the Yadkin lying on the South side of Rocky Creek South fork ... 9/19/1778
+Rec 
+Re 260A RC
+SCC: none listed
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -583 -15839 F127 L0 P73 0 51 0
+txt -2406 -15209 F127 R0 %d =
+Pt PO Dan.Boyd ln
+Ln s26w; 175p; Smith
+Pt Hic Dobson ln
+Ln w; 230p; 
+Pt Pine Dobson NW cnr
+Ln n; 160p; 
+Pt Pine
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-1182
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 08/17/1778
+SurDat: 11/03/1782
+IssDat: 10/10/1783
+SurveyTo: Robert Lansdale
+IssuedTo: Robert Lansdale
+Frm NC
+To Robert Lansdale
+Assignee: 
+Wat: Rocky Creek
+Ref 51:158
+! -- abstract --
+! warrant: No. 138 ... Robert Landsdail ... 300 acres ... on both sides and including the forks of Rocky Creek joining on the West and North sides of John Kings land and including the head of a fork of William Sharps big branch ... 8/17/1778
+Rec 
+Re 300A RC
+SCC: none listed
+Adj 
+Dat 10/10/1783
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -13808 -9064 F127 L0 P73 0 51 0
+txt -13055 -9916 F127 R0 %d =
+Pt BO Montgomery ln
+Ln n; 144p; 
+Pt smPO
+Ln e; 114p; 
+Pt WO by Jno.King crk
+Ln n; 195p; 
+Pt Pine
+Ln e; 94p; 
+Pt Pine
+Ln s; 340p; 
+Pt Pine 8p E Montgomery cnr
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-1657b
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 07/24/1780
+SurDat: 02/22/1783
+IssDat: 11/04/1784
+SurveyTo: Robert Chambers
+IssuedTo: Robert Chambers
+Frm NC
+To Robert Chambers
+Assignee: none listed
+Wat: Rocky Creek, McConnells Branch
+Ref 55:127
+! -- abstract --
+! warrant: No. 2311 ... Robert Chambers ... 490 acres ... on the North side of his entry where he now lives in Rocky Creek running up Cowden's Big Branch for complement ... 07/24/1780
+Rec 
+Re 490A RC
+SCC: none listed
+Adj 
+Dat 11/04/1784
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 3341 -24745 F127 L0 P255
+txt 1521 -27856 F127 R0 %d =
+Pt PO beg his +srvy
+Ln e; 140p; 
+Pt WO bnk pond by br
+Ln n68e; 60p; 
+Pt PO
+Ln n27w; 220p; 
+Pt Pine
+Ln w; 80p; 
+Pt BO
+Ln n; 180p; 
+Pt fkPO
+Ln w; 220p; 
+Pt Ches
+Ln s12w; 180p; 
+Pt Pine cnr +srvy
+Ln e; 250p; 
+Pt PO his +cnr
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-1835
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 11/25/1778
+SurDat: not shown
+IssDat: 07/11/1788
+SurveyTo: Elizabeth Shelly
+IssuedTo: 
+Frm NC
+To Elizabeth Shelly
+Assignee: 
+Wat: Rocky Creek
+Ref 64:426
+! -- abstract --
+! warrant: No. 1403 ... Joseph Shelly ... 400 acres ... on Rocky Creek, joining Robert Chambers upper place and running down the creek including his own improvement ... 11/25/1778
+Rec 
+Re 400A RC
+SCC: none listed
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 2815 -24076 F127 L0 P255
+txt 3486 -23154 F127 R0 %d =
+Pt WO by br 3d cnr Rob.Chambers mill trct
+Ln w; 82p; his ln x crk
+Pt Pine
+Ln s70w; 45p; his +ln
+Pt stk
+Ln s; 80p; his +ln
+Pt stk Ben.Shelly cnr
+Ln s55e; 100p; Ben.Shelly
+Pt WO bent crk his +cnr
+Lm s80e; 50p; est.
+Pt 
+Lm s30e; 55p; est.
+Pt Templeton beg cnr
+Ln e; 230p; his and Cowden ln
+Pt smBO Wm.McConnell cnr
+Ln n; 210p; his ln
+Pt stk 
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-2101
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 03/11/1779
+SurDat: 05/24/1784
+IssDat: 10/25/1786
+SurveyTo: Robert Wasson
+IssuedTo: Robert Wasson
+Frm NC
+To Robert Wasson (a:Wallace)
+Assignee: John Wallace
+Wat: Rocky Creek Middle Fork
+Ref 
+! -- abstract --
+! warrant: No. 1852 ... John Wallace ... 100 acres ... joining Robert Boys last Entry and William Medowes entry ... 3/11/1779
+! For and in consideration of ten pounds to me in hand paid by Robert Wassan. I do by these presents set over all my right title and claim of in and to the within mentioned land to the said Robert Wasson his heirs and assigns for ever - Given under my hand this 30th July 1784 John Wallace
+Rec 
+Re 100A RC MidFk
+SCC: none listed
+Adj 
+Dat 10/25/1786
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 6403 -16077 F127 L0 P255
+txt 5331 -16608 F127 R0 %d =
+Pt 2Pine Andrews 3d cnr
+Ln w; 140p; 
+Pt Pine
+Ln n; 120p; 
+Pt Pine
+Ln e; 140p; 
+Pt Pine
+Ln s; 120p; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-2166
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 05/25/1784
+IssDat: 10/25/1786
+SurveyTo: 
+IssuedTo: John Boyd
+Frm NC
+To John Boyd
+Assignee: 
+Wat: Rocky Creek Middle Fork
+Ref 67:117
+! -- abstract --
+! warrant: missing
+Rec 
+Re 250A RC MidFk
+SCC: none listed
+Adj Daniel Boyd
+Dat 10/25/1786
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. 250 A, 25 Oct 1786 State of North Carolina -to- John Boyd
+! 2. 250 A, 20 Aug 1793 sold by sheriff to William Sharpe DB-D:539-541
+lbl %to\%dat\File# %Id\%Re\1793 Wm.Sharpe
+! Metes and bounds
+loc 3859 -16359 F127 L0 P73 0 51 0
+txt 2616 -17488 F127 R0 %d =
+Pt Pine
+Ln w; 110p; 
+Pt Pine Dan.Boyd ln
+Ln n34w; 74p; Boyd
+Pt BO his cnr
+Ln n65w; 80p; his ln
+Pt Pine
+Ln n; 140p; 
+Pt Pine
+Ln e; 228p; 
+Pt Pine
+Ln s; 240p; S to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-2278
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 05/09/1780
+SurDat: 10/06/1785
+IssDat: 08/09/1787
+SurveyTo: William Sharpe
+IssuedTo: William Sharpe
+Frm NC
+To William Sharpe
+Assignee: none
+Wat: Rocky Creek
+Ref 67:158
+! -- abstract --
+! warrant: 2251 ... William Sharpe ... 640 acres ... on the North side of the South fork of Rocky Creek joining on the North side of John Kings and Robt Lansdales entries and lying to the Southward of John McHargues ... 5/9/1780
+Rec 
+Re 640A RC
+SCC: John McGauhhry?, John Frazier
+Adj 
+Dat 8/9/1787
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -11276 -16225 F127 L0 P255
+txt -10046 -14568 F127 R0 %d =
+Pt lgBO 2Pop Frazier cnr
+Ln e; 85c; 
+Pt WO Blounts cnr
+Ln s; 75.4c; Blount
+Pt stk
+Ln w; 85c; 
+Pt DW
+Ln n; 75.4c; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-2300
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 08/16/1778
+SurDat: 12/19/1785
+IssDat: 08/09/1787
+SurveyTo: Joseph Shaver
+IssuedTo: Joseph Shaver
+Frm NC
+To Joseph Shaver
+Assignee: 
+Wat: Rocky Creek
+Ref 67:167
+! -- abstract --
+! warrant: No. 729 ... Joseph Shaver ... 400 acres ... on the Middle Rocky Creek and upon both sides of said creek, including his own improvement ... 8/16/1778
+Rec 
+Re 200A RC
+SCC: none listed
+Adj John Brotherton, William Brotherton
+Dat 8/9/1787
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -7083 -20869 F127 L0 P255
+txt -7638 -21627 F127 R0 %d =
+Pt PO by crk bnk Wm.Brotherton cnr
+Ln w; 100p; 
+Pt PO
+Ln n; 160p; 
+Pt Pine
+Ln e; 170p; 
+Pt stk Brothertons ln
+Ln s20e; 180p; 
+Pt WO his cnr
+Ln s; 15p; 
+Pt stk on crk bnk
+Lm S74.2630W; 65.00p; est. up crk to beg
+Pt 
+Lm N72.5582W; 49.00p; est.
+Pt 
+Lm N39.3846W; 35.00p; est.
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-2305
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 11/05/1778
+SurDat: 
+IssDat: 08/09/1787
+SurveyTo: 
+IssuedTo: William McConnel
+Frm NC
+To William McConnel
+Assignee: 
+Wat: Rocky Creek
+Ref 67:168
+! -- abstract --
+! warrant: No. 1313 ... William McConnell ... 640 acres ... on the waters of Rocky Creekon the North side of the same including his improvement including a large branch running through his plantation, down to the mouth of the first spring drean that makes into said branch from Rocky Creek up the branch or mouth of the fifth drain that makes to the branch that he lives on ? his plantation running thence up the branch for quality ... 11/5/1778
+Rec 
+Re 640A RC
+SCC: none listed
+Adj 
+Dat 8/9/1787
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 8127 -21132 F127 L0 P73 0 51 0
+txt 6122 -23041 F127 R0 %d =
+Pt lgPine Mno.McConnell cnr
+Ln w; 20p; 
+Pt BO
+Ln s; 66p; 
+Pt 2PO BO
+Ln w; 66p; 
+Pt smHic Cowden ln
+Ln n; 100p; 
+Pt Pine his old cnr
+Ln w; 200p; 
+Pt smBO
+Ln n; 240p; 
+Pt Pine
+Ln e; 30p; 
+Pt Pine
+Ln n; 60p; 
+Pt Pine
+Ln e; 360p; 
+Pt Pine
+Ln s; 210p; 
+Pt Pine
+Ln w; 70p; 
+Pt Pine
+Ln ;; S to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-2306
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 08/07/1779
+SurDat: not listed
+IssDat: 08/09/1787
+SurveyTo: John McConnell
+IssuedTo: John McConnell
+Frm NC
+To John McConnell
+Assignee: 
+Wat: Rocky Creek
+Ref 67:169
+! -- abstract --
+! warrant: No.  ... John McConnell ... 200 acres ... in the forks of the Yadkin River joining Richard Rimmington Alexander McConnell on the waters of Rockey Creek on Meeting House branch ... 8/7/1779
+Rec 
+Re 300A RC
+SCC: none listed
+Adj 
+Dat 8/9/1787
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 10428 -19213 F127 L0 P73 0 51 0
+txt 9047 -20689 F127 R0 %d =
+Pt smBO Rimmington cnr
+Ln w; 180p; 
+Pt PO Cowden ln
+Ln n; 116p; 
+Pt WO nr br
+Ln w; 50p; 
+Pt 2PO BO
+Ln n; 66p; 
+Pt BO
+Ln e; 20p; 
+Pt lgPine
+Ln n; 60p; 
+Pt BO
+Ln e; 210p; 
+Pt stk
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-2326
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 08/16/1778
+SurDat: 12/20/1785
+IssDat: 08/09/1787
+SurveyTo: 
+IssuedTo: William Brotherton
+Frm NC
+To William Brotherton
+Assignee: 
+Wat: Rocky Creek
+Ref 
+! -- abstract --
+! warrant: No. 728 ... William Brotherton ... 200 acres on the middle fork of Rocky Creek joining Joseph Shavers entry ... 8/16/1778
+Rec 
+Re 200A RC
+SCC: none listed
+Adj 
+Dat 8/9/1787
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -7120 -20719 F127 L0 P255
+txt -7625 -19656 F127 R0 %d =
+Pt PO by crk Shaver cnr
+Ln w; 100p; 
+Pt PO
+Ln s; 200p; 
+Pt Pine
+Ln e; 230p; 
+Pt Pine
+Ln n; 160p; 
+Pt stk on crk bnk
+Lm S83.9481W; 63.00p; up crk to beg
+Pt 
+Lm N73.5205W; 49.00p;
+Pt 
+Lm N31.6096W; 39.00p;
+End
+! -- n ------ watercourse ------ last, first
+TYP deed
+Id Rowan-6:225-22
+Frm Joshua Nicholls
+To Jacob Nicholls
+Wat: 
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 
+Adj 
+Dat 10/7/1765
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -3070 2310 F127 L0 P255
+Pt 
+Ln ; p; 
+Pt 
+Ln ; p; 
+Pt 
+Ln ; p; 
+Pt 
+Ln ; p; 
+Pt 
+Ln ; p; 
+Pt 
+Ln ; p; 
+Pt 
+Ln ; p; 
+Pt 
+Ln ; p; 
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Iredell-0043
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 09/03/1778
+SurDat: 10/15/1791
+IssDat: 11/28/1792
+SurveyTo: John Cooper
+IssuedTo: John Cooper
+Frm NC
+To John Cooper
+Assignee: 
+Wat: South Yadkin
+Ref 79:412
+! -- abstract --
+! warrant: on the North side of the So Yadkin starting at John Archibalds upper corner on the North side of said river running North to his North corner thence West to John Lairds line, thence joining James Cooper thence down said Coopers line to Hugh Halls corner on the river thence to the beginning including his improvement ... 9/3/1778
+Rec 
+Re 200A SoYadkin
+SCC: none listed
+Adj 
+Dat 11/28/1792
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 6708 -2891 F1 L0 P73 0 51 0
+txt 5449 -3828 F1 R0 %d =
+Pt Hic nr rcks rvr bnk Archibald cnr
+Ln n; 184p; Archibald
+Pt stk Beatys
+Ln w; 160p; his ln
+Pt Red br
+Lm s6w; 195p; est. down br to rvr
+Pt River
+Lm ;; dwn rvr to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-1190
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 08/13/1778
+SurDat: 12/01/1782
+IssDat: 10/10/1783
+SurveyTo: John Archibald
+IssuedTo: John Archibald
+Frm NC
+To John Archibald
+Assignee: none
+Wat: South Yadkin River
+Ref 51:161
+! -- abstract --
+! warrant: No. 802 ... John Archibald ... 640 acres bounded on the North side of the South fork of Yadkin partly opposite Hugh Hall it being an old entry and survey and now bounded by the former made lines on the East by George Lock on the No side by Claims of David Logan and John McFarlin on the West by Claim of John Cooper and joining the So fork at a little stony hill then down the fork Hugh Halls boundry to the begining. .. 8/13/1778
+Rec 
+Re 624A SoYadkin
+SCC: none listed
+Adj 
+Dat 10/10/1783
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 10971 -1715 F1 L0 P73 0 51 0
+txt 8087 -3292 F1 R0 %d =
+Pt PO rvr bnk Geo.Locke ln
+Ln n; 270p; 
+Pt fkWO by br
+Ln w; 440p; 
+Pt 2WOsap Jas.Beatys cnr
+Ln s; 184p; Jno.Cooper
+Pt Hic rvr bnk by lg rocks
+Lm ;; dwn rvr Hu.Hall to beg
+End
+! -- n ------ watercourse ------ last, first
+Typ reference
+Id 4000ft
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 
+IssDat: 
+SurveyTo: 
+IssuedTo: 
+Frm 
+To reference
+Assignee: 
+Wat: 
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 4000ft
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 8088 3672 F127 L0 P255
+Pt A
+Ln e; 4000ft; 
+Pt B
+Ln s; 100ft; 
+Pt C
+Ln w; 4000ft; 
+Pt D
+Ln ;; 
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-0301
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 
+IssDat: 02/28/1755
+SurveyTo: 
+IssuedTo: 
+Frm NC
+To James Jones
+Assignee: 
+Wat: Rocky Creek, Forks of Yadkin
+Ref 6:167
+! -- abstract --
+! missing from shuck
+Rec 
+Re 440A RC
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -1797 -26533 F127 L0 P255
+Pt Bch N side crk
+Ln n; 55c; 
+Pt pine
+Ln w; 80c; 
+Pt WO
+Ln s; 55c; 
+Pt WO
+Ln e; 80c; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Iredell-0016
+ENTRY: 0571
+GrantNo: 0014
+EntDat: 
+WarDat: 07/21/1778
+SurDat: 
+IssDat: 01/04/1792
+SurveyTo: Joseph Nichols
+IssuedTo: Joseph Nichols
+Frm NC
+To Joseph Nichols
+Assignee: Joshua Nicholls Jr.
+Wat: Rocky Creek, South Yadkin
+Ref 75:571
+! -- abstract --
+EntryAbs: 571. Mar. 10, 1778 Joshua Nichols Jr enters 400 ac in Rowan Co on both sides of Rocky Cr; border: Benjamin Dobson, James Bone, John Lard, widow Travis and Joseph Nichols claims
+WarrantAbs: No. 571 ... Joshua Nicholls Junr ... 400 acres ... on both sides of the South fork of Rocky Creek, joininig lands claimed by Benjamin Dobson, James Bones and John Lard, Widow Travers and Joseph Nicholls ... 7/21/1778 / I hereby assign my right and title of this warrant unto Joseph Nichols giveing under my hand this thirteenth day of August anno domini 1789 in the presents of ? - Joshua Nichols / Thos Morris, Benj Dobson
+Rec 
+Re 355A RC SoYadkin
+SCC: none listed
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -2027 -9251 F127 L0 P73 0 51 0
+txt -2489 -8261 F127 R0 %d =
+Pt BO bnk crk
+Ln n57w; 90p; 
+Pt stk
+Ln s15w; 155p; est. to beg
+Pt BO Edw.Burton
+Ln s; 80p; 
+Pt smPO
+Ln s68e; 140p; 
+Pt stk Travers's ln
+Ln n65e; 110p; 
+Pt smPO
+Ln e; 16p; 
+Pt BO
+Ln n; 274p; 
+Pt Crab on RCrk
+Lm s45w; 140p; est. up crk + Dobson fk
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Iredell-0032
+ENTRY: 0570
+GrantNo: 
+EntDat: 
+WarDat: 06/10/1778
+SurDat: 11/23/1790
+IssDat: 01/04/1792
+SurveyTo: Edward Burton
+IssuedTo: Edward Burton
+Frm NC
+To Edward Burton
+Assignee: 
+Wat: Rocky Creek South Fork, South Yadkin
+Ref 75:480
+! -- abstract --
+EntryAbs: 570. "Edwd Burton" Mar. 10, 1778 Joseph Nichols enters 400 ac (in Rowan Co lined out) on ridge between S Yadkin R and S fork of Rocky Cr; border: John Mc? , Valentine Nutterville?, James Sharpe, widow Travers, and Joshua Nichols.
+WarrantAbs: No. 570 ... Edward Burton ... 400 acres ... on the ridge between the South Yadkin and the South fork of Rocky Creek joining lands claimed by James McHarg, Valentine Williard, James Sharp widow Travis and Joshua Nichols ... 6/10/1778
+Rec 
+Re 400A RC SoFk SoYadkin
+SCC: none listed
+Adj 
+Dat 01/04/1792
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -3296 -8241 F1 L0 P73 0 51 0
+txt -4841 -7376 F1 R0 %d =
+Pt BO Jos.Nichols
+Ln s; 80p; 
+Pt smPO
+Ln s68e; 140p; 
+Pt stk Travers ln
+Ln s65w; 100p; 
+Pt fkWO
+Ln w; 236p; 
+Pt WO Jas.Sharpe cnr
+Ln n; 41p; 
+Pt stk
+Ln e; 22p; 
+Pt stk
+Ln n; 169p; 
+Pt PO McHargue cnr
+Ln n40e; 180p; 
+Pt lgPine
+Ln s78e; 42p; 
+Pt lnBO
+Ln e; 40p;
+Pt PO
+Ln s57e; 12p; 
+Pt stk
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-1446
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 11/05/1778
+SurDat: 04/03/1780
+IssDat: 11/04/1784
+SurveyTo: 
+IssuedTo: Alexander McConnell
+Frm NC
+To Alexander McConnell
+Assignee: 
+Wat: Little Dutchmans Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 670A Fk Yadkin
+SCC: Nathan Todd, Robert Holmes
+Adj Richard Rimmington, Nathan Todd, David Woodson
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of North Carolina -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 13466 -18438 F127 L0 P255
+txt 12226 -20098 F127 R0 %d =
+Pt smPine S LlDutchman Crk Nat.Todd cnr
+Ln s; 29c; Nat.Todd
+Pt PO Todd cnr
+Ln e; 8c; Todd
+Pt Pine Todd cnr
+Ln s; 9c; Todd
+Pt Pine Rob.Homes cnr
+Ln w; 45c; Homes
+Pt smPO Homes cnr
+Ln n; 65c; Ric.Rimmington
+Pt smPO Dav.Woodson cnr
+Ln w; 15c; Woodson
+Pt smBO
+Ln n; 57c; Woodson
+Pt Pine
+Ln e; 70c; 
+Pt smPO
+Ln s; 58c; 
+Pt smBO Nat.Todd ln
+Ln ;; Todd to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP deed
+Id DB-A:167-169
+Frm Daniel Boyd
+To Hugh Bone
+Wat: Rocky Creek Middle Fork
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 210A RC MidFk
+Adj John Wilikes (John Welche)
+Dat 9/5/1788
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. 210 A, 05 Sep 1788 Daniel Boyd -to- Hugh Bone DB-A:167-169
+! 2. 210 A, 14 Feb 1793 Hugh Bone -to- John Woodside DB-B:148-149
+lbl %to\%dat\File# %Id\%Re\Rob.Woodside 1793
+! Metes and bounds
+loc 161 -15656 F127 L0 P64 10 51 6
+txt -323 -17251 F127 R0 %d =
+Pt Beg stk S sd crk Jno.Wilikes cnr
+Ln n65w; 125p; 
+Pt Pine
+Ln n27w; 84p; 
+Pt Pine
+Ln n55e; 180p; x crk
+Pt Pine
+Ln s65e; 154p; 
+Pt PO
+Ln s42w; 100p; 
+Pt Pine bnk br opp mth
+Ln ;; dwn br crk then to beg 
+End
+! -- n ------ watercourse ------ last, first
+TYP grant
+ID Rowan-1478
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 12/25/1783
+IssDat: 11/04/1784
+Frm 
+To James Purviance
+Wat: Fourth creek North Fork
+Ref 
+! -- abstract --
+! 640 acres ... on behalf of William and Henry Potts orphans of Henry Potts Deceased on a branch of the South Fork of the Yadkin bounded by William Bones line to the North and John Hill to the East vacant land on all the other points including the improvement where said Henry Potts formerly lived ... Aug 16 1778
+Rec 
+Re 482 A FC NFk
+SCC: 
+Adj 
+Dat 1784/11/04
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -11099 7831 F127 L0 P255
+txt -12841 6643 F127 R0 %d =
+Pt WO Dr.Alexander cnr Wm.McClelan ln
+Ln w; 250p; McCleland
+Pt RO Stuart ln
+Ln n; 200p; Stuart x crk
+Pt Hic Wm.Potts cnr
+Ln e; 120p; 
+Pt BO Potts cnr
+Ln n; 210p; 
+Pt WO by br Jas.Potts
+Ln e; 130p; 
+Pt WO by glade
+Ln ;; S pass Dr.Alexander cnr alg ln to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-0652
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 
+IssDat: 03/21/1780
+Frm NC
+To James King
+Wat: South Yadkin
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 600A SoYadkin
+SCC: 
+Adj 
+Dat 1780/03/21
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -6405 -2673 F1 L0 P73 0 51 0
+txt -8112 -2943 F1 R0 %d =
+Pt WatO nr Sbnk rvr blw mth SnowCrk
+Ln s; 143p; 
+Pt PO nr Hllw
+Ln w; 245p; 
+Pt stk
+Ln n; 113p; Rob.King
+Pt Ash bnk pond
+Ln e; 32p; 
+Pt stk nr rvr bnk
+Ln n; 250p; Rob.King x SnowCrk
+Pt smPO
+Ln e; 60p; Wm.Sharpe
+Pt smPO nr br
+Ln n; 106p; his ln
+Pt PO
+Ln e; 74p; 
+Pt BO Jas.Sharpe cnr
+Ln s26e; 88p; Jas.Sharpe
+Pt PO hd hllw
+Ln ;; 
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Iredell-0160
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 1794-12-17
+1IssDat: 1795-08-285
+Frm 
+To John King
+Wat: Rocky Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 200A RC
+SCC: none listed
+Adj 
+Dat 1795-08-28
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -9845 -10936 F127 L0 P73 0 51 0
+Pt PO N ln his old
+Ln n; 120p; 
+Pt BO
+Ln e; 260p; 
+Pt pine Harden ln
+Ln s35e; 48p; 
+Pt PO McHargue cnr
+Ln s; 80p; 
+Pt pine his own old cnr
+Ln ;; W to beg his old
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-1021
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 
+IssDat: 1778-10-10
+Frm 
+To Robert King
+Wat: South Yadkin
+Ref 
+! -- abstract --
+! warrant: Robert King  640A both sides South Yadkin W end of James King line S side of William Sharp line E of John Sharp and William Waddles
+Rec 
+Re 550A SY
+SCC: 
+Adj 
+Dat 1783-10-10
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -11281 -1772 F1 L0 P73 0 51 0
+txt -10446 -3157 F1 R0 %d =
+Pt WO ft Waddles hill by spr
+Ln n70e; 30p; Waddle
+Pt WO
+Ln s10w; 20p; 
+Pt Gum
+Ln e; 30p; 
+Pt Gum
+Ln s; 20p; 
+Pt PO
+Ln e; 200p;
+Pt stk Jas.King cnr
+Ln n; 113p; 
+Pt Ash bnk pnd
+Ln e; 32p; 
+Pt stk nr rvr bnk
+Ln n; 230p; Jas.King pass SnowCrk
+Pt stk Wm.Sharp cnr
+Ln w; 210p; Wm Sharp x SnowCrk
+Pt BO Sharp cnr
+Ln s; 55p; 
+Pt pine
+Ln w; 78p; 
+Pt pine Jno.Sharp cnr
+Ln ;; Jno.Sharp x rvr brch cnr to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP deed
+Id Iredell-D-538-539
+Frm Thomas McGuire
+To James Dunccan
+Wat: Rocky Creek
+Ref Iredell DB-D:538-539
+! -- abstract --
+! 
+Rec 
+Re 
+SCC: 
+Adj 
+Dat 1797-11-18
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 8943 -15175 F127 L0 P255
+txt 8459 -14694 F127 R0 %d =
+Pt Hic S bnk crk
+Ln w; 11.2c; 
+Pt Pine Ch.Houston ln
+Ln s; 25.5; Ch.Houston
+Pt stk swmp Houston cnr
+Ln w; 1.5c; Ch.H
+Pt lgPine edge swmp Ch.H cnr
+Ln s; 21.5c; Houston
+Pt SO Jno.Dobbin ln
+Ln e; 5c; Dobbins
+Pt dblDW edge crk
+Lm ;; meanders to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP deed
+Id Row-DB-11:76-66
+Frm John Boyd
+To Thomas McGuire
+Wat: Rocky Creek
+Ref Row-DB-11:76-66
+! -- abstract --
+! 
+Rec 
+Re 318A RckyCrk
+Adj 
+Dat 1787-08-07
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy John Boyd -to- Thomas McGuire
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 8236 -14068 F127 L0 P255
+txt 9206 -15133 F127 R0 %d =
+Pt RO orig ln
+Ln e; 314p; 
+Pt smBO NS ln
+Ln n; 170p; 
+Pt PO
+Ln w; 287p; 
+Pt Pine
+Ln s; 88p; 
+Pt stk swmp
+Ln w; 7p;
+Pt lgPine
+Ln s; 76p; 
+Pt BO
+Ln w; 20p; 
+Pt BO
+Ln s; 6p; to beg	
+End
+! -- n ------ watercourse ------ last, first
+TYP Grant
+ID Rowan-0769
+ENTRY: 
+GrantNo: 0187
+EntDat: 
+WarDat: 1778/06/18
+SurDat: 1778/10/12
+IssDat: 1780/03/21
+Frm North Carolina
+To Nathan Todd
+Wat: Little Dutchman Creek
+Ref Bk 35:402
+! -- abstract --
+! survey for Nathan Todd ... 640 acres ... on little Dutchmans Creek both sides of the same bounded by Alexander McConnell, Nathanial Holmes and Francis Holms on the North Fork of Little Dutchmans Creek ... 6/18/1778
+Rec 
+Re 509A LtDC
+SCC: Richard Graham, Alexander McConnel
+Adj Nathanial Holmes, Alexander McConnell, Francis Holmes
+Dat 3/21/1780
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 17431 -18522 F127 L0 P255
+txt 15082 -18191 F127 R0 %d =
+Pt BO Fr.Holmes ln
+Ln w; 20c; 
+Pt PO Holmes cnr
+Ln s; 20c; 
+Pt Pine Holmes cnr
+Ln w; 12c; 
+Pt stk Holmes cnr
+Ln s; 28c; 
+Pt Pine Holmes cnr
+Ln w; 51c; 
+Pt Hic Nat.Holmes cnr
+Ln n56w; 5c; 
+Pt Hic Holmes cnr
+Ln n; 16c; 
+Pt Pine Al.McConnell claim
+Ln w; 7c; McConnell
+Pt PO
+Ln n; 23c; 
+Pt Pine
+Ln N37e; 45c;
+Pt WO McConnel cnr
+Ln e; 67c;
+Pt Pine
+Ln s; 28c; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP Grant
+ID Rowan-1975
+ENTRY: 1254
+GrantNo: 1190
+EntDat: 
+WarDat: 1778/11/04
+SurDat: 1778/10/12
+IssDat: 1786/10/25
+Frm 
+To Nathaniel Homes
+Wat: Little Dutchmans Creek
+Ref Bk 67:47
+! -- abstract --
+! for Nathaniel Holmes ... ?50 acres ... on Dutchmans Creek joining John Dobbins James Scott Richard Rimington, Wedon McConnell, Nathan Todd and Francis Holmes ... 11/4/1778
+Rec 
+Re 436A LD Crk
+SCC: Richard Graham, Robert Holmes
+Adj 
+Dat 1786/10/25
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 13911 -13891 F127 L0 P255
+Pt creek
+Ln w; 55c; 
+Pt BO Jno.Dobbins ln
+Ln n; 70c; Dobbbins
+Pt PO
+Ln e; 50c; 
+Pt pine Nat.Todd ln
+Ln s; 6c; 
+Pt Hic Todd cnr
+Ln s56e; 5c; 
+Pt Hic cnr
+Ln e; 32c; 
+Pt PO
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP Grant
+ID Rowan-0988
+ENTRY: 
+GrantNo: 0371
+EntDat: 
+WarDat: 1778/09/28
+SurDat: 1778/10/11
+IssDat: 1783/10/10
+Frm North Carolina
+To Francis Holmes
+Wat: Dutchmans Creek
+Ref 51:71
+! -- abstract --
+! for Francis Holmes ... 600 acres ... on the waters of Dutchmans Creek joining John Little Nathan Todd, John Job Holmes, including his own improvement ... 9/28/1778
+Rec 
+Re 519A DC
+SCC: Richard Graham, Hugh Graham
+Adj 
+Dat 1783/10/10
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 14471 -14254 F127 L0 P255
+txt 16018 -15965 F127 R0 %d =
+Pt Map Sherill's Fd on crk
+Ln e; 40c; 
+Pt pine
+Ln n66e; 40c; cond ln
+Pt Swood
+Ln n; 90c; 
+Pt BO
+Ln w; 26c; 
+Pt PO
+Ln s; 20c; cond ln Nat.Todd
+Pt pine
+Ln w; 12c; 
+Pt stk
+Ln s; 28c; 
+Pt pine
+Ln w; 19c; 
+Pt PO Nat.Holmes cnr
+Ln s20w; 61c; Holmes to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP Grant
+ID Rowan-1877
+ENTRY: 
+GrantNo: 1092
+EntDat: 
+WarDat: 1779/04/01
+SurDat: 1784/09/15
+IssDat: 1787/10/25
+Frm NC
+To John Little
+Wat: Little Dutchmans Creek
+Ref 67:08
+! -- abstract --
+! for John Little ... 640 acres ... waters of Dutchmans Creek joining Francis Holms John Robinson and his own land including his improvement ... 4/1/1779
+Rec 
+Re 640A
+SCC: John Little, John Current
+Adj 
+Dat 1787/10/25
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 18209 -12499 F127 L0 P255
+txt 16971 -13568 F127 R0 %d =
+Pt Hic Hu.Graham Jno.Henley cnr
+Ln s36w; 25.5c; Henley
+Pt BO Henley cnr on Prathers ln
+Ln n64w; 8.5c; Prather
+Pt stk Praiter cnr
+Ln s; 38c; Prather 
+Pt stk Praiter cnr Th.Bealey ln
+Ln w; 10c; Bealey
+Pt pine Bealey Jno.Current cnr
+Ln n52w; 25c; his ln
+Pt stk Currents cnr
+Ln n; 15c; Current
+Pt WOsap Current cnr Little ln
+Ln e; 10c; Little
+Pt PO his cnr
+Ln n; 69c; his ln
+Pt pine his cnr Fr.Holmes ln
+Ln n69e; 30c; his ln
+Pt Swood Holmes cnr
+Ln n; 125c; w his ln past cnr
+Pt PO Wm.Scanthing cnr
+Ln e; 35c; Scanthing
+Pt BO his cnr Wm.Anderson ln
+Ln s; 40c; 
+Pt pine
+Ln w; 20c; 
+Pt stk
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP Grant
+ID Rowan-2107?
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 1778/10/02
+SurDat: 1784/08/17
+IssDat: 1786/10/25
+Frm NC
+To Hugh Graham
+Wat: Little Dutchmans Creek
+Ref 67:98
+! -- abstract --
+! for Thomas Prather ... 640 acres on waters of Little Dutchmans Creek bounded by a conditional lie on the South side of said creek on the West with John Little, on the East with a corner pine of Charles Loveless land and from the said corner to run a due North course for compliment ... 10/2/1778
+Rec 
+Re 640A LtDC
+SCC: Samuel Erwin, Ebeneazer Luckey
+Adj 
+Dat 1786/10/25
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 20896 -11936 F127 L0 P255
+Pt WO Ch.Loveless ln verge ...
+Ln n69w; 19c; 
+Pt SO
+Ln n78w; 20.5c; 
+Pt WO
+Ln n82w; 27c; 
+Pt Hic cond cnr
+Ln n; 93.18c; 
+Pt pine
+Ln e; 64.4c; 
+Pt stk Sam.Erwin ln
+Ln ;; Sam.Erwin to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP Grant
+ID Rowan-2124
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 1778/10/04
+SurDat: 
+IssDat: 1786/10/25
+Frm NC
+To Hugh Graham
+Wat: Little Dutchmans Creek
+Ref 67:103
+! -- abstract --
+! Thomas Prather
+! survey for Thomas Prather 200 acres head branches of Little Dutchmans Creek joining John Little's improvement and Hugh Grahams improvement ... 10/4/1778
+Rec 
+Re 200A LtDC
+SCC: Samuel Erwin, Ebenezer Dickey
+Adj 
+Dat 1786/10/25
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 18827 -17753 F127 L0 P255
+txt 19789 -17131 F127 R0 %d =
+Pt pine Jno.Little ln
+Ln e; 64.4c; 
+Pt PO Sam.Ewing ln
+Ln s; 31c; Ewing
+Pt stk Grahams cnr
+Ln w; 64.4c; Graham
+Pt stk his cnr Littles ln
+Ln ;; his ln N to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP Grant
+ID Rowan-2083
+ENTRY: 
+GrantNo: 1298
+EntDat: 
+WarDat: 
+SurDat: 
+IssDat: 1786/10/25
+Frm NC
+To William Scantling
+Wat: Hunting Creek
+Ref 
+! -- abstract --
+! for William Scantling 350 acres on Dutchman's Creek joining Nathan Todd, Francis Holms, William ? and John Ma? ... 7/3/1780
+Rec 
+Re 350A HuntingCrk
+SCC: 
+Adj 
+Dat 1786/10/25
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 19264 -19940 F127 L0 P255
+txt 18479 -20559 F127 R0 %d =
+Pt PO Wm.Sanderson? cnr
+Ln s; 10c; his ln
+Pt BO Jno.Little cnr
+Ln w; 35c; Little
+Pt PO his cnr
+Ln s; 18c; his ln
+Pt stk
+Ln w; 9c; 
+Pt stk Nat.Todd ln
+Ln n; 34c; Nat.Todd
+Pt his cnr
+Ln n; 33.5c; 
+Pt PO Jac.Nichols ln
+Ln e; 24c; Jac.Nichols
+Pt pine his cnr
+Ln n; 25c; his ln past cnr
+Pt Ches 
+Ln e; 15c; Jno.Nichols
+Pt stk his cnr Jno.Maiden ln
+Ln s; 25c; Maidin past cnr
+Pt pine
+Ln e; 25c; 
+Pt BO
+Ln s; 39.5c; 
+Pt stk Anderson ln
+Ln ;; his ln W to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP Grant
+ID Rowan-1946
+ENTRY: 
+GrantNo: 1161
+EntDat: 
+WarDat: 1780/02/24
+SurDat: 1784/08/28
+IssDat: 1786/10/25
+Frm NC
+To Jacob Nichols, Francis Holmes
+Wat: Little Dutchmans Creek
+Ref 
+! -- abstract --
+! for Jacob Nichols and Francis Holmes 640 acres on waters of Little Dutchmans Creek joining Alexander McConnells ln running up the branches of said creek ... 2/24/1780 
+Rec 
+Re 640A LtDC
+SCC: Francis Holmes, Alexander McConnels
+Adj 
+Dat 1786/10/25
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 11533 -21681 F127 L0 P255
+txt 11223 -23764 F127 R0 %d =
+Pt pine Al.McConnells cnr
+Ln n; 25c; 
+Pt PO
+Ln w; 20c; 
+Pt Ches
+Ln n; 80c; 
+Pt Ches
+Ln e; 65.8c; 
+Pt pine
+Ln s; 105c; 
+Pt stk McConnels ln
+Ln ;; his ln to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP Grant
+ID Rowan-2150
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 1785/04/18
+IssDat: 
+Frm NC
+To Jacob Nichols
+Wat: Hunting Creek, Rockey Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 400A HC RC
+SCC: Thomas Young, John Maiden
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 14983 -24544 F127 L0 P255
+txt 15528 -20787 F127 R0 %d =
+Pt BO NW cnr Nichols
+Ln w; 28c; 
+Pt stk ln
+Ln s; 72c; 
+Pt stk Al.McConnel ln
+Ln e; 23c; 
+Pt PO McConnell cnr
+Ln s; 41c; his ln
+Pt stk Nat.Todd cnr
+Ln e; 59c; Nat.Todd
+Pt pine grassy ridge
+Ln n; 33c; 
+Pt stk Nichols ln
+Ln w; 54c; 
+Pt pine Nicholls cnr
+Ln ;; N to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP Grant
+ID Rowan-2221
+ENTRY: 
+GrantNo: 1436
+EntDat: 
+WarDat: 
+SurDat: 1784/08/30
+IssDat: 1786/10/25
+Frm NC
+To Thomas Bealey (Loveless)
+Wat: Little Dutchmans Creek
+Ref 
+! -- abstract --
+! assignee of Charles Lovelace
+! for Charles Loveless 350 acres on Dutchmans Creek joining George Reed, John Andrew, George Lock, Hugh Currents, Bazel Prator and William Rosebrough including his improvement ... 11/24/177_
+Rec 
+Re 350A LtDC
+SCC: Charles Lovelace, Bazel Praither
+Adj 
+Dat 1786/10/25
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 16634 -8320 F127 L0 P255
+txt 15553 -7763 F127 R0 %d =
+Pt Hic Geo.Locke cnr
+Ln w; 31.5c; G.Locke
+Pt stk Geo.Reid cnr
+Ln s; 65c;
+Pt BO Reids cnr in Jno.Andrews ln
+Ln e; 31c; 
+Pt BOsap
+Ln n; 34.5c; Wm.Rosebrough
+Pt 2Hic Rosebrough cnr
+Ln e; 13c; 
+Pt Hic Rosebrough cnr
+Ln n; 17.5c; 
+Pt BO Rosebrough cnr
+Ln e; 17c; Rosebrough
+Pt Hic
+Ln n; 42.5c; 
+Pt pine
+Ln w; 29.5c; 
+Pt pine
+Ln ;; Locke S to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP Grant
+ID Rowan-1248
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 1779/03/13
+SurDat: 1783/03/06
+IssDat: 1783/10/10
+Frm NC
+To William Butler
+Wat: Hunting Creek Long Branch
+Ref 51:187
+! -- abstract --
+! for William Butler 200 acres long branch of Hunting Creek joining Nicholas Aldridge and John Maiden 13 March 1779
+Rec 
+Re 200A HC LgBr
+SCC: 
+Adj 
+Dat 1783/10/10
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 18027 -28794 F127 L0 P255
+txt 17031 -27685 F127 R0 %d =
+Pt pine E cnr his other
+Ln s; 280p; pass Is.Coleman Jno.Madin cnr
+Pt pine
+Ln w; 115p; 
+Pt PO
+Ln n; 280p; 
+Pt stk Butler ln
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP Grant
+ID Rowan-0966
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 1779/03/30
+SurDat: 1783/01/30
+IssDat: 1783/10/10
+Frm NC
+To William Butler
+Wat: Hunting Creek
+Ref 57:62
+! -- abstract --
+! for Christopher Huston 200 acres on the West side of Nicholas Aldridge, including a piece of ?on head of branch North of Aldridge and of lot of land on the North side of Jame McCord's ridge road likewise the improvement that John Wilson formerly lived on ... 3/30/1779
+! other assignees
+Rec 
+Re 200A HC
+SCC: 
+Adj 
+Dat 1783/10/10
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 18252 -30162 F127 L0 P255
+Pt BO McConnels ln
+Ln w; 10p; 
+Pt pine his cnr nr br
+Ln n57w; 40p; 
+Pt pine
+Ln w; 200p; 
+Pt PO nr br
+Ln s; 136p; 
+Pt SO
+Ln e; 244p; 
+Pt stk
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP Grant
+ID Rowan-1193
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 1782/12/21
+IssDat: 1783/10/10
+Frm NC
+To Archibald McConnell
+Wat: Hunting Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 540A HC
+SCC: 
+Adj 
+Dat 1783/10/10
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 20990 -31888 F127 L0 P255
+txt 18571 -31554 F127 R0 %d =
+Pt Hic crk bnk nr rock
+Ln s45w; 100p; Ch.Houston
+Pt pine
+Ln s40w; 60p; 
+Pt pine
+Ln s10e; 80p; 
+Pt 2PO
+Ln w; 172p; Aldridge
+Pt pine
+Ln n57w; 208p; 
+Pt PO
+Ln n45e; 340p; 
+Pt fkWO crk bnk
+Lm ;; down crk to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP Grant
+ID Rowan-0945
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 1778/06/20
+SurDat: 1783/03/06
+IssDat: 1783/10/10
+Frm NC
+To Christopher Houston
+Wat: Hunting Creek
+Ref 51:51
+! -- abstract --
+! for Christopher Houston 640 acres both side of Hunting Creek between George Smiley on the South, Nicholas Aldridge on the West and Josiah Norris on the North and West including his improvement ... 6/20/1778
+Rec 
+Re 640A HC
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 21015 -31900 F127 L0 P255
+txt 21118 -30482 F127 R0 %d =
+Pt Hic S bnk crk McConnell cnr
+Ln s45w; 100p; 
+Pt pine
+Ln s40w; 60p; 
+Pt pine
+Ln s10e; 80p; 
+Pt 2PO
+Ln w; 26p; 
+Pt PO
+Ln s40e; 80p; 
+Pt smPO
+Ln s19e; 120p; 
+Pt pine
+Ln n72e; 50p; 
+Pt WO
+Ln n35e; 70p;
+Pt crBO N bnk
+Lm s40e; 72p; 
+Pt WO N bnk
+Ln n70e; 30p; 
+Pt BO
+Ln n30w; 28p; 
+Pt PO
+Ln n29e; 50p; 
+Pt BO
+Ln n66e; 110p; 
+Pt PO
+Ln n; 100p; 
+Pt pine
+Ln e; 10p; 
+Pt PO
+Ln n; 190p; 
+Pt stk
+Ln w; 100p; 
+Pt SO Young cnr
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP Grant
+ID Rowan-0869
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 
+IssDat: 1783/10/10
+Frm NC
+To George Smiley
+Wat: Hunting Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 150A HC
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 21378 -28844 F127 L0 P255
+txt 21128 -27640 F127 R0 %d =
+Pt crBO crk bnk Houston cnr
+Ln s35w; 70p; Houston
+Pt WO by br
+Ln s72w; 50p; 
+Pt pine Holmans ln
+Ln s19e; 60p; 
+Pt PO Holman cnr
+Ln s22w; 40p; 
+Pt smOP Maidin cnr
+Ln s45e; 40p; Maiden
+Pt PO
+Ln e; 170p; pass Mitchel cnr x crk
+Pt Hic
+Ln n28w; 163p; 
+Pt WO on N bnk crk Houston cnr
+Lm ;; up crk to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP Grant
+ID Rowan-0868
+ENTRY: 
+GrantNo: 0251
+EntDat: 
+WarDat: 1778/10/23
+SurDat: 1783/03/07
+IssDat: 1783/10/10
+Frm NC
+To George Smiley
+Wat: Hunting Creek
+Ref 
+! -- abstract --
+! No. 1090 ... for George Smiley ... 400 acres ... upon both sides of Hunting Creek bounded by Andrew Mitchell and Christopher Huston vacant elsewhere ... 10/23/1778 
+Rec 
+Re 390A HC
+SCC: not listed
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 21740 -28269 F127 L0 P255
+Pt WO Houston cnr N bnk crk
+Ln s28e; 145p; 
+Pt pine nr crk
+Ln e; 260p; 
+Pt BO
+Ln n45e; 100p; 
+Pt pine
+Ln n45w; 88p; 
+Pt PO
+Ln w; 100p; 
+Pt PO
+Ln n; 120p; 
+Pt PO
+Ln w; 90p; 
+Pt PO Houston cnr
+Ln s66w; 110p; 
+Pt BO
+Ln s29w; 50p; 
+Pt PO
+Ln s20e; 28p; 
+Pt PO
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP Grant
+ID Rowan-1158
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 1783/03/06
+IssDat: 1783/10/10
+Frm NC
+To John Maiden
+Wat: Hunting Creek Long Branch
+Ref 51:147
+! -- abstract --
+! 
+Rec 
+Re 640A HC LgBr
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 19871 -23656 F127 L0 P255
+txt 19371 -25871 F127 R0 %d =
+Pt fkBO nr br
+Ln n70e; 150p; 
+Pt BO And.Mitchell cnr
+Ln n; 284p; 
+Pt BO his other cnr
+Ln w; 40p; 
+Pt PO
+Ln n45w; 40p; 
+Pt smPO
+Ln w; 300p; 
+Pt smBO
+Ln s; 240p; x br
+Pt pine
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP Grant
+ID Rowan-0956
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 1778/11/28
+SurDat: 1783/-3/05
+IssDat: 1783/10/10
+Frm NC
+To Isaac Holman
+Wat: Hunting Creek 
+Ref 51:57
+! -- abstract --
+! assignee of William Aldridge
+! for Nicholas Aldridge 350 acres on branch called Soke? of Hunting Creek joining Christopher Huston on the East side Josias Norris on NE and up the branch including his improvement ... 11/28/1778 
+Rec
+Re 300A HC
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 19677 -29968 F127 L0 P255
+Pt lnPO Arc.McConnell ln
+Ln s40e; 80p; 
+Pt smPO hill
+Ln s19e; 180p; 
+Pt PO
+Ln w; 250p; 
+Pt PO
+Ln n; 240p; pass Butler pine cnr
+Pt BO Butler beg cnr
+Ln ;; E to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP Grant
+ID Rowan-1451
+ENTRY: 
+GrantNo: 0834
+EntDat: 
+WarDat: 1778/06/20
+SurDat: 1778/10/13
+IssDat: 1784/11/04
+Frm NC
+To Andrew Mitchell
+Wat: Hunting Creek
+Ref 
+! -- abstract --
+! for Andrew Mitchell 640 acres on both sides Huntin Creek joining George Smiley on the North Joseph Reed on the South including his improvement ... 6/20/1778
+Rec 
+Re 630A HC
+SCC: Richard Graham, William Wyatt
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 25303 -23888 F127 L0 P255
+Pt WO
+Ln n; 65c; 
+Pt PO
+Ln w; 97c; 
+Pt BO
+Ln s; 65c; 
+Pt PO
+Ln ;; E to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP Grant
+ID Rowan-1431
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 1778/08/04
+SurDat: 1778/09/30
+IssDat: 1784/11/04
+Frm NC
+To William Rosebrough
+Wat: South Yadkin River
+Ref 
+! -- abstract --
+! for William Rosebrough 400 acres joining Jacob Nicholls on the South side and Bazel Prater on the North side beginning near the fork of Dutchmans Creek running upward including said creek for compliment ... 8/4/1778
+Rec 
+Re 379A SY
+SCC: Hugh Hill, Isaac Duncan
+Adj Jacob Nicholls
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 21721 -4657 F127 L0 P255
+txt 19890 -5725 F127 R0 %d =
+Pt BO Jac.Nichols cnr
+Ln n; 24c; 
+Pt pine
+Ln n21w; 35c; 
+Pt Hic
+Ln w; 60c; 
+Pt Hic
+Ln s; 46.5c; 
+Pt pine
+Ln e; 6c; 
+Pt PO
+Ln s50e; 12c; 
+Pt pine
+Ln ;; E to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP Grant
+ID Rowan-1625
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 
+IssDat: 1784/11/04
+Frm NC
+To William Rosebrough
+Wat: Little Dutchman
+Ref 55:116
+! -- abstract --
+! for William Rosebrough 300 acres lying on the South fork of Little Dutchmans Creek being a remainder fo a former survey of 700 acres of land held by a former warrant adjoining to his former entry including said creek for complement ... 8/4/1778
+Rec 
+Re 251A LD
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 18758 -5126 F127 L0 P255
+Pt pine Rosebrough cnr Jac.Nichols ln
+Ln w; 54c; 
+Pt BO Nichols cnr
+Ln n; 46.6c; 
+Pt stk
+Ln e; 54c; 
+Pt hic Rosebrough cnr
+Ln s; 46.5c; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP Grant
+ID Rowan-2228
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 1778/10/04
+SurDat: 
+IssDat: 1786/10/25
+Frm NC
+To Bazel Prather
+Wat: Little Dutchmans Creek
+Ref 67:139
+! -- abstract --
+! for Bazel Prather 100 acres Little Dutchmans Creek joining Archibald McConnell Hugh Graham and his own entry part of John Robinsons entry ... 10/4/1778
+Rec 
+Re 100A LtDC
+SCC: Thomas Bealey, John Clagett
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 20871 -9933 F127 L0 P255
+Pt WO Prathers cnr Ch.Loveless ln
+Ln n; 46c; his ln
+Pt WO Hu.Graham cnr
+Ln n69w; 19c; Graham
+Pt SO his cnr
+Ln n78w; 3.5c; 
+Pt Hic Jno.Handley cnr
+Ln s; 42.5c; Handley
+Pt Hic Prather ln
+Ln ;; Prather to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP Grant
+ID Rowan-2004
+ENTRY: 
+GrantNo: 1219
+EntDat: 
+WarDat: 
+SurDat: 1784/09/13
+IssDat: 1786/10/25
+Frm NC
+To Bazel Prather
+Wat: Little Dutchmans Creek
+Ref 67:59
+! -- abstract --
+! for Bazel Prator 440 acres on William Rosebrough ln running thence East 260 poles thence North 180 poles thence North 65 WEst 335 poles thence a straight line to the begining ... 11/26/1778
+Rec 
+Re 440A
+SCC: Thomas Bealey, John Clagett
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 18107 -7970 F127 L0 P255
+txt 18827 -9082 F127 R0 %d =
+Pt Hic Th.Bealeys cnr Wm.Rosebrough ln
+Ln e; 62c; Rosebrough
+Pt PO Geo.Wells cnr
+Ln n; 46c; Wells
+Pt WO
+Ln n64w; 87c; Prater + Handley
+Pt stk
+Ln s; 41c; 
+Pt stk Bealeys ln
+Ln e; 17c; Bealey
+Pt pine his cnr
+Ln ;; S his ln to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP Grant
+ID Rowan-1957
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 1778/10/04
+SurDat: 1784/09/13
+IssDat: 1786/10/25
+Frm NC
+To John Hendley
+Wat: Little Dutchmans Creek
+Ref 67:40
+! -- abstract --
+! for John Hendley 180 acres Little Dutchman's Creek joining entry of Bazel Prathers, John Little and Hugh Graham including John Robinsons improvement being the remainder of the said John Robinsons entry ... 10/04/1778
+Rec 
+Re 176A LtDC
+SCC: Thomas Bealey, John Clagett
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 19958 -10520 F127 L0 P255
+txt 18725 -11701 F127 R0 %d =
+Pt Hic Baz.Prather cnr
+Ln n; 42.5c; Prather
+Pt Hic his cnr Hu.Graham ln
+Ln n78w; 17c; his ln
+Pt WO his cnr
+Ln n82w; 27c; his ln
+Pt Hic Graham and Little cnr
+Ln s36w; 25.5c; 
+Pt BO Prather ln
+Ln ;; his ln to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP Grant
+ID Rowan-2144
+ENTRY: 
+GrantNo: 1414
+EntDat: 
+WarDat: 1780/06/24
+SurDat: 
+IssDat: 1786/10/25
+Frm NC
+To Jacob Nichols, Francis Holmes
+Wat: Hunting Creek Big Branch
+Ref 67:129
+! -- abstract --
+! No 2385 for Jacob Nichols and Francis Holms 640 acres joining entry made by Luke Loveless on the big branch of Hunting Creek ... 
+Rec 
+Re 640A HC
+SCC: Francis Holms, William Anderson
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 17490 -22526 F127 L0 P255
+txt 15226 -23587 F127 R0 %d =
+Pt pine Jno.Nichols cnr
+Ln e; 25c; his ln
+Pt ches
+Ln s; 25c; 
+Pt pine
+Ln w; 95c; 
+Pt pine
+Ln n; 82.5c; 
+Pt BOsap
+Ln e; 70c; 
+Pt stk
+Ln ;; Jno.Nichols S to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP Grant
+ID Rowan-2224
+ENTRY: 
+GrantNo: 1439
+EntDat: 
+WarDat: 1779/03/24
+SurDat: 
+IssDat: 1786/10/25
+Frm NC
+To John Nichols
+Wat: Hunting Creek Big Branch
+Ref 67:138
+! -- abstract --
+! for John Nichols 150 acres on both sides of the forks of the branch called the big branch of Hunting Creek above Luke Loveless land bounded on all sides by vacant land ... 3/24/1779
+Rec 
+Re 150A HC
+SCC: Francis Holmes, William Anderson
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 19120 -23982 F127 L0 P255
+txt 17898 -23231 F127 R0 %d =
+Pt pine Jno.Maiden ln
+Ln w; 40c; 
+Pt POsap
+Ln s; 37.5c; 
+Pt pine
+Ln e; 40c; 
+Pt stk Maidens ln
+Ln ;; Maiden N to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP Grant
+ID Rowan-0949
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 1779/01/13
+SurDat: 1783/01/30
+IssDat: 1783/10/10
+Frm NC
+To Thomas Young
+Wat: Hunting Creek
+Ref 51:54
+! -- abstract --
+! No. 1710 ... for Thomas Young ... 900 acres above Archibald McConnell's entry which he bought of Jonas Norris on the South side of Hunting Creek running up said creek and said entry for complement ... 
+Rec 
+Re 900A HC
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 18965 -33438 F127 L0 P255
+txt 15159 -31591 F127 R0 %d =
+Pt fkWO crk bnk McConnell cnr
+Ln s45w; 340p; 
+Pt xO
+Ln s57e; 50p; 
+Pt stk
+Ln s; 62p; 
+Pt stk Butler ln
+Ln w; 100p; 
+Pt PO Butler cnr
+Ln s; 202p; 
+Pt PO
+Ln w; 188p; 
+Pt WO on br
+Ln n; 560p; 
+Pt WO bnk Hunting Crk
+Lm ;; dwn Hunting crk to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP Grant
+ID Rowan-2709
+ENTRY: 2972
+GrantNo: 1998
+EntDat: 
+WarDat: 1786/04/09
+SurDat: 1787/05/14
+IssDat: 1790/11/16
+Frm NC
+To John Maiden
+Wat: Hunting Creek
+Ref 73:311
+! -- abstract --
+! No. 2972 ... John Maidin ... 60 acres ... waters of Hunting Creek joining his own land and Isaac Holman and George Smiley ... 4/9/1786
+Rec 
+Re 60A HC
+SCC: Isaac Duncan, Isaac Holman Jr.
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 20552 -27632 F127 L0 P255
+txt 19087 -27437 F127 R0 %d =
+Pt PO Is.Holman cnr
+Ln s22w; 10c; 
+Pt pine Maiden ln
+Ln w; 60c; 
+Pt BO Maiden cnr
+Ln n; 9.5c; 
+Pt Is.Holman ln
+Ln ;; E with Holman to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP Grant
+ID Rowan-1128
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 1778/08/16
+SurDat: 1779/04/29
+IssDat: 1783/10/10
+Frm NC
+To George Wells
+Wat: Dutchmans Creek
+Ref 51:134
+! -- abstract --
+! No. 716 ... for George Wealls ... 300 acres ... on the North fork of little Dutchmans Creek beginning 50 poles or more to the South from George Halls corner and running by said Halls ? line a North course to Archibald McConnells line and then West to Bazel Praters line then South to William Rosebroughs line, then a small distance East to a Conditional line between said Weals and Rosebrough ... 8/16/1778
+Rec 
+Re 43A DC
+SCC: Richard Graham, Archibald McConnal
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 21333 -8915 F127 L0 P255
+Pt PO Wells ln
+Ln w; 11.5c; 
+Pt Hic Bz.Praters
+Ln s; 37c; 
+Pt PO Wm.Rosebroughs ln
+Ln e; 11.5c; 
+Pt stk Rosebrough ln Wells cnr
+Ln ;; Wells ln to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP Grant
+Id Rowan-0657
+ENTRY: 
+GrantNo: 848
+EntDat: 1778-05-26
+WarDat: 1778-10-07
+SurDat: 1778-10-05
+IssDat: 1780-03-21
+Frm NC
+To John McFarland
+Wat: South Yadkin River
+Ref 28:456
+! -- abstract --
+! 
+WarrantAbs: North Carolina No. for John McFarland 100 acres on the South Yadkin joining David Logan James Beaty, John Archibald, William McCrary including his improvement May 26 1778 ... (4 or) 7 October 1778
+Rec 
+Re 100A
+SCC: Richard Graham, William Dobins
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 7070 -5878 F127 L0 P255
+Pt PO Jno.Archibald ln
+Ln w; 36c; 
+Pt BO
+Ln n; 28c; 
+Pt PO Wm.McCrary ln
+Ln e; 36c; 
+Pt stk Dav.Logan ln
+Ln ;; S to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-2404
+ENTRY: 
+GrantNo: 1619
+EntDat: 
+WarDat: 1778/08/13
+SurDat: 1783/03/31
+IssDat: 1787/08/09
+SurveyTo: Joseph Kilpatrick
+IssuedTo: Joseph Kilpatrick
+Frm NC
+To Joseph Kilpatrick
+Assignee: 
+Wat: South Yadkin River, South Side
+Ref 
+! -- abstract --
+! No 801 ... for Joseph Kilpatrick ... 640 acres ... on the South side of the South Yadkin bounded by Hugh Hall, Thomas Hall and William Hall and on both sides of Jacks branch for compliment ... 13th August 1778
+Rec 
+Re 620A SY
+SCC: Moses Hall, Andrew Kilpatrick
+Adj William Hall, Thomas Hall
+Dat 1787/08/09
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 3253 -3096 F127 L0 P73 0 51 0
+txt 1114 -1135 F127 R0 %d =
+Pt PO bnk rvr Hu.Hall cnr
+Ln s; 62c; Hu.Hall
+Pt cnr Hu.Hall
+Ln s10w; 30c; cond ln
+Pt PO
+Ln w; 19c; 
+Pt BO
+Ln s; 19c; 
+Pt Sas Wm.Hall cnr
+Ln w; 42c; Wm.Hall
+Pt PO
+Ln n; 120c; 
+Pt BO WO rvr bnk
+Lm ;; dwn rvr to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Iredell-0664
+ENTRY: 
+GrantNo: 0650 or 655
+EntDat: 1817/04/19
+WarDat: 1817/08/15
+SurDat: 1817/09/10
+IssDat: 1817/11/29
+SurveyTo: George Lock
+IssuedTo: George Lock
+Frm NC
+To George Lock
+Assignee: 
+Wat: South Yadkin
+Ref 131:375
+! -- abstract --
+! Warrant: bounded on the west by Thomas Alison North by Thomas Bell East by James Reid South by David Begarly Entered on the 19th day of April 1817 No 89 ... 15th day of August 1817
+Rec 
+Re 146A SY
+SCC: Thomas Bell, David Reed
+Adj 
+Dat 1817/11/29
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 9908 -4489 F127 L0 P255
+txt 11421 -3633 F127 R0 %d =
+Pt stk old ln
+Ln n; 66p; 
+Pt Pine
+Ln e; 148p; 
+Pt PO
+Ln s; 126p; 
+Pt PO ? cnr
+Ln e; 126p; 
+Pt WO Reed ln
+Ln s; 240p; x SY
+Pt pine
+Ln w; 20p; 
+Pt stk
+Ln n; 184p; x SY
+Pt stk
+Ln w; 120p; 
+Pt stk
+Ln n; 120p; 
+Pt stk
+Ln w; 130p; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 
+IssDat: 1762/08/10
+SurveyTo: 
+IssuedTo: 
+Frm NC
+To Hugh Hall
+Assignee: 
+Wat: 
+Ref 6:155
+! -- abstract --
+! 
+Rec 
+Re 380 SY
+SCC: 
+Adj 
+Dat 1762/08/10
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 8140 -2534 F127 L0 P73 0 51 0
+Pt WO on rvr
+Ln s; 50c; 
+Pt BOsap
+Ln w; 80c; 
+Pt PO
+Ln n; 45c; 
+Pt WO rvr bnk
+Lm ;; dwn rvr to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-2025
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 
+IssDat: 1786/10/25
+SurveyTo: 
+IssuedTo: George Mattison
+Frm NC
+To George Mattison
+Assignee: 
+Wat: Rockey Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 100A RC
+SCC: 
+Adj Reason Baker, Reubin Fletcher
+Dat 1786/10/25
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 1721 -34832 F127 L0 P255
+txt 1820 -34085 F127 R0 %d =
+Pt PO N sd crk Bakers ln
+Ln e; 100p; 
+Pt PO
+Ln s; 160p; x crk Fletcher ln
+Pt pine
+Ln w; 100p; 
+Pt pine
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-2042
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 
+IssDat: 1786/10/25
+SurveyTo: 
+IssuedTo: 
+Frm NC
+To Reason Baker
+Assignee: 
+Wat: Rockey Creek Main
+Ref 67:074
+! -- abstract --
+! joining upper line of George Mattison land
+Rec 
+Re 250A RC Mn
+SCC: 
+Adj 
+Dat 1786/10/25
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 1658 -34857 F127 L0 P255
+txt -263 -34141 F127 R0 %d =
+Pt PO N sd crk Willisons beg cnr
+Ln w; 240p; 
+Pt PO
+Ln s; 168p; x crk
+Pt pine
+Ln e; 240p; 
+Pt pine
+Ln ;; N x crk to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-2323
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 
+IssDat: 1787/08/09
+SurveyTo: 
+IssuedTo: Reubin Fletcher
+Frm NC
+To Reubin Fletcher
+Assignee: 
+Wat: Rockey Creek Main
+Ref 67:176
+! -- abstract --
+! No 1538
+Rec 
+Re 400A RC Mn
+SCC: 
+Adj 
+Dat 1787/08/09
+PRESENT: 
+ALTSPELL: Rubin Fletcher
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 2871 -33369 F127 L0 P255
+txt 4183 -34203 F127 R0 %d =
+Pt WO by br Geo.Mattison ln
+Ln e; 400p; 
+Pt pine
+Ln n; 160p; x crk
+Pt pine
+Ln w; 400p; 
+Pt pine
+Ln s; 160p; x crk mth br to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-1023
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 
+IssDat: 1783/10/10
+SurveyTo: 
+IssuedTo: 
+Frm NC
+To Richard Cooke
+Assignee: 
+Wat: Rockey Creek Man
+Ref 
+! -- abstract --
+! No 406, joining John Jolley
+Rec 
+Re 503A RC Mn
+SCC: 
+Adj John Jolley
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -17366 -16483 F127 L0 P255
+Pt 2Pop N bnk crk mth br Jas.King cnr
+Ln e; 174p; 
+Pt BOsap
+Ln n51e; 130p; 
+Pt PO by crk Jolley beg cnr
+Ln n60e; 108p; Jolley
+Pt pine high hill
+Ln n; 130p; 
+Pt PO
+Ln w; 366p; 
+Pt stk
+Ln ;; S to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-1058
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 
+IssDat: 1783/10/10
+SurveyTo: 
+IssuedTo: 
+Frm NC
+To John Jolley
+Assignee: 
+Wat: Rockey Creek Main
+Ref 
+! -- abstract --
+! No 441 on main rockey creek joining the lines of Richard Cooke, La Whitehead, William Turner
+Rec 
+Re 480A RC Mn
+SCC: 
+Adj 
+Dat 1783/10/10
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -14584 -17045 F127 L0 P255
+txt -13589 -16309 F127 R0 %d =
+Pt PO N bnk crk
+Ln n60e; 108p; Cooke
+Pt pine high hill
+Ln s63e; 102p; Mills ln
+Pt PO
+Ln n80e; 70p; 
+Pt PO Whitehead cnr
+Ln e; 70p; 
+Pt PO his other cnr
+Ln s; 44p; writ N44?
+Pt 2map sm br
+Ln s24w; 274p; Turner
+Pt fkBrch by crk
+Ln n64w; 335p; 
+Pt pine
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-1056
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 
+IssDat: 
+SurveyTo: 
+IssuedTo: 
+Frm NC
+To Lazarus Whitehead
+Assignee: 
+Wat: Rockey Creek
+Ref 
+! -- abstract --
+! No 439 on the droping off creek of rockey creek joining ? and the line of Job Coles and Thomas Redman
+Rec 
+Re 410A RC
+SCC: 
+Adj 
+Dat 1783/10/10
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -10184 -20501 F127 L0 P255
+Pt ChO side mtns 34p N of Coles cnr
+Ln s; 344p; 
+Pt PO Coles 2nd cnr
+Ln w; 124p; x crk
+Pt 2Map sm br
+Ln n; 44p; 
+Pt PO
+Ln w; 74p; 
+Pt PO
+Ln n; 152p; 
+Pt PO Redmans ln
+Ln e; 20p; 
+Pt BO his cnr
+Ln n; 192p; 
+Pt PO Redman beg cnr
+Ln n80e; 170p; 
+Pt stk
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-1043
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 1778-12-28
+SurDat: 1782-12-10
+IssDat: 1783-10-10
+SurveyTo: 
+IssuedTo: 
+Frm NC
+To Job Cole
+Assignee: 
+Wat: Rockey Creek Bridge Branch
+Ref 
+! -- abstract --
+! 
+WarrantAbs: North Carolina No. 1599 survey for Job Cole 380 acres on the heads of the Big Branch, joining Charles Jolly and Isaac Ferree, including Humphry Roberts improvement ... December 28 1778
+Rec 
+Re 380A RC BrdgBr
+SCC: 
+Adj 
+Dat 1783/10/10
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -10196 -20125 F127 L0 P255
+Pt PO Whitehead ln side mtn
+Ln s; 310p; 
+Pt PO on hillsd
+Ln e; 220p; 
+Pt RO by br
+Ln n; 132p; 
+Pt BO nr GladyBr
+Ln w; 38p; 
+Pt BO
+Ln n; 178p; 
+Pt stk
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+ID Rowan-0844
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 
+IssDat: 
+SurveyTo: 
+IssuedTo: 
+Frm NC
+To Thomas Redman
+Assignee: 
+Wat: Rockey Creek Droping off branch
+Ref 51:006
+! -- abstract --
+! No 227 joining lines of Lazarus Whitehead and Thomas Johnston
+Rec 
+Re 230A RC DObr
+SCC: 
+Adj 
+Dat 1783/10/10
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -12003 -21014 F127 L0 P255
+Pt PO spur mtn Whitehead cnr
+Ln s; 192p; 
+Pt BO
+Ln w; 208p; x crk
+Pt PO
+Ln n; 120p; 
+Pt BO spur mtn
+Ln n43e; 100p; 
+Pt pine
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-0845
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 
+IssDat: 
+SurveyTo: 
+IssuedTo: 
+Frm NC
+To Thomas Johnston
+Assignee: 
+Wat: Rockey Creek Dropping off Branch
+Ref 51:007
+! -- abstract --
+! 
+Rec 
+Re 200A RC DrOBr
+SCC: 
+Adj 
+Dat 1783/10/10
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -14084 -20338 F127 L0 P255
+Pt BO spur mtn Redman 4th cnr
+Ln n43e; 160p; Redman
+Pt pine on mtn
+Ln n70w; 290p; 
+Pt BO
+Ln s; 180p; 
+Pt Ches
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Iredell-0268
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 
+IssDat: 
+SurveyTo: 
+IssuedTo: 
+Frm NC
+To David Woodson
+Assignee: 
+Wat: Rockey Creek, Hunting Creek
+Ref 
+! -- abstract --
+! No 248 on the waters of Rockey and Hunting Creeks
+Rec 
+Re 2080A RC HC
+SCC: 
+Adj 
+Dat 1799/06/16
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 10736 -19503 F127 L0 P255
+txt 7047 -26780 F127 R0 %d =
+Pt BO Jno.McConnell cnr Rimington ln
+Ln e; 62p; 
+Pt RO McConnell cnr
+Ln n; 324p; McConnell
+Pt PO Nichols cnr
+Ln w; 82p; Nichols
+Pt Chsnt stmp
+Ln n; 320p; Nichols
+Pt Chsnt Nichols cnr
+Ln w; 60p; 
+Pt BOsap
+Ln n; 248p; 
+Pt pine Youngs cnr
+Ln w; 33p; 
+Pt SO
+Ln n; 250p; 
+Pt BO St.Owen cnr
+Ln w; 498p; 
+Pt PO BO
+Ln s; 360p; 
+Pt BO
+Ln e; 81p; 
+Pt pine
+Ln s13e; 227p; 
+Pt PO Chambers cnr
+Ln e; 340p;
+Pt stk McConnell ln
+Ln s; 178p; 
+Pt stk
+Ln w; 70p; 
+Pt stk 
+Ln s; 142p; 
+Pt stk
+Ln e; 200p;
+Pt stk Jno.McConnell cnr
+Ln s; 242p; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP Grant
+Id Rowan-2238
+ENTRY: 
+GrantNo: 1453
+EntDat: 1778-11-28
+WarDat: 
+SurDat: 1786-03-10
+IssDat: 1787-08-09
+Frm 
+To John Hay (Easley)
+Wat: Rocky Creek North Side
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 300A RC
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -831 -34021 F127 L0 P255
+Pt PO N bnk crk Re.Baker ln
+Ln n; 100p; 
+Pt PO his cnr
+Ln e; 260p; +his ln
+Pt PO
+Ln n; 160p; 
+Pt pine
+Ln w; 174p; 
+Pt pine
+Ln s; 50p; 
+Pt stk old Baker fld Woodson cnr
+Ln w; 140p; 
+Pt BO
+Ln s; 210p; 
+Pt stk crk bnk
+Lm ;; dn same to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Iredell-0170
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 1795-04-06
+IssDat: 1796-12-23
+Frm 
+To William McConnell
+Wat: Rocky Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 68A RC
+SCC: 
+Adj 
+Dat 1796-12-23
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 5373 -24255 F127 L0 P255
+Pt WO by br his cnr
+Ln n; 44p; 
+Pt smSO Hughey ln
+Ln s68w; 36p; 
+Pt WO bnk pond br his cnr Hughey ln
+Ln w; 220p; 
+Pt pine his other cnr
+Ln s; 30p; 
+Pt WO br Wid Shelly cnr
+Ln s82e; 226p; Shelly
+Pt stk her cnr his old ln
+Ln n; 30p; 
+Pt Oak his cnr
+Ln e; 30p; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Iredell-0119
+ENTRY: 44
+GrantNo: 110
+EntDat: 
+WarDat: 
+SurDat: 
+IssDat: 1794-07-07
+Frm 
+To Hugh Hall
+Wat: South Yadkin
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 254A SoYadkin
+SCC: 
+Adj Joseph Killpatrick
+Dat 1794-07-07
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 4727 -3058 F127 L0 P73 0 51 0
+Pt stk bnk S.Yadkin
+Ln s; 240p; est.
+Pt his old ln
+Ln w; 142p; w his ln
+Pt PO Jos.Killpatrick cnr
+Ln n; 240p; Killpatrick
+Pt WO nr rvr bnk
+Lm ;; rvr to beg 
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-1019
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 1778-08-02
+SurDat: 1782-12-27
+IssDat: 1783-10-10
+Frm 
+To John Sharpe
+Wat: South Yadkin
+Ref 
+! -- abstract --
+! warrant: State of North Carolina No. 879 John Sharpe 400 acre North side of South Fork of the Yadkin joining Robert King, John Montgomery and Adam Simontons line 2nd Aug 1778
+Rec
+Re 398A SY
+SCC: 
+Adj 
+Dat 1783-10-10
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -13859 -1183 F1 L0 P73 0 51 0
+txt -13375 -3023 F1 R0 %d =
+Pt BO N bnk rvr Adam.Simonton cnr
+Ln n; 150p; 
+Pt PO
+Ln w; 8p; 
+Pt stk Jas.King cnr
+Ln n; 158p; Jas.King
+Pt PO Montgomery cnr
+Ln e; 194p; Montgomery
+Pt WO
+Ln n; 26p; 
+Pt WO Wm.Sharpe cnr
+Ln e; 82p; 
+Pt pine Rob.King cnr
+Ln s; 234p; Rob.King
+Pt 2smBrch rvr bnk
+Lm ;; up rvr to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-1180
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 
+IssDat: 1778-08-17
+Frm 
+To John Montgomery
+Wat: South Yadkin, Snow Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 640A SY SnowCrk
+SCC: 
+Adj 
+Dat 177808-17
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -14653 -7165 F1 L0 P73 0 51 0
+txt -13897 -7855 F1 R0 %d =
+Pt lgWO E sd Ormond br
+Ln e; 86p; 
+Pt PO King cnr
+Ln s; 270p; 
+Pt PO his ln
+Ln e; 194p; Jno.Sharpe
+Pt WO
+Ln n; 446p; x Wm.Sharpe 2cnrs
+Pt lgPine
+Ln w; 287p; 
+Pt lgWO by br
+Ln s; 176p; 
+Pt stk 7p W of beg
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-1201
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 
+IssDat: 1779-10-10
+Frm NC
+To William Sharpe
+Wat: Snow Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 652A SnowCrk
+SCC: Robert King, James Sharpe
+Adj 
+Dat 1783-10-10
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -8085 -5190 F1 L0 P73 0 51 0
+txt -10579 -6047 F1 R0 %d =
+Pt smPO nr br Jas.King cnr
+Ln n; 106p; 
+Pt smPO
+Ln e; 30p; 
+Pt BO
+Ln n25e; 105p; 
+Pt lgBO
+Ln w; 380p; 
+Pt pine nr lg br
+Ln n18w; 24p; 
+Pt PO fk br
+Ln w; 92p; 
+Pt pine
+Ln s; 300p; Jno.Montgomery x crk
+Pt WO
+Ln e; 160p; 
+Pt pine
+Ln n; 55p; 
+Pt BO
+Ln e; 210p; x crk
+Pt stk Jas.King ln
+Ln n; 16p; 
+Pt smPO his cnr
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-1034
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 1782-12-27
+IssDat: 1783-10-10
+Frm NC
+To Adam Simonton
+Wat: South Yadkin
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 305A SY
+SCC: none listed
+Adj 
+Dat 1783-10-10
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -13765 -1215 F1 L0 P73 0 51 0
+txt -15446 -1816 F1 R0 %d =
+Pt BO N bnk rvr Jno.Sharpe cnr frd
+Ln n; 150p; 
+Pt PO 8pE of Jas.King cnr
+Ln w; 198p; King
+Pt stk James Adams cnr
+Ln s; 242p; Jas.Adams
+Pt smBO
+Ln e; 220p; x Jas.Potts cnr
+Pt WO
+Ln n; 30p; 
+Pt WO on rvr mth Potts Br
+Lm ;; up rvr to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Iredell-0015
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 1778-03-25
+SurDat: 1789-11-10
+IssDat: 1792-01-04
+Frm NC
+To David Ormon, William Ormond
+Wat: Snow Creek
+Ref 
+! -- abstract --
+! 550 acres lying in the county aforesaid beginning at he So edge of David Ormonds corner on his survey at said corner, joining Patrick Morrison, Joseph Wasson etc including the vacancty etc
+Rec 
+Re 550A SnowCrk
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -15434 -7421 F127 L0 P73 0 51 0
+txt -17586 -9096 F127 R0 %d =
+Pt BOsap 7pW Jno.Montgomery
+Ln n; 246p; 
+Pt pine
+Ln w; 316p; 
+Pt WO mth glly by SnowCrk
+Ln s; 60p; 
+Pt BO
+Ln w; 11p; 
+Pt PO
+Ln s; 8p; 
+Pt PO
+Ln w; 11p; 
+Pt WO
+Ln s; 8p; 
+Pt maples
+Ln w; 40p; x crk
+Pt PO
+Ln s; 120p; 
+Pt Hic old fld
+Ln e; 14p; 
+Pt Pop
+Ln s; 59p; 
+Pt PO
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-2527
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 1778-06-06
+SurDat: 1783-03-31
+IssDat: 1789-05-18
+Frm NC
+To Andrew Kilpatrick
+Wat: South Yadkin
+Ref 
+! -- abstract --
+! No 578 for Andrew Kilpatrick ... 425 acres lying on the South Yadkin River joining Bones Northeast corner, bounded Northward by said river including his own improvement ... 6 June 1778.
+Rec 
+Re 425A SY
+SCC: Joseph Kilpatrick, Moses Hall
+Adj 
+Dat 1789
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 541 -3490 F127 L0 P73 0 51 0
+Pt BO WO Jos.Kilpatrick cnr SbnkRvr
+Ln s; 60c; Jos.Kilpatrick
+Pt Hic cnr?Wm.Hale?
+Ln w; 73c; 
+Pt stk Bones ln
+Ln n; 21c; 
+Pt BO
+Ln w; 10c; 
+Pt PO
+Ln n; 47c; 
+Pt WO rvr bnk
+Lm ;; dwn meanders to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-1472
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 1783-12-26
+IssDat: 1784-11-04
+Frm NC
+To William Potts
+Wat: South Yadkin
+Ref 
+! -- abstract --
+! bounded by William Bones on North, John Hill to East, including improvement where Henry Potts deceased formerly lived
+Rec
+Re 450A SY
+SCC: 
+Adj 
+Dat 1784-11-04
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -8060 -626 F127 L0 P73 0 51 0
+txt -8878 1142 F127 R0 %d =
+Pt PO He.Potts ln
+Ln w; 140p; 
+Pt BO
+Ln s; 360p; 
+Pt PO
+Ln e; 140p; 
+Pt stk Moses Potts ln
+Ln n; 40p; 
+Pt Hic Moses cnr
+Ln e; 90p; 
+Pt stk He.Potts cnr
+Ln n; 200p; He.Potts
+Pt BO
+Ln w; 36p;
+Pt WO by br
+Ln n; 40p; 
+Pt Hic
+Ln w; 64p; 
+Pt BO
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-1532
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 1783-12-26
+IssDat: 1784-11-04
+Frm NC
+To Henry Potts
+Wat: South Yadkin
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 470A SY
+SCC: 
+Adj 
+Dat 1784-11-04
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -6146 490 F127 L0 P73 0 51 0
+txt -5940 1402 F127 R0 %d =
+Pt BO Wm.Bones cnr
+Ln n; 160p; Wm.Bones
+Pt WO nr br
+Ln w; 160p; 
+Pt PO
+Ln s; 120p; past Wm.Potts bgcnr
+Pt BO
+Ln e; 64p; 
+Pt Hic
+Ln s; 40p; 
+Pt WO by br
+Ln e; 36p; 
+Pt BO
+Ln s; 200p; 
+Pt stk Mos.Potts ln
+Ln e; 250p; 
+Pt BO Jno.Hill cnr
+Ln n; 200p; 
+Pt BO Wm.Bones ln
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-0916
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 1782-12-28
+IssDat: 1783-10-10
+Frm NC
+To John Purvance
+Wat: South Yadkin
+Ref 
+! -- abstract --
+! for John Purviance 450 acres on the South side of the South fork of the Yadkin River crossing said river twice adjoining James Adams's land and James Pott's including the improvement where he now lives beginning at a black oak James Adams Soutwest corner said oak being a conditional corner between him and Moses Purviance ... Potts
+Rec 
+Re 325A SY
+SCC: 
+Adj 
+Dat 1783-10-10
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -18160 -554 F127 L0 P73 0 51 0
+Pt PO Jas.Adams ln Mos.Purviance cnr
+Ln s; 218p; Moses
+Pt WO sm br
+Ln e; 198p; 
+Pt WO
+Ln n; 34p; 
+Pt WO few p fr spr
+Ln e; 54p; 
+Pt PO Jas.Potts ln
+Ln n; 174p; Jas.Potts
+Pt BO Ad.Simonton cnr
+Ln w; 20p; 
+Pt 
+Ln n; 10p; 
+Pt gum
+Ln ;; Adams past cnr BO to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-2296
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 1778-05-11
+SurDat: 1786-11-26
+IssDat: 1787-08-09
+Frm NC
+To James Hill
+Wat: Fourth Creek
+Ref 
+! -- abstract --
+! warrant: for James Hill six hundred acres on both sides of the North fork of Fourth Creek bounded on the East by William Potts and on the North by James Guy on the West by James Stevenson and on the South by Thomas Shannon
+Rec 
+Re 565A FC
+SCC: none listed
+Adj James Guy, 
+Dat 1787-08-09
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -18310 3658 F127 L0 P255
+Pt BO J.Guy beg cnr
+Ln s; 340p; 
+Pt Pop by br nr Guy last cnr
+Ln e; 106p; 
+Pt PO
+Ln n75e; 165p; 
+Pt WO by br
+Ln n; 316p; Wm.Potts 1st ln
+Pt WO his 2nd c
+Ln w; 270p; 
+Pt stk
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-1860
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 1784-10-08
+IssDat: 1786-10-25
+Frm NC
+To Ephraim Hill
+Wat: Fourth Creek
+Ref 
+! -- abstract --
+! warrant: for Ephraim Hill five hundred acres on the waters of the South Yadkin joining James Hill, James Stevinson, John Purviance and vacant land on the West
+Rec 
+Re 500A FC
+SCC: none listed
+Adj 
+Dat 1786-10-25
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -20491 1633 F127 L0 P73 0 51 0
+txt -21000 2486 F127 R0 %d =
+Pt PO cnr Jno.Scroggs Jr
+Ln e; 240p; Feimster
+Pt SO his cnr nr Purviance 2ne
+Ln s; 180p; 
+Pt stk
+Ln w; 470p; Jas.Guy ln x his cnr
+Pt pine
+Ln n; 160p; 
+Pt pine
+Ln e; 230p; 
+Pt smBO
+Ln n; 20p; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-1951
+ENTRY: 384
+GrantNo: 1166
+EntDat: 
+WarDat: 1778-05-12
+SurDat: 1785-12-07
+IssDat: 1786-10-25
+Frm NC
+To James Guy (Stevenson)
+Assignee: James Stevenson
+Wat: Fourth Creek North Fork
+Ref 
+! -- abstract --
+! warrant: for James Stevenson 640 acres bounded by John Thompson on the South, on the East by James Hill on the North by Ephraim Hill by Alexander Gordon on the West lying on both sides of Fourth Creek 
+ Rec 
+Re 640A FC NFk
+SCC: 
+Adj Ephraiim Hill, William White
+Dat 1786-10-25
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -18334 3658 F127 L0 P255
+Pt BO N sd crk
+Ln w; 338p; Eph.Hill
+Pt Dw forks br
+Ln s; 198p; 
+Pt BO Wm.White cnr
+Ln e; 10p; 
+Pt BO White cnr
+Ln s; 136p; 
+Pt pine
+Ln e; 328p; 
+Pt BO nr br
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-1805
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 1778-12-03
+SurDat: 1787-02-22
+IssDat: 1788-07-11
+Frm NC
+To Moses Allen (William Waddle)
+Wat: South Yadkin
+Ref 
+! -- abstract --
+! State of North Carolina No 1475 ... for William Waddle ... four hundred acres lying and being in the county aforesaid on the South side of the South Yadkin joining Robert King, John Sharp, James Potts and Widow Potts including his improvement and running down the river for complement ... 3 December 1778 (back of document) I William Waddle for and in consideration of fifty pounds to me in hand paid by Moses Allen do by these presents assign and transfer all my claim title and demand to the land and premises within mentioned. given under my hand and seal this 24th May 1787 William Waddel (seal) Test Wm Sharpe
+Rec 
+Re 300A SY
+SCC: 
+Adj 
+Dat 1788-07-11
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -11947 -397 F127 L0 P73 0 51 0
+txt -10964 -912 F127 R0 %d =
+Pt WO fk br Jas.Potts ln
+Ln e; 84p; Jas.Potts
+Pt BO his cnr
+Ln s; 44p; 
+Pt BO Wasson cnr
+Ln e; 160p; Wasson
+Pt BO Wm.Potts ln
+Ln n; 86p; 
+Pt BO his cnr
+Ln e; 140p; 
+Pt PO his beg cnr
+Ln n; 70p; 
+Pt stk
+Ln w; 270p; 
+Pt PO Rob.King cnr
+Ln n; 12p; 
+Pt Gum
+Ln w; 30p;
+Pt Gum
+Ln n10e; 20p; 
+Pt WO
+Ln s70w; 30p; 
+Pt PO King beg cnr
+Ln n; 40p; estim. N to rvr
+Pt river
+Lm s85w; 70p; rvr estim.
+Lm ;; br to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-2202
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 
+IssDat: 1786-10-25
+Frm NC
+To Moses Potts
+Wat: South Yadkin
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 80A SY
+SCC: 
+Adj 
+Dat 1786-10-25
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -8215 4627 F127 L0 P73 0 51 0
+Pt PO his old ln Dr. Alexander cnr
+Ln w; 74p; 
+Pt BO
+Ln n; 172p; 
+Pt PO Wm.Potts ln
+Ln e; 74p; 
+Pt stk his old ln
+Ln ;; same to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-0480
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 1753-05-01
+SurDat: 
+IssDat: 1761-01-03
+Frm NC
+To John Potts
+Wat: South Yadkin
+Ref 
+! -- abstract --
+! Grant 104, Bk6 Pg205, SSLG 126K, 
+Rec 
+Re 580A SY FC
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -15622 10833 F127 L0 P255
+txt -14792 9395 F127 R0 %d =
+Pt fkPop
+Ln n; 300p; 
+Pt WO
+Ln e; 340p; 
+Pt WO
+Ln s; 220p; 
+Pt stk Sam.Reed ln
+Ln w; 120p; sd ln
+Pt Hic
+Ln s; 80p; 
+Pt stk
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-0469
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 1753-06-13
+IssDat: 1760-12-29
+Frm NC
+To James Potts
+Wat: South Yadkin
+Ref 
+! -- abstract --
+! Grant 186, Bk 6 Pg 205, Granville deed 186 SSLG 126J
+Rec 
+Re 531A SY
+SCC: 
+Adj 
+Dat 1760-12-29
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -15603 -261 F127 L0 P73 0 51 0
+Pt BO S sd fk
+Ln s; 236p; 
+Pt BO Jno.Potts ln
+Ln e; 360p; 
+Pt BO
+Ln n; 236p; 
+Pt BO
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-0915
+ENTRY: 
+GrantNo: 298
+EntDat: 1778/09/17
+WarDat: 1778/09/17
+SurDat: 1782/12/12
+IssDat: 1783/10/10
+Frm NC
+To Richard Cook
+Assignee: Daniel Easley
+Wat: Rocky Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 340A
+SCC: none listed
+Adj Hughes, King
+Dat 1783/10/10
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -19583 -19150 F127 L0 P255
+txt -18456 -18760 F127 R0 %d =
+Pt SO nr bld mtn brch
+Ln S; 50p; 
+Pt BO S sd mtn
+Ln e; 70p; 
+Pt Loc
+Ln s; 130p; Hughes
+Pt Gum WO his cnr by br
+Lm s66e; 184p; down meander
+Pt 2Pop crk bnk King cnr
+Ln n; 325p; 
+Pt PO
+Ln w; 240p; 
+Pt pine
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Iredell-0163
+ENTRY: 268
+GrantNo: 0166
+EntDat: 
+WarDat: 1797-02-22
+SurDat: 1797-04-03
+IssDat: 1797-06-08
+Frm NC
+To James Potts, Sr
+Wat: South Yadkin
+Ref 
+! -- abstract --
+! https://nclandgrants.com/frame/?fdr=486&frm=817&mars=12.14.76.163
+Rec 
+Re 337A SY
+SCC: 
+Adj James Potts
+Dat 1797-06-08
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -15684 2116 F127 L0 P73 0 51 0
+Pt BO his cnr (Ja.Potts)
+Ln s; 150p; 
+Pt PO
+Ln e; 360p; 
+Pt stk
+Ln n; 150p; 
+Pt BO his cnr
+Ln w; 360p; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Iredell-0164
+ENTRY: 199
+GrantNo: 167
+EntDat: 
+WarDat: 1797-02-22
+SurDat: 1797-04-03
+IssDat: 1797-06-08
+Frm NC
+To James Potts, Sr
+Wat: South Yadkin
+Ref 
+! -- abstract --
+! on the waters of South Yadkin and Fourth Creek bounded by lands of James Purviance, Samuel Wasson and Moses Allen
+Rec 
+Re 216A SY
+SCC: 
+Adj 
+Dat 1797-06-08
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -12109 4104 F127 L0 P255
+Pt stk his cnr
+Ln e; 78p; 
+Pt BO
+Ln n; 445p; 
+Pt BO
+Ln w; 78p; 
+Pt stk his cnr
+Ln s; 445p; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-1762
+ENTRY: 509
+GrantNo: 1663
+EntDat: 
+WarDat: 1778-06-04
+SurDat: 1787-02-22
+IssDat: 1788-07-11
+Frm NC
+To Samuel Wasson
+Wat: South Yadkin, Fourth creek
+Ref 
+! -- abstract --
+! joining John McClelland, James Potts, James Purviance including 2 entries by Patrick Sloan and Archibald Sloan
+Rec 
+Re 500A SY FC
+SCC: none listed
+Adj James Purviance, James Potts, Allen, William Potts, Moses Potts
+Dat 1788-07-11
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -10916 3048 F127 L0 P73 0 51 0
+txt -10680 2150 F127 R0 %d =
+Pt WO Jas.Purviance cnr glade
+Ln w; 32p; 
+Pt BO Jas.Potts cnr
+Ln n; 296p; 
+Pt BO Allen cnr
+Ln e; 160p; 
+Pt BO Wm.Potts ln
+Ln s; 274p; Wm.Potts
+Pt PO his cnr
+Ln e; 66p; 
+Pt PO Mos.Potts cnr
+Ln s; 172p; 
+Pt BO Mos.Potts cnr
+Ln w; 200p; 
+Pt stk Jas.Purviance ln
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-1959
+ENTRY: 68
+GrantNo: 1174
+EntDat: 
+WarDat: 1778-07-07
+SurDat: 1785-06-08
+IssDat: 1786-10-25
+Frm NC
+To Joseph Wasson
+Wat: Snow Creek Wasson Branch
+Ref 
+! -- abstract --
+! 650 acres adjoining Patrick Morrison's land, John Scogs and James Adams, begining at said Morrisons Northwest corner, from thence West thence South to said Scroggs line thence East along said line and likewise along said Adams line to said Morrisons's and thence to the beginning including some of the waters of Snow Creek with the improvemnt whereon he now lives ... 7 July 1778 ... N.B. Agreement between him and John ?oan to start this entry 60p South from Morrisons Northwest corner
+Rec 
+Re 640A Snow Cr
+SCC: none listed
+Adj Patrick Morrison, John Scoggs, James Adams
+Dat 1786
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -19947 -3061 F127 L0 P255
+Pt PO Jno.Scroggs NW cnr old srv
+Ln e; 360p; his ln
+Pt pine Jas.Adams cnr
+Ln n; 320p; Jas.King
+Pt PO
+Ln w; 100p; 
+Pt smBO
+Ln s; 40p; 
+Pt smPO
+Ln w; 260p; 
+Pt pine
+Ln ;; W Hill ln to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-1192
+ENTRY: 
+GrantNo: 1674
+EntDat: 
+WarDat: 1779-01-27
+SurDat: 1782-12-27
+IssDat: 
+Frm NC
+To James Adams
+Wat: South Yadkin
+Ref 
+! -- abstract --
+! No 1674 ... survey for James Adams ... 26 acres ... on both sides of the South Yadkin joining my deeded land, Patrick Morrison, Adam Simonton and John Purviance for complement ... 
+Rec 
+Re 33A
+SCC: 
+Adj 
+Dat 1782
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -15991 -436 F127 L0 P255
+Pt BO S sd rvr his other cnr
+Ln e; 16p; 
+Pt gum Adm.Simonton ln
+Ln n; 232p; Simonton x rvr
+Pt stk Jas.King ln
+Ln w; 32p; 
+Pt PO his other cnr
+Ln ;; his old ln to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-1586
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 1787-02-10
+IssDat: 
+Frm NC
+To William Feimster
+Wat: South Yadkin
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 287A SY
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -18297 -586 F127 L0 P73 0 51 0
+Pt PO Jno.Purviance cnr Adams ln
+Ln w; 200p; 
+Pt PO nr lg br Scrogg cnr
+Ln s; 230p; 
+Pt pine Eph.Hill ln
+Ln e; 200p; 
+Pt SO nr Jno.Purviance 2nd cnr
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-1759
+ENTRY: 316
+GrantNo: 1660
+EntDat: 
+WarDat: 1778-05-11
+SurDat: 1787-02-24
+IssDat: 1788-07-11
+Frm NC
+To John Scroggs Jr
+Wat: South Yadkin
+Ref 
+! -- abstract --
+! for Johbn Scroggs Junr 400 acres on the waters of the South Yadkin bounded by Alexander Weatherspoons entry on the North Moses Purviance on the East, Ephraim Hill on the South vacant land on the West ... May 11 1778
+Rec 
+Re 400A SY
+SCC: none listed
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -20528 1788 F127 L0 P73 0 51 0
+Pt smBO E cnr Eph.Hill 
+Ln n; 250p; Feimster ln
+Pt POsap by br Feimster cnr
+Ln w; 140p; 
+Pt WO ridge Witherspoon cnr
+Ln s65w; 250p; 
+Pt WO his cnr
+Ln s; 140p; 
+Pt stk
+Ln ;; E Hills ln to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-2515
+ENTRY: 745
+GrantNo: 1805
+EntDat: 
+WarDat: 1778-08-06
+SurDat: 1787-03-08
+IssDat: 1789-05-18
+Frm NC
+To James McGaughey
+Assignee: Adam Simonton
+Wat: South Yadkin, Fifth Creek
+Ref 
+! -- abstract --
+! ... on the waters of the South Yadkin and on the South side of the same starting on James Hall's line one ? West of his N.East corner, thence North till an Eastern course from Hugh Hall's South East corner thence West touching said corner along Hugh Hall's line to his So West corner thence near a S.West corner along the conditional line made by said Simonton and James ? till within fifteen poles of the S.East corner of Coopers field ? Thomas Halls, thence a direct course to William Hall's N.East corner, thence East along Thomas and James Hall's line to the ? corner. ... 1778 Aug 6th
+! for and in consideration of 50 pounds to me in hand paid by Jame McGaughey. I do by these presents assign all my right and title and claim whatsoemver to the within mentioned land and premises to the said James McGauhey his heirs and assigns forever given under my hand and seal this 21st day of December 1786. Adam Simonton his x mark
+Rec 
+Re 640A SY FC
+SCC: Joseph Kilpatrick, Hugh Hall
+Adj James Hall, Thomas Hall, Hugh Hall, William Hall, James Cooper
+Dat 1789
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 4796 3176 F127 L0 P255
+Pt Gum glade Jas.Hall ln 20c W NE cnr
+Ln n; 46c; 
+Pt BO 9.5c E Hu.Hall cnr
+Ln w; 122c; Hu.Hall
+Pt PO Hu.Hall cnr
+Ln s; 22c; 
+Pt BO
+Ln w; 19.6c; Jos.Kilpatrick
+Pt stk
+Ln s; 31c; 
+Pt stk Th.Hall ln
+Ln ;; Th and Jas Hall to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-0511
+ENTRY: 
+GrantNo: 139
+EntDat: 
+WarDat: 
+SurDat: 1762-08-5
+IssDat: 1762-08-26
+Frm NC
+To Alexander Reed Jr
+Wat: South Yadkin
+Ref 
+! -- abstract --
+! Alexander Reed ... 22 Feb 1765 ... on the South side of the South Yadkin near Sherrells path including a branch called the Long Branch joining John McWhorters corner on the branch and runs up the branch for compliment
+! joining a survey of John McWhorters
+Rec 
+Re 385A SY
+SCC: Thomas Hall, Andrew Reed
+Adj 
+Dat 1762
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. 385 A, 1762-08-26 State of NC -> Alexander Reed
+! 2. 385 A, 1769-08-01 Alexander Reed -to- William Bone Sr, wit: Max Chambers, Wm Nessbit Deed7:149
+lbl %to\%dat\File# %Id\%Re\Wm.Bone Sr 1769
+! Metes and bounds
+loc -2878 -1845 F127 L0 P73 0 51 0
+txt -4932 -963 F127 R0 %d =
+Pt BO E sd br
+Ln s; 55c; 
+Pt PO
+Ln w; 70c; 
+Pt WO
+Ln n; 55c; 
+Pt BOsap McWhorter's lne
+Ln ;; his ln to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-1778
+ENTRY: 432
+GrantNo: 
+EntDat: 
+WarDat: 1778-05-17
+SurDat: 1786-12-17
+IssDat: 1788-07-11
+Frm NC
+To John McWhorter
+Wat: South Yadkin
+Ref 
+! -- abstract --
+! No 432 ... survey for John McWhorter 600 acres on the South Yadkin bounded on the East West and South by lines lately run by William Sharpe and by the river between him and James King to the mouth of a deep hollow including a piece of bottom on the North side of the river and some pine hills joining the widow Travis claim and touching on the river at Sherrils foard path running a West course to the siad Deep Hollow between said James King and James Sharpe ... 17 May 1778
+Rec 
+Re 400A SY
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -2788 -3993 F127 L0 P73 0 51 0
+txt -4807 -3305 F127 R0 %d =
+Pt WOs bnk rvr abv mth Wm.Bone br
+Ln s; 190p; 
+Pt lWO PO Bone ln
+Ln w; 360p; Wm.Bone
+Pt BO nr Bone cnr
+Ln n; 56p; 
+Pt WatO WO rvr bnk
+Lm n30e; 110p; rvr est.
+Pt mth sm br
+Lm n30w; 70p; branch est.
+Pt pop Jas.Sharpe cnr
+Ln e; 160p; Ja.Sharpe
+Pt WO rvr his cnr
+Lm n80e; 70p; 
+Pt Hic Travers cnr
+Ln e; 24p;
+Pt Hic sm br
+Lm s65e; 80p; dwn br rvr to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-2310
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 1786-02-08
+SurDat: 1786-03-10
+IssDat: 1787-08-09
+Frm NC
+To Martin Walk
+Wat: Rocky Creek
+Ref 
+! -- abstract --
+! 
+WarrantAbs: North Carolina No. 2907 ... for Marton Walk 250 acres joining William Taylor on the North and Samuel Henderson on the waters of Rock Creek ... 8 Feb 1786
+Rec 
+Re 250A RC
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 1810 -38730 F127 L0 P255
+Pt BO Speeks cnr
+Ln s78e; 130p; 
+Pt PO
+Ln n12e; 80p; 
+Pt PO
+Ln s78e; 130p; 
+Pt PO
+Ln s12w; 200p; 
+Pt PO in hllw
+Ln n78w; 260p; 
+Pt stk
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-2346
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 1778-11-23
+SurDat: 1785-11-24
+IssDat: 1787-08-09
+Frm NC
+To David Begerly
+Wat: South Yadkin
+Ref 
+! -- abstract --
+! for David Beggerly 640 acres on the waters of the South Yadkin on the South side of the same joining lands of John Reed, John Bailey and Bazel Robinson ... 23 Nov 1778
+Rec 
+Re 640A SY
+SCC: Basil Grdings, Alexander Layonbury, Charles Bear
+Adj 
+Dat 1787
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 13192 1567 F127 L0 P255
+Pt pine
+Ln n; 17c; 
+Pt BO Jno.Baley cnr
+Ln w; 20c; 
+Pt fkPO Baley cnr
+Ln n; 9c; 
+Pt BO Baley cnr
+Ln w; 5c; 
+Pt WO Jno.Baley cnr
+Ln n; 31c; 
+Pt pine Baley cnr
+Ln w; 9c; 
+Pt PO Baley cnr
+Ln n; 17c; 
+Pt smBO Baley cnr
+Ln e; 100c; Jno.Reed
+Pt Pers
+Ln s; 74c;
+Pt BO Ev.Beall cnr
+Ln ;; W to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-2261
+ENTRY: 961
+GrantNo: 
+EntDat: 
+WarDat: 1778-09-19
+SurDat: 1785-11-25
+IssDat: 1787-08-09
+Frm NC
+To Evan Beall
+Wat: White Oak Branch
+Ref 
+! -- abstract --
+! State of North Carolina No. 961 ... survey for Evan Bell ... 300 acres on head of the White Oak branch bounded by Margaret Bell on the East, Thomas Bailey on the West including Bazel Robinson's improvement ... 19 Sep 1778
+Rec 
+Re 300A WO Br
+SCC: David Beall, Zadock Beall, Charles Boar
+Adj 
+Dat 1787
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 15954 -1282 F127 L0 P255
+txt 15984 156 F127 R0 %d =
+Pt Pers Dav.Begarley cnr
+Ln s; 74c; 
+Pt BO Begarley cnr
+Ln s55e; 41c; 
+Pt PO Tho.Bell ln
+Ln n; 99c; 
+Pt PO jac.Nicholl cnr
+Ln ;; W to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-2129
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 1780-02-28
+SurDat: 1784-09-15
+IssDat: 1786-10-25
+Frm NC
+To William Anderson
+Assignee: John Maiden
+Wat: Hunting Creek
+Ref 
+! -- abstract --
+! joining William Whitley
+Rec 
+Re 200A
+SCC: John Current, William Anderson
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 19305 -19971 F127 L0 P255
+Pt POsap Wm.Scantling cnr
+Ln s; 57.2c; Scantling + Jno.Little
+Pt PO
+Ln e; 35c; 
+Pt stk
+Ln n; 57.2c; 
+Pt stk
+Ln ;; W to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP ref
+Id ref1
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 
+IssDat: 
+Frm ref
+To ref
+Wat: 
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -3072 9338 F127 L0 P255
+Pt a
+Ln w; 200p; 
+Pt b
+Ln n; 200p; 
+Pt c
+Ln e; 200p; 
+Pt d
+Ln s; 200p; 
+End
+! -- n ------ watercourse ------ last, first
+TYP ref
+Id ref2
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 
+IssDat: 
+Frm ref2
+To ref2
+Wat: 
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -1092 9339 F127 L0 P255
+Pt a
+Ln w; 200p; 
+Pt b
+Ln n; 200p; 
+Pt c
+Ln e; 200p; 
+Pt d
+Ln s; 200p; 
+End

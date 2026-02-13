@@ -1,0 +1,8492 @@
+Include
+Decl 3
+End
+! -- n ------ watercourse ------ last, first
+TYP Deed
+Id 
+Frm Joseph Kennedy
+To Hugh Bone
+Wat: Paint Lick Creek
+Ref KyMadison Deed Bk c:663-664
+! -- abstract --
+! 
+Rec 
+Re 100A Paint Lck Crk
+Adj 
+Dat 2/2/1795
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. 100 A, dd mmm 17yy Joseph Kennedy -> first last
+! x. 100 A, Hugh Bone -to- Joseph Kennedy db-c:663
+lbl %to\%dat\File# %Id\%Re\Jos.Kennedy\Hu.Bone 1795
+! Metes and bounds
+loc 7956 -33430 F127 L0 P255
+txt 7075 -34206 F127 R0 %d =
+Pt Elm bnk br 3p bel fnc Jno.Williams lives A.Kennedy lnd
+Ln n; 118p; 
+Pt Lin Arn.King ln
+Ln w; 160p; 
+Pt Sug
+Ln s; 82p; 
+Pt IW same br beg is on
+Lm ;; up br to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP Deed
+Id KyMad DB C:486-487
+Frm Green Clay
+To John Bone
+Wat: Paint Lick Creek, Silver Creek
+Ref KyMad DB C:486-487
+! -- abstract --
+! 
+Rec 
+Re 200A Paint LckCrk Silver Crk
+Adj Jacob Baker
+Dat 7/17/1795
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. 200 A, dd mmm 17yy  -to- John Bone
+! 2. 100 A, 19 Oct 1798 John Bone -to- Daniel Tuder DB D:534-535 Madison KY
+! 3.  97 A, 21 Aug 1801 John Bone -to- Bloomer Tuder DB E:305-306 Madison KY
+lbl %to\%dat\File# %Id\%Re\Green Clay\John Bone\Dan.Tuder w100A 1798\Bl.Tuder e100A 1801
+! Metes and bounds
+loc -1505 -45631 F127 L0 P64 0 51 0
+txt -3260 -46206 F127 R0 %d =
+Pt Lyn Elm bear pen cnr Clay 200A Silver Crk
+Ln s61w; 120p; 
+Pt Bch
+Ln n23w; 12p; 
+Pt stk NW side sp br
+Ln n59w; 142p; 
+Pt Hic WW Hack cnr Jac.Baker
+Ln n25e; 116p; Jac.Baker
+Pt WW cnr Baker
+Ln n85e; 112p; 
+Pt lgPop Sug
+Ln s68e; 90p; 
+Pt Sug Clay ln
+Ln s26w; 84p; Clay
+Pt SO Bch WO top ridge
+Ln s34e; 40p; Clay ln to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP deed
+Id KyMad DB :634-635 D?
+Frm Robert Adams
+To John Bone
+Wat: Silver Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 300A Silver Crk
+Adj 
+Dat 10/16/1797
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: see svy book C pg 24 Clay vs Bone
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re\Rob.Adams\John Bone
+! Metes and bounds
+loc 5218 -43557 F127 L0 P64 0 51 0
+txt 6096 -45753 F127 R0 %d =
+Pt WO Elm W bnk crk by mouth br
+Lm N11.1276E; 128.00p; down meanders 384p dir unkn
+Pt 
+Lm N17.7135E; 61.00p;
+Pt 
+Lm N82.0686E; 45.00p;
+Pt 
+Lm S42.9245E; 55.00p;
+Pt 
+Lm N64.6792E; 133.00p;
+Pt lnSyc bnk Bryants ln
+Ln n81w; 56p; Bryant
+Pt his cnr
+Ln n20e; 100p; w/e?
+Pt Bch in ln
+Ln w; 166p; 
+Pt stk
+Ln s; 112p; part Estens ln
+Pt dblWal Sug Esten cnr
+Ln s80w; 120p; Esten
+Pt 2Wal sap
+Ln s; 180p; writ 180p
+Pt Hic Wal Robinson ln
+Ln ;; Robinson ln to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP Deed
+Id DB-G:442-445 KyMad
+Frm John Bone, Catherine Bone
+To William Robinson
+Wat: Silver Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 45A Silver Crk
+Adj 
+Dat 2/20/1810
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re\John Bone\Wm.Robinson 1810
+! Metes and bounds
+loc 6850 -44956 F127 L0 P65 0 51 0
+txt 5923 -44857 F127 R0 %d =
+Pt rock cnr Wm.Robinson S side crk opp mouth br S Bones home
+Lm n51w; 62p; 
+Pt 
+Lm n86w; 39p; 
+Pt 
+Lm s20w; 49p; 
+Pt 
+Lm s6w; 40p; 
+Pt 
+Lm s30w; 14p; 
+Pt 2nd cnr Robinson
+Ln n80e; 124p; x crk Robinson ln
+Pt rock bnk sd br cnr Wm.Robinson
+Ln n32w; 23p; 
+Pt IW cnr Wm.Robinson
+Ln n17e; 17p; x crk to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP Deed
+Id DB-F:732-734 KyMad
+Frm John Gruget, Jane Gruget
+To John Bone
+Wat: Silver Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 45A Silver Crk
+Adj 
+Dat 9/5/1808
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re\Jno.Gruget\Jno.Bone 1808\Wm.Robinson 1810
+! Metes and bounds
+loc 12643 -36665 F127 L0 P255
+txt 11754 -36504 F127 R0 %d =
+Pt rock cnr Wm.Robinson S side crk opp mouth br S Bones home
+Lm n51w; 62p; 
+Pt 
+Lm s86w; 39p; 
+Pt 
+Lm s20w; 49p; 
+Pt 
+Lm s6w; 40p; 
+Pt 
+Lm s30w; 14p; 
+Pt 2nd cnr Robinson
+Ln n80e; 124p; x crk Robinson ln
+Pt rock bnk sd br cnr Wm.Robinson
+Ln n32w; 23p; 
+Pt IW cnr Wm.Robinson
+Ln n70e; 70p; x crk to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP deed
+Id KyMadison DB-F:742-744
+Frm John Gugett
+To William Roberson
+Wat: Silver Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 182A Silver Crk
+Adj 
+Dat 9/5/1808
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 8603 -44773 F127 L0 P64 0 51 0
+txt 6917 -44281 F127 R0 %d =
+Pt Sug +stump NW cnr Geo.Smith 1100
+Ln n70w; 152p; Bryant old ln x crk
+Pt elm Hic bnk crk
+Lm s5w; 20p; 
+Pt 
+Lm s42w; 21p; 
+Pt 
+Lm s71w; 19p; 
+Pt rock nr opp mouth br
+Lm s17w; 17p; x crk mouth br
+Pt IW bnk br
+Ln s32e; 23p; 
+Pt rock 3notch bnk br
+Ln s80w; 124p; pass sm island x crk
+Pt rock bnk crk
+Lm s30w; 22p; 
+Pt 
+Lm s18w; 74p; 
+Pt 
+Lm s10w; 13p; 
+Pt stone cnr Guigett etal
+Ln n75e; 340p; 
+Pt stk
+Ln n23e; 51p; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP Survey
+Id VA#3636
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 7/31/1783
+IssDat: 5/15/1784
+SurveyTo: George Smith
+IssuedTo: George Smith
+Frm Kentucky
+To George Smith, Sr.
+Assignee: none listed
+Wat: Silver Creek, Taylors Fork
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 1100A Silver Crk, Taylors Fk
+SCC: George S. Smith, Andrew Kincade
+Adj 
+Dat 6/16/1784
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 13747 -46524 F127 L0 P73 0 57 0
+txt 11561 -45727 F127 R0 %d =
+Pt TaylorsFk G.Boons mk
+Ln n20e; 60p; x 1fk
+Pt A 2RO Ash cane brk
+Ln n70w; 400p; x 2br
+Pt B 2Sug
+Ln s20w; 440p; x br + TaylorFk
+Pt c 2Sug ridge
+Ln s70e; 400p; x 3br fk
+Pt D WAsh BEye Sug
+Ln n20e; 380p; x 2fk TaylorsFk to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP survey
+Id VA#0759
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 7/31/1783
+IssDat: 6/15/1784
+SurveyTo: John Bryant
+IssuedTo: John Bryant
+Frm Virginia
+To John Bryant
+Assignee: none listed
+Wat: Silver Creek, Taylors Fork
+Ref 
+! -- abstract --
+! @37.7072149,-84.3785503
+Rec 
+Re 500A SilverCrk TaylorsFk
+SCC: George Smith, Andrew Kinkade
+Adj George Smith
+Dat 6/15/1784
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. 500 A, dd mmm 17yy State of Kentucky -> first last
+! 2. 100 A, 05 Aug 1791 John Bryant -to- John Yates DB-B:162-164 N100a
+! 3.  50 A, 05 Aug 1791 John Bryant -to- Jonathan Barrett DB-B:164-166
+! 4.  50 A, 05 Aug 1791 John Bryant -to- Robert Forbush DB-B:166-168
+! x.  40 A, 01 Oct 1793 John Bryant -to- Edward Moss DB-C:094-096
+! x. 100 A, 01 Oct 1793 John Bryant -to- Jane Thompson DB-C:096-098
+! x. 100 A, 08 Jul 1793 John Bryant -to- Evan Scott DB-C:533-534
+! x.  73 A, 05 Jul 1796 John Yates -to- Richard Price DB-D:038-039
+! x. John Bryant -to- Esterman DB-D:092-094
+! x. John Bryant -to- Todd DB-D:611-
+! x.  08 A, 17 Aug 1807 John Bryant -to- Richard Collins DB-G:477
+lbl %to\%dat\File# %Id\%Re\Yates\Barrett\Forbush\Moss\Thompson\Scott
+! Metes and bounds
+loc 10358 -48674 F127 L0 P255
+txt 8496 -46464 F127 R0 %d =
+Pt A 2Sug NW cnr Smith
+Ln n70w; 182p; x 2br TaylorFk
+Pt B RO ridge
+Ln s20w; 440p; x SilverCrk
+Pt C RO WO Sug
+Ln s70e; 182p; x SilverCrk +br TaylorsFk
+Pt D 2Sug ridge cnr Geo.Smith
+Ln n20e; 440p; x TaylorsFk +br same Smith to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP survey
+Id VA#0800
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 5/31/1783
+IssDat: 
+SurveyTo: William Mayo
+IssuedTo: William Mayo, Jr.
+Frm Virginia
+To William Mayo, Jr.
+Assignee: none listed
+Wat: Silver Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 1400A Silver Crk
+SCC: William Cradlebaugh, Thomas Townsden
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. 1400 A, dd mmm 17yy State of Virginia-> William Mayo
+! 2. 1400 A, 11 Nov 1791 William Mayo -to- Green Clay DB-B:242-246
+! x. ? 1400 01 Dec 1807 to John Doe
+lbl %to\%dat\File# %Id\%Re\Green Clay 1791
+! Metes and bounds
+loc 1630 -43431 F127 L0 P72 0 57 0
+txt 3665 -44856 F127 R0 %d =
+Pt A 2Gum ridge cnr Jno.May
+Ln e; 400p; x2br
+Pt B 2Hic 2Loc BEye BO WO mth sm br
+Lm n20e; 30p; 
+Pt 
+Lm n25e; 106p; 
+Pt 
+Lm e; 30p; 
+Pt 
+Lm n45e; 60p; 
+Pt 
+Lm n80e; 25p; 
+Pt 
+Lm n15e; 76p; 
+Pt 
+Lm n50e; 60p; 
+Pt 
+Lm n70e; 45p; 
+Pt mouth Taylors Fk
+Lm n; 60p; 
+Pt 
+Lm n55w; 20p; 
+Pt 
+Lm n60w; 80p; 
+Pt 
+Lm n30w; 30p; vs80
+Pt 
+Lm n65w; 22p; 
+Pt 
+Lm s60w; 48p; 
+Pt 
+Lm s30w; 80p; 
+Pt 
+! Lm w; 80p; added
+! pt
+Lm s60w; 95p; 
+Pt 
+Lm s23w; 22p; 
+Pt 
+Lm s55w; 60p; 
+Pt 
+Lm n60w; 82p; 
+Pt 
+Lm n; 85p; 
+Pt 
+Lm n55w; 130p; 
+Pt 
+Lm n30w; 42p; 
+Pt 
+Lm n75w; 30p; 
+Pt 
+Lm n45w; 90p; 
+Pt C Bch cnr Jno.Mayo
+Ln s4.5e; 578p; Jno.Mayo to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP survey
+Id VA#0798
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 05/30/1783
+IssDat: 11/13/1784
+SurveyTo: William Mayo
+IssuedTo: William Mayo
+Frm Virginia
+To William Mayo
+Assignee: none listed
+Wat: Silver Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 1400A Silver Crk
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. 1400 A, dd mmm 17yy State of Virginia -to- William Mayo
+! 2. 1400 A, 11 Nov 1791 William Mayo -to- Green Clay DB-B:242-246
+lbl %to\%dat\File# %Id\%Re\Green Clay 1791
+! Metes and bounds
+loc 3112 -53426 F127 L0 P73 0 57 0
+txt 3896 -52417 F127 R0 %d =
+Pt A. Hic Bch S side hill
+Ln e; 100p; 
+Pt WO SO Ben.Quinn cnr
+Ln e; 232p; Quinn
+Pt B. Pop 2Sug Wm.Mayo cnr E side hill
+Ln s; 668p; Mayo
+Pt C. Sug SilverCrk
+Lm w; 35p; SilverCrk
+Pt 
+Lm s60w; 95p; 
+Pt 
+Lm s23w; 22p; SilverCrk
+Pt 
+Lm s55w; 60p; 
+Pt 
+Lm n60w; 82p; 
+Pt 
+Lm n; 85p; 
+Pt 
+Lm n55w; 103p; 
+Pt D. Sug
+Ln n; 576p; x 3br S.C. to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP survey
+Id VA#0799
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 
+IssDat: 11/16/1784
+SurveyTo: William Mayo
+IssuedTo: William Mayo
+Frm 
+To William Mayo
+Assignee: none listed
+Wat: Silver Creek, Tates Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 1400A Silver Creek
+SCC: 
+Adj 
+Dat 11/16/1784
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! Fowler - see circuit court case 7118
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 6186 -53382 F127 L0 P73 0 57 0
+txt 7515 -49582 F127 R0 %d =
+Pt A Pop 2Sug Ben.Quinn ln
+Ln e; 349p; Ben.Quinn x4 br TatesCrk
+Pt B dblBEue ridge cnr Wm.Mayo
+Ln s; 758p; Wm.Mayo x2 br
+Pt C Sug TaylorsFk
+Lm n53w; 46p; down TaylorsFk
+Pt 
+Lm s60w; 52p; 
+Pt 
+Lm n; 30p; 
+Pt Silver Crk
+Lm n; 60p; 
+Pt 
+Lm n55w; 20p; 
+Pt 
+Lm n60w; 80p; 
+Pt 
+Lm n30w; 30p; 
+Pt 
+Lm n65w; 22p; 
+Pt 
+Lm s60w; 48p; 
+Pt 
+Lm s30w; 80p; 
+Pt 
+Lm w; 56p; 
+Pt D Sug cnr Wm.Mayo
+Ln n; 668p; Wm.Mayo x 2br to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP survey
+Id VA#4088
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 5/30/1783
+IssDat: 3/17/1786
+SurveyTo: William Mayo
+IssuedTo: William Mayo
+Frm 
+To William Mayo
+Assignee: none listed
+Wat: Silver Creek, Tates Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 1400A Silver Crk
+SCC: 
+Adj 
+Dat 3/17/1786
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 9862 -53250 F127 L0 P73 0 57 0
+txt 10829 -49040 F127 R0 %d =
+Pt A dblBEye Ben.Quinn ln
+Ln e; 110p; Ben.Quinn
+Pt Quinn cnr + Chr.Irvine B 2Sug
+Ln s70e; 276p; Chr.Irvine
+Pt C RO Sug Ash Cain cnr Irvine
+Ln s20w; 410p; 
+Pt D BWal smElm
+Ln s; 210p; 
+Pt E 2Sug Ash TaylorsFk
+Lm s; 70p; down Fk
+Pt 
+Lm s60w; 40p; 
+Pt 
+Lm s85w; 32p; 
+Pt 
+Lm s5w; 52p; 
+Pt 
+Lm s85w; 40p; 
+Pt 
+Lm n40w; 88p; 
+Pt 
+Lm s70w; 45p; 
+Pt 
+Lm n53w; 47p; 
+Pt F Sug cnr Wm.Mayo
+Ln n; 758p; May to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP survey
+Id VA#2082
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 05/31/1783
+IssDat: 06/01/1784
+SurveyTo: John Mayo Jr.
+IssuedTo: John Mayo Jr.
+Frm Virginia
+To John Mayo, Jr.
+Assignee: Joseph Mayo
+Wat: Silver Creek, Paint Lick Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 1400A Silver, PaintLck Crks
+SCC: William Cradlebaugh, Thomas Townsden, Jacob Williams (lm)
+Adj William Mayo, Andrew Bogie
+Dat 6/1/1784
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. 1400 A, 01 Jun 1784 State of Virginia -to- John Mayo Jr.
+! 2. 1400 A, 29 Oct 1791 William Mayo -to- Green Clay DB-B:238-241
+lbl %to\%dat\File# %Id\%Re\Green Clay 1791
+! Metes and bounds
+loc -2043 -49651 F127 L0 P73 0 57 0
+txt -920 -46713 F127 R0 %d =
+Pt A dlbLin cnr And.Bogie
+Ln w; 15p; 
+Pt B Sug cnr Jno.Mayo
+Ln s; 620p; Jno.Mayo x br SilverCrk Logans Trc
+Pt C 2Bch Ash Hic
+Ln e; 415p; xbr PntLckCrk
+Pt D 2Gum ridge cnr Wm.Mayo
+Ln n4.5w; 578p; Wm.Mayo
+Pt Bch Silver Crk
+Lm n45w; 78p; 
+Pt F. And.Bogie ln 4HBm
+Ln s25w; 140p; 
+Pt G. And.Bogie cnr 3Elm br
+Ln n65w; 260p; And.Bogie to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP survey
+Id VA#3432
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 09/11/1784
+IssDat: 12/20/1785
+SurveyTo: William Mayo Jr
+IssuedTo: William Mayo Jr
+Frm Virginia
+To William Mayo, Jr.
+Assignee: none listed
+Wat: Silver Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 920A Silver Crk
+SCC: 
+Adj 
+Dat 12/20/1785
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 2. 920 A, DB-C:211-
+! x. 920 A, 13 Sep 1805 Thomas Railey -to- Andrew Bogie DB-F:322-323
+lbl %to\%dat\File# %Id\%Re\Nat.Anderson 1791\x\Thos.Railey\And.Bogie 1805
+! Metes and bounds
+loc 3088 -53576 F127 L0 P73 0 57 0
+txt 623 -52678 F127 R0 %d =
+Pt A. his  + Bch cnr Wm.May Gre.Clay
+Ln w; 660p; Gre.Clay
+Pt B. Sug St.Handcocks
+Ln s30e; 166p; Handcock x SilverCrk
+Pt C. Pop 2Syc cnr Wm.Turpin
+Ln n50e; 130p; Turpin x SilverCrk
+Pt D. his cnr WWal Ash
+Ln s40e; 166p; Turpin
+Pt E. WWal Elm BEye ln And.Bogie
+Ln n25e; 51p; Bogie
+Pt F. Bch Ash
+Ln s65e; 260p; Bogie x br
+Pt G. WWal WHic
+Ln s25w; 160p; Bogie
+Pt 4Hbeam bnk SilverCrk
+Lm s45e; 170p; 
+Pt 
+Lm s75e; 30p;
+Pt 
+Lm s25e; 52p; 
+Pt Sug cnr Wm.Mayo
+Ln n; 576p; Wm.Mayo to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP survey
+Id VA#5584
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 8/3/1784
+IssDat: 5/8/1786
+SurveyTo: John Mayo Jr
+IssuedTo: John Mayo Jr
+Frm Virginia
+To John Mayo, Jr.
+Assignee: Joseph Mayo
+Wat: Silver Creek, Paint Lick Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 1400A Silver + PaintLck Crks
+SCC: 
+Adj William Mayo, John Anderson
+Dat 5/8/1786
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 4502 -43468 F127 L0 P255
+txt 4236 -40418 F127 R0 %d =
+Pt A. Pop Sug ln Wm.Mayo
+Ln w; 447p; Wm.Mayo past cnr
+Pt B. Hic Ash top rdg Jno.Mayo ln
+Ln s27e; 632p; Jno.Mayo
+Pt C. Sug NW cnr Jno.Anderson 400
+Ln e; 320p; Jno.Anderson x br (wr:360)
+Pt D. Anderson cnr Sug
+Ln n; 370p; x 2br
+Pt E. WO BEye elm
+Ln w; 146p; 
+Pt F. 2Sug Ash
+Ln n; 186p; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP survey
+Id VA#2976
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 10/02/1781
+SurDat: 08/26/1784
+IssDat: 
+SurveyTo: John Mayo Jr
+IssuedTo: John Mayo Jr
+Frm 
+To John Mayo, Jr.
+Assignee: Joseph Mayo
+Wat: Silver Creek, Paint Lick Creek
+Ref 
+! -- abstract --
+! 2/2/1788 assigned to Green Clay 1600 acres by John Mayo
+Rec 
+Re 1600A Silver + PaintLck Caveated
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re\Green Clay
+! Metes and bounds
+loc 107 -43757 F127 L0 P72 0 57 0
+txt -368 -39814 F127 R0 %d =
+Pt A. Hic Ash cnr Mayo
+Ln s27e; 635p; 
+Pt B. Sug cnr Jno.Anderson
+Ln s; 200p; Jno.Anderson
+Pt C. Anderson cnr Sug
+Ln e; 20p; Anderson
+Pt D. +cnr Anderson Sug
+Ln s; 284p; past J.A. cnr Kennedy ln
+Pt E. 2Sug cnr Jos.Scott Wm.Mayo
+Ln n33w; 1250p; Wm.Mayo
+Pt F. Pop WWal DW ln Jno.Mayo
+Ln e; 365p; Jno.Mayo to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP survey
+Id VA#0739
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 2/16/1783
+IssDat: 6/15/1784
+SurveyTo: John Anderson
+IssuedTo: John Anderson
+Frm Virginia
+To John Anderson
+Assignee: none listed
+Wat: Sivler Creek, Paint Lick Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 400A Silver + PaintLck Crks
+SCC: 
+Adj 
+Dat 6/15/1784
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 4719 -36445 F127 L0 P73 0 57 0
+txt 2677 -37449 F127 R0 %d =
+Pt lgBWal N cnr Jno.Anderson 200A
+Ln n; 200p; 
+Pt B. smSug pt ridge by br
+Ln w; 320p; 
+Pt C. Sug hd hollow westerly
+Ln s; 200p; 
+Pt D. lg Sug top high ridge
+Ln e; 320p; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP survey
+Id VA#0740
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 2/23/1783
+IssDat: 
+SurveyTo: John Anderson
+IssuedTo: John Anderson
+Frm Virginia
+To John Anderson
+Assignee: none listed
+Wat: Paint Lick Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 200A Paint Lck Crk
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 4693 -36532 F127 L0 P72 0 57 0
+txt 2937 -36158 F127 R0 %d =
+Pt lgBWal E cnr Anderson 400
+Ln w; 300p; 
+Pt B. Sug S ln Anderson 400
+Ln s; 107p; 
+Pt C. smSug W cnr Jos.Kennedy preempt Elk Garden
+Ln e; 300p; 
+Pt D. BWal Kennedy N ln preempt
+Ln n; 107p; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP survey
+Id VA#2368
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 03/10/1780
+SurDat: 06/29/1784
+IssDat: 12/02/1785
+SurveyTo: Robert Adams
+IssuedTo: 
+Frm Virginia
+To Robert Adams
+Assignee: none listed
+Wat: Silver Creek
+Ref 
+! -- abstract --
+! Treasury warrant 3625
+Rec 
+Re 500A Silver Crk
+SCC: John Adams, Andrew Millar
+Adj William Robertson
+Dat 12/02/1785
+PRESENT: 
+ALTSPELL: William Robinson
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 5251 -44312 F127 L0 P65 18 51 0
+txt 6336 -45211 F127 R0 %d =
+Pt A. lgRO 3Loc sap cnr Wm.R. bnk SC W side bel lg bend
+Ln n83e; 380p; Robertson x Silver crk
+Pt B. 3Sug Geo.Smith ln
+Ln n70w; 60p; Smith
+Pt C. 2Sug cnr Smith
+Ln n; 160p; x Taylors fk
+Pt D. lgAsh Cher
+Ln w; 368p; x SilverC 2
+Pt E. 2Ash
+Ln s; 230p; x SilverC
+Pt F. Hic BWal ln Wm.Robertson
+Ln e; 58p; Robertson to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP survey grant
+Id VA#6183
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 1785-08-30
+IssDat: 1788-04-28
+SurveyTo: William Hicks
+IssuedTo: William Hicks
+Frm Virginia
+To William Hicks
+Assignee: none listed
+Wat: Taylors Fork, Silver Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 874A Taylors Fk
+SCC: 
+Adj John Hart, Hugh Campbell, William Hay
+Dat 1788-04-28
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 22169 -48400 F127 L0 P73 0 57 0
+txt 17860 -49845 F127 R0 %d =
+Pt BWal B. NE cnr his set.
+Ln n20e; 80p; 
+Pt BWal Ash E. ln Wm.Hoy
+Ln n70w; 500p; Hoy
+Pt BWal Sug F. cnr Jno.Hart set
+Ln s20w; 635p; Hart + Hu.Campbell x TaylorFk
+Pt 2Ash G.
+Ln s70e; 180p; 
+Pt BWal Sug H.
+Ln n20e; 355p; xTaylorFk
+Pt WO 2Sug D. cnr his set.
+Ln n20e; 200p; his set.
+Pt BWal Ash C. cnr his set.
+Ln s70e; 320p; set to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP survey
+Id VA#6184
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 1785-08-30
+IssDat: 1788-04-29
+SurveyTo: William Hicks
+IssuedTo: William Hicks
+Frm Virginia
+To William Hicks
+Assignee: none listed
+Wat: Taylors Fork, Silver Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 400A Taylors Fk
+SCC: none listed
+Adj John Hart, Hugh Campbell, William Hay
+Dat 1788-04-29
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 21425 -46624 F127 L0 P73 0 57 0
+txt 19891 -48145 F127 R0 %d =
+Pt 2Ash A. fk br 1.5mi W fr Estill Ft
+Ln n20e; 200p; 
+Pt BWal Sug B.
+Ln n70w; 320p; 
+Pt BWal Ash C.
+Ln s20w; 200p; 
+Pt WO 2Sug bnk TaylorsFk D.
+Ln s70e; 320p; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP survey grant
+Id VA#4644
+ENTRY: 
+GrantNo: 1238
+EntDat: 
+WarDat: 
+SurDat: 1784-01-16
+IssDat: 1786-02-02
+SurveyTo: John Hart
+IssuedTo: John Hart
+Frm Virginia
+To John Hart
+Assignee: none listed
+Wat: Taylors Fork, Silver Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 400A Taylors Fork
+SCC: William Daugherty, Adam Woods
+Adj 
+Dat 1786-02-02
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 17831 -51007 F127 L0 P73 0 57 0
+txt 15895 -50246 F127 R0 %d =
+Pt BWal Sug NW cnr Wm.Hicks
+Ln n70w; 228.5p; 
+Pt Elm Sug B.
+Ln s20w; 280p; xbr TC
+Pt 2Sug C.
+Ln s70e; 228.5p; xbr TaylorFk
+Pt Hic D. ln Wm.Hicks
+Ln n20e; 280p; Wm.Hicks to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP grant
+Id VA#4645
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 1780-12-28
+SurDat: 1784-01-16
+IssDat: 1786-02-02
+SurveyTo: John Hart
+IssuedTo: John Hart
+Frm Virginia
+To John Hart
+Assignee: none listed
+Wat: Taylors Fork, Silver Creek
+Ref 
+! -- abstract --
+! preemption warrant 1238, adjoin his settlement on Southward and Westward side
+! grant bk. 9, p. 158-159
+Rec 
+Re 1000A Taylors Fork
+SCC: William Daugherty, Adam Woods
+Adj William Hicks
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 15694 -51894 F127 L0 P73 0 57 0
+txt 12968 -48925 F127 R0 %d =
+Pt Elm Sug NW cnr his set. B.
+Ln n70w; 206.5p; x IrvinFk TC
+Pt 2Sug E.
+Ln s20w; 515p; xbr TaylorsFk
+Pt BWal E.
+Ln s70e; 435p; x TaylorFk
+Pt 2Sug G. ln Wm.Hicks
+Ln n20e; 235p; Wm.Hicks x TaylorFk
+Pt Hic D. cnr his set.
+Ln n70w; 228.5p; sd set. xbr TaylorFk
+Pt 2Sug C. cnr his set
+Ln n20e; 280p; with set xbr TC to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP survey
+Id VA#2022
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 6/13/1783
+IssDat: 
+SurveyTo: Christopher Irvine
+IssuedTo: Christopher Irvine
+Frm Virginia
+To Christopher Irvine Jr.
+Assignee: none listed
+Wat: Tates Creek South Fork, Irvines Lick
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 400A Tates Crk
+SCC: William Sebastion, William Dougherty, William Goggins (m)
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 14925 -54869 F127 L0 P73 0 57 0
+txt 12139 -54141 F127 R0 %d =
+Pt A. 2RO BEye
+Ln w; 420p; x 2br
+Pt B. 2Hic Sug
+Ln s; 152.4p; 
+Pt 3Sug 2Hic
+Ln e; 420p; x 4br
+Pt E. WO RO Hic
+Ln n; 152.4p; xbr to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP survey grant
+Id VA#2023
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 06/13/1783
+IssDat: 04/01/1785
+SurveyTo: Christopher Irvine
+IssuedTo: Christopher Irvine
+Frm Virginia
+To Christopher Irvine Jr
+Assignee: none listed
+Wat: Tates Creek South Fork, Irvines Lick
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 1000A Tates Crk SFk
+SCC: William Sebastion, William Dougherty, William Goggins (m)
+Adj William Mayo,
+Dat 04/01/1785
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 15275 -54857 F127 L0 P73 0 57 0
+txt 15929 -53661 F127 R0 %d =
+Pt A. NE cnr his settlmnt 2RO BEye H? ln
+Ln e; 450p; H? ln x br
+Pt F. 3Hic Elm cnr Handcock in Wm.Hays ln
+Ln s20w; 402p; Hays x2br
+Pt G. Hays cnr Hicks ln 2RO Sug
+Ln n70w; 40p; Hicks ln
+Pt his cnr Jno.Hart cnr H. Wal Sug
+Ln n70w; 435p; Hart x br
+Pt his cnr F. 2Sug
+Ln s20w; 77p; Hart
+Pt K. RO Sug Ash sap cnr Wm.Mayo
+Ln n70w; 276p; Mayo x 2br
+Pt L. 2Sug
+Ln n; 30p; 
+Pt C. 3Sug 2Hic cnr settlmnt
+Ln e; 410p; settlmnt x 3br
+Pt E. WO RO Hic
+Ln n; 152.4p; his ln xbr to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP deed
+Id KyMad DB-D:349
+Frm John Bone
+To Bowdy Estill
+Wat: Silver Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 47.75A Silver Crk
+Adj 
+Dat 11/7/1797
+PRESENT: 
+ALTSPELL: Boudy Estill
+FOLLOWUP: 
+PLACES: Round Hill Branch
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re\Jno.Bone\Boud.Estill 1797
+! Metes and bounds
+loc 5457 -45304 F127 L0 P255
+txt 5028 -44975 F127 R0 %d =
+Pt lgAsh nr mouth Round Hill br
+Ln s80w; 56p; 
+Pt 2Wal
+Ln s; 120p; 
+Pt Bch by br
+Lm ;; down meanders to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP survey
+Id VA#1578
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 04/09/1784
+IssDat: 12/02/1785
+SurveyTo: William Robinson
+IssuedTo: William Robinson
+Frm Virginia
+To William Robinson
+Assignee: none listed
+Wat: Silver Creek
+Ref 
+! -- abstract --
+! link to KY SOS site  http://apps.sos.ky.gov/land/nonmilitary/patentseries/vaandokpatents/DisplayPrintableImage.aspx?DocDb=VIRGINIA%20PATENTS&DocTitle=VA%201578.0&Title=VA%201578.0&Description=ROBINSON%2c+WILLIAM&Page=7&ScaleFactor=2&CompressionFactor=60
+Rec 
+Re 1025A Silver Crk
+SCC: William Creadlebaugh, Paton Robinson
+Adj George Smith, Christopher Irvine, Caleb Calloway, John Anthony
+Dat 12/02/1785
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! x. 388 A, 1788 William Robinson -to- Nicholas Hawkins DB-A:
+! x. 165 A, 05 Aug 1789 William Robinson -to- John Pitman etal DB-A:154-157
+! part where he lives South of said Creek bounded by lands  of estate of Christopher Irvine by lands claimed by Nicholas Hawkins on one side and Silver Creek on the other granted to said William Robinson by patent from VA on treasury warrant
+! x. xx A, 11 Feb 1809 Peyton Robinson -to- Nicholas Hawkins DB-G:065-066
+! x. Salt Lick, Peyton Robinson -to- William Robinson DB-G:120-121
+! x. 13 Feb 1803 Peyton Robinson -to- William Robinson DB-G:121-122
+! x. 02 Feb 1804 John Pitman -to- William Robinson Jr DB-E:602-60
+lbl %to\%dat\File# %Id\%Re\N.Hawkins 1788 w165a\J.Pitman 165a 1789
+! Metes and bounds
+loc 10978 -43230 F127 L0 P73 0 57 0
+txt 6969 -42899 F127 R0 %d =
+Pt A. Hac 2Sug ln Geo.Smith 1100 2mi abv mth Taylors Fk
+Ln s; 186p; x 2br SilverCrk
+Pt B. 2Sug ln Ch.Irvine
+Ln w; 220p; Irvine preemp. xbr SilverCrk
+Pt C. BWal 2Sug ln Cal.Callaway cnr C.Irvine
+Ln n; 40p; Callaway
+Pt D. Ash 3Sug cnr sd ln
+Ln w; 550p; w/Callaway past Irvine cnr w/Jno.Anthony x2br
+Pt E. 2Sug WAsh Jno.Anthony ln
+Ln n; 186p; 
+Pt F. Pop Sug ln Mayo
+Ln e; 160p; Mayo
+Pt G. 3Loc lgRO bnk SilverCrk cnr Mayo
+Ln n83e; 380p; x SilverCrk
+Pt H. 3Sug ln Geo.Smith
+Ln s70e; 240p; Geo.Smith to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP survey
+Id VA#199x
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 
+IssDat: 4/01/1785
+SurveyTo: Caleb Callaway
+IssuedTo: Christopher Irvin Jr.
+Frm Virginia
+To Christopher Irvine, Jr.
+Assignee: Caleb Callaway, Joseph Benning
+Wat: Silver Creek
+Ref 
+! -- abstract --
+! KY SOS link http://apps.sos.ky.gov/land/nonmilitary/patentseries/vaandokpatents/DisplayPrintableImage.aspx?DocDb=VIRGINIA%20PATENTS&DocTitle=VA%201993.0&Title=VA%201993.0&Description=IRVIN%2c+CHRISTOPHER%2c+JR.&Page=3&ScaleFactor=2&CompressionFactor=60
+Rec 
+Re 400A Silver Crk
+SCC: Haile Talbot, William Daugherty
+Adj 
+Dat 4/1/1785
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 6749 -38375 F127 L0 P72 0 57 0
+txt 6951 -40225 F127 R0 %d =
+Pt A. HLoc Elm
+Ln n; 360p; x3br SilverC
+Pt B. 3Sug
+Ln e; 178p; 
+Pt C. Ash 3Sug
+Ln s; 360p; x SilverCrk 2br same
+Pt D. Ash Cher
+Ln w; 178p; x SilverCrk to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP survey
+Id VA#199x
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 03/30/1784
+IssDat: 04/01/1785
+SurveyTo: Christopher Irvine Jr.
+IssuedTo: Christopher Irvine Jr.
+Frm Virginia
+To Christopher Irvine, Jr.
+Assignee: Zachariah Callaway (heir to Richard Callaway), Joseph Benning
+Wat: Silver Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 500A Silver Crk
+SCC: Haile Talbot, William Daugherty
+Adj 
+Dat 4/1/1785
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 8680 -38300 F127 L0 P73 0 57 0
+txt 9292 -40104 F127 R0 %d =
+Pt SE cnr Callaway D. Ash Cher
+Ln e; 250p; 
+Pt E. WWal Elm RO
+Ln n; 320p; x br
+Pt F. Buc Hac 2Ash
+Ln w; 250p; x br + Sug
+Pt G. BWal 2Sug ln sd settlmnt
+Ln s; 320p; w/settlmnt x SilverCrk + br to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP survey
+Id VA#199x
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 3/30/1784
+IssDat: 4/01/1785
+SurveyTo: 
+IssuedTo: Christopher Irvine Jr.
+Frm Virginia
+To Christopher Irvine, Jr.
+Assignee: 
+Wat: Silver Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 500A SilverCrk
+SCC: Haile Talbot, William Daugherty
+Adj 
+Dat 4/1/1785
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 7469 -38194 F127 L0 P72 0 57 0
+txt 5799 -40032 F127 R0 %d =
+Pt A. HLoc Elm SW cnr Callaway set.
+Ln w; 222p; 
+Pt B. Sug 2Hic
+Ln n; 360p; x br
+Pt C. WWal Buc Elm
+Ln e; 222p; 
+Pt B. 3Sug NW cnr Callaway set.
+Ln s; 360p; x 3br w/set. to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP survey
+Id VA#3434
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 
+IssDat: 
+SurveyTo: William Mayo Jr.
+IssuedTo: William Mayo Jr.
+Frm Virginia
+To William Mayo Jr.
+Assignee: none listed
+Wat: Paint Lick Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 2100A Paint Lck Crk
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. 2100 A, dd mmm 17yy State of Kentucky -> first last
+! 2. 2100 A, 11 Nov 1791 William Mayo -to- Green Clay DB-B:242-246
+lbl %to\%dat\File# %Id\%Re\Green Clay 1791
+! Metes and bounds
+loc -5411 -42964 F127 L0 P72 0 57 0
+txt -3236 -41528 F127 R0 %d =
+Pt A. 2Ash ln Wm.Vanclift bnk PLC
+Ln n20w; 133p; Vanclift
+Pt B. Sug WO mkd GC Jno.Mayo ln
+Ln e; 208p; Jno.Mayo
+Pt C. Mayo cnr Pop Wal DW
+Ln s33e; 1250p; Jno.Mayo
+Pt D. his cnr + Scott 2Sug
+Ln s20e; 420p; Scott
+Pt E. 3Hic sap Miller ln
+Ln s75w; 133p; Miller
+Pt F. his cnr WO
+Ln n15w; 80p; Miller
+Pt PLC
+Ln ;; PLC meanders 3600p ot beg
+End
+! -- n ------ watercourse ------ last, first
+TYP survey
+Id VA#0797
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 5/31/1783
+IssDat: 
+SurveyTo: William Mayo
+IssuedTo: William Mayo Jr.
+Frm Virginia
+To William Mayo, Jr.
+Assignee: none listed
+Wat: Paint Lick Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 1400 Paint Lck Crk
+SCC: John Mitchel, Thomas Townsden
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: Trace leading from Boonsboro to Logans Station, Logans Trace
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -7954 -46382 F127 L0 P72 0 57 0
+txt -8507 -48765 F127 R0 %d =
+Pt A. dblLinn lgBEye Trc cnr Wm.Kirtley
+Ln s70w; 124p; Kirtley
+Pt B. 2WO Wal PLC
+Lm s50e; 60p; 
+Pt 
+Lm n80e; 95p; 
+Pt 
+Lm s50e; 104p; 
+Pt 
+Lm s15e; 68p; 
+Pt C. 2BEye Ash HL
+Ln e; 42p; 
+Pt D. Bch Sug Linn cnr Jno.May
+Ln n; 316p; Jno.Mayo x br
+Pt E. his cnr Sug
+Ln n20w; 760p; Mayo x2br
+Pt F. Sug Jos.Craig ln
+Ln s76w; 341p; Craig
+Pt G. 2WO Lyd.Bacon ln
+Ln s20e; 48p; 
+Pt H. WO 2Sug Loc Wm.Kirtley on PLC
+Ln n70e; 122p; his ln
+Pt I. WWal 3Sug side ridg
+Ln s20e; 815p; Kirtley x3br PLC to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP survey
+Id VA#2115
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 5/31/1783
+IssDat: 
+SurveyTo: John Mayo Jr.
+IssuedTo: John Mayo Jr.
+Frm Virginia
+To John Mayo, Jr.
+Assignee: Joseph Mayo
+Wat: Paint Lick Creek, Silver Creek
+Ref 
+! -- abstract --
+! on the dividing ridge between Paint Lick and Silver Creeks
+Rec 
+Re 1400A PntLckCrk SilverCrk
+SCC: William Cradlebaugh, Thomas Thownsden, Jacob Williams
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. 1400 A, dd mmm 17yy State of Virginia -to- John Mayo Jr
+! 2. 1400 A, William Mayo -to- Green Clay DB-B:238-240
+lbl %to\%dat\File# %Id\%Re\Gr.Clay 1791
+! Metes and bounds
+loc -2585 -44038 F127 L0 P72 0 57 0
+txt -5235 -47784 F127 R0 %d =
+Pt A. cnr Jno.Mayo 2Bch Ash Hic
+Ln n; 620.5p; Jno.Mayo
+Pt B. Sug his cnr 15p W And.Bogie W cnr Br SC hillsd
+Ln w; 361p; 
+Pt C. Sug
+Ln s; 620.5p; x2Br PLC Logans Trc
+Pt D. Bch Sug Linn
+Ln e; 361p; x2br PLC to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP survey
+Id VA#2081
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 5/31/1783
+IssDat: 
+SurveyTo: John Mayo Jr.
+IssuedTo: John Mayo Jr.
+Frm Virginia
+To John Mayo, Jr.
+Assignee: Joseph Mayo
+Wat: Silver Creek, Paint Lick Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 1400A SilverCrk PntLckCrk
+SCC: John Mitchel, Thomas Townsden
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -5248 -55457 F127 L0 P72 0 57 0
+txt -5536 -52091 F127 R0 %d =
+Pt A. 2Ash cnr Craig + St.Handcock
+Ln s30e; 306p; Handcock x2br
+Pt B. Sug BEye his cnr
+Ln n60e; 103p; sd ln
+Pt C. his cnr SilverCrk Pop 2Syc
+Lm s30e; 200p; est dir
+Pt D. Sug
+Ln s40e; 50p; 
+Pt E. Bch Hic WO And.Bogie ln
+Ln s25w; 115p; And.Bogie xSilverCrk
+Pt F. his cnr dblLinn cnr Jno.May
+Ln w; 360p; his ln
+Pt H. his cnr Sug
+Ln s; 303p; his ln
+Pt I. Wk.Mayo cnr Sug
+Ln n20w; 762p; Wm.Mayo x2smBr PLC
+Pt K. his cnr Sug Jos.Craig ln
+Ln n76e; 303p; Jos.Craig to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP survey
+Id KyMad Bk pg65b
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 9/29/1798
+IssDat: 
+SurveyTo: Robert Rodes
+IssuedTo: 
+Frm 
+To 
+Assignee: Jesse Harris, Francis Talliafarro
+Wat: Silver Creek
+Ref 
+! -- abstract --
+! on the waters of Silver Creek adjoining George Smiths survey of 1100 acres which includes the forks of Taylors fork of Silver Creek on the South and the former Survey of said Rodes 380 acres made upon said entry on the West bounded as followeth
+Rec 
+Re 120A Silver Crk
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 10931 -41818 F127 L0 P255
+txt 9876 -42997 F127 R0 %d =
+Pt SW cnr fmr 380A 2Sug A. cnr Wm.Robertson
+Ln n62w; 160p; 
+Pt stk B.
+Ln n20e; 164p; 
+Pt intersect Smith ln C.
+Ln s70e; 89p; Smith
+Pt 2Sug Hac D. in sd ln cnr fmr 380A
+Ln s; 198p; Rodes 380 to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP survey
+Id KyMad SB- pg 18-19
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 9/29/1798
+IssDat: 
+SurveyTo: Robert Rodes
+IssuedTo: 
+Frm 
+To Robert Rodes
+Assignee: Joel Harris, Frances Talliafarro
+Wat: 
+Ref 
+! -- abstract --
+! 380 acres part of an entry for 500 acres on treasury warrant #8081 situate lying on the waters of Silver Creek adjoining George Smiths survey of 1100 acres which includes the fork of Taylors fork of Silver Creek
+Rec 
+Re 380A Silver Crk
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 11757 -43093 F127 L0 P72 0 57 0
+txt 11418 -42310 F127 R0 %d =
+Pt A. Smith SE cnr 2Ash
+Ln n70w; 75p; 
+Pt B. 2Sug Hac Smith ln cnr Wm.Robertson
+Ln s; 198p; Wm.Robertson
+Pt C. cnr
+Ln e; 179p; 
+Pt Hic Lyn Cher SE cnr Wm.Kyle Gass ln
+Ln n20e; 294p; 
+Pt E. stk
+Ln n70w; 164p; 
+Pt intersection sd ln with Smith ln
+Ln s20w; 164p; Smith ln to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP survey
+Id KyMad SB 84b
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 11/8/1804
+IssDat: 
+SurveyTo: Magdalen Price (fmr Irvine)
+IssuedTo: 
+Frm 
+To Magdalen Price
+Assignee: 
+Wat: Silver Creek
+Ref 
+! -- abstract --
+! agreeable to a decree and order of the Fayette Circuit Court wherein Magdalen Price formerly Magdalen Irvine is plaintiff against William Robertson &c Defts In Chancery I have surveyed and laid off the said 200 acres as followeth
+Rec 
+Re 200A Silver Crk
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. 200 A, dd mmm 17yy State of Kentucky -to- first last
+! x. 200 A, 25 Sep 1811 John Pitman + Magdalane -to- William Roberson DB-H:245-248
+lbl %to\%dat\File# %Id\%Re\J.Pitman wx\Wm.Roberson 1811
+! Metes and bounds
+loc 8509 -44853 F127 L0 P72 0 57 0
+txt 8483 -43400 F127 R0 %d =
+Pt A. Sug+stump SW cnr Geo.Smith 1100
+Ln s70e; 120p; G.Smith
+Pt branch
+Ln s70e; 59p; 
+Pt B. 2WWal WHic
+Ln s20w; 166p; 
+Pt Silver Crk
+Ln s20w; 13p; 
+Pt C. Sug BWal
+Ln n70w; 179p; x SilverCrk 2x
+Pt D. stk
+Ln n20e; 179p; x SilverCrk to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP deed
+Id KyMad DB-C:548-
+Frm Green Clay
+To William Jones
+Wat: Silver Creek, Paint Lick Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 265A Silver+PaintLck Crks
+SCC: 
+Adj 
+Dat 8/31/1795
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! x. n A, 02 Sep 1799 William Jones -to- James Mason db-d:459-650
+! references William Bone at boudary line, Thomas Ellison, Nicholas Jasper, Wilham Hervey, Shepard
+lbl %to\%dat\File# %Id\%Re\Gr.Clay\Wm.Jones 1795\Jas.Mason 1799
+! Metes and bounds
+loc -2922 -46748 F127 L0 P64 0 51 0
+txt -2480 -47912 F127 R0 %d =
+Pt 2WHic cnr 100 Jno.Turner
+Ln n; 126p; Jno.Turner
+Pt cnr 2Linn
+Ln n30e; 120p; 
+Pt 2WWal cnr Whitlow 100
+Ln s65e; 126p; Whitlow
+Pt cnr BEye
+Ln n25e; 74p; Whitlow
+Pt Pop Syc cnr And.Bogie
+Ln s50e; 70p; And.Bogie
+Pt stk Gre.Clay cnr
+Ln s26w; 236p; Clay
+Pt Sug Jno.Bone cnr
+Ln n68w; 90p; Jno.Bone
+Pt lgPop Sug Jno.Bone cnr
+Ln s85w; 72p; Jno.Bone to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP deed
+Id DB-C:480-482
+Frm Green Clay
+To Jacob Baker
+Wat: Paint Lick Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 190A PaintLckCrk
+Adj William Attison/Addison
+Dat 2/20/1795
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -3191 -47125 F127 L0 P64 0 51 0
+txt -4446 -47449 F127 R0 %d =
+Pt Lin Hic cnr Wm.Attison
+Ln w; 19p; 
+Pt WWal
+Ln s10w; 48p; 
+Pt at rd
+Ln s25w; 80p; 
+Pt WWal Hic
+Ln n40w; 62p; 
+Pt Loc
+Ln n55w; 28p; 
+Pt WWal
+Ln n30w; 20p; 
+Pt Sug
+Ln n15w; 20p; 
+Pt Sug
+Ln n25w; 22p; 
+Pt Hic
+Ln n50w; 20p;
+Pt BEye
+Ln n20w; 16p;
+Pt WO
+Ln n15w; 18p; 
+Pt Sug
+Ln n27e; 106p; 
+Pt Ash
+Ln e; 106p; 
+Pt 2Sug
+Ln s; 126.5p; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP deed
+Id DB-C:218-219
+Frm Green Clay
+To William Addison
+Wat: Silver Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 50A Silver Crk
+Adj 
+Dat 6/3/1794
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. 50 A, dd mmm 17yy Green Clay -to- William Addison
+! x. 50 A, 
+! x. 50 A, 07 May 1800 Nicholas Jasper -to- Anthony Herrington db-e:176-177
+!  witness Leven Cole, William Bone, Agness Bone
+lbl %to\%dat\File# %Id\%Re\Green\Addison\Jasper\Herrington
+! Metes and bounds
+loc -3478 -48046 F127 L0 P64 0 51 0
+txt -3429 -47508 F127 R0 %d =
+Pt 2Sug
+Ln e; 63.5p; 
+Pt Elm
+Ln s; 126.5p; 
+Pt WWal
+Ln w; 63.5p; 
+Pt Lin Hic
+Ln n; 126.5p; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP deed
+Id DB-C:219-220
+Frm Green Clay
+To Thomas Ellesson
+Wat: Silver Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 100A Silver Crk
+Adj 
+Dat 6/3/1794
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -2842 -49844 F127 L0 P255
+txt -3960 -49260 F127 R0 %d =
+Pt cnr WO Whitlow ln
+Ln w; 134p; 
+Pt DW Sug
+Ln s15w; 120p; 
+Pt cnr Hic
+Ln e; 134p; 
+Pt Elm
+Ln n15e; 120p; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP deed
+Id DB-C:221-222
+Frm Green Clay
+To Thomas Long
+Wat: Silver Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 100A Silver Crk
+Adj 
+Dat 6/3/1794
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -4110 -49988 F127 L0 P255
+Pt DW Sug Tho.Ellerson cnr
+Ln e; 134p; 
+Pt WO
+Ln n15e; 120p; est. dist. 
+Pt Bch
+Ln w; 134p; x br nearly W est. dist.
+Pt Lin cnr
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP deed
+Id DB-B:468-470
+Frm Green Clay
+To Pleasant Whitlow
+Wat: Silver Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 100A Silver Crk
+Adj 
+Dat 4/19/1793
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -393 -49494 F127 L0 P64 0 51 0
+txt -1494 -49099 F127 R0 %d =
+Pt 3Elm cnr Callaway heir
+Ln s25w; 52p; And.Bogie
+Pt Pop Syc Bogie cnr
+Lm s42w; 40p; up branch
+Pt 
+Lm s12w; 46p; 
+Pt BEye fork of br
+Ln n65w; 126.5p; 
+Pt WWal
+Ln n25e; 126.5p; 
+Pt Bch Callaway ln
+Ln s65e; 126.5p; Callaway to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP deed
+Id DB-B:409-111
+Frm Green Clay
+To Edward Roberts Jr.
+Wat: Silver Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 150A Silver Crk
+Adj 
+Dat 11/6/1792
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. 150 A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 5201 -48825 F127 L0 P255
+txt 4137 -48035 F127 R0 %d =
+Pt Hb on br ln Eli.Logsden
+Ln s20e; 28p; 
+Pt Greens Br
+Lm s20w; 56p; Greens Br
+Pt 
+Lm s; 20p; 
+Pt 
+Lm s20w; 80p; 
+Pt 2WWal Elm
+Ln w; 112p; 
+Pt Rbud WWal Ash
+Ln n; 174p; 
+Pt 2Bch
+Ln e; 54p; 
+Pt 2Hic cnr Logsden
+Ln e; 106p; Logsden to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP deed
+Id DB-B:92-095
+Frm Green Clay
+To Andrew Bogie
+Wat: Silver Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 400A Silver Crk
+Adj 
+Dat 11/8/1790
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: Bogies Branch
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 914 -54743 F127 L0 P255
+Pt Crk where Ric.Callaway up ln x
+Ln ; p; up crk
+Pt 2Sug 10p abv mouth Long br
+Ln s28w; 200p; 
+Pt lg Hic Sug
+Ln n27w; 320p; 
+Pt Syc Bogies Br
+Ln ; p; down br 80p
+Pt 3Elm cnr Callaway
+Ln n25e; 140p; Callaway to beg
+Pt 
+Ln ; p; 
+Pt 
+Ln ; p; 
+Pt 
+Ln ; p; 
+End
+! -- n ------ watercourse ------ last, first
+TYP deed
+Id DB-B:201-
+Frm Green Clay
+To Asaph Walker
+Wat: Silver Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 300A Silver Crk
+Adj 
+Dat 12/6/1791
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -1254 -55250 F127 L0 P255
+txt -1866 -55460 F127 R0 %d =
+Pt Ash bnk SilverCrk
+Ln n25e; 45p; 
+Pt Bch Hic WOstmp Callaway ln
+Ln n40w; 56p; 
+Pt Silver Crk
+Lm n18e; 28p; 
+Pt 
+Lm n20w; 20p; x Silver Crk
+Pt 
+Lm s56w; 120p; 
+Pt lgAsh
+Ln s25e; 166p; 
+Pt Hic Sug
+Ln s54e; 174p; 
+Pt Lyn 2Sug
+Ln n25e; 30p; 
+Pt stk Bogies ln
+Ln n35w; 8p; 
+Pt Ash his cnr
+Ln n55e; 20p; Bogie
+Pt Lynn
+Ln n25e; 20p; x Silver crk to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP deed
+Id DB-B:388-390
+Frm Green Clay
+To Elihu Green
+Wat: Silver Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 250A Silver Crk
+Adj 
+Dat 9/11/1792
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: Greens Branch
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! ?. 3/22/1796 Richard Lee to Joseph Matthews DB-D:243-244 107A Silver Creek possible
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 5899 -48813 F127 L0 P64 0 51 0
+txt 3182 -49850 F127 R0 %d =
+Pt Sug cnr El.Logsden bnk GreensBr Wm.Mayo ln
+Ln s; 206p; Mayo
+Pt Cher ln Rob.Adams low grounds SilverCrk
+Ln w; 100p; Adams ?dist
+Pt Adams cnr on Cr Hill
+Ln s; 50p; Adams ?dist
+Pt Adams x Boud Estill
+Ln w; 130p; Boud Estill ?dist
+Pt Silver Crk
+Lm n30w; 160p; down crk ?dir ?dist
+Pt cnr Wm.Mayo
+Ln n; 300p; Wm.Mayo ?dist
+Pt ln Jas.Quinn disputed ln
+Ln e; 150p; disp ln
+Pt cnr Eli.Logsden
+Ln s; 180p; Eli.Logsden
+Pt his cnr 2Hic ln Ed.Roberts
+Ln w; 54p; Ed.Roberts
+Pt 2Bch his cnr
+Ln s; 174p; Ed.Roberts
+Pt his cnr Rbud WWal Ash
+Ln e; 112p; Ed.Roberts
+Pt his cnr 2WWal Elm GreensBr
+Lm ;; up br to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP deed
+Id DB-B:355-357
+Frm Green Clay
+To Edward Logsden
+Wat: Otter Creek
+Ref 
+! -- abstract --
+! part of survey belonging to William Mayo
+Rec 
+Re 192.5A Otter Crk
+Adj 
+Dat 6/2/1792
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 27338 -50120 F127 L0 P255
+txt 26646 -48834 F127 R0 %d =
+Pt WO Ash Elm Jos.Logsden ln
+Ln s; 86p; 
+Pt his cnr 2WO
+Ln w; 260p; 
+Pt Wthorn ln Jno.Orchard
+Ln s; 78p; Jno.Orchard
+Pt Ash Hic Sug WO cnr Orchard on Jos.Phelps ln
+Ln n19e; 46p; Phelps
+Pt Hic BEye cnr Phelps
+Ln s73e; 318p; Phelps
+Pt WO cnr Geo.Ollers
+Ln n20e; 80p; 
+Pt smHic
+Ln n10w; 84p; 
+Pt Rbud
+Ln n52w; 93p; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP deed
+Id DB-C:303-304
+Frm Green Clay
+To Elisha Logsdon
+Wat: Taylors Fork
+Ref 
+! -- abstract --
+! part of 1400 acres granted William Mayo bearing 11/13/1784 conveyed 11/11/1791 to Green Clay
+Rec 
+Re 200A Taylors Fk
+Adj 
+Dat 7/7/1794
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 6187 -50612 F127 L0 P64 0 51 0
+txt 4700 -49853 F127 R0 %d =
+Pt Wm.Mayo ln x Jno.Finney disp ln
+Ln s; 179p; Mayo ln x Green br
+Pt Sug cnr
+Ln w; 179p; x br
+Pt 2Hic Ed.Roberts ln cnr Jno.Simons
+Ln n; 179p; Simons past cnr w Zech.Parriss ln
+Pt Bch Finney disp ln
+Ln e; 179p; disp ln to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP deed
+Id DB-C:548-551
+Frm Green Clay
+To William Jones
+Wat: Silver Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 682A
+Adj 
+Dat 8/31/1795
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 1965 -44392 F127 L0 P64 0 51 0
+txt 440 -46037 F127 R0 %d =
+Pt Sug WAshs Jno.Mayo ln x Barnett ln
+Ln n; 104p; Barnett
+Pt his cnr Pop DW
+Ln e; 262p; Barnett
+Pt Bch Adams ln
+Ln n; 45p; Adams
+Pt DW Hic Bou.Estill ln
+Ln s80w; 62p; Bou.Estill
+Pt his cnr Sug
+Ln n50w; 210p; Bou.Estill
+Pt his cnr Ash Sug Bogies ln
+Ln s40w; 64p; Bogie
+Pt his cnr Hic Sug
+Ln n50w; 194p; Bogie
+Pt lgPop cnr Green Clay
+Ln s15e; 20p; Clay
+Pt his cnr Bch
+Ln s20w; 40p; Clay
+Pt his cnr Sug Ash
+Ln s40w; 21p; Clay
+Pt his cnr Bch
+Ln s25w; 120p; Clay
+Pt his cnr Bch
+Ln n80w; 54p; Clay
+Pt Sug
+Ln s60w; 38p; Clay
+Pt his cnr Bch
+Ln s40w; 48p;
+Pt his cnr 2Bch
+Ln n79w; 18p; Clay
+Pt his cnr Linn Elm cnr Boones 
+Ln s61w; 120p; Boone
+Pt his cnr Bch G.Clay ln
+Ln s60.5e; 20p; his ln
+Pt his cnr Linn DW
+Ln e; 450p; his + Mayo ln to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP survey
+Id VA#1973
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 6/6/1783
+IssDat: 
+Frm Virginia
+To William Turpine
+Wat: Silver Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 166A SilverCrk
+SCC: 
+Adj 
+Dat 1/1/1785
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -2761 -52582 F127 L0 P73 0 57 0
+txt -2011 -52370 F127 R0 %d =
+Pt Syc cnr Ste.Handcock + Mayo
+Ln s40e; 230p; along ln x SilverCrk
+Pt Rogers ln
+Ln n25e; 140p; Rogers x br 
+Pt WWal Elm Mul BEye sd ln
+Ln n40w; 180p; x 2br
+Pt WWal Ash
+Ln s50w; 130p; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP survey
+Id VA#6193
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 
+IssDat: 
+Frm 
+To Stephen Handcock
+Wat: Silver Creek
+Ref 
+! -- abstract --
+! adjoining land of Caleb Calloway known as the Buckel on the South side of the same
+Rec 
+Re 200A Silver Creek
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -13004 -62456 F127 L0 P255
+txt -12677 -61602 F127 R0 %d =
+Pt 
+Ln ; p; 
+Pt 
+Ln ; p; 
+Pt 
+Ln ; p; 
+Pt 
+Ln ; p; 
+Pt 
+Ln ; p; 
+Pt 
+Ln ; p; 
+Pt 
+Ln ; p; 
+Pt 
+Ln ; p; 
+End
+! -- n ------ watercourse ------ last, first
+TYP deed
+Id DB-D:0372-
+Frm John Barnett
+To Boud Estill
+Wat: Silver Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 100A Silver Crk
+Adj 
+Dat 2/6/1789
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. 100 A, dd mmm 17yy State of Kentucky -> first last
+! x.  50 A, 28 Dec 1803 Boudy Estill -to- Ezekiel Evans DB-D:586-687
+lbl %to\%dat\File# %Id\%Re\E.Evans e50a 1803
+! Metes and bounds
+loc 4622 -43946 F127 L0 P64 0 51 0
+txt 3728 -44511 F127 R0 %d =
+Pt Hic Wal cnr Rob.Adams Wm.Robinson ln
+Ln w; 133.3p; Robinson
+Pt Hic Pop W side Baughs Br
+Lm n; 120p; meanders 120p as str ln
+Pt Ash 2Bch E side same
+Ln e; 133.3p; 
+Pt BWal 2Sug Adams ln
+Ln s; 120p; Adams to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP survey
+Id VA#5438
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 7/16/1785
+IssDat: 
+Frm Virginia
+To John Barnett
+Wat: Silver Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 387.5A Silver Crk
+SCC: William McGuire, Paton Robinson
+Adj William Robinson, Robert Adams
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 3482 -42159 F127 L0 P72 0 57 0
+txt 2450 -43202 F127 R0 %d =
+Pt A. WAsh 2Sug ln 1000A Jno.Anthony cnr Wm.Robinson
+Ln n; 186p; Robinson
+Pt B. Pop Sug cnr Robinson
+Ln e; 100p; Robinson
+Pt C. BWal Hic Robinson ln Rob.Adams cnr
+Ln n; 124p; Rob.Adams
+Pt D. BWal 2Sug sd ln
+Ln w; 260p; 
+Pt E. DW Pop
+Ln s; 310p; 
+Pt F. 2Sug in ln Jno.Anthony
+Ln e; 160p; Jno.Anthony to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP survey
+Id VA#3354
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 3/31/1784
+IssDat: 04/04/1786
+Frm Virginia
+To John Anthony heirs
+Wat: Silver Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 1000A SilverCrk Caveated by Mayo
+SCC: Haiale Talbot, William Daugherty
+Adj Christopher Irvine, Hugh Ross, Samuel Bell, John Anderson
+Dat 4/4/1786
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! x. 1000 A, 27 Aug 1788 John Anthony -to- Christopher and William Irvine DB-D:606-608
+lbl %to\%dat\File# %Id\%Re\Chr + Wm Irvine 1788
+! Metes and bounds
+loc 8698 -38350 F127 L0 P73 0 57 0
+txt 2457 -39493 F127 R0 %d =
+Pt A. Cher Ash SE cnr Ch.Irvine
+Ln s; 210p; x SilverCrk
+Pt B. RO ln Sam.Bell
+Ln w; 178p; Sam.Bell x Elk Gardin Crk
+Pt C. Sug cnr Bell ln in Hu.Ross ln
+Ln n; 200p; Hu.Ross
+Pt D. 2Sug cnr Ross
+Ln w; 532p; ln Hu.Ross ln Jno.Anderson 400
+Pt E. Sug cnr Anderson
+Ln n; 370p; 
+Pt F. WWal Hic Cher
+Ln e; 326p; 
+Pt G. WWal BEye Elm cnr Ch.Irvine
+Ln s; 360p; x 2br SilverCrk
+Pt H. Sug 2Hic sap cnr sd
+Ln e; 400p; x SilverCrk Ch.Irvine to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP survey
+Id VA#3652
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 4/9/1785
+IssDat: 8/14/1786
+Frm Virginia
+To John Anthony
+Wat: Silver Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 318A Silver Crk
+SCC: Haile Talbot, William Daugherty
+Adj 
+Dat 8/14/1786
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 11528 -38139 F127 L0 P73 0 57 0
+txt 11624 -40815 F127 R0 %d =
+Pt A. WWal Elm RO SE cnr Chr.Irvine(Calloway)
+Ln e; 20p; 
+Pt B. 2WHic W ln El.Peyton pre 400 StoneLck
+Ln n20e; 240p; his ln
+Pt C. BWal Sug his cnr
+Ln n; 310p; 
+Pt D. 2Sug
+Ln w; 40p; 
+Pt E. 2Sug ln 1100 Geo.Smith
+Ln s20w; 45p; Smith
+Pt F. lgWAsh Sug cnr Smith
+Ln n70w; 100p; 
+Pt G. 2Sug Smith ln cnr Wm.Robinson
+Ln s; 186p; Wm.R
+Pt H. 2Sug N ln Ch.Irvine pre
+Ln e; 30p; Irvine
+Pt I. BEye Hac 2Ash cnr Irvine
+Ln s; 320p;
+End
+! -- n ------ watercourse ------ last, first
+TYP deed
+Id DB-C:548-551
+Frm Green Clay
+To William Jones
+Assignee: 
+Wat: 
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 950A Paint LckCrk
+Adj Peter Ford, Matthew Adams, Robert Adams, Edward Stephenson
+Dat 8/31/1795
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -3498 -43409 F127 L0 P65 0 51 0
+txt -3609 -40998 F127 R0 %d =
+Pt 3Sug br PaintLckCrk cnr Pullin
+Ln s11e; 96p; Pullin
+Pt his cnr Sug WWal WO
+Ln s81w; 60p; +ln
+Pt Hic Sig on PLC
+Lm s50w; 140p; 
+Pt 
+Lm s29w; 38p; 
+Pt 
+Lm s62w; 14p; 
+Pt Ash Elm ln Kingcaid 50A
+Ln s22e; 60p; 
+Pt 2WO cnr Pet.Ford
+Ln s62e; 170p; 
+Pt Bch on PLC
+Lm n54e; 58p; 
+Pt 
+Lm s73e; 18p; 
+Pt 
+Lm s43e; 70p; 
+Pt 
+Lm s10w; 70p; 
+Pt BEye Syc Mat.Adams cnr
+Ln s64e; 48p; Mat.Adams
+Pt DW Hic Rob.Adams cnr
+Ln s37e; 307.5p; 
+Pt his cnr 2Sug ln 100 Ed.Stephenson wid
+Ln n50e; 50p; wid Stephenson
+Pt cnr
+Ln s40e; 100p; +ln pass cnr 14p
+Pt stk ln Cook
+Ln n56e; 40p; Cook
+Pt Bch
+Ln n27w; 595p; 
+Pt x Potts
+Ln s75w; 50p; Potts
+Pt his cnr Ash
+Ln n15w; 126p; + his ln
+Pt his cnr Pop Linn
+Ln n75e; 26p; 
+Pt 2Bch Hic
+Ln n27w; 100p; 
+Pt Bch on sd br PLC
+Lm n70w; 34p; 
+Pt 
+Lm n75w; 34p; 
+Pt 
+Lm s87w; 28p; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP survey
+Id SB1:105
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 6/14/1809
+IssDat: 
+SurveyTo: Michael Woods heirs
+IssuedTo: 
+Frm 
+To Michael Woods heirs
+Assignee: Archibald Woods, Alexander Neely, Robert Kenney
+Wat: Silver Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 109.5A Silver Crk
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 4607 -35366 F127 L0 P255
+txt 3434 -34946 F127 R0 %d =
+Pt BWal A. SW cnr Wil.Morrison(Ross) cnr 200 Anderson
+Ln s; 100p; Woods heirs 140.5 x smBr
+Pt D. stk Jos.Kennedy fld SW cnr Woods 140.5
+Ln n88w; 180p; 
+Pt stk Th.Bullard fld C.
+Ln n; 90p; 
+Pt BEye WHic ln orig Jno.Anderson 1200
+Ln n87.5e; 180p; Anderson old ln to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP survey
+Id SB1:105
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 6/14/1809
+IssDat: 
+SurveyTo: Michael Woods heirs
+IssuedTo: 
+Frm 
+To Michael Woods heirs
+Assignee: Archibald Woods, Alexander Kelly, Robert McKinney
+Wat: 
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 140.5A Silver Crk
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 6800 -35203 F127 L0 P255
+txt 5205 -34772 F127 R0 %d =
+Pt A. SE cnr Wm.Morrison 400 (HR) Sug
+Ln s; 28p; 
+Pt sm branch
+Ln s; 72p; 
+Pt B. Sug
+Ln n88w; 10p; 
+Pt branch
+Ln n88w; 210p; 
+Pt stk Jos.Kennedy fld C.
+Ln n; 104.5p; x sm br
+Pt Bwal SW cnr Morrison cnr 200 Jno.Anderson
+Ln s86e; 220.25p; Morrison to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP survey
+Id SB1:105-106
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 
+IssDat: 
+SurveyTo: Thomas Kennedy
+IssuedTo: 
+Frm 
+To 
+Assignee: David Maxwell
+Wat: 
+Ref 
+! -- abstract --
+! https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS4K-2TV7?i=115&cat=429443
+Rec 
+Re 620A Silver Crk
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 9782 -35192 F127 L0 P255
+Pt 
+Ln ; p; 
+Pt 
+Ln ; p; 
+Pt 
+Ln ; p; 
+Pt 
+Ln ; p; 
+Pt 
+Ln ; p; 
+Pt 
+Ln ; p; 
+Pt 
+Ln ; p; 
+Pt 
+Ln ; p; 
+End
+! -- n ------ watercourse ------ last, first
+TYP deed
+Id DB-D:39-41
+Frm William Jones
+To Boud Estill
+Assignee: 
+Wat: Silver Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 206A Silver Crk
+Adj 
+Dat 6/9/1796
+6PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 4068 -45622 F127 L0 P255
+Pt lgSug cnr Boud
+Ln n80e; 63p; Boud
+Pt Hic
+Ln s3e; 46p; 
+Pt Hic DW
+Ln s84w; 184p; x br
+Pt Sug Bch
+Ln n6w; 25p; 
+Pt Bch Sug on br
+Lm s60w; 13p; up br
+Pt 
+Lm s55w; 21p; 
+Pt 
+Lm s72w; 26p; 
+Pt 
+Lm s46w; 10p; 
+Pt Hic Sug Elm on br
+Ln n45w; 88p; 
+Pt Hic WWal
+Ln n; 122p; 
+Pt DW smBch Bogie ln
+Ln s50e; 50p; est dist Bogie
+Pt cnr Bogie
+Ln n40e; 64p; est dist Bogie
+Pt cnr Bogie
+Ln s50e; 206p; Estill to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP deed
+Id DB-E:798-799
+Frm Boud Estill
+To Joseph Logsdon
+Assignee: 
+Wat: Silver Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 100A Silver Crk
+Adj 
+Dat 2/20/1805
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 3549 -45209 F127 L0 P255
+txt 1904 -45762 F127 R0 %d =
+Pt 2Bch
+Ln s84w; 64.5p; x br
+Pt Sug Bch
+Ln n6w; 25p; ?60deg
+Pt Bch Sug on br
+Lm s60w; 13p; 
+Pt 
+Lm s55w; 21p; 
+Pt 
+Lm s72w; 26p; 
+Pt 
+Lm s46w; 10p; 
+Pt Hic Sug Elm on br
+Ln n45w; 88p; 
+Pt Hic WWal
+Ln n; 122p; 
+Pt DW smBch Bogies ln
+Ln s50e; 100p; ?dist
+Pt his cnr
+Ln ; ; 
+Pt 
+End
+! -- n ------ watercourse ------ last, first
+TYP deed
+Id DB-C:201
+Frm Green Clay
+To Henry Potts
+Assignee: 
+Wat: 
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 100A PaintLckCrk
+Adj 
+Dat 6/1/1794
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. 100 A, 01 Jun 1794 Green Clary -to- Henry Potts db-c:210
+! 2. 100 A, 24 Dec 1803 Henry Potts -to- John Schooler db-h:027-028
+lbl %to\%dat\File# %Id\%Re\Clay\He.Potts 1794\Jno.Schooler 1803
+! Metes and bounds
+loc -2542 -42381 F127 L0 P255
+txt -2152 -41753 F127 R0 %d =
+Pt Bch Jones ln
+Ln n75e; 80p; 
+Pt Pop Sug Wm.Morrow ln
+Ln s16e; 80.5p; Wm.Morrow
+Pt Elm his cnr
+Ln n74e; 36p; Morrow
+Pt Pop RO SO sd ln
+Ln s15e; 66.5p; 
+Pt WWal Elm
+Ln s75w; 126.5p; 
+Pt Ash top ridge
+Ln n15w; 126.5p; 
+Pt Lin Pop
+Ln n75e; 24p; 
+Pt Bch Jones cnr
+Ln ; ; Jones 20.5p to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP deed
+Id DB-B:462-465
+Frm Green Clay
+To William Morrow
+Assignee: 
+Wat: Paint Lick Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re Paint LckCrk
+Adj 
+Dat 5/7/1793
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -735 -43355 F127 L0 P255
+Pt DW WWal Geo.Smiley ln
+Ln s74w; 120.5p; 
+Pt WWal
+Ln s16e; 126.5p; 
+Pt Elm
+Ln n74e; 120.5p; 
+Pt 2Sug Smiley ln
+Ln n16w; 126.5p; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP deed
+Id DB-E:454-
+Frm Green Clay
+To James Bogie
+Assignee: 
+Wat: Silver Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 200A Silver Crk
+Adj 
+Dat 2/7/1803
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 706 -48001 F127 L0 P64 0 51 0
+txt -597 -47132 F127 R0 %d =
+Pt lgPop And.Bogie ln cnr Lev.Cole
+Ln s15e; 20p; Cole
+Pt Bch cnr Cole
+Ln s20w; 43p; 
+Pt Sug Ash cnr Cole
+Ln s40w; 21p; 
+Pt Bch cnr Cole
+Ln s25w; 120p; 
+Pt Bch cnr Cole + Jno.Schoolar
+Ln n80w; 56p; Schoolar
+Pt Sug cnr Schoolar
+Ln s60w; 40p; 
+Pt Bch cnr Schoolar
+Ln s40w; 40p; 
+Pt 2BAsh WWal cnr Schoolar + Gr.Clay
+Ln n50w; 60p; Gr.Clay
+Pt Sug WWal cnr Clay in Crews ln
+Ln n26e; 278p; Crews
+Pt stk And.Bogies ln
+Ln s49e; 124p; And.Bogie to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP deed
+Id DB-D:580-582
+Frm Elihu Green
+To Daniel Green
+Assignee: 
+Wat: Silver Creek
+Ref 
+! -- abstract --
+! adjoining Caldwells and Porters Mill tract
+Rec 
+Re 127A Silver Crk
+Adj 
+Dat 2/10/1803
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 4396 -45976 F127 L0 P64 0 51 0
+txt 3763 -46746 F127 R0 %d =
+Pt Bch nr bnk S.C. cnr Boud Estill
+Ln s80w; 90p; Bo.Estill
+Pt Sug
+Ln n30w; 150p; 
+Pt Syc Greens Br
+Lm n70e; 50p; up br
+Pt 
+Lm n64e; 50p; 
+Pt 
+Lm n64e; 32p; 
+Pt Hic N side br opp mouth sm br
+Lm s54e; 10p; up sm br
+Pt 
+Lm s64e; 80p; 
+Pt 
+Lm e; 16p; 
+Pt forks
+Lm s58e; 16p; up Rt hand fk
+Pt Sug Elm
+Ln n66e; 32p; 
+Pt WWal nr hd sm br
+Lm s50e; 34p; 
+Pt WWal nr mth by Rd
+Ln s14w; 14p; down Pinkstons br
+Pt Syc
+Lm s2w; 32p; meanders
+Pt Elm
+Ln s12w; 46p; 
+Pt stk nr old shop
+Ln s; 30p; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP deed
+Id DB-F:694-695
+Frm Joseph Logsdon
+To Andrew Bogie
+Assignee: 
+Wat: Silver Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 100A Silver Crk
+Adj 
+Dat 5/14/1808
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 3310 -47055 F127 L0 P255
+Pt Ash Bo.Estill cnr
+Ln s10e; 194p; 
+Pt 2Bch
+Ln s84w; 64.5p; x br
+Pt Sug Bch
+Ln n6w; 25p; 
+Pt Bch Sug on br
+Lm s60w; 13p; up br
+Pt 
+Lm s55w; 21p; 
+Pt 
+Lm s72w; 26p; 
+Pt 
+Lm s46w; 10p; 
+Pt Hic Sug Elm on br
+Ln n45w; 88p; 
+Pt Hic WWal
+Ln n; 122p; 
+Pt DW smBch Bogies ln
+Ln s50e; p; to his cnr
+Pt 
+Ln ; p; 
+Pt 
+End
+! -- n ------ watercourse ------ last, first
+TYP survey
+Id VA#2761
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 4/8/1784
+IssDat: 
+SurveyTo: John Kenneday heirs
+IssuedTo: Andrew Kennady, Joseph Kennady
+Frm VA
+To Andrew Kennady, Joseph Kennady
+Assignee: 
+Wat: 
+Ref 
+! -- abstract --
+! County of Lincoln on Main Silver Creek Above the mouth of the Long Branch, Warrant N.4480
+Rec 
+Re 
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 20034 -43230 F127 L0 P255
+txt 18409 -42618 F127 R0 %d =
+Pt A. 2Sug WO top high ridge N side Crk
+Ln s10w; 160p; x Taylors Fk
+Pt B. 2Sug deep hol
+Ln n80w; 200p; x Silver Crk
+Pt C. Hic Sug
+Ln n10e; 160p; x Silver Crk
+Pt D. 2Hic
+Ln s80e; 200p; x Silver Crk 4x to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP deed
+Id KY_Mad DB-D:430-431
+Frm James Adams
+To John Gruget
+Wat: Silver Creek?
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 149.5A
+Adj 
+Dat 6/5/1798
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 15100 -35955 F127 L0 P255
+txt 14690 -36221 F127 R0 %d =
+Pt 2Sug Gruget ln
+Ln n50e; 54.5p; 
+Pt lgPop
+Ln s40e; 91p; 
+Pt Wal
+Ln s50w; 160p; 
+Pt Mul
+Ln n56e; 196p; 
+Pt 2Bch
+Ln n27w; 138p; 
+Pt Elm WWal on br
+Lm w; 20p; 
+Pt 
+Lm s70w; 80p; 
+Pt 
+Lm s45w; 40p; 
+Pt 
+Lm s67w; 44p; 
+Pt 
+Lm s56w; 52p; xcrk
+Pt WWal
+Ln s37e; 70p; xcrk
+Pt 2Sug
+Ln n53e; 108p; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP survey
+Id VA#4795
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 4/7/1784
+IssDat: 
+SurveyTo: Joseph Craig
+IssuedTo: Joseph Craig
+Frm 
+To Joseph Craig
+Assignee: Edard Woldreg?
+Wat: Silver Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 460A SilverCrk
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -5294 -54761 F127 L0 P72 0 57 0
+txt -8314 -54694 F127 R0 %d =
+Pt A. 2Ash cnr St.Handcock Jackson + Mayo ln
+Ln s76w; 680p; Mayo
+Pt B. WO Bacon ln
+Ln n20w; 100p; 
+Pt C. Sug Hic cnr Downey
+Ln n76e; 710p; sd line
+Pt D. 2Sug 2WO cnr Jackson
+Ln s3e; 102p; sd ln to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP survey
+Id VA#0845
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 7/20/1782
+IssDat: 
+SurveyTo: Stephen Handcock
+IssuedTo: Stephen Handcock
+Frm VA
+To Stephen Handcock
+Assignee: none listed
+Wat: Silver Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 200A Silver Crk
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -4300 -55343 F127 L0 P72 0 57 0
+txt -4426 -53944 F127 R0 %d =
+Pt A. Sug WO
+Ln s30e; 306p; x SilverCrk + 2br
+Pt B. Pop 2Syc bnk crk
+Ln s60w; 103p; 
+Pt C. Sug BEye
+Ln n30w; 306p; x2br
+Pt D. 2Ash
+Ln n60e; 10p; 
+Pt branch
+Lm ;; dn br to mouth x crk
+End
+! -- n ------ watercourse ------ last, first
+TYP survey
+Id VA#6854
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 
+IssDat: 
+SurveyTo: Richard Callaway Heirs
+IssuedTo: John Patrick
+Frm VA
+To Andrew Bogie
+Assignee: 
+Wat: Silver Creek
+Ref 
+! -- abstract --
+! and is the same land which the court of appeals at their April Term 1811 decreed part of to the said Bogie under a claim of John Kennedy deceased which was conveyed by his heirs to said Bogie and the object of this conveyance is to transfer to the said Bogie all the part of the said five hundred acres patented to the said John and Elizabeth which by the court of appeals was adjudged to the said Bogie ...
+Rec 
+Re 500A SilverCrk
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! x. 500 A, H:400-401 court in favor of Bogie
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -1975 -49700 F127 L0 P73 0 57 0
+txt -522 -50333 F127 R0 %d =
+Pt A. dblLinn SS hill 160p SW Ford B-L Rd
+Ln s65e; 260p; xbr + Rd
+Pt B. 3Elm on 1st lg br abv ford
+Ln n25e; 140p; 
+Pt Silver Crk
+Ln n25e; 167.5p; 
+Pt C. Hic Wal
+Ln n65w; 260p; x Bogie Br
+Pt D. Ash Bch
+Ln s25w; 307.5p; x SilverCrk to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP survey
+Id VA#2864
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 7/30/1784
+IssDat: 
+SurveyTo: James Quinn
+IssuedTo: James Quinn
+Frm VA
+To James Quinn
+Assignee: none listed
+Wat: Silver Creek, Tates Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 1027A Silver + Tates Crk
+SCC: Stephen Hancock, James Finney
+Adj James Finney
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 4263 -50969 F127 L0 P255
+txt 2287 -54720 F127 R0 %d =
+Pt A. Hic Sug SW cnr Finney
+Ln w; 274.25p; x2br SilverCrk
+Pt B. Elm WWal Hac
+Ln n; 600p; x2br SC
+Pt C. Hac Ash
+Ln e; 274.25p; x br TatesCr
+Pt D. 2Sug 
+Ln s; 30p; 
+Pt 2Ash NW cnr Jas.Finney
+Ln s; 570p; Jas.Finney x brTC + brSC to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP survey
+Id VA#2849
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 7/1/1784
+IssDat: 
+SurveyTo: Ben Quinn
+IssuedTo: Benjamin Quinn
+Frm VA
+To Benjamin Quinn
+Assignee: none listed
+Wat: Silver Creek, Tates Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 1000A SC TC
+SCC: Julious Gibs, Stephen Hancok
+Adj Christopher Irvine
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 10888 -56606 F127 L0 P72 0 57 0
+txt 8924 -53894 F127 R0 %d =
+Pt A. RO 2Sug
+Ln s; 146p; xSFk TC RtFk TC
+Pt NW cnr Chr.Irvine Sett 2Hic Sug
+Ln s; 182p; 
+Pt 2Sug SW cnr Preempt
+Ln s; 272p; x RtFk TC
+Pt B. lgRO Sug
+Ln w; 267p; xRtFk TC + br SC
+Pt C. Ash Sug
+Ln n; 600p; x brSC brTC 3x
+Pt D. 2Sug
+Ln e; 267p; xSFk TC 3x to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP survey
+Id VA#7108
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 7/29/1784
+IssDat: 
+SurveyTo: John Finney
+IssuedTo: John Finney
+Frm VA
+To John Finney
+Assignee: none listed
+Wat: Silver Creek, Tates Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 500A SC + TC
+SCC: Stephen Hancock, James Finney
+Adj Benjamin Quinn
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 7951 -50832 F127 L0 P255
+txt 6943 -54333 F127 R0 %d =
+Pt A. Ash 2Sug cnr Quinn
+Ln w; 164p; x3br SC
+Pt B. Ash Sug
+Ln n; 488p; x br TC 3x
+Pt C. Hic Ash
+Ln e; 164p; x 2br TC
+Pt E. Hic DW Sug Ben.Quinn W ln
+Ln s; 488p; Ben.Quinn to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP survey grant
+Id VA#6086
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 1784-07-01
+IssDat: 1786-10-02
+SurveyTo: John Finney
+IssuedTo: John Binney
+Frm VA
+To John Finney
+Assignee: Abraham Wilson, Benjamin Wheely, James Waldin
+Wat: Silver Creek, Tates Creek
+Ref 
+! -- abstract --
+! var 3deg East military warrants 50 50 #543
+Rec 
+Re 100A SC TC
+SCC: James Finney, Stephen Hancock
+Adj Benjamin Quinn
+Dat 1786-10-02
+PRESENT: 
+ALTSPELL: James Finnie, John Finnie
+FOLLOWUP: 
+PLACES: Fuding ground
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 10594 -50756 F127 L0 P72 0 57 0
+txt 10847 -51418 F127 R0 %d =
+Pt RO Sug A. SE cnr Ben.Quinn 1000
+Ln s; 50p; 
+Pt 2Ash B.
+Ln e; 100p; x2br SC
+Pt 3Ash C.
+Ln n; 160p; xbr2x TC
+Pt HLoc Hac D.
+Ln w; 100p; 
+Pt Hic 2Linn E. B.Quinn ln
+Ln s; 110p; B.Quinn to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP survey
+Id VA#9153
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 7/30/1784
+IssDat: 
+SurveyTo: Thomas Quinn heirs
+IssuedTo: Thomas Quinn heirs
+Frm VA
+To Thomas Quinn heirs
+Assignee: 
+Wat: Silver Creek, Tates Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 1028A SC TC
+SCC: Stephen Hancock, James Finney
+Adj Benjamin Quinn, James Finney
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 3200 -53369 F127 L0 P255
+txt 1577 -57828 F127 R0 %d =
+Pt A. 2Sug Jas.Quinn ln
+Ln w; 260p; x2br SC
+Pt B. WO
+Ln n; 633p; x3br SC
+Pt C. WO Hic
+Ln e; 260p; x Jackson br SC 2 br sam
+Pt D. Loc 2Linn
+Ln s; 320p; x Jackson br SC
+Pt Hac Ash NW cnr Jas.Quinn
+Ln s; 313p; Jas.Quinn xbr TC to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP survey
+Id VA#7103
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 7/29/1784
+IssDat: 
+SurveyTo: James Finney
+IssuedTo: James Finney
+Frm VA
+To James Finney
+Assignee: 
+Wat: Silver Creek, Tates Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 805A SC TC
+SCC: Stephen Hancock, Julious Gibs
+Adj John Finney
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 6551 -50932 F127 L0 P255
+txt 5124 -53916 F127 R0 %d =
+Pt A. Ash Sug cnr Jno.Finney
+Ln w; 226p; xbr SC
+Pt B. Hic Sug
+Ln n; 570p; xbr SC
+Pt C. 2Ash
+Ln e; 226p; c2br TC
+Pt D. Ash WWal
+Ln s; 82p; 
+Pt E. Hic Ash NW cnr Jno.Finney
+Ln s; 488p; Jno.Finney xbr TC to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP survey
+Id VA#1196
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 6/10/1784
+IssDat: 9/26/1785
+SurveyTo: Green Clay
+IssuedTo: Green Clay
+Frm VA
+To Green Clay
+Assignee: Matt Clay
+Wat: Silver Creek, Jackson Branch
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 1540A SC JacksonBr
+SCC: 
+Adj 
+Dat 9/26/1785
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 1364 -59394 F127 L0 P73 0 57 0
+txt -2264 -58344 F127 R0 %d =
+Pt A Sug 2Bch JBr
+Lm n77w; 30p; 
+Pt 
+Lm n40w; 30p; 
+Pt 
+Lm n75w; 110p; 
+Pt 
+Lm w; 40p; 
+Pt 
+Lm s45w; 40p; 
+Pt 
+Lm w; 60p; 
+Pt 
+Lm n70w; 88p; 
+Pt 
+Lm n55w; 60p; 
+Pt 
+Lm w; 20p; 
+Pt 
+Lm s73w; 30p; 
+Pt 
+Lm s56w; 20p; 
+Pt 
+Lm s20w; 60p; 
+Pt 
+Lm s50w; 34p; 
+Pt 
+Lm s10w; 42p; 
+Pt 
+Lm s52w; 102p; 
+Pt 
+Lm w; 40p; 
+Pt 
+Lm s65w; 36p; 
+Pt B. Sug BEye cnr Jno.Jackson
+Ln s50e; 100p; 
+Pt Sug
+Ln s28e; 50p; Jackson
+Pt D. Sug
+Ln s10e; 44p; 
+Pt E. his cnr Sug
+Ln s1e; 80p; Jackson
+Pt F. Ash Hic Sug
+Ln e; 579p; 
+Pt G. 2Sug
+Ln n; 370p; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP deed
+Id ky_madison DB-D:241-243
+Frm William Mayo
+To Peter Kinder
+Wat: Silver Creek, Greens Branch
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 
+Adj 
+Dat 6/9/1795
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. unkn A, 1795 Jun 9 William Mayo -to- Peter Kinder db-d:241-243
+! x. part A, 1795 Peter Kinder -to- Richard George db-c:465-467 west part
+! x. part A, 1799 Richard George -to- William George db-d:638-639
+lbl %to\%dat\File# %Id\%Re\Wm.Mayo\Pet.Kinder part\Ric.George pt\Wm.George pt\
+! Metes and bounds
+loc 5818 -49169 F127 L0 P64 0 51 0
+txt 6398 -49013 F127 R0 %d =
+Pt Syc div ln Mayo/Clay on br
+Lm n50e; 32p; up meander
+Pt 
+Lm n73e; 28p; 
+Pt 
+Lm n45e; 110p; 
+Pt 
+Lm n54e; 59p; 
+Pt Hic mouth sm br
+Lm e; 25p; up sm br Estill
+Pt 
+Lm s80e; 16p; 
+Pt 
+Lm e; 26p; 
+Pt 
+Lm s55e; 19p; 
+Pt BEye
+Ln e; 19p; 
+Pt Hic WO Wm.Green ln
+Ln s5w; 101p; Wm.Green
+Pt Hic RO his cnr on Smith ln
+Ln n70w; 36p; Smith
+Pt RO WO his cnr
+Ln s20w; 126p; Bryant ?dir
+Pt Hic
+Ln s84w; 194p; 
+Pt Bch div ln Mayo/Clay
+Ln n; 118p; Mayo/Clay div ln to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP deed
+Id ky_madison_db-d:007-009
+Frm William Mayo
+To William Green
+Wat: Silver Creek, Green Branch
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 147A SilverCrk GreenBr
+Adj 
+Dat 4/12/1796
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 9443 -50687 F127 L0 P64 0 51 0
+txt 8669 -49625 F127 R0 %d =
+Pt BEye Sug RO cnr 50A
+Ln w; 258p; 
+Pt WWal Elm
+Ln s24e; 70p; 
+Pt Elm Bch
+Ln n54e; 59p; 
+Pt Hic bnk GreensBr mth sm br cnr B.Estill 300A
+Lm e; 25p; up sm br Estill
+Pt 
+Lm s80e; 16p; 
+Pt 
+Lm e; 26p; 
+Pt 
+Lm s55e; 19p; 
+Pt BEye
+Ln e; 19p; 
+Pt Hic WO
+Ln s5w; 101p; 
+Pt Hic RO
+Ln s70e; 126p; 
+Pt Sug Ash Elm
+Ln n; 106p; 
+Pt WO Hic ln afsd 50A
+Ln w; 38p; 50A 
+Pt RO WO cnr 50A
+Ln n; 86p; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP deed
+Id ky_madison_db-d:597-598
+Frm Nathan Hawkins
+To Elihu Green
+Wat: Silver Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 80A SilverCrk
+Adj 
+Dat 5/4/1799
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. 100A, 01 Jul 1794 Elihu Green -to- Bazel Pinkston DB-C:195-196
+! 1. 80 A, 05 Dec 1795 Bazel Pinkston -to- Nathan Hawkins DB-C:665-666
+! 2. 80 A, 04 May 1799 Nathan Hawkins -to- Elihu Green DB-D:597-598
+lbl %to\%dat\File# %Id\%Re\Green\Pinkston\Hawkins\Green
+! Metes and bounds
+loc 5844 -48192 F127 L0 P255
+txt 5859 -47715 F127 R0 %d =
+Pt chic Wm.Make ln
+Ln s; 142p; Make/Mayo
+Pt 2Cher ln Rob.Adams low grnd SC
+Ln w; 50p; Adams
+Pt WO Sug hillside
+Ln n60w; 62p; writ n60e
+Pt WWal
+Ln n15e; 82p; 
+Pt WWal
+Ln n55w; 100p; 
+Pt GreenBr
+Lm ; p; up br cnr Wm.George then to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP deed
+Id ky_madison_db-e:090-091
+Frm Bazel Pinkston
+To William George
+Wat: Silver Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 33A Silver Crk
+Adj 
+Dat 1800
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re\Baz.Pinkston\Wm.George 1800
+! Metes and bounds
+loc 5894 -48063 F127 L0 P255
+txt 5307 -48519 F127 R0 %d =
+Pt Hic NE cnr Donelly Green
+Ln n80w; 74p; Don.Green
+Pt Bch Elm his cnr Greens br
+Lm n5e; 32p; up GreenBr
+Pt 
+Lm n12e; 34p; 
+Pt 
+Lm n55e; 28p; 
+Pt 
+Lm n65e; 44p; 
+Pt lgSyc on br
+Ln s; 114p; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP deed
+Id ky_mad db-e:130-131
+Frm Elihu Green
+To Danilly Green
+Wat: Silver Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 60A SilverCrk
+Adj 
+Dat 11/14/1800
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re\Eli.Green\Dani.Green 1800
+! Metes and bounds
+loc 5876 -48050 F127 L0 P255
+txt 5207 -47720 F127 R0 %d =
+Pt Hic cnr Wm.George
+Ln n80w; 74p; 
+Pt Bch Elm GreensBr
+Lm s18w; 74p; dwn same
+Pt 
+Lm s40w; 32p; 
+Pt Hic W side sd br
+Ln s54e; 10p; 
+Pt 
+Ln s64e; 8p; 
+Pt 
+Ln e; 16p; 
+Pt forks
+Lm s58e; 16p; up rt fk
+Pt Sug Elm
+Ln n66e; 32p; 
+Pt WWal hd sm br
+Lm s50e; 34p; dwn same
+Pt WWal mouth by Rd
+Lm n33e; 24p; up Pinkstons br
+Pt 
+Lm n18e; 26p; 
+Pt stk old ln
+Ln n2w; 64p; old ln to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP deed
+Id ky_madison DB-A:65-66
+Frm Andrew Kennedy, Joseph Kennedy
+To Boud Estill
+Wat: Silver Creek
+Ref 
+! -- abstract --
+! including an old Indian Town House and a spring runing by the said house near the bank of the creek know by the name of round hill bottom
+! From VA#2763:  on main Silver Creek including an old indean town house and a spring running by the said house near the bank of the creek known by the name of the Round Hill Bottom
+Rec 
+Re 50A SilverCrk
+Adj 
+Dat 10-x-1787
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: Indian town house, Round Hill Bottom
+IMPROVEMENT: 
+TRANSFERS: 
+! x. 50 A, 12 Dec 1785 Virginia -to- Andrew and Joseph Kennedy VA#2763
+! 1. 50 A, dd Oct 1787 Andrew and Joseph Kennedy -to- Boud Estill
+lbl %to\%dat\File# %Id\%Re\Kennedys 1785\Bo.Estill\1787
+! Metes and bounds
+loc 4933 -46510 F127 L0 P64 0 51 0
+txt 4961 -46204 F127 R0 %d =
+Pt Sug WO N side SC
+Ln n80e; 100p; 
+Pt Sug Bch
+Ln s; 80p; 
+Pt 2Wal Sug
+Ln s80w; 100p; 
+Pt 2Sug
+Ln n; 80p; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP deed
+Id ky_mad db-a:67-69
+Frm Andrew Kennedy, Joseph Kennedy
+To Boud Estill
+Wat: Silver Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re Silver Crk
+Adj 
+Dat 1787
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! x. 200 A, Andrew and Joseph Kennedy VA#2758 s:4/8/1784
+! 1. 200 A, dd mmm 1787 Andrew and Joseph Kennedy -to- Boud Estill db-a:67-69
+lbl %to\%dat\File# %Id\%Re\Kennedys\Bo.Estill 1787
+! Metes and bounds
+loc 4920 -46528 F127 L0 P65 0 51 0
+txt 3608 -46668 F127 R0 %d =
+Pt WO Sug N side SC
+Ln s; 80p; Kennedys 50A xSC
+Pt 2Sug
+Ln s80w; 80p; 
+Pt Sug side high ridge
+Ln n50w; 203p; x LongBr
+Pt 2WO
+Ln n40e; 158p; xSC
+Pt 2WO side high ridge
+Ln s40e; 206p; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP survey
+Id VA#1326
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 
+IssDat: 
+SurveyTo: 
+IssuedTo: 
+Frm VA
+To William Vanclift
+Assignee: 
+Wat: Paint Lick Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 720A PLC
+SCC: 
+Adj 
+Dat 5/23/1785
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -10129 -45635 F127 L0 P73 0 57 0
+txt -8897 -44244 F127 R0 %d =
+Pt SW cnr Wm.Kirkley Pre Elm 3Sug edge cane
+Ln n70e; 350p; Kirkly xPLC past cnr
+Pt B. WWal Hic dp valley
+Ln s20e; 329p; 
+Pt C. Cher Hic
+Ln s70w; 350p; xPLC
+Pt D. Ash Bch
+Ln n20w; 329p; x lg fk PLC to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP survey
+Id VA#1327
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 7/18/1783
+IssDat: 
+SurveyTo: 
+IssuedTo: 
+Frm VA
+To William Vanclift
+Assignee: 
+Wat: Paint Lick Creek
+Ref 
+! -- abstract --
+! Premption warrant #1108 adj 700A
+Rec 
+Re 286A PLC
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -5866 -43573 F127 L0 P72 0 57 0
+txt -7990 -42329 F127 R0 %d =
+Pt C. SE cnr abv srv Cher Hic
+Ln s20e; 129p; xPLC
+Pt F. BEye Ash bnk br
+Ln s70w; 350p; 
+Pt G. Ash Sug cane
+Ln n20w; 129p; x sm br
+Pt D. SW cnr Vancleav 720A Ash Bch
+Ln n70e; 350p; abv survey xPLC to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP deed
+Id ky_mad_db-c:334-336
+Frm William Mayo
+To Josiah Elston
+Wat: Silver Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 165A Silver Crk
+Adj 
+Dat 9/5/1794
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 11395 -50060 F127 L0 P64 0 51 0
+txt 9938 -49471 F127 R0 %d =
+Pt Ash RO ln Mar.Green
+Ln w; 90p; M.Green
+Pt cnr
+Ln n; 50p; M.Green
+Pt RO Ash Sug cnr Quinn
+Ln w; 33p; Quinn
+Pt BWal cnr 50A
+Ln s; 86p; 50A
+Pt cnr
+Ln w; 77p; 50A
+Pt WO Hic ln50A
+Ln s; 106p; Mayo
+Pt Mayo ln x Geo.Smith Sug Elm
+Ln s77e; 134p; G.Smith
+Pt Hic dblHic sd ln
+Ln n33e; 140p; 
+Pt WO Elm
+Ln n; 70p; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP deed
+Id ky_mad_db-c:580-
+Frm William Mayo
+To William Butcher
+Wat: Silver Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 126A SilverCrk
+Adj Peter Kinder
+Dat 5/12/1795
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! e:27-28 Smarts to Caldwell 1798 mill Smarts bought of Wm Butcher and Clay
+! 40 A, 07 Jun 1806 William Buthcer -to- Jacob Killion db-f:160-161
+! Porters Mill
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 5748 -46479 F127 L0 P65 0 51 0
+txt 6589 -47856 F127 R0 %d =
+Pt Cher low grnd SC
+Ln n; 170p; 
+Pt Bch Kinder cnr
+Ln n84e; 194p; Kinder to beg
+Pt Hic Pet.Kinder cnr
+Ln s20w; 80p; 
+Pt WElm bnk SC
+Lm ;; down meanders 274p
+End
+! -- n ------ watercourse ------ last, first
+TYP deed
+Id ky_mad_db-d:705-
+Frm William Mayo
+To Edward Turner
+Wat: Tates Creek
+Ref 
+! -- abstract --
+! 120 acres on Tates Creek part of Mayo's claim of 1400 acres adjoining Christopher Irvines preemption on his South side
+Rec 
+Re 120A TC
+Adj Martin Green, Christopher Irvin
+Dat 11/6/1799
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 10670 -53335 F127 L0 P64 0 51 0
+txt 11039 -52402 F127 R0 %d =
+Pt 2Sug Irvine cnr
+Ln s70e; 178p; xbr
+Pt 2Sug sd ln
+Ln s7w; 102p; 
+Pt RO
+Ln n70w; 46p; 
+Pt HLoc NE cnr Mar.Green 100A
+Ln w; 110p; M.Green 100A
+Pt Lyn Ash +cnr Martin
+Ln n; 146p; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP deed
+Id ky_mad_db-d:780-781
+Frm William Mayo
+To Thomas Turner
+Wat: Tates Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 80A TC
+Adj 
+Dat 11/9/1799
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 12308 -52629 F127 L0 P64 0 51 0
+txt 12541 -51864 F127 R0 %d =
+Pt 2Sug Ed.Turner cnr Irvine ln
+Ln s70e; 142p; his ln
+Pt his cnr RO Sug Ash
+Ln s20w; 96p; Hart
+Pt Elm Mul BAsh his ln
+Ln n70w; 122p; 
+Pt RO cnr Ed.Turner
+Ln n7e; 102p; Turner to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP deed
+Id ky_mad_db-e:4-5
+Frm William Mayo
+To Cornelius Turner
+Wat: Tates Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 100A TC
+SCC: 
+Adj Edmund Prather
+Dat 7/4/1795
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 13220 -51165 F127 L0 P64 0 51 0
+txt 12110 -50980 F127 R0 %d =
+Pt Elm Mul BAsh cnr Ed.Prather Hart ln
+Ln n70w; 168p; Prather
+Pt HLoc cnr Mar.Green
+Ln s; 110p; M.Green
+Pt 2Elm Green ln
+Ln s72e; 134p; 
+Pt Hic Ash Hart ln
+Ln n20e; 110p; Hart to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP deed
+Id ky_mad_db-617-618
+Frm John Finnie
+To Martin Green
+Wat: Tates Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 
+SCC: 
+Adj 
+Dat 6-14-1798
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 10601 -50654 F127 L0 P64 0 51 0
+txt 10731 -50841 F127 R0 %d =
+Pt lgRO Sug SE cnr Benj 1000A
+Ln s; 50p; 
+Pt BAsh
+Ln e; 100p; 
+Pt BAsh
+Ln n; 160p; 
+Pt HLoc 
+Ln w; 100p; 
+Pt Lyn Quinn E ln
+Ln ;; S with Quinn to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP deed
+Id mad_db-b:162-164
+Frm John Bryant
+To John Yates
+Wat: Silver Creek, Taylors Fork
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 100A SC TaylorFk
+Adj 
+Dat 8/5/1791
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 10310 -48713 F127 L0 P64 0 51 0
+txt 8536 -48656 F127 R0 %d =
+Pt 2Sug NW cnr Geo.Smith 1100
+Ln n80w; 230p; 
+Pt RO NW cnr Bryants 500
+Ln s20w; 70p; Bryant old ln
+Pt 2Hic in ln
+Ln s80e; 230p; 
+Pt dblBWal Elm G.Smith ln
+Ln n20e; 70p; G.Smith to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP deed
+Id mad_db-b:164-166
+Frm John Bryant
+To Jonathan Barrett 
+Wat: Silver Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 50A SC
+Adj 
+Dat 8/5/1791
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 7858 -48647 F127 L0 P255
+txt 7927 -48171 F127 R0 %d =
+Pt 2Hic cnr J.Yates ln Bryant
+Ln s80e; 115p; Yates
+Pt 2Bch DW Yates ln cnr R.Forbush
+Ln s20w; 70p; R.Forbush
+Pt 3Elm Hic cnr Forbush
+Ln n80w; 115p; 
+Pt pt Bryant old ln
+Ln n20e; 70p; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP deed
+Id mad_db-b:266-268
+Frm John Bryant
+To Robert Forbush
+Wat: Silver Creek, Taylors Fork
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 50A SC TaylorsFk
+Adj 
+Dat 8/5/1791
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 10086 -48135 F127 L0 P255
+txt 9042 -47988 F127 R0 %d =
+Pt lgDblWal Elm ln Smith 1100 cnr Yates
+Ln n80w; 115p; Jno.Yates
+Pt 2Bch DW
+Ln s20w; 70p; 
+Pt 3Elm Hic
+Ln s80e; 115p; 
+Pt WO Ash ln Geo.Smith
+Ln n20e; 70p; Geo.Smith to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP deed
+Id mad_db-c:094-096
+Frm John Bryant
+To Edward Moss
+Wat: Silver Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 40A SC
+Adj 
+Dat 10/1/1793
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 9980 -47363 F127 L0 P255
+txt 9326 -47177 F127 R0 %d =
+Pt WO cnr Rob.Forbush ln G.Smith
+Ln n70w; 100p; no dist
+Pt 2BEye sd ln bnk McClains br
+Lm s15e; 165p; no dist or dir branch
+Pt 
+Ln n20e; 140p; no dist Smith to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP deed
+Id mad_db-c:096-098
+Frm John Bryant
+To 
+Assignee: 
+Wat: Silver Creek
+Ref Jane Thompson
+! -- abstract --
+! examined and delivered to William Roberson
+Rec 
+Re 100 acres
+Adj John Bryant, George Smith
+Dat 10/1/1793
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 8649 -44785 F127 L0 P65 0 51 0
+Pt 2Sug SW cnr Geo.Smith 1100
+Ln n70w; 150p; 
+Pt RO bnk SC ln Jno.Bryant
+Lm N3.2912W; 36.00p; 
+Pt 
+Lm N23.5066E; 37.00p; 
+Pt 
+Lm N61.9003E; 33.00p;
+Pt 
+Lm S87.0650E; 30.00p;
+Pt 
+Lm S57.8446E; 19.00p;
+Pt Mouth Taylors Fk
+Lm S7.4336E; 34.00p;
+Pt 
+Lm N75.3198E; 34.00p;
+Pt 
+Lm N49.1493E; 37.00p;
+Pt 
+Lm S80.5644E; 35.00p;
+Pt BEye DW Hic McClane
+Ln S21.1549W; 127.00p; s20w McClane to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP survey
+Id mad_db-c:533-534
+Frm John Bryant
+To Evan Scott
+Wat: Silver Creek
+Ref 
+! -- abstract --
+! all that part of Bryants survey that lyes on the lower side of Silver Creek opposite the mouth of Taylors Fork
+Rec 
+Re 100A SC
+Adj 
+Dat 7/8/1793
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 7292 -45354 F127 L0 P65 0 51 0
+txt 7695 -46569 F127 R0 %d =
+Pt Syc Elm bnk SC ln Bryant
+Ln n70w; 72p; 
+Pt lgRO WO SW cnr Bryant
+Ln n20e; 200p; Bryant ln
+Pt pts his ln bnk SC
+Lm S33.3526E; 31.00p; up SC
+Pt 
+Lm S65.2131E; 24.00p; 
+Pt 
+Lm S48.5423E; 32.00p; 
+Pt 
+Lm S58.5167E; 45.00p;
+Pt 
+Lm S5.7774E; 37.00p;
+Pt 
+Lm S14.2830W; 16.00p;
+Pt 
+Lm S74.4672W; 13.00p;
+Pt 
+Lm N56.8990W; 26.00p;
+Pt 
+Lm S82.3619W; 45.00p;
+Pt 
+Lm S41.0291W; 38.00p;
+Pt 
+Lm S0.5963E; 56.00p;
+End
+! -- n ------ watercourse ------ last, first
+TYP deed
+Id mad_db-c:093-
+Frm John Bryant
+To Charles Westerman
+Wat: Silver Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 100A SC
+Adj 
+Dat 10/1/1793
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 9067 -47751 F127 L0 P255
+txt 8582 -47671 F127 R0 %d =
+<note>
+https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSKH-7S6J-5?i=56&cat=433686
+</note>
+Pt 3BEye bnk McClaines br
+Ln n70w; 80p; 
+Pt Hic 2Elm hollow
+Ln s25e; 70p; 
+Pt WO Bch Linn hill side SC
+Ln s70e; 6p; 
+Pt Syc Hic bnk SC
+Ln ; p; up SC to Loc Hic bnk
+Pt 
+Ln ; p; 
+Pt 
+Ln ; p; 
+Pt 
+Ln ; p; 
+Pt 
+Ln ; p; 
+End
+! -- n ------ watercourse ------ last, first
+TYP deed
+Id mad_db-d:611-6
+Frm John Bryant
+To William Todd
+Wat: Silver Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 50A SC
+Adj Charles Westerman
+Dat 4/1/1799
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 7421 -47404 F127 L0 P65 0 51 0
+txt 7899 -47625 F127 R0 %d =
+Pt Sug N side SC nr bnk ln Bryant
+Ln n20e; 100p; 
+Pt 2Sug Hic Bryant ln cnr Yates
+Ln s70e; 60p; Yates
+Pt Hic 2Elm cnr Westerman
+Ln s15e; 70p; Westerman
+Pt WO Bch Linn Westerman cnr
+Ln s70w; 60p; 
+Pt Syc Hic bnk SC
+Lm ;; dwn SC to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP deed
+Id mad-db-a:071-074
+Frm William Robinson
+To Nicholas Hawkins
+Assignee: 
+Wat: Silver Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 388A SC
+Adj William Robinson, John Pitman
+Dat 1788
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 3627 -44042 F127 L0 P65 0 51 0
+txt 4443 -42990 F127 R0 %d =
+Pt Pop ln Mayo
+Ln e; 160p; 
+Pt RO bnk SC
+Ln n83e; 120p; xSC
+Pt RO ln Wm.Robinson
+Ln s; 26p; 
+Pt WO bnk SC
+Lm s10e; 138p; 
+Pt 
+Lm s50e; 28p; 
+Pt Wal
+Ln s27w; 28p; 
+Pt Hic cnr Jno.Pitman
+Ln w; 340p; 
+Pt WAsh WWal
+Ln ;; N to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP deed
+Id mad-db-d:491-492
+Frm Richard Price
+To Nathan Hawkins
+Wat: Silver Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 65A SC
+Adj George Smith
+Dat 9/4/1798
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 8992 -48344 F127 L0 P65 0 51 0
+txt 9277 -48585 F127 R0 %d =
+Pt WWal
+Ln s80e; 5p; to beg
+Pt Bch side hill
+Ln s; 25p; 
+Pt WWal
+Ln n70e; 54p; 
+Pt Hic Sug
+Ln s80e; 58p; 
+Pt dblBWal smElm ln Geo.Smith
+Ln n20e; 68p; Smith
+Pt Sug NW cnr Smith
+Ln n80w; 160p; 
+Pt Elm sm br
+Lm ;; meanders br
+End
+! -- n ------ watercourse ------ last, first
+TYP deed
+Id mad-db-e:602-
+Frm John Pitman
+To William Robinson, Jr.
+Wat: Silver Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 165A SC
+Adj 
+Dat 2/2/1804
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 9205 -41482 F127 L0 P255
+txt 7887 -42109 F127 R0 %d =
+Pt Ch.Irvine low ln x crk
+Ln w; 50p; dist unk
+Pt Bwal 2Sug ln C.Callaway srv
+Ln n; 40p; Irvine
+Pt Ash 3Sug cnr
+Ln w; 210p; dist unk
+Pt Hic Irvine ln cnr N.Hawkins
+Ln n28e; 25p; 
+Pt SilverCrk
+Lm e; 20p; up SC ?dist ?dir
+Pt 
+Ln ; p; 
+Pt 
+Ln ; p; 
+Pt 
+Ln ; p; 
+End
+! -- n ------ watercourse ------ last, first
+TYP deed
+Id mad-db-c:122-124
+Frm Thomas Kennedy
+To George Smiley
+Wat: Paint Lick Creek, Silver Creek
+Ref 
+! -- abstract --
+! part of large survey joining Green Clays line
+Rec 
+Re 150A PLC,SC
+Adj 
+Dat 5/5/1794
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 120 -43877 F127 L0 P65 0 51 0
+txt 884 -42795 F127 R0 %d =
+Pt Hic Ash cnr Smiley + G.Clay
+Ln s27e; 256p; 
+Pt BWal old ln
+Ln e; 60p; 
+Pt fkPop
+Ln n; 60p; 
+Pt Cher WWal
+Ln e; 36p; 
+Pt Elm
+Ln n27w; 196p; 
+Pt stk old ln
+Ln ;; W to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP deed
+Id mad-db-a:143-145
+Frm George Smith
+To John McClane
+Wat: 
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 100A SC
+Adj 
+Dat 9/1/1789
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 8717 -44717 F127 L0 P64 0 51 0
+txt 9213 -45162 F127 R0 %d =
+Pt 2Sug SW cnr Geo.Smith
+Ln s70e; 106p; 
+Pt WO Hic
+Ln n20e; 150p; 
+Pt 3WO
+Ln n70w; 106p; 
+Pt Hic WWal
+Ln s20w; 150p; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP deed
+Id mad-db-a:225-227
+Frm George Smith
+To Huston
+Wat: Silver Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 100A SC
+Adj 
+Dat 4/8/1790
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 10958 -44760 F127 L0 P64 0 51 0
+txt 11200 -44174 F127 R0 %d =
+Pt lgBch BEye cnr Rob.knox
+Ln s20w; 90p;
+Pt lgWWal Bch sd ln
+Ln s70e; 130p; to beg
+Pt 2Ash Hac Smith ln 64p fr SE cnr
+Ln n20e; 136p; 
+Pt 2Bch Linn Jos.Titus ln
+Ln n70w; 66p; Titus
+Pt 2Sug DW Titus ln
+Ln s45w; 60p; Titus
+Pt 2Ash
+Ln w; 40p; 
+Pt lgSyc Elm Taylors Fk bel Eoffs spr
+Ln ;; dn crk
+End
+! -- n ------ watercourse ------ last, first
+TYP deed
+Id mad-db-b-251-253
+Frm George Smith
+To William McGuire
+Wat: Taylors Fork
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 220A TaylorsFk
+Adj 
+Dat 8/28/1786
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 13583 -47304 F127 L0 P255
+Pt RO top ridge N side TaylorsFk nr McGuire fnc
+Ln s20w; 188p; xTFk SherleysLck
+Pt fkLinn Sug on br
+Ln n70w; 188p; 
+Pt WO Sug on ridge
+Ln n20e; 188p; 
+Pt pt Sug nr sm br
+Ln s70e; 188p; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP survey
+Id VA#4093
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 
+IssDat: 
+SurveyTo: William Morrison
+IssuedTo: William Morrison
+Frm VA
+To William Morrison (Ross)
+Assignee: Hugh Ross
+Wat: Silver Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 400A SC
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: Elk Garden
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 6713 -35329 F127 L0 P72 0 57 0
+txt 5500 -37053 F127 R0 %d =
+Pt A. Sug NE cnr Jos.kennedy setlmnt Elk Gdn
+Ln n; 300p; x2br Ch.Irvine
+Pt B. Sug top rdg
+Ln w; 213p; x2br Irvines preempt
+Pt C. Sug top ridge high br
+Ln s; 300p; x3br Jno.Anderson
+Pt D. lgBWal Kennedy prempt
+Ln e; 213p; Kennedy to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP survey
+Id VA#2841
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 3/24/1785
+IssDat: 7/27/1786
+SurveyTo: John Adams
+IssuedTo: John Adams
+Frm VA
+To John Adams
+Assignee: Cartwright
+Wat: Silver Creek
+Ref 
+! -- abstract --
+! head branches for Silver Creek
+Rec 
+Re 200A SC
+SCC: John Bone, Robert Adams
+Adj 
+Dat 7/27/1786
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: Walnut Meadows, The Blue Lick
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 13038 -25773 F127 L0 P255
+txt 12881 -26196 F127 R0 %d =
+Pt A. Hic mkd JA Trc WalnutMdws-BlLck 2mi-WlntMdws
+Ln w; 70p; 
+Pt B. WO Elm
+Ln n; 120p; 
+Pt C. Mul WO
+Ln e; 266.6p; 
+Pt D. 2WO
+Ln s; 120p; 
+Pt E. 2BOs
+Ln w; 196.6p; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP deed
+Id db-d:529-531
+Frm Green Clay
+To Robert Smart, George Smart
+Wat: Silver Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 40A SC
+Adj 
+Dat 1/1/1799
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re\Gr.Clay\Smarts
+! Metes and bounds
+loc 7425 -47442 F127 L0 P255
+txt 6720 -46877 F127 R0 %d =
+Pt 3Syc bnk crk 12p bel Bryant x SC
+Ln s20w; 126p; 
+Pt Hic DW Adams ln
+Ln w; 120p; Adams x crk
+Pt Hic bnk crk nr Smarts mills
+Lm n63e; 74p; 
+Pt 
+Lm n49e; 18p; 
+Pt 
+Lm n23e; 24p; 
+Pt 
+Lm n11e; 24p; 
+Pt 
+Lm n24e; 11p; 
+Pt 
+Lm n20e; 8p; 
+Pt 
+Lm n22e; 9p; 
+Pt 
+Lm n48e; 18p; 
+Pt 
+Lm s80e; 36p; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP deed
+Id db-d:005-006
+Frm William Jones
+To John Schooler
+Wat: Silver Creek, Paint Lick Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 200A SC PLC
+Adj 
+Dat 6/6/1796
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! part larger tract belonging to Mayo
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 356 -46685 F127 L0 P255
+txt -750 -45367 F127 R0 %d =
+Pt Bch ln Gr.Clay
+Ln s4e; 240p; 
+Pt Bch Hic
+Ln n76w; 296p; 
+Pt Bch
+Ln n44w; 21p; 
+Pt Bch
+Ln n61e; 120p; 
+Pt Lynn Elm Gr.Clay cnr
+Ln s79e; 18p; 
+Pt 2Bch
+Ln n40e; 48p; 
+Pt Bch
+Ln n60e; 38p; 
+Pt Sug
+Ln s80e; 54p; 
+Pt Bch
+Ln n25e; 120p; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP deed
+Id db-d:145-147
+Frm William Jones
+To James Adams
+Assignee: 
+Wat: Paint Lick Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 174A PLC
+SCC: 
+Adj 
+Dat 11/1/1796
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -1412 -36887 F127 L0 P65 0 51 0
+txt -524 -36571 F127 R0 %d =
+Pt cnr Jas.Adams cnr Rob.Adams
+Ln s39e; 169.5p; 
+Pt 2Sug ln Gr.Clay
+Ln n50e; 50p; Gr.Clay
+Pt cnr Clay
+Ln s40e; 100p; Clay
+Pt cnr Clay
+Ln n50e; 160p; Clay writ s50w
+Pt cnr Clay
+Ln n56w; 196p; 
+Pt Bch
+Ln n27w; 324p; 
+Pt ash Bch fk br cnr Rob.Adams
+Ln s35w; 32p; Rob.Adams
+Pt 
+Ln s41w; 28p; 
+Pt Elm cnr R.Adams
+Ln s34e; 33p; R.Adams
+Pt Sug
+Ln s63w; 80p; R.Adams to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP deed
+Id db-d:280-281
+Frm William Jones
+To Robert Adams
+Wat: Paint Lick Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 217.5A PLC
+Adj 
+Dat 8/1/1790
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -2075 -37642 F127 L0 P65 0 51 0
+txt -1901 -38749 F127 R0 %d =
+Pt Hic Bch br
+Ln s39e; 60p; 
+Pt cnr Jas.Adams
+Ln n63e; 80p; 
+Pt Sug
+Ln n34w; 33p; 
+Pt Elm on br
+Lm n62e; 50p; 
+Pt 
+Lm n41e; 28p; 
+Pt 
+Lm n35e; 32p; 
+Pt Bch Ash fk br
+Ln n27w; 194p; 
+Pt Sug Bch br
+Lm s45w; 44p; 
+Pt 
+Lm s28w; 38p; 
+Pt 
+Lm s42w; 48p; 
+Pt 
+Lm s69w; 24p; 
+Pt 4syc bnk crk mouth br
+Lm s18w; 44p; up Crk
+Pt 2Syc
+Ln s60e; 40p; 
+Pt Hic
+Ln s13e; 78p; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP deed
+Id db-e:023-024
+Frm William Jones
+To Leven Cole
+Wat: Silver Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 180A SC
+Adj 
+Dat 5/21/1798
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 2019 -43964 F127 L0 P255
+Pt Barnett ln
+Ln n; 120p; Barnett
+Pt Pop
+Ln e; 19p; Barnett to beg
+Pt B.Estil cnr Barnet ln
+Ln n46w; 88p; 
+Pt WWal
+Ln n; 122p; 
+Pt Bogie ln
+Ln n50w; 150p; Bogie est. dist/dir
+Pt Pop Hervey
+Ln s15e; 20p; 
+Pt Bch
+Ln s20w; 40p; 
+Pt Sug
+Ln s40w; 21p; 
+Pt Bch
+Ln s4e; 240p; Schooler est. dist/dir
+Pt Kennedy
+Ln ;; E Kennedy to Barnett
+End
+! -- n ------ watercourse ------ last, first
+TYP deed
+Id db-c:219-220
+Frm Green Clay
+To Thomas Ellerson
+Wat: Silver Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 100 SC
+Adj 
+Dat 6/3/1794
+6PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -2002 -49645 F127 L0 P255
+txt -3056 -49127 F127 R0 %d =
+Pt WO cnr Whitlow
+Ln w; 134p; 
+Pt DW Sug
+Ln s15w; 120p; 
+Pt Hic cnr
+Ln e; 134p; 
+Pt Elm
+Ln n15e; 120p; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP deed
+Id db-a:41-42
+Frm Joseph Kennedy, Andrew Kennedy
+To Humphrey Best
+Wat: Paint Lick Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 200A PLC
+Adj 
+Dat 6/26/1787
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 8059 -32506 F127 L0 P255
+txt 6578 -32260 F127 R0 %d =
+Pt SE cnr Jno.Kennedy Set 2Cher
+Ln s; 160p; 
+Pt BHic SO
+Ln w; 176p; 
+Pt WO
+Ln n; 280p; 
+Pt Wal Set ln
+Ln s75e; 180p; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP grant
+Id VA#1770.1
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 1783-05-20
+IssDat: 1785-01-10
+SurveyTo: Green Clay
+IssuedTo: 
+Frm Virginia
+To Green Clay
+Assignee: 
+Wat: Silver Creek, Kentucky River
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 1300A SC KyR
+SCC: 
+Adj 
+Dat 1785-01-10
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: Silver Creek
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -8973 -61232 F127 L0 P73 0 57 0
+txt -5331 -61622 F127 R0 %d =
+Pt Elm Buck A. br lg NW cnr Jno.Holder
+Lm w; 108p; 
+Pt Ky rvr
+Lm n30e; 60p; 
+Pt 
+Lm n20e; 20p; 
+Pt 
+Lm n30e; 82p; 
+Pt 
+Lm n45e; 20p; 
+Pt 
+Lm n12e; 70p; 
+Pt 
+Lm n45e; 34p; 
+Pt 
+Lm e; 100p; 
+Pt 
+Lm s15e; 85p; 
+Pt mouth SC
+Lm s75e; 40p; 
+Pt 
+Lm n80e; 80p; 
+Pt 
+Lm n35e; 70p; 
+Pt Ash B. Wm.Turpin cnr bnk
+Lm s60e; 16p; 
+Pt Bch Buck his cnr C.
+Ln n29e; 4p; sd ln
+Pt lgBch Ric.Cave cnr
+Ln e; 286p; Ric.Cave x2br
+Pt Sug 2Ash his cnr Jes.Copper ln D. rdg
+Ln s45e; 20p; Cophers ln
+Pt 2Sug Buck cnr Wm.Price
+Ln s; 232p; Wm.Price writ S192
+Pt 5Elm E. JacksonsBr SC
+Lm w; 34p; 
+Pt 
+Lm s73w; 23p; 
+Pt 
+Lm s56w; 20p; 
+Pt 
+Lm s20w; 56p; 
+Pt 
+Lm s50w; 44p; 
+Pt 
+Lm s10w; 41p; 
+Pt 
+Lm s52w; 72p; 
+Pt 
+Lm w; 40p; 
+Pt 
+Ln s65w; 36p; 
+Pt Sug Buc G. cnr Jno.Jackson
+Lm s66w; 8p; Jno.Jackson
+Pt Sug Hic H. cnr Jno.Holder
+Ln n76w; 40p; 
+Pt Hac
+Ln w; 50p; 
+Pt Syc
+Ln n10e; 70p; 
+Pt Ash
+Ln n28w; 20p;
+Pt Sug
+Ln n23w; 40p;
+Pt Sug
+Ln n45w; 110p;
+Pt Sug Elm
+Ln n26e; 104p; xbr
+Pt Hic Ash
+Ln s66w; 240p; Holder xSC to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP survey
+Id VA#1253
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 1/20/1783
+IssDat: 
+SurveyTo: Elverton Peyton
+IssuedTo: 
+Frm Virginia
+To Elverton Peyton
+Assignee: none listed
+Wat: Silver Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 400A SC
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: Stone Lick
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 15039 -39295 F127 L0 P73 0 57 0
+txt 12891 -38632 F127 R0 %d =
+Pt 2Sug NE of lick
+Ln n70w; 255p; x br
+Pt B. BWal
+Ln s20w; 253p; 
+Pt C. lgBWal
+Ln s70e; 253p; 
+Pt D. lgBO
+Ln n20e; 253p; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP survey
+Id VA#3104
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 9/22/1783
+IssDat: 
+SurveyTo: Joseph Scott
+IssuedTo: Joseph Scott
+Frm Virginia
+To Joseph Scott
+Assignee: none listed
+Wat: Silver Creek, Paint Lick Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 960A SC, PLC
+SCC: William Scott, Andrew Miller
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 5501 -28945 F127 L0 P72 0 57 0
+txt 4707 -31021 F127 R0 %d =
+Pt A. WO 100p S Scotts spr
+Ln n70e; 240p; 
+Pt B. WO SO
+Ln n20w; 400p; 
+Pt C. Hic BWal by br ElkGdnCrk
+Ln s70w; 400p; 
+Pt D. WO Bch
+Ln s20e; 300p; 
+Pt 3Hicsap Wm.Miller set ln
+Ln n75e; 80p; Wm.Miller
+Pt F. BEye Elm cnr Miller
+Ln s15e; 85p; Miller
+Pt G. 2Hicsap
+Ln n70e; 80p; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP survey
+Id VA#2330
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 9/22/1783
+IssDat: 
+SurveyTo: Joseph Scott
+IssuedTo: Joseph Scott
+Frm Virginia
+To Joseph Scott
+Assignee: John Todd
+Wat: ns
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 250A
+SCC: William Scott, Andrew Miller
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 6076 -33295 F127 L0 P72 0 57 0
+txt 3877 -33355 F127 R0 %d =
+Pt A. 2SO NW ln his 960 59p frm cnr
+Ln n20w; 117p; 
+Pt B. Cher BO
+Ln s70w; 341p; 
+Pt C. 2Sug
+Ln s20e; 117p; 
+Pt D. WO Bch cnr 960A
+Ln n70e; 341p; 960A to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP deed
+Id VA8258
+Frm Thomas Kennady
+To Andrew Bogie
+Assignee: heir to John Kennady
+Wat: Silver Creek
+Ref 
+! -- abstract --
+! VA8258 Thomas Kennady to Andrew Bogie
+Rec 
+Re 300A SC
+Adj 
+Dat 2/1/1791
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Virginia -> Thomas Kennady
+! 2. 300 A, 01 Feb 1791 Thomas Kennady -> Andrew Bogie db-b:34-36
+lbl %to\%dat\File# %Id\%Re\And.Bogie 1791
+! Metes and bounds
+loc -2548 -55082 F127 L0 P255
+txt -3680 -53678 F127 R0 %d =
+Pt Sug Elm side hill
+Ln s55w; 260p; x SC
+Pt Ash
+Ln s35e; 185p; 
+Pt WHic
+Ln n55e; 260p; x SC
+Pt Ash
+Ln n35w; 185p; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP deed
+Id db-c:677-678
+Frm Thomas Kennedy
+To James Stewart
+Wat: Silver Creek, Paint Lick Creek
+Ref 
+! -- abstract --
+! part of a larger tract belonging to Mayo
+Rec 
+Re 105A SC,PLC
+Adj 
+Dat 11/13/1795
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 1720 -39907 F127 L0 P255
+txt 1911 -40577 F127 R0 %d =
+Pt Ash sd rd
+Ln e; 122p; 
+Pt Bch Dvers ln
+Ln n27w; 156p; 
+Pt RO top ridge
+Ln w; 42p; 
+Pt pap fields cnr
+Ln s27e; 38p; 
+Pt Ash cnr fld
+Ln w; 56p; 
+Pt Ash side rd
+Ln ;; Zac.Wiley to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP other
+Id 
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 
+IssDat: 
+SurveyTo: 
+IssuedTo: 
+Frm 
+To John Bone
+Assignee: 
+Wat: 
+Ref 
+! -- abstract --
+! Madison Ciruit Court Case #4797
+Rec 
+Re 4.5A SC
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 6391 -45415 F127 L0 P255
+txt 6404 -45483 F127 R0 %d =
+Pt El W bnk SC
+Ln n2e; 30p; new ln
+Pt stk cnr new barn stable
+Ln s85e; 8p; 
+Pt stk old barn
+Ln s23e; 56p; 
+Pt Syc bnk crk
+Lm ;; up crk to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP grant
+Id OK#1509
+ENTRY: 
+GrantNo: 
+EntDat: 1787-08-10
+WarDat: 
+SurDat: 1794-04-03
+IssDat: 1796-07-21
+SurveyTo: Green Clay
+IssuedTo: Green Clay
+Frm KY
+To Green Clay
+Assignee: William Daugharty, Thomas Daugharty
+Wat: Silver Creek, Taylors Fork
+Ref 
+! -- abstract --
+! see VA survey #8642 for warrant 11783, treasury warrant 11783
+Rec 
+Re 125A SC TaylorFk
+SCC: Drury Willis, Thomas Campbell
+Adj Estill, Smith, Kiles, Gass
+Dat 1796-07-21
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 14037 -45454 F127 L0 P72 0 57 0
+txt 13083 -44867 F127 R0 %d =
+Pt Cher Estill ln
+Ln s20w; 174p; Estill
+Pt Sug Elm Gass+Kiles ln
+Ln w; 108p; Kiles
+Pt 2WO Smith ln
+Ln n20e; 208p; Smith
+Pt Wm Doughorty ln
+Ln s70e; 110p; Daugherty to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP grant
+Id OK#1350
+ENTRY: 
+GrantNo: 
+EntDat: 1783-11-19
+WarDat: 
+SurDat: 1792-10-26
+IssDat: 1796-04-18
+SurveyTo: William Kyle
+IssuedTo: William Kyle
+Frm KY
+To William Kyle
+Assignee: none listed
+Wat: Silver Creek
+Ref 
+! -- abstract --
+! treasury warrant 12557
+Rec 
+Re 253.5A SC
+SCC: none listed
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 11212 -43528 F127 L0 P255
+Pt 2Sug Hac cnr Wm.Roberson
+Ln s70e; 75p; Smith
+Pt 2Ash Smith cnr
+Ln n20e; 68p;
+Pt 2wo
+Ln e; 106p; leave Smith
+Pt Hic Elm Dav.Gass ln
+Ln s20w; 62p; Dav.Gass
+Pt Wal Buc Elm
+Ln s; 183p; 
+Pt Hic Cher
+Ln w; 179p; leave Gass ln
+Pt 2Sug Robinson cnr
+Ln n; 198p; Robinson to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP grant
+Id VA#8769
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 1784-07-13
+IssDat: 1785-08-22
+SurveyTo: William Daugherty
+IssuedTo: William Daugherty
+Frm VA
+To William Daugherty, Hugh Campbell
+Assignee: William Thorp
+Wat: Silver Creek, Taylors Frok
+Ref 
+! -- abstract --
+! I do hereby assign the within certificate of survey and plot of 200 acres of land to Hugh Campbell ... 21st July 1784
+Rec 
+Re 200A SC TFk
+SCC: Haile Talbot, Michael Shirley
+Adj George Smith, John Hart
+Dat 1785-08-22
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 13969 -46985 F127 L0 P73 0 57 0
+txt 13810 -46079 F127 R0 %d =
+Pt 2Syc A. bnk TaylorsFk ln Jno.Hart
+Lm s70w; 20p; TaylorsFk
+Pt 
+Lm w; 20p; 
+Pt 2Elm B. Geo.Smith ln
+Ln s20w; 122p; Geo.Smith xTaylorsFk
+Pt Elm WHic C.
+Ln s70e; 225p; x fk TaylorsFk
+Pt WO BWal D.
+Ln n20e; 145p; 
+Pt 2Sug E. cnr Jno.Hart
+Ln n70w; 190p; Hart x TaylorsFk to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP grant
+Id VA#2087
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 1783-04-10
+IssDat: 1784-07-01
+SurveyTo: William Kirtly
+IssuedTo: William Kirtly
+Frm 
+To William Kirtly
+Assignee: Daniel Hawkins
+Wat: Paint Lick Creek
+Ref 
+! -- abstract --
+! No. 168
+Rec 
+Re 400A PLC
+SCC: 
+Adj 
+Dat 1784-07-01
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -12202 -50435 F127 L0 P73 0 57 0
+txt -11101 -49934 F127 R0 %d =
+Pt 2BWal Mulb bot A.
+Ln s20e; 233p; xbr
+Pt Ash Sug side ridge B.
+Ln n70e; 275p; xPLC
+Pt BWal Sug C.
+Ln n20w; 233p; 
+Pt Ash Sug D.
+Ln s70w; 275p; xPLC to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP grant
+Id VA#2088
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 1783-04-10
+IssDat: 1784-07-01
+SurveyTo: William Kirtly
+IssuedTo: William Kirtly
+Frm 
+To William Kirtly
+Assignee: Daniel Hawkins
+Wat: Paint Lick Creek
+Ref 
+! -- abstract --
+! No. 169
+Rec 
+Re 500A PLC
+SCC: 
+Adj 
+Dat 1784-07-01
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -12290 -50423 F127 L0 P73 0 57 0
+txt -11833 -52043 F127 R0 %d =
+Pt 2BWal Mul NW cnr his set A.
+Ln n20w; 291p; x2br
+Pt Ash BWal lg cain brk E.
+Ln n70e; 275p; xPLC
+Pt WWal 3Sug side rdg F.
+Ln s20e; 291p; xbr
+Pt Ash Sug NE cnr set D.
+Ln s70w; 275p; set. xPLC to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP grant
+Id VA#2089
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 1783-04-10
+IssDat: 1784-07-01
+SurveyTo: William Kirtly
+IssuedTo: William Kirtly
+Frm VA
+To William Kirtly
+Assignee: Daniel Hawkins
+Wat: 
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 500A PLC
+SCC: none listed
+Adj 
+Dat 1784-07-01
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: trace from Boonsboro to Logan
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -11527 -48235 F127 L0 P73 0 57 0
+txt -10073 -47351 F127 R0 %d =
+Pt Ash Sug SW cnr set. side rdg B.
+Ln s20e; 291p; x2br
+Pt Elm 3Sug edge cain brk G.
+Ln n70e; 275p; xsmbr +PLC
+Pt lgBuck 2Linn trace Boonsborough-Logan H.
+Ln n20w; 291p; x2br
+Pt BWal Sug C. SE cnr set.
+Ln s70w; 275p; set. xPLC to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP 
+Id 
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 
+IssDat: 
+SurveyTo: 
+IssuedTo: 
+Frm 
+To 
+Assignee: 
+Wat: 
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 0 0 F127 L0 P255
+Pt 
+Ln ; p; 
+Pt 
+Ln ; p; 
+Pt 
+Ln ; p; 
+Pt 
+Ln ; p; 
+Pt 
+Ln ; p; 
+Pt 
+Ln ; p; 
+Pt 
+Ln ; p; 
+Pt 
+Ln ; p; 
+End
+! -- n ------ watercourse ------ last, first
+TYP 
+Id 
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 
+IssDat: 
+SurveyTo: 
+IssuedTo: 
+Frm 
+To 
+Assignee: 
+Wat: 
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 0 0 F127 L0 P255
+Pt 
+Ln ; p; 
+Pt 
+Ln ; p; 
+Pt 
+Ln ; p; 
+Pt 
+Ln ; p; 
+Pt 
+Ln ; p; 
+Pt 
+Ln ; p; 
+Pt 
+Ln ; p; 
+Pt 
+Ln ; p; 
+End
+! -- n ------ watercourse ------ last, first
+TYP grant
+Id VA#1405
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 1783-06-20
+IssDat: 1785-07-10
+SurveyTo: John Holder
+IssuedTo: John Holder
+Frm VA
+To John Holder
+Assignee: Moses Nelson
+Wat: Silver Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 400A SC
+SCC: none listed
+Adj 
+Dat 1785-07-10
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -8974 -61085 F127 L0 P73 0 57 0
+txt -7957 -59841 F127 R0 %d =
+Pt Elm Buc A. on br lg fall cnr Gr.Clay
+Ln s24e; 336p; xbrSC
+Pt Sug Hic B. rdg
+Ln n66e; 153p; 
+Pt Jackson cnr
+Ln n66e; 70p; Jackson
+Pt Sug Hic c. Gr.Clay
+Ln n76w; 40p; 
+Pt Hac
+Ln w; 50p; 
+Pt Syc
+Ln n10e; 70p; 
+Pt Ash
+Ln n28w; 60p; 
+Pt Sug
+Ln n45w; 110p; 
+Pt Sug Elm
+Ln n26e; 105p; 
+Pt Hic smAsh D. Clay
+Ln s66w; 240; Clay xSC to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP grant
+Id VA#0856
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 1782-07-28
+IssDat: 1784-06-15
+SurveyTo: Stephen Handcock
+IssuedTo: John Jackson
+Frm VA
+To John Jackson
+Assignee: Stephen Hancock
+Wat: 
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 50A SC
+SCC: none listed
+Adj 
+Dat 1784-06-15
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -4655 -57444 F127 L0 P73 0 57 0
+txt -5093 -56897 F127 R0 %d =
+Pt Sug A. Jno.Jackson cnr
+Ln s66w; 76p; Jackson
+Pt Sug his cnr B.
+Ln s24e; 154p; Jackson
+Pt Sug C.
+Ln n66e; 25p; Jackson
+Pt BO Hic D. ft clf
+Ln n1w; 110p; 
+Pt Sug E.
+Ln n10w; 44p; 
+Pt Sug F.
+Ln n31w; 6p; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP deed
+Id KyMadison A:084-085
+Frm George Adams
+To James Adams
+Wat: 
+Ref 
+! -- abstract --
+! part 400 acres
+Rec 
+Re 200A
+Adj 
+Dat 1788-07-22
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -8277 -30860 F127 L0 P255
+txt -10454 -30574 F127 R0 %d =
+Pt Hic Wal 29.5p S fr Hic cnr old srvy
+Ln n80w; 245p; 
+Pt WO Sug old ln
+Ln s10w; 130.5p; 
+Pt SO Hic on/nr Kennedy ln
+Ln s80e; 245p; 
+Pt SO
+Ln n10e; 130.5p; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP deed
+Id KY-Madison B:015-018
+Frm David Cook
+To James Adams
+Wat: Paint Lick Creek
+Ref 
+! -- abstract --
+! survey 1782-03-18, both sides Paint Lick Creek, about 20p above John Cook location 150 acres
+Rec 
+Re 200A 
+Adj 
+Dat 1790-02-29
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -2539 -38085 F127 L0 P65 0 51 0
+txt -1854 -37186 F127 R0 %d =
+Pt RO Ash W side crk
+Ln s37e; 307.6p; 
+Pt 2Sug
+Ln n53e; 104p; 
+Pt 2Sug
+Ln n37w; 307.6p; 
+Pt Hic DW
+Ln s53w; 104p; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP grant
+Id VA#2476
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 1785-01-12
+IssDat: 
+SurveyTo: Loftless Pullins
+IssuedTo: 
+Frm VA
+To Loftless Pullings
+Assignee: 
+Wat: Paint Lick Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 50A PLC
+SCC: David Cook, Robert Kinkead
+Adj 
+Dat 1786-03-03
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -4513 -43703 F127 L0 P255
+txt -4501 -43228 F127 R0 %d =
+Pt Elm A. lw grnd crk
+Ln n45e; 51.75p; 
+Pt WO Sug
+Ln s45e; 75p; 
+Pt 2Sug nr br
+Ln s; 80.25p; 
+Pt lgAsh Sug cain brk hill
+Ln w; 67.75p; xPLC
+Pt RO bnk
+Ln n; 79p; 
+Pt WO Sug low grnd crk
+Ln n45w; 15p; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP grant
+Id VA#4275
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 1784-07-30
+IssDat: 1786-08-14
+SurveyTo: Robert Henderson
+IssuedTo: Robert Henderson
+Frm VA
+To Robert Henderson
+Assignee: 
+Wat: Paint Lick Creek
+Ref 
+! -- abstract --
+! warrant 426 1779-10-15
+Rec 
+Re 250A PLC
+SCC: none listed
+Adj 
+Dat 1786-08-14
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 2463 -29207 F127 L0 P255
+txt 1896 -31056 F127 R0 %d =
+Pt WO A. Wm.Miller set ln
+Ln n75e; 100p; Miller
+Pt 3Hicsap B. cnr Jos.Scott 960
+Ln n15w; 360p; Scott
+Pt 3Sug C.
+Ln s75w; 150p; 
+Pt 2Syc D. Thompson ln 300
+Ln s55e; 130p; Thompson
+Pt BAsh Buc E.
+Ln s35w; 170p; Thompson
+Pt Buc F. Wm.Miller pre ln
+Ln n75e; 92p; 
+Pt Sug G.
+Ln s15e; 160p; Miller to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP grant
+Id VA#5801
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 1784-06-26
+IssDat: 
+SurveyTo: James Thompson
+IssuedTo: James Thompson
+Frm VA
+To James Thompson
+Assignee: Steven Trigg
+Wat: Paint Lick Creek
+Ref 
+! -- abstract --
+! Lincloln County
+Rec 
+Re 300A PLC
+SCC: none listed
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -1561 -32844 F127 L0 P255
+txt -178 -31890 F127 R0 %d =
+Pt Sug mkd AB A. bnk crk 20p bel 2nd fk...
+Lm s35e; 100.25p; up sm fk
+Pt Syc RO B.
+Ln s55e; 267p; 
+Pt Wal C.
+Ln n35e; 180p; x main crk
+Pt Buc Ash D.
+Ln n55w; 267p; 
+Pt Buc Elm E.
+Ln s35e; 80p; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP grant
+Id VA#2271
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 1783-05-02
+IssDat: 1785-04-11
+SurveyTo: William Miller
+IssuedTo: William Miller
+Frm VA
+To William Miller
+Assignee: none listed
+Wat: Paint Lick Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 400A PLC
+SCC: none listed
+Adj 
+Dat 1785-04-11
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: Adams Station, Paint Lick
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 4763 -27982 F127 L0 P72 0 57 0
+txt 2555 -28184 F127 R0 %d =
+Pt SO A. 80pNEof AdamsStation PL
+Ln n15w; 160p; 
+Pt Buc Elm B.
+Ln s75w; 320p; x PLC
+Pt Buc Sug C.
+Ln s15e; 207p; x crk 2
+Pt Wal D.
+Ln n75e; 274p; x crk
+Pt Wal Buc E.
+Ln n15w; 27p; 
+Pt SO F.
+Ln n75e; 46p; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP grant
+Id VA#2273
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 1783-05-02
+IssDat: 1785-04-11
+SurveyTo: William Miller
+IssuedTo: William Miller
+Frm VA
+To William Miller
+Assignee: 
+Wat: Paint Lick Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 300A PLC
+SCC: 
+Adj 
+Dat 1785-04-11
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 2413 -29095 F127 L0 P72 0 57 0
+txt 555 -29528 F127 R0 %d =
+Pt WO O. N ln set 110p fr NW cnr
+Ln n15w; 153p; xCrk
+Pt Sug P. bnk crk
+Ln s75w; 315p; 
+Pt mkd tree Q. cain brk
+Ln s15e; 153p; 
+Pt Ash R.
+Ln n75e; 315p; strk set ln to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP grant
+Id VA#2272
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 1783-05-02
+IssDat: 
+SurveyTo: William Miller
+IssuedTo: William Miller
+Frm VA
+To William Miller
+Assignee: 
+Wat: Paint Lick Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 700A PLC
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 4394 -27338 F127 L0 P72 0 57 0
+txt 2528 -26221 F127 R0 %d =
+Pt Wal Buc E. SE cnr set
+Ln s15e; 210p; 
+Pt WO G. ln Mic.McNeelly
+Ln s56w; 20p; McNeely
+Pt HLoc H.
+Ln s75w; 330p; xCrk
+Pt DW Hic I.
+Ln n15w; 155p; 
+Pt WO K.
+Ln s75w; 129p; xSmCrk
+Pt Elm L.
+Ln n15w; 200p; 
+Pt Sug Hic M.
+Ln n75e; 205p; 
+Pt SO his set ln N.
+Ln s15e; 132p; his set ln xCrk
+Pt Wal D. cnr set.
+Ln n75e; 274p; with to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP grant
+Id VA#5962
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 1785-11-03
+IssDat: 
+SurveyTo: Mary Anne Oldham
+IssuedTo: Mary Anne Oldham
+Frm VA
+To Mary Anne Oldham
+Assignee: 
+Wat: Paint Lick Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re PLC
+SCC: Robert Henderson, Wm Merrit
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -1442 -30700 F127 L0 P255
+txt -3492 -29718 F127 R0 %d =
+Pt WWal And.Henderson ln
+Ln s35w; 60p; Rob.Henderson
+Pt Cher H. cnr same
+Ln n55w; 108p; xFk LickBr
+Pt Bch G. sd ln
+Ln s70w; 124p; Jas.Thompson xSmBr
+Pt Bch Sug F. Thompson cnr
+Ln s86w; 62p; Th.Allin  xSmBr
+Pt Sug E. Allin cnr
+Ln s; 90p; Rob.Henderson
+Pt dblPop D. cnr Dav.Maxwell
+Ln s70e; 200p; Dav.Maxwell
+Pt WO C. smBr
+Ln s75e; 45p; Wm.Myers
+Pt Hic Sug B. ridge cnr 250 And.Henderson
+Ln n18e; 220p; And.Henderson to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP grant
+Id VA#4979
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 1784-06-06
+IssDat: 
+SurveyTo: James Thompson
+IssuedTo: Samuel Couchran
+Frm VA
+To Samuel Couchran
+Assignee: 
+Wat: Paint Lick Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 100A PLC
+SCC: none listed
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re\Jas.Thompson
+! Metes and bounds
+loc -2667 -30963 F127 L0 P255
+txt -4581 -31354 F127 R0 %d =
+Pt Buc A. Henderson 200 cnr Pol.Oldham 272
+Ln s72w; 110p; Oldham
+Pt Buc Sug B.
+Ln n55w; 155p; 
+Pt 2Buc C.
+Ln n35e; 84p; 
+Pt Sug BLoc D.
+Ln s55e; 230p; Henderson to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP grant
+Id VA#1515
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 1782-09-27
+IssDat: 
+SurveyTo: David Maxwell
+IssuedTo: David Maxwell
+Frm VA
+To David Maxwell
+Assignee: none listed
+Wat: Paint Lick Creek
+Ref 
+! -- abstract --
+! about 1 mile below the lick
+Rec 
+Re 200A PLC
+SCC: none listed
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -5042 -28150 F127 L0 P255
+Pt 2 Ash A. Kincade ln
+Ln s70e; 120p; Kinkade
+Pt 
+Ln s70e; 80p; 
+Pt RO B.
+Ln n20e; 160p; 
+Pt WO C.
+Ln n70w; 200p; 
+Pt 3Pop D.
+Ln s20w; 160p; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP grant
+Id VA#5771
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 1784-06-25
+IssDat: 
+SurveyTo: Robert Henderson
+IssuedTo: Robert Henderson
+Frm VA
+To Robert Henderson
+Assignee: Samuel Cokran, McCormack, Singlton, John Mason, Willis Green
+Wat: Paint Lick Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 500A PLC
+SCC: none listed
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -6042 -28413 F127 L0 P255
+txt -6625 -30029 F127 R0 %d =
+Pt WO Buc A. NW cnr Hart 250
+Ln w; 180p; Hart
+Pt Pop Sug B.
+Ln n; 220p; 
+Pt Sug C.
+Ln e; 345p; 
+Pt Hic Sug D.
+Ln s; 90p; 
+Pt Pop E. cnr Dav.Maxwell 200
+Ln s20w; 160p; Dav.Maxwell
+Pt 2Ash F. Kinkade ln
+Ln n70w; 30p; Kinkade
+Pt fkRAsh
+Ln s20w; 70p; Kinkade
+Pt Hic Buc H. Montgomery ln
+Ln w; 55p; 
+Pt Cher Mul E. Harts ln
+Ln n; 70p; Hart to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP grant
+Id VA#0819
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 1782-03-19
+IssDat: 
+SurveyTo: Robert Kincaid
+IssuedTo: Robert Kincaid
+Frm VA
+To Robert Kincaid
+Assignee: Loftis Pulham
+Wat: Paint Lick Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 100A PLC
+SCC: none listed
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -5604 -27349 F127 L0 P255
+txt -4940 -27516 F127 R0 %d =
+Pt Lin Buc A.
+Ln n20e; 100p; 
+Pt dblAsh B.
+Ln s70e; 160p; 
+Pt Sug C.
+Ln s20w; 100p; 
+Pt Buc Pop D.
+Ln n70w; 160p; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP grant
+Id VA#5697
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 1784-07-07
+IssDat: 
+SurveyTo: Samuel Reed
+IssuedTo: Samuel Reed
+Frm VA
+To Samuel Reed
+Assignee: James Reed
+Wat: Paint Lick Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 107A PLC
+SCC: none listed
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 1126 -26051 F127 L0 P72 0 57 0
+txt 633 -24204 F127 R0 %d =
+Pt WO A. cnr Wm.Miller pre
+Ln s15e; 160p; Miller
+Pt DW Hic E.
+Ln n75e; 20p; 
+Pt BWal B. cnr McCormack pre
+Ln s10w; 230p; McCormack
+Pt BWal C. cnr Henderson 200
+Ln n21w; 204p; Jac.Lee
+Pt RO Lee cnr D. cnr Henderson 280
+Ln n20e; 180p; Henderson to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP grant
+Id VA#4279
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 1784-06-21
+IssDat: 
+SurveyTo: Robert Henderson
+IssuedTo: Robert Henderson
+Frm VA
+To Robert Henderson
+Assignee: James Henderson
+Wat: Paint Lick Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 280A PLC
+SCC: none listed
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -449 -25488 F127 L0 P72 0 57 0
+txt -425 -24563 F127 R0 %d =
+Pt RO Sug Wm.Read ln 15pfrNEcnr
+Ln s; 110p; 
+Pt BO Buc B.
+Ln w; 293p; Read
+Pt Ash Sug C. Henderson ln 250
+Ln s10w; 68p; Henderson
+Pt 2Sug D Sam.Gordon ln
+Ln s80e; 120p; Gordon
+Pt Sug E. cnr Gordon + Lee
+Ln n75e; 305p; Lee
+Pt RO F.
+Ln n18e; 190p; 
+Pt WO G. cnr Wm.Miller set + pre
+Ln s75w; 170p; sd pre to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP grant
+Id VA#3288
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 1784-08-20
+IssDat: 
+SurveyTo: Bartlet Collins
+IssuedTo: Bartlet Collins
+Frm VA
+To Bartlet Collins
+Assignee: John Craig, Withers
+Wat: Paint Lick Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 270A PLC
+SCC: none listed
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -3867 -36444 F127 L0 P72 0 57 0
+txt -2988 -36457 F127 R0 %d =
+Pt 3Buc A. NW cnr Arc.Woods 200
+Ln n35e; 215p; 
+Pt Hic RO bnk crk Dav.Cook ln
+Ln s37e; 310p; Cook + Galispee
+Pt WO Hic cnr hart 250
+Ln s35w; 60p; Hart
+Pt Sug Buc D. bnk crk cnr Henderson 100
+Ln n55w; 113p; dwn crk his ln
+Pt Ash Elm Sug E.
+Ln s35w; 60p; 
+Pt 3WO F. cnr Woods
+Ln n55w; 185p; Woods to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP grant
+Id VA#0563
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 1782-03-18
+IssDat: 
+SurveyTo: John Cook 
+IssuedTo: John Cook
+Frm VA
+To John Cook
+Assignee: none listed
+Wat: Paint Lick Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 150A PLC
+SCC: none listed
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -5561 -40744 F127 L0 P72 0 57 0
+txt -5229 -39720 F127 R0 %d =
+Pt 2WO E side crk A.
+Ln s60e; 266.6p; 
+Pt 2Box bnk crk B.
+Ln s30w; 90p; 
+Pt Hic Sug C.
+Ln n60w; 266.6p; 
+Pt Sug IW D.
+Ln n30e; 90p; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP grant
+Id VA#3675
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 1784-07-08
+IssDat: 
+SurveyTo: William Crow
+IssuedTo: James Thompson
+Frm VA
+To James Thompson (Crow)
+Assignee: 
+Wat: Paint Lick Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 400A PLC
+SCC: none listed
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -4417 -33201 F127 L0 P72 0 57 0
+grp 5FD9EDEB
+txt -6393 -34589 F127 R0 %d =
+Pt Ash Sug A. SW cnr Woods 200
+Ln n55w; 45p; 
+Pt DW Sug B. cnr Hunderson 100
+Ln n85w; 284p; 
+Pt 2Sug C.
+Ln n5e; 200p; 
+Pt 3Sug D.
+Ln s85e; 269p; 
+Pt Buc E.
+Ln s5w; 68p; 
+Pt Lin Sug F. cnr Woods
+Ln s55e; 120p; Woods
+Pt 2Buc G.
+Ln s35w; 105p; Woods to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP grant
+Id VA#3290
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 1784-08-05
+IssDat: 
+SurveyTo: Barlet Collins
+IssuedTo: Bartlett Collins
+Frm VA
+To Bartlett Collins
+Assignee: Walker Baylor, Joseph Bledsoe, William McWilliams
+Wat: Paint Lick Creek, Back Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 230A BC
+SCC: none listed
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -7299 -35838 F127 L0 P72 0 57 0
+grp 5FD9EDEB
+txt -9251 -35208 F127 R0 %d =
+Pt 3Sug A. NW cnr Wm.Crow 400
+Ln w; 225p; 
+Pt Sug Buc B. bnk crk
+Lm s16w; 90p; 
+Pt 
+Lm s40e; 28p; 
+Pt 
+Lm s; 32p; 
+Pt 
+Lm s30e; 36p; 
+Pt 
+Lm s65e; 20p; 
+Pt 
+Lm s80e; 76p; 
+Pt Hic C. Henderson ln 300
+Ln n; 60p; Henderson
+Pt 2Sug D.
+Ln e; 110p; Henderson
+Pt Sug E. Crows ln
+Ln n5e; 130p; Crow to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP grant
+Id VA#9108
+ENTRY: 
+GrantNo: 
+EntDat: 1781-11-24
+WarDat: 
+SurDat: 1785-07-01
+IssDat: 
+SurveyTo: Archibald Woods heirs
+IssuedTo: Archibald Woods heirs
+Frm VA
+To Archibald Woods heirs
+Assignee: 
+Wat: Paint Lick Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -1367 -32144 F127 L0 P72 0 57 0
+grp 5FD9EDEB
+txt -3635 -32816 F127 R0 %d =
+Pt Cher A. ln Rob.Henderson 200
+Ln n55w; 310p; pass his cnr
+Pt 2Buc B. cnr Wm.Crow
+Ln s35w; 103.25p; 
+Pt Ash C.
+Ln s55e; 310p; xLickCrk
+Pt 3Lin D. on hillside
+Ln n35e; 103.25p; x crk to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP grant
+Id VA#9109
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 1785-02-14
+IssDat: 
+SurveyTo: Archibald Woods heirs
+IssuedTo: Archibald Woods heirs
+Frm VA
+To Archibald Woods heirs
+Assignee: 
+Wat: Paint Lick Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 200A PLC
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -3499 -33819 F127 L0 P72 0 57 0
+grp 5FD9EDEB
+txt -4438 -35210 F127 R0 %d =
+Pt Sug A. NW Rob.Henderson 200
+Ln n55w; 160p; past Crows cnr
+Pt Lin Sug B.
+Ln n5e; 68p; 
+Pt Buc C.
+Ln n35e; 127p; 
+Pt 3Bch D.
+Ln s55e; 180p; 
+Pt 3WO ridge E.
+Ln s35w; 180p; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP grant
+Id VA#4274
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 1784-08-05
+IssDat: 
+SurveyTo: Robert Henderson
+IssuedTo: Robert Henderson
+Frm VA
+To Robert Henderson
+Assignee: James Henderson
+Wat: Back Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 300A BackCrk
+SCC: none listed
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -7945 -31591 F127 L0 P72 0 57 0
+txt -7674 -33188 F127 R0 %d =
+Pt 2Sug A. Henderson ln 200
+Ln w; 6p; Bledsoe
+Pt Sug B. bnk crk
+Lm n50w; 34p; 
+Pt 
+Lm n80w; 16p; 
+Pt 
+Lm n21w; 20p; 
+Pt 
+Lm n50e; 42p; 
+Pt 
+Lm n68e; 20p; 
+Pt 
+Lm n28e; 24p; 
+Pt 
+Lm n18w; 24p; 
+Pt 
+Lm n65w; 40p; 
+Pt 
+Lm n87w; 20p; 
+Pt 
+Lm n32w; 40p; 
+Pt 
+Lm n; 126p; 
+Pt 2Sug Buc C.
+Ln e; 150p; 
+Pt Sug D. Corws ln
+Ln s5w; 70p; est.70p
+Pt 2Sug E. cnr Henderson 150
+Ln s85e; 80p; 
+Pt 2Buc Sug F.
+Ln s; 195p; Henderson
+Pt Ash G. Henderson 200
+Ln w; 140p; Henderson
+Pt BO H.
+Ln s; 24p; Henderson to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP grant
+Id VA#4271
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 1785-02-14
+IssDat: 
+SurveyTo: Robert Henderson
+IssuedTo: Robert Henderson
+Frm VA
+To Robert Henderson
+Assignee: James Henderson
+Wat: Paint Lick Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 407A PLC
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -3899 -36457 F127 L0 P72 0 57 0
+txt -5396 -37426 F127 R0 %d =
+Pt 3Buc A. cnr Arc.Woods
+Ln s35w; 127p; Woods
+Pt Buc B. cnr Crow
+Ln n85w; 15p; 
+Pt 2Sug C. Galispies ln
+Ln n42w; 272p; Galispie
+Pt Sug D. Jno.Cook ln 250
+Ln n45e; 90p; Jno.Cook 250
+Pt 2Buc E.
+Ln n45w; 30p; 
+Pt Bch Buc Sug F.
+Ln n45e; 225p; 
+Pt Bch Hic G. cnr Jno.Bryant
+Ln s12e; 350p; Jno.Bryant
+End
+! -- n ------ watercourse ------ last, first
+TYP grant
+Id VA#4792
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 1785-02-14
+IssDat: 
+SurveyTo: Bartlett Collins
+IssuedTo: Bartlett Collins
+Frm VA
+To Bartlett Collins
+Assignee: John Craing
+Wat: Paint Lick Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 182A PLC
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -5611 -42844 F127 L0 P72 0 57 0
+txt -6552 -41694 F127 R0 %d =
+Pt 2Ash Vanclift pre ln
+Ln s20e; 55p; Vanclift
+Pt Buc Ash
+Ln s70w; 145; pre ln
+Pt Sug Buc
+Ln s20e; 180p; to beg
+Pt 2WWal A. cnr Rob.Henderson 200
+Ln s60e; 30p; R.Henderson 200
+Pt Sug IW cnr Jno.Cook 150
+Ln n30e; 60p; J.Cook 150
+Pt BWal Ash Jno.Mayo bnk crk
+Lm N32.3612W; 42.00p; meanders to beg
+Pt 
+Lm N1.2755W; 38.00p; est
+Pt 
+Lm N45.3219E; 84.00p; est
+Pt 
+Lm N52.3013E; 77.00p; est
+Pt 
+Lm N20.0792W; 62.00p; est
+Pt 
+Lm S87.0000W; 77.00p; est
+End
+! -- n ------ watercourse ------ last, first
+TYP grant
+Id VA#4276
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 1781-09-06
+SurDat: 1784-08-25
+IssDat: 
+SurveyTo: Robert Henderson
+IssuedTo: Robert Henderson
+Frm VA
+To Robert Henderson
+Assignee: William Critenden
+Wat: Paint Lick Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 200A PLC
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -1261 -21157 F127 L0 P72 0 57 0
+txt -184 -21555 F127 R0 %d =
+Pt BWal A. NW cnr 200 Jno.Kenady
+Ln s80e; 230p; Kennady
+Pt Hic B. Kennady set ln
+Ln n20e; 138p; Kennady
+Pt Sug C. side br McCormack ln
+Ln n80w; 38p; McCormack
+Pt BO Hic D.
+Ln n10e; 32p; pre
+Pt BWal E. cnr Jac.Lee 375
+Ln n80w; 134p; Lee
+Pt Ash Sug F.
+Ln s10w; 75p; Lee
+Pt Ash Elm G.
+Ln w; 90p; Lee
+Pt smElm H. cnr Tho.Kennady 200
+Ln s10w; 210p; Th.Kennady 200
+Pt Sug cnr Jno.Kennady station set
+Ln n20e; 140p; his ln to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP grant
+Id VA#5742
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 1784-07-16
+IssDat: 
+SurveyTo: Robert Henderson
+IssuedTo: Robert Henderson
+Frm VA
+To Robert Henderson
+Assignee: Wilks Green
+Wat: Paint Lick Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 200A PLC
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -7573 -29951 F127 L0 P255
+txt -7059 -31287 F127 R0 %d =
+Pt 3Sug A. Henderson ln 300 60p S fr NW cnr
+Ln w; 40p; 
+Pt 2WO B. Bledsoe ln
+Ln n; 191p; Bledsow
+Pt BO C.
+Ln e; 226p; 
+Pt 2Hic
+Ln s; 131p; 
+Pt 2Sug Pop E. Henderson ln
+Ln w; 186p; Henderson
+Pt Sug F.
+Ln s; 60p; Henderson to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP grant
+Id VA#0564
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 1782-03-14
+IssDat: 
+SurveyTo: John Cook
+IssuedTo: John Cook
+Frm VA
+To John Cook
+Assignee: 
+Wat: Wooleys Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 250A
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -6714 -37322 F127 L0 P72 0 57 0
+txt -7640 -37904 F127 R0 %d =
+Pt Bch S side crk
+Ln s45w; 128p; 
+Pt 2Buc B.
+Ln n45w; 152p; 
+Pt 2WO bnk Wooley crk C.
+Lm n2w; 50p; 
+Pt Sug Elm D.
+Ln n50e; 66p; 
+Pt Hic DW E.
+Ln n53e; 140p; 
+Pt Sug F.
+Ln s45e; 155p; 
+Pt 2Bch G.
+Ln s45w; 115p; 
+Pt Elm H.
+Ln s45e; 10p; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP grant
+Id VA#5761
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 1780-09-28
+SurDat: 1785-07-02
+IssDat: 
+SurveyTo: Robert Henderson
+IssuedTo: Robert Henderson
+Frm VA
+To Robert Henderson
+Assignee: William Miller, Samuel Bell
+Wat: Paint Lick Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re PLC
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -1545 -32191 F127 L0 P72 0 57 0
+txt -1302 -31398 F127 R0 %d =
+Pt Cher A. ln Henderson 200 cnr Ar.Woods
+Ln s55e; 320p; Henderson past cnr to Jas.Thompson ln x LickBr
+Pt Wal B. cnr Thompson 300
+Ln n72w; 26p; 
+Pt And.Henderson cnr
+Ln n72w; 230p; x2br
+Pt lgAsh C. cnr Henderson 250
+Ln s18w; 45p; Henderson 250
+Pt Wal D. nr br Henderson ln
+Ln n55w; 70p; Henderson 100
+Pt 2HB E. cnr bnk LickCrk
+Ln n35e; 24p; with ln + crk
+Pt Sug Hic F. Woods ln
+Ln s55e; 8p; Woods
+Pt 3Lin? G. cnr srvy
+Ln n35e; 103.25p; ln same xLickCrk to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP grant
+Id VA#4365
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 1781-09-07
+SurDat: 
+IssDat: 1786-08-20
+SurveyTo: 
+IssuedTo: Thomas Woods
+Frm 
+To Thomas Woods
+Assignee: Robert Henderson
+Wat: Paint Lick Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 200A PLC
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -505 -32785 F127 L0 P72 0 57 0
+txt -2745 -33533 F127 R0 %d =
+Pt dblLinn N bnk PLC
+Ln n55w; 316p; xPLC2x
+Pt Hic BAsh bent crk
+Ln s35w; 101.25p; xcrk
+Pt Sug
+Ln s55e; 316p; Woods past his cnr
+Pt Red Sug bnk Lick crk
+Ln n35e; 101.25p; Thompson 300 xPLC to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP 
+Id 
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 
+IssDat: 
+SurveyTo: 
+IssuedTo: 
+Frm 
+To 
+Assignee: 
+Wat: 
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 0 0 F127 L0 P255
+Pt 
+Ln ; p; 
+Pt 
+Ln ; p; 
+Pt 
+Ln ; p; 
+Pt 
+Ln ; p; 
+Pt 
+Ln ; p; 
+Pt 
+Ln ; p; 
+Pt 
+Ln ; p; 
+Pt 
+Ln ; p; 
+End
+! -- n ------ watercourse ------ last, first
+TYP grant
+Id VA#5766
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 1780-09-26
+SurDat: 1784-07-30
+IssDat: 1786-08-20
+SurveyTo: Robert Henderson
+IssuedTo: Robert Henderson
+Frm VA
+To Robert Henderson
+Assignee: William Miller, Samuel Bell
+Wat: Paint Lick Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 100A PLC
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -2942 -34604 F127 L0 P72 0 57 0
+txt -2214 -34726 F127 R0 %d =
+Pt Ash Hic A. cnr Henderson 200
+Ln s55e; 114.25p; Henderson
+Pt 2Buc B. cnr Hart
+Ln n35e; 140p; Hart
+Pt Sug Buc C. bnk crk
+Lm n55w; 80p; on crk
+Pt 
+Ln n55w; 34.25p; 
+Pt BAsh Sug Elm D. on rdg
+Ln s35w; 140p; dwn rdg to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP grant
+Id VA#4586
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 1785-06-10
+IssDat: 
+SurveyTo: Andrew Henderson
+IssuedTo: Andrew Henderson
+Frm VA
+To Andrew Henderson
+Assignee: none listed
+Wat: Paint Lick Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 250A PLC
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 813 -30335 F127 L0 P72 0 57 0
+txt -1666 -29421 F127 R0 %d =
+Pt Ash A. Wm.Miller pre ln
+Ln n18e; 16p; 
+Pt 2Ash Mul B.
+Ln n72w; 230p; xBr
+Pt lgAsh C.
+Ln s18w; 278p; 
+Pt Sug Ash Hic D. ridge
+Ln s72e; 180p; 
+Pt Sug E. old ln
+Ln n15w; 37p; with ln
+Pt Ash Miller SWd cnr
+Ln n15w; 153p; 
+Pt Ash F. W cnr Miller
+Ln n75e; 180p; Miller to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP grant
+Id VA#8915
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 1784-07-30
+IssDat: 
+SurveyTo: Nathaniel Hart heirs
+IssuedTo: Nathaniel Hart heirs
+Frm VA
+To Nathaniel Hart heirs
+Assignee: Richard Simpson
+Wat: Paint Lick Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 250A PLC
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -492 -32748 F127 L0 P72 0 57 0
+txt -1087 -34009 F127 R0 %d =
+Pt Lin Trigg ln 300 cnr Henderson 200
+Ln n35e; 200p; Trigg past cnr
+Pt Sug DW B. ridge
+Ln n55w; 200p; 
+Pt Hic WO C. hillsd
+Ln s35w; 200p; 
+Pt 2Buc D.
+Ln s55e; 200p; Henderson to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP grant
+Id VA#7085
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 1784-06-06
+IssDat: 
+SurveyTo: Robert Henderson
+IssuedTo: Robert Henderson
+Frm VA
+To Robert Henderson
+Assignee: 
+Wat: Paint Lick Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 100A PLC
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -8980 -31960 F127 L0 P255
+txt -10428 -32950 F127 R0 %d =
+Pt Pop A. SW cnr Henderson 100 Thompson ln 100
+Ln n55w; 232p; Thompson
+Pt Buc Hic B.
+Ln n35e; 86p; 
+Pt DW Sug C.
+Ln s55e; 132p; 
+Pt Pop Hic D. cnr Henderson
+Ln s21e; 130p; Henderson
+Pt Sug Hic E.
+Ln s35w; 10p; Henderson to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP grant
+Id VA#4272
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 1784-08-05
+IssDat: 
+SurveyTo: Robert Henderson
+IssuedTo: Robert Henderson
+Frm VA
+To Robert Henderson
+Assignee: James Henderson
+Wat: Back Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 120A BackCrk
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -7317 -35860 F127 L0 P72 0 57 0
+txt -8803 -36447 F127 R0 %d =
+Pt Ash DW A. Galaspie ln Collins x
+Ln w; 210p; Collins
+Pt Sug Buc B. bnk crk
+Lm n10e; 30p; 
+Pt 
+Lm n4w; 34p; 
+Pt 
+Lm n60e; 88p; 
+Pt 
+Lm n18w; 60p; 
+Pt 2WO C. cnr Jno.Cook 250
+Ln s45e; 150p; Cook
+Pt 2Buc Galaspie ln
+Ln s48w; 20p; Galaspie
+Pt 2Sug
+Ln s42e; 88p; Galaspie to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP deed
+Id KY-Madison-DB-D:781-782
+Frm William Mayo
+To Townsend Boroughs
+Wat: Silver Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 57A SC
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 12887 -55394 F127 L0 P255
+txt 12014 -55893 F127 R0 %d =
+Pt 2Cher Mul SW cnr Hum.Jones
+Ln w; 96p; 
+Pt BAsh
+Ln n; 96p; 
+Pt 2Wal Hic
+Ln e; 96p; 
+Pt 2WO cnr Jones
+Ln ;; S with his ln to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP deed
+Id Ky-Mad-DB-D:703-704
+Frm William Mayo
+To Humphrey Jones
+Wat: Tates Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 176A SC
+Adj 
+Dat 1799-11-09
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 14937 -56575 F127 L0 P255
+txt 13586 -55963 F127 R0 %d =
+Pt Buc WO WAsh SE cnr Patterson 66
+Ln s; 129p; 
+Pt lgOak
+Ln w; 199p; 
+Pt 2Cher Mul cnr Boroughs 57
+Ln n; 96p; 
+Pt 2WO Barns ln
+Ln e; 27p; 
+Pt WO Hic Hac
+Ln n; 71p; 
+Pt Wal Sug
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP deed
+Id ky-mad-db-f:339-341
+Frm William Mayo
+To Samuel Turner
+Wat: Silver Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 100A SC
+Adj 
+Dat 1794-07-04
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 12889 -50222 F127 L0 P64 0 51 0
+txt 11716 -49915 F127 R0 %d =
+Pt Hic Ash Hart ln C.Turner cnr
+Ln n72w; 134p; Turner
+Pt 2Elm his cnr Mar.Green ln
+Ln s; 60p; M.Green
+Pt 2Ash his cnr
+Ln w; 20p; Green
+Pt Ash RO Green ln
+Ln s; 70p; 
+Pt WO Elm
+Ln s70e; 108p; 
+Pt stk Hart ln
+Ln n20e; 130p; Hart to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP deed
+Id ky-mad-db-f:241-243
+Frm William Mayo
+To Vincent Turner
+Wat: Silver Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 100A SC
+Adj 
+Dat 1794-07-04
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 11425 -49507 F127 L0 P64 0 51 0
+txt 11156 -48605 F127 R0 %d =
+Pt WO Elm cnr Sam.Turner
+Ln s33w; 140p; 
+Pt Hic dblHic Smith ln
+Ln s70e; 146p; Smith
+Pt Cher Hic Hart ln
+Ln n; 20p; Hart
+Pt BWal smElm cnr
+Ln n20e; 108p; Hart
+Pt stk Hart ln cnr Sam.Turner
+Ln n70w; 108p; Turner to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP deed
+Id ky-mad-db-o:230-231
+Frm William Mayo
+To John Yates
+Wat: Silver Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 21A SC
+Adj 
+Dat 1795-07-04
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 9650 -48816 F127 L0 P255
+Pt Sug Elm cnr Wm.Green
+Ln n70w; 126p; Green
+Pt Hic RO his cnr + Bo.Estill
+Ln n70w; 36p; his ln to cnr
+Pt RO WO Estill cnr
+Ln s20w; 26p; Bo.Estill
+Pt RO cnr Jno.Yates
+Ln ;; Jno.Yates to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP grant
+Id VA4359
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 1781-06-22
+SurDat: 1784-06-21
+IssDat: 1786-08-14
+SurveyTo: Jacob Lee
+IssuedTo: Jacob Lee
+Frm Virginia
+To Jacob Lee
+Assignee: 
+Wat: Paint Lick Creek
+Ref 
+! -- abstract --
+! treasury no 6306 Lincoln Co
+Rec 
+Re 375A PLC
+SCC: 
+Adj 
+Dat 1786-08-14
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -2425 -22124 F127 L0 P72 0 57 0
+txt -1032 -23172 F127 R0 %d =
+Pt A Sug Sam.Gordon ln
+Ln e; 220p; 
+Pt B Ash Elm Henderson ln
+Ln n10e; 62p; w line
+Pt C Ash Sug
+Ln s80e; 134p; Henderson ln
+Pt D Wal McCormack ln
+Ln n21w; 204p; 
+Pt E RO
+Ln S75w; 305p; 
+Pt F Sug cnr Gordon
+Ln s10w; 150p; Gordon to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP grant
+Id VA0584
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 1782-08-06
+IssDat: 1784-01-02
+SurveyTo: Samuel Gordon
+IssuedTo: 
+Frm Virginia
+To Samuel Gordon
+Assignee: 
+Wat: Paint Lick Creek
+Ref 
+! -- abstract --
+! TW No 5788
+Rec 
+Re 400A PLC
+SCC: 
+Adj 
+Dat 1784-01-02
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: Gordons Fork
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Virginia -> Samuel Gordon
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -2419 -23624 F127 L0 P72 0 57 0
+txt -4051 -22200 F127 R0 %d =
+Pt Sug E sd Gordons Fk
+Ln n80w; 180p; 
+Pt 3 lgBO
+Ln s10w; 355.5p; 
+Pt Sug WAsh sap
+Ln s80e; 180p; 
+Pt 2WHic
+Ln n10e; 355.5p; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP grant
+Id VA1834
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 1782-03-18
+SurDat: 1784-04-10
+IssDat: 1785-12-05
+SurveyTo: Thomas Kennedy
+IssuedTo: Thomas Kennedy
+Frm Virginia
+To Thomas Kennedy
+Assignee: Michael Woods, Archibald Woods, Alexander Calley, Robert McKinney
+Wat: nl
+Ref 
+! -- abstract --
+! TW no 11470
+Rec 
+Re 200A
+SCC: 
+Adj 
+Dat 1785-12-05
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -1681 -19986 F127 L0 P72 0 57 0
+txt -2521 -20921 F127 R0 %d =
+Pt A Sug NE cnr Jno.Kennedy station set
+Ln w; 150p; Kennedy
+Pt B 2Sug Kennedy ln Sam.Gordon ln
+Ln n10e; 213.2p; 
+Pt C Sug Gordon ln
+Ln e; 150p; 
+Pt D smElm
+Ln s10w; 213.5p; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP 
+Id 
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 
+IssDat: 
+SurveyTo: 
+IssuedTo: 
+Frm 
+To 
+Assignee: 
+Wat: 
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 0 0 F127 L0 P255
+Pt 
+Ln ; p; 
+Pt 
+Ln ; p; 
+Pt 
+Ln ; p; 
+Pt 
+Ln ; p; 
+Pt 
+Ln ; p; 
+Pt 
+Ln ; p; 
+Pt 
+Ln ; p; 
+Pt 
+Ln ; p; 
+End
+! -- n ------ watercourse ------ last, first
+TYP VA grant
+Id VA0854
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 1782-07-29
+IssDat: 1784-07-15
+SurveyTo: 
+IssuedTo: 
+Frm Virginia
+To John Jackson
+Assignee: 
+Wat: Silver Creek
+Ref 
+! -- abstract --
+! TW4394 1345
+Rec 
+Re 192A SC
+SCC: 
+Adj 
+Dat 1784-07-15
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -5656 -58686 F127 L0 P73 0 57 0
+txt -5937 -57716 F127 R0 %d =
+Pt A Sug BE sd br Cdr clft
+Ln s50e; 100p; ft clft
+Pt B Sug
+Ln s28e; 56p; 
+Pt C Sug St.Handcock cnr
+Ln s66w; 76p; St.Handcock
+Pt D Sug S.H. cnr
+Ln s24e; 154p; 
+Pt E Sug S.H. cnr
+Ln n66e; 25p; 
+Pt F BO Hic cnr S.H. ft clft
+Ln s5e; 66p; 
+Pt G 3Ash bnk SC
+Lm s52e; 22p; SC
+Pt H 2Sug WO S.H cnr
+Ln s60w; 95p; (est) br
+Pt J Sug
+Ln s60w; 10p; S.H.
+Pt K 2Ash cnr S.H. pt hill
+Ln n3w; 100p; x hill
+Pt L 2Sug
+Ln n24w; 306p; x hill 2br 
+Pt M Elm
+Ln n66e; 77p; xSC xBr to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP VA grant
+Id VA5874
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 1781-10-15
+SurDat: 1785-11-14
+IssDat: 1786-06-06
+SurveyTo: Phillip Bush
+IssuedTo: James Black
+Frm VA
+To James Black
+Assignee: Edmond Wooldridge
+Wat: 
+Ref 
+! -- abstract --
+! part TW7362
+Rec 
+Re 390A SC TFk
+SCC: James Black, John Black
+Adj Lewis Craig, William Hicks
+Dat 1786-06-06
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 21181 -46805 F127 L0 P73 0 57 0
+txt 18558 -46384 F127 R0 %d =
+Pt A Mul 2Sug W ln Ln.Grag S ln Hicks
+Ln n70w; 290p; Hicks x TFk
+Pt B WO 2Sug cnr Wm.Hicks
+Ln s20w; 265p; xTFk
+Pt C 2Hic Elm sap
+Ln s70e; 172p; 
+Pt D DW 2Sug ln Lew.Grag
+Ln n45e; 290p; Grag to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP VA grant
+Id VA4903
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 1780-03-31
+SurDat: 1784-08-26
+IssDat: 1786-08-14
+SurveyTo: Humphrey Best
+IssuedTo: Humphrey Best
+Frm Virginia
+To Humphrey Best
+Assignee: John Kenaday
+Wat: Paint Lick Creek
+Ref 
+! -- abstract --
+! transfer from John Kennedy to Humphrey Best 1780-04-28, TW4479
+!https://web.sos.ky.gov/land/DisplayPrintableImage.aspx?DocDb=VIRGINIA%20PATENTS&DocTitle=VA%204903.0&Title=VA%204903.0&Description=BEST%2c+HUMPHREY&Page=3&ScaleFactor=2&CompressionFactor=60
+Rec 
+Re 250A PLC
+SCC: 
+Adj 
+Dat 1786-08-14
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -14966 -39006 F127 L0 P255
+Pt A RO WO 20pSEfrWOHB
+Ln n45w; 126.25p; 
+Pt B 2WO
+Ln n45e; 317p; 
+Pt C 2Hic Elm Cane brk
+Ln s45e; 126.25p; 
+Pt D 2RO
+Ln s45w; 317p; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP VA grant
+Id VA3690
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 1780-09-22
+SurDat: 1784-06-17
+IssDat: 1786-06-21
+SurveyTo: Patrick Doran
+IssuedTo: James Thompson
+Frm Virginia
+To James Thompson
+Assignee: 
+Wat: Paint Lick Creek
+Ref 
+! -- abstract --
+! transfered to Thompson 1784-11-10 by Doran, TW6566
+Rec 
+Re 500A PLC
+SCC: 
+Adj 
+Dat 1786-06-21
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -13778 -22169 F127 L0 P255
+txt -15064 -19772 F127 R0 %d =
+Pt A Sug Hic x Kennady Pre McKinzie Pre
+Ln s80e; 136p; Kennady
+Pt B 3Sug Kennady ln
+Ln s; 402p; 
+Pt C WO
+Ln w; 250p; 
+Pt D WO DW
+Ln n; 210p; 
+Pt E Elm Ash McKinzie pre ln
+Ln e; 115p; McKinzie
+Pt F 2Sug
+Ln n; 216p; McKinzie to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP VA grant
+Id VA2588
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 1781-12-22
+SurDat: 1784-04-07
+IssDat: 1786-05-22
+SurveyTo: James Downey, William Campbell
+IssuedTo: Ebenezer Brooks, James Downey
+Frm Virginia
+To Ebenezer Brooks
+Assignee: 
+Wat: 
+Ref 
+! -- abstract --
+! TW10172 Wm Campbell, transfered from Wm Campbell to James Downing 1782-04-09, transfered from Wm Campbell to Ebenezer Brooks half 1784-08-08
+Rec 
+Re 1700A PLC SC
+SCC: 
+Adj 
+Dat 1786-05-22
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -8403 -59356 F127 L0 P73 0 57 0
+txt -10307 -56840 F127 R0 %d =
+Pt A WO rdg mkD .75mfrRvr
+Ln s24e; 140p; 
+Pt B Sug Hic cnr Holder
+Ln n66e; 166p; Holder
+Pt C Elm Jackson cnr
+Ln s24e; 320p; Jackson x2br
+Pt D 2Sug 2WO cnr Crage
+Ln s76w; 710p; Crage xbr
+Pt E Sug Hic Bacon ln
+Ln n20w; 280p; pas his cnr x2brPLC
+Pt G fkElm br
+Ln s70w; 80p; sd ln
+Pt H Sug sd cnr Allcock
+Ln n36w; 100p; sd ln
+Pt 2RO sd ln cnr Bledso
+Ln n70e; 606p; sd ln x2br to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP VA grant
+Id VA4528
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 1781-09-30
+SurDat: 1784-07-16
+IssDat: 1787-09-07
+SurveyTo: Joseph Bledsoe
+IssuedTo: Moses Bledsoe
+Frm Virginia
+To Moses Bledsoe
+Assignee: none
+Wat: Kentucky River, Silver Creek, Paint Lick Creek
+Ref 
+! -- abstract --
+! TW5845 , transfered from Joseph Bledsoe to Moses Bledsoe 1786-01-05
+Rec 
+Re 1000A KRSCPLC
+SCC: 
+Adj 
+Dat 1787-09-07
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -10791 -61256 F127 L0 P73 0 57 0
+txt -12301 -59731 F127 R0 %d =
+Pt A lgPop bnk rvr cnr Clay
+Ln e; 180p; Clay
+Pt B BE Elm Mul
+Ln s24e; 250p; 
+Pt C WO Campbell Downey cnr
+Ln s70w; 600p; Campbell+Downey
+Pt D 2RO Allcock ln
+Ln n36w; 250p; Allcock
+Pt E 3Syc bnk Rvr
+Lm n60e; 200p; up KY rvr
+Pt 
+Lm n72e; 240p; KY rvr
+Pt 
+Lm n34e; 60p; KY rvr to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP VA grant
+Id VA3650
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 1784-05-27
+IssDat: 1786-09-20
+SurveyTo: Thomas Allcock
+IssuedTo: Thomas Allcock
+Frm Virginia
+To Thomas Allcock
+Assignee: 
+Wat: 
+Ref 
+! -- abstract --
+! MWs 415, 500, 501
+Rec 
+Re 300A PLC KYR
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -15841 -57444 F127 L0 P255
+Pt 
+Ln ; p; 
+Pt 
+Ln ; p; 
+Pt 
+Ln ; p; 
+Pt 
+Ln ; p; 
+Pt 
+Ln ; p; 
+Pt 
+Ln ; p; 
+Pt 
+Ln ; p; 
+Pt 
+Ln ; p; 
+End
