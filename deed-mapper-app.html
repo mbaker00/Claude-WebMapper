@@ -1,0 +1,1776 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Deed Mapper - Improved App</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/html2canvas@1.4.1/dist/html2canvas.min.js"></script>
+    <script src="https://unpkg.com/esri-leaflet@3.0.12/dist/esri-leaflet.js"></script> <!-- For ArcGIS layers -->
+    <style>
+        body { margin: 0; padding: 0; font-family: Arial, sans-serif; }
+        #container { display: flex; height: 100vh; }
+        #map { flex: 3; background: #f8f8f8; }
+        #sidebar { flex: 1; padding: 10px; overflow-y: auto; background: white; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+        table { width: 100%; border-collapse: collapse; font-size: 0.9em; margin-top: 10px; }
+        th, td { border: 1px solid #ddd; padding: 6px; text-align: left; cursor: pointer; }
+        th { background: #eee; cursor: pointer; } /* Sortable */
+        tr:hover { background: #f0f8ff; }
+        input, button, label { margin: 8px 0; display: block; }
+        button { padding: 6px 12px; cursor: pointer; }
+        a.view-link { cursor: pointer; color: blue; text-decoration: underline; }
+        .tract-label-wrapper { display: flex; justify-content: center; align-items: center; }
+        .tract-label { background: rgba(255,255,255,0.75); padding: 2px 6px; border-radius: 3px; font-size: 11px; font-weight: bold; pointer-events: auto; white-space: nowrap; text-align: center; }
+        #modal { display: none; position: fixed; z-index: 1000; left: 0; top: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.6); }
+        #modalContent { background: white; margin: 5% auto; padding: 15px; width: 85%; max-width: 900px; height: 80%; }
+        #closeModal { float: right; font-size: 28px; cursor: pointer; }
+        #modalMap { height: 80%; border: 1px solid #ccc; background: white; }
+        #modalInfo { margin-bottom: 10px; font-size: 0.9em; }
+        #searchInput { width: 100%; padding: 6px; }
+        #loading { display: none; text-align: center; padding: 20px; }
+        .leaflet-tooltip.point-label {
+            background: rgba(255,255,255,0.75);
+            padding: 2px 6px;
+            border-radius: 3px;
+            font-size: 11px;
+            font-weight: bold;
+            white-space: nowrap;
+            border: 1px solid #ddd;
+        }
+        .leaflet-tooltip.point-label::before {
+            display: none;
+        }
+        .leaflet-tooltip.line-label {
+            background: rgba(255,255,255,0.75);
+            padding: 2px 6px;
+            border-radius: 3px;
+            font-size: 11px;
+            font-weight: bold;
+            white-space: nowrap;
+            border: 1px solid #ddd;
+        }
+        .leaflet-tooltip.line-label::before {
+            display: none;
+        }
+        .leaflet-interactive:focus { outline: none; }
+        #geoSettings label, #geoSettings input, #geoSettings button { display: inline; margin: 0; }
+        #deedsTable input[type="checkbox"] { display: inline-block !important; margin: 0 4px 0 0 !important; vertical-align: middle; cursor: pointer; }
+        .doc-icon { cursor: pointer; font-size: 16px; display: inline-block; margin-left: 4px; vertical-align: middle; filter: drop-shadow(0 0 1px rgba(0,0,0,0.4)); }
+        .doc-icon:hover { transform: scale(1.3); }
+        #imageModal {
+            display: none; position: fixed; z-index: 2000;
+            top: 60px; left: 60px;
+            width: 45%; max-width: 50%; min-width: 280px;
+            height: 55%; min-height: 220px;
+            background: #2b2b2b; border: 1px solid #555; border-radius: 6px;
+            box-shadow: 0 8px 32px rgba(0,0,0,0.5);
+            overflow: hidden; resize: both;
+        }
+        #imageModalTitleBar {
+            display: flex; align-items: center; justify-content: space-between;
+            background: #3a3a3a; color: #eee; padding: 6px 12px;
+            cursor: move; user-select: none; font-size: 13px; border-bottom: 1px solid #555;
+        }
+        #imageModalTitleBar span.title-text { flex: 1; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+        #closeImageModal { font-size: 22px; cursor: pointer; color: #ccc; line-height: 1; margin-left: 10px; padding: 0 4px; }
+        #closeImageModal:hover { color: white; }
+        #imageModalViewport { position: relative; width: 100%; height: calc(100% - 66px); overflow: hidden; cursor: grab; background: #1e1e1e; }
+        #imageModalViewport.grabbing { cursor: grabbing; }
+        #imageModalImg { position: absolute; top: 0; left: 0; transform-origin: 0 0; user-select: none; -webkit-user-drag: none; }
+        #imageZoomControls {
+            display: flex; align-items: center; justify-content: center; gap: 6px;
+            background: #3a3a3a; padding: 4px 0; border-top: 1px solid #555;
+        }
+        #imageZoomControls button { background: #555; border: none; padding: 4px 12px; font-size: 16px; cursor: pointer; border-radius: 3px; color: #eee; }
+        #imageZoomControls button:hover { background: #777; }
+    </style>
+</head>
+<body>
+    <div id="container">
+        <div id="map"></div>
+        <div id="sidebar">
+            <input type="file" id="fileInput" accept=".mbl">
+            <label>Scale Multiplier: <input type="number" id="scaleFactor" value="0.6" min="0.1" step="0.1" style="width:90px;"></label>
+            <button id="reloadBtn">Reload & Replot</button>
+            <button id="viewAllBtn">Zoom To See Plots</button>
+            <button id="exportBtn">Export SVG</button>
+            <button id="exportRegionBtn">Export Map Region</button>
+            <fieldset style="margin: 10px 0; padding: 8px; border: 1px solid #ccc;">
+                <legend style="font-weight: bold; font-size: 0.9em;">Record Type Filter</legend>
+                <label style="display: inline-block; margin: 2px 8px 2px 0;"><input type="checkbox" id="filterSurvey" checked> Surveys</label>
+                <label style="display: inline-block; margin: 2px 8px 2px 0;"><input type="checkbox" id="filterDeed" checked> Deeds</label>
+                <label style="display: inline-block; margin: 2px 8px 2px 0;"><input type="checkbox" id="filterOther" checked> Other</label>
+            </fieldset>
+            <fieldset style="margin: 10px 0; padding: 8px; border: 1px solid #ccc;">
+                <legend style="font-weight: bold; font-size: 0.9em;">Plot Label Fields</legend>
+                <label style="display: inline-block; margin: 2px 8px 2px 0;"><input type="checkbox" id="labelId" checked> ID</label>
+                <label style="display: inline-block; margin: 2px 8px 2px 0;"><input type="checkbox" id="labelTo" checked> To (Grantee)</label>
+                <label style="display: inline-block; margin: 2px 8px 2px 0;"><input type="checkbox" id="labelAssignee"> Assignee</label>
+                <label style="display: inline-block; margin: 2px 8px 2px 0;"><input type="checkbox" id="labelFrom"> From</label>
+                <label style="display: inline-block; margin: 2px 8px 2px 0;"><input type="checkbox" id="labelDate"> Date</label>
+                <label style="display: inline-block; margin: 2px 8px 2px 0;"><input type="checkbox" id="labelAcres"> Acres</label>
+                <label style="display: inline-block; margin: 2px 8px 2px 0;"><input type="checkbox" id="labelWat"> Watercourse</label>
+                <div style="margin-top: 6px; font-size: 0.85em;">
+                    <label>Label Zoom Cutoff: <input type="range" id="labelZoomSlider" min="-10" max="5" step="0.5" value="0" style="width: 120px; vertical-align: middle;"> <span id="labelZoomValue">—</span></label>
+                </div>
+            </fieldset>
+            <fieldset style="margin: 10px 0; padding: 8px; border: 1px solid #ccc;">
+                <legend style="font-weight: bold; font-size: 0.9em;">Geographic Mode</legend>
+                <label style="display: inline; margin: 0;"><input type="checkbox" id="geoMode" style="display: inline; margin: 0 4px 0 0;"> Enable Background Map</label>
+                <div id="geoSettings" style="display: none; margin-top: 4px; font-size: 0.85em;">
+                    <div style="margin: 1px 0;"><label>Anchor Plot ID: <input type="text" id="anchorId" value="Rowan-3090" style="width: 100px;"></label></div>
+                    <div style="margin: 1px 0;"><label>Lat (dd/mm/ss): <input type="text" id="anchorLat" style="width: 100px;"></label></div>
+                    <div style="margin: 1px 0;"><label>Lon (dd/mm/ss): <input type="text" id="anchorLon" style="width: 100px;"></label></div>
+                    <div style="margin: 1px 0;"><label>Scale: <input type="number" id="geoScale" value="1.6667" min="0.1" step="0.1" style="width: 60px;"></label></div>
+                    <div style="margin: 1px 0;"><label>Rotation: <input type="number" id="geoRotation" min="-180" max="180" step="0.5" style="width: 60px;"></label> <button id="applyGeoBtn" style="font-size: 1em; padding: 1px 6px;">Apply</button></div>
+                    <hr style="border: none; border-top: 1px solid #ccc; margin: 2px 0;">
+                    <div style="margin: 1px 0;"><label><input type="checkbox" id="showParcels"> Show Parcel Boundaries (NC only)</label></div>
+                </div>
+            </fieldset>
+            <fieldset style="margin: 10px 0; padding: 8px; border: 1px solid #ccc;">
+                <legend style="font-weight: bold; font-size: 0.9em;">Parcel Declination</legend>
+                <div style="font-size: 0.85em;">
+                    <label style="display: inline; margin: 0;">Declination (°): <input type="number" id="parcelDeclination" value="0" min="0" max="7" step="0.25" style="width: 60px;"></label>
+                    <span style="color: #666; font-size: 0.85em; margin-left: 6px;">Clockwise per-parcel magnetic north adjustment</span>
+                </div>
+            </fieldset>
+            <h3>Deeds Table</h3>
+            <input type="text" id="searchInput" placeholder="Search by ID, Date, From, To...">
+            <div id="loading">Loading...</div>
+            <table id="deedsTable">
+                <thead>
+                    <tr>
+                        <th data-sort="num"><input type="checkbox" id="toggleAllPlots" checked title="Toggle all plots on/off"> #</th>
+                        <th data-sort="str">ID</th>
+                        <th data-sort="date">Date</th>
+                        <th data-sort="str">From</th>
+                        <th data-sort="str">To</th>
+                        <th data-sort="num">Acres</th>
+                        <th>View</th>
+                    </tr>
+                </thead>
+                <tbody></tbody>
+            </table>
+        </div>
+    </div>
+
+    <div id="modal">
+        <div id="modalContent">
+            <span id="closeModal">×</span>
+            <div id="modalInfo"></div>
+            <div id="modalMap"></div>
+        </div>
+    </div>
+
+    <div id="imageModal">
+        <div id="imageModalTitleBar">
+            <span class="title-text" id="imageModalTitle"></span>
+            <span id="closeImageModal">&times;</span>
+        </div>
+        <div id="imageModalViewport">
+            <img id="imageModalImg" src="" alt="Survey Image">
+        </div>
+        <div id="imageZoomControls">
+            <button id="imgZoomIn" title="Zoom In">+</button>
+            <button id="imgZoomReset" title="Reset">⟳</button>
+            <button id="imgZoomOut" title="Zoom Out">−</button>
+        </div>
+    </div>
+
+    <script>
+        // ============================================================
+        // DEFAULT CONFIGURATION - Edit these values to change defaults
+        // ============================================================
+        const DEFAULT_ROTATION = 0;            // Degrees, + = clockwise
+        const DEFAULT_ANCHOR_LAT = '35/55/24'; // Latitude in dd/mm/ss format
+        const DEFAULT_ANCHOR_LON = '-80/49/35'; // Longitude in dd/mm/ss format
+        // ============================================================
+
+        // Map variables
+        let mainMap = null;
+        let modalMap = null;
+        let deedsData = [];
+        let mainLayerGroup = null;
+        let basemapLayer = null;
+        let parcelLayer = null;
+        let selectedIndex = -1;
+        let geoModeEnabled = false;
+        let tractLabels = [];
+        let labelZoomCutoff = null;
+        let loadedFileName = 'deed-map';
+        // Track per-deed plot visibility (keyed by original index)
+        let plotVisible = {};
+
+        // Image availability cache: maps deed ID to the resolved image URL (or false if not found)
+        const imageCache = {};
+        const IMAGE_EXTENSIONS = ['jpg', 'jpeg', 'png'];
+
+        // Check if an image exists for a given deed ID, returns a Promise resolving to the URL or null
+        function checkImageExists(deedId) {
+            if (deedId in imageCache) return Promise.resolve(imageCache[deedId]);
+            // Try each extension in order
+            let chain = Promise.resolve(null);
+            for (const ext of IMAGE_EXTENSIONS) {
+                chain = chain.then(found => {
+                    if (found) return found;
+                    const url = 'survey-images/' + deedId + '.' + ext;
+                    return new Promise(resolve => {
+                        const img = new Image();
+                        img.onload = () => resolve(url);
+                        img.onerror = () => resolve(null);
+                        img.src = url;
+                    });
+                });
+            }
+            return chain.then(url => { imageCache[deedId] = url || false; return url; });
+        }
+
+        // Preload image cache for all loaded deeds
+        function preloadImageCache(deeds) {
+            const promises = deeds.map(d => {
+                const id = d.metadata.id;
+                if (id) return checkImageExists(id);
+                return Promise.resolve(null);
+            });
+            return Promise.all(promises);
+        }
+
+        // Image viewer state (pan/zoom within the viewport)
+        let imgViewerState = { scale: 1, translateX: 0, translateY: 0, panning: false, startX: 0, startY: 0 };
+        // Window drag state (dragging the whole panel by its title bar)
+        let imgWinDrag = { active: false, startX: 0, startY: 0, origLeft: 0, origTop: 0 };
+
+        function fitImageToViewport() {
+            const viewport = document.getElementById('imageModalViewport');
+            const imgEl = document.getElementById('imageModalImg');
+            if (!imgEl.naturalWidth) return;
+            const vw = viewport.clientWidth;
+            const vh = viewport.clientHeight;
+            const ratio = Math.min(vw * 0.95 / imgEl.naturalWidth, vh * 0.95 / imgEl.naturalHeight, 1);
+            imgViewerState.scale = ratio;
+            imgViewerState.translateX = (vw - imgEl.naturalWidth * ratio) / 2;
+            imgViewerState.translateY = (vh - imgEl.naturalHeight * ratio) / 2;
+            updateImageTransform();
+        }
+
+        function openImageViewer(url, title) {
+            const modal = document.getElementById('imageModal');
+            const img = document.getElementById('imageModalImg');
+            const titleEl = document.getElementById('imageModalTitle');
+
+            titleEl.textContent = title || 'Survey Image';
+            img.src = url;
+            imgViewerState = { scale: 1, translateX: 0, translateY: 0, panning: false, startX: 0, startY: 0 };
+
+            img.onload = function() {
+                fitImageToViewport();
+            };
+
+            modal.style.display = 'block';
+        }
+
+        function updateImageTransform() {
+            const img = document.getElementById('imageModalImg');
+            const s = imgViewerState;
+            img.style.transform = `translate(${s.translateX}px, ${s.translateY}px) scale(${s.scale})`;
+        }
+
+        function closeImageViewer() {
+            document.getElementById('imageModal').style.display = 'none';
+            document.getElementById('imageModalImg').src = '';
+        }
+
+        // Convert page-level mouse coords to viewport-local coords
+        function toViewportLocal(clientX, clientY) {
+            const vp = document.getElementById('imageModalViewport');
+            const rect = vp.getBoundingClientRect();
+            return { x: clientX - rect.left, y: clientY - rect.top };
+        }
+
+        function zoomImageAt(localX, localY, factor) {
+            const s = imgViewerState;
+            const imgX = (localX - s.translateX) / s.scale;
+            const imgY = (localY - s.translateY) / s.scale;
+            const newScale = Math.min(Math.max(s.scale * factor, 0.05), 30);
+            s.translateX = localX - imgX * newScale;
+            s.translateY = localY - imgY * newScale;
+            s.scale = newScale;
+            updateImageTransform();
+        }
+
+        // Image modal event handlers
+        document.addEventListener('DOMContentLoaded', function() {
+            const modal = document.getElementById('imageModal');
+            const viewport = document.getElementById('imageModalViewport');
+            const img = document.getElementById('imageModalImg');
+            const titleBar = document.getElementById('imageModalTitleBar');
+
+            document.getElementById('closeImageModal').onclick = closeImageViewer;
+
+            // --- Window dragging via title bar ---
+            titleBar.addEventListener('mousedown', function(e) {
+                if (e.target.id === 'closeImageModal') return; // don't drag when clicking close
+                imgWinDrag.active = true;
+                imgWinDrag.startX = e.clientX;
+                imgWinDrag.startY = e.clientY;
+                imgWinDrag.origLeft = modal.offsetLeft;
+                imgWinDrag.origTop = modal.offsetTop;
+                e.preventDefault();
+            });
+
+            window.addEventListener('mousemove', function(e) {
+                // Window drag
+                if (imgWinDrag.active) {
+                    const dx = e.clientX - imgWinDrag.startX;
+                    const dy = e.clientY - imgWinDrag.startY;
+                    modal.style.left = (imgWinDrag.origLeft + dx) + 'px';
+                    modal.style.top = (imgWinDrag.origTop + dy) + 'px';
+                    return;
+                }
+                // Image pan
+                if (imgViewerState.panning) {
+                    const local = toViewportLocal(e.clientX, e.clientY);
+                    imgViewerState.translateX = local.x - imgViewerState.startX;
+                    imgViewerState.translateY = local.y - imgViewerState.startY;
+                    updateImageTransform();
+                }
+            });
+
+            window.addEventListener('mouseup', function() {
+                imgWinDrag.active = false;
+                if (imgViewerState.panning) {
+                    imgViewerState.panning = false;
+                    viewport.classList.remove('grabbing');
+                }
+            });
+
+            // --- Image panning inside viewport ---
+            viewport.addEventListener('mousedown', function(e) {
+                if (e.target === img || e.target === viewport) {
+                    const local = toViewportLocal(e.clientX, e.clientY);
+                    imgViewerState.panning = true;
+                    imgViewerState.startX = local.x - imgViewerState.translateX;
+                    imgViewerState.startY = local.y - imgViewerState.translateY;
+                    viewport.classList.add('grabbing');
+                    e.preventDefault();
+                }
+            });
+
+            // --- Mouse wheel zoom (zoom toward cursor within viewport) ---
+            viewport.addEventListener('wheel', function(e) {
+                e.preventDefault();
+                const local = toViewportLocal(e.clientX, e.clientY);
+                const factor = e.deltaY < 0 ? 1.15 : 1 / 1.15;
+                zoomImageAt(local.x, local.y, factor);
+            }, { passive: false });
+
+            // --- Zoom buttons ---
+            document.getElementById('imgZoomIn').onclick = function(e) {
+                e.stopPropagation();
+                const vp = document.getElementById('imageModalViewport');
+                zoomImageAt(vp.clientWidth / 2, vp.clientHeight / 2, 1.3);
+            };
+            document.getElementById('imgZoomOut').onclick = function(e) {
+                e.stopPropagation();
+                const vp = document.getElementById('imageModalViewport');
+                zoomImageAt(vp.clientWidth / 2, vp.clientHeight / 2, 1 / 1.3);
+            };
+            document.getElementById('imgZoomReset').onclick = function(e) {
+                e.stopPropagation();
+                fitImageToViewport();
+            };
+
+            // --- Keyboard: Escape to close ---
+            document.addEventListener('keydown', function(e) {
+                if (e.key === 'Escape' && modal.style.display === 'block') {
+                    closeImageViewer();
+                }
+            });
+        });
+
+        // Apply default config values to form fields on load
+        document.addEventListener('DOMContentLoaded', function() {
+            document.getElementById('anchorLat').value = DEFAULT_ANCHOR_LAT;
+            document.getElementById('anchorLon').value = DEFAULT_ANCHOR_LON;
+            document.getElementById('geoRotation').value = DEFAULT_ROTATION;
+        });
+
+        // Anchor point for geographic transformation
+        let anchorConfig = {
+            id: 'Rowan-3090',
+            lat: parseDMSStatic(DEFAULT_ANCHOR_LAT),
+            lon: parseDMSStatic(DEFAULT_ANCHOR_LON),
+            mblX: 9102,       // From loc field
+            mblY: -10435      // From loc field (will be flipped)
+        };
+
+        // Static DMS parser (used before full init for default config)
+        function parseDMSStatic(dmsStr) {
+            const parts = dmsStr.split('/').map(p => parseFloat(p.trim()));
+            if (parts.length === 3) {
+                const decimal = Math.abs(parts[0]) + parts[1] / 60 + parts[2] / 3600;
+                return parts[0] < 0 || dmsStr.startsWith('-') ? -decimal : decimal;
+            } else if (parts.length === 2) {
+                const decimal = Math.abs(parts[0]) + parts[1] / 60;
+                return parts[0] < 0 || dmsStr.startsWith('-') ? -decimal : decimal;
+            }
+            return parseFloat(dmsStr) || 0;
+        }
+
+        // Initialize map in simple mode
+        function initSimpleMap() {
+            if (mainMap) {
+                mainMap.remove();
+            }
+            parcelLayer = null;
+            basemapLayer = null;
+            mainMap = L.map('map', { crs: L.CRS.Simple, minZoom: -10, maxZoom: 18, zoomSnap: 0, zoomDelta: 0.5, wheelDebounceTime: 80, preferCanvas: true }).setView([0, 0], -2);
+            mainLayerGroup = L.featureGroup().addTo(mainMap);
+            mainMap.on('zoomend', updateTractLabelVisibility);
+        }
+
+        // Initialize map in geographic mode with topo basemap
+        function initGeoMap() {
+            if (mainMap) {
+                mainMap.remove();
+            }
+            parcelLayer = null;
+            mainMap = L.map('map', { minZoom: 4, maxZoom: 18, zoomSnap: 0, zoomDelta: 0.5, wheelDebounceTime: 80, preferCanvas: true }).setView([anchorConfig.lat, anchorConfig.lon], 14);
+            mainLayerGroup = L.featureGroup().addTo(mainMap);
+            mainMap.on('zoomend', updateTractLabelVisibility);
+
+            // Add USGS Topo basemap
+            basemapLayer = L.tileLayer('https://basemap.nationalmap.gov/arcgis/rest/services/USGSTopo/MapServer/tile/{z}/{y}/{x}', {
+                attribution: 'USGS',
+                maxZoom: 16
+            }).addTo(mainMap);
+
+            // Restore parcel overlay if checkbox is checked
+            if (document.getElementById('showParcels').checked) {
+                addParcelLayer();
+            }
+        }
+
+        // ============================================================
+        // PARCEL BOUNDARY OVERLAY
+        // Current source: NC OneMap (North Carolina only)
+        //   URL: https://services.nconemap.gov/secure/rest/services/NC1Map_Parcels/MapServer
+        //   Type: ArcGIS dynamicMapLayer, publicly accessible, full query/identify support
+        //   Coverage: North Carolina statewide
+        //
+        // FUTURE: Parcel services for other states
+        //   Kentucky: No statewide parcel service exists. Per-county services are
+        //     hosted on kygisserver.ky.gov but Christian County is not available.
+        //     Christian County uses QPublic (qpublic.net/ky/christian) for property
+        //     searches, which is not a consumable map service.
+        //
+        //   Regrid Nationwide Parcel Boundaries (all 50 states):
+        //     Free tile layer (may require ArcGIS Online auth, tiles-only, no query):
+        //       URL: https://tiles.arcgis.com/tiles/KzeiCaQsMoeCfoCq/arcgis/rest/services/Regrid_Nationwide_Parcel_Boundaries_v1/MapServer
+        //       Usage: L.esri.tiledMapLayer({ url: '...', minZoom: 15, maxZoom: 17, opacity: 0.7 })
+        //       Note: Zoom levels 15-17 only. Marked as Esri Living Atlas premium
+        //             content — may not serve tiles without authentication.
+        //     Paid tileserver (requires Regrid API token):
+        //       URL: https://tiles.regrid.com/api/v1/parcels/{z}/{x}/{y}.png?token=YOUR_TOKEN
+        //       Usage: Standard L.tileLayer (not esri-leaflet), zoom levels 10-21
+        //     Paid FeatureServer (requires Regrid API token, full query support):
+        //       URL: https://fs.regrid.com/<TOKEN>/rest/services/premium/FeatureServer/0
+        //       Usage: L.esri.featureLayer
+        // ============================================================
+
+        // Add NC OneMap parcel boundary overlay (North Carolina only)
+        function addParcelLayer() {
+            if (parcelLayer) return; // already added
+            parcelLayer = L.esri.dynamicMapLayer({
+                url: 'https://services.nconemap.gov/secure/rest/services/NC1Map_Parcels/MapServer', // NC OneMap
+                layers: [1],
+                opacity: 0.6,
+                attribution: 'NC OneMap Parcels',
+                f: 'image'
+            }).addTo(mainMap);
+        }
+
+        // Remove parcel boundary overlay
+        function removeParcelLayer() {
+            if (parcelLayer && mainMap) {
+                mainMap.removeLayer(parcelLayer);
+                parcelLayer = null;
+            }
+        }
+
+        // Parse DMS (degrees/minutes/seconds) to decimal degrees
+        function parseDMS(dmsStr) {
+            const parts = dmsStr.split('/').map(p => parseFloat(p.trim()));
+            if (parts.length === 3) {
+                const decimal = Math.abs(parts[0]) + parts[1] / 60 + parts[2] / 3600;
+                return parts[0] < 0 || dmsStr.startsWith('-') ? -decimal : decimal;
+            } else if (parts.length === 2) {
+                const decimal = Math.abs(parts[0]) + parts[1] / 60;
+                return parts[0] < 0 || dmsStr.startsWith('-') ? -decimal : decimal;
+            }
+            return parseFloat(dmsStr) || 0;
+        }
+
+        // Convert MBL screen coordinates to geographic lat/lon
+        // Uses the anchor point to transform relative coordinates
+        // screenX, screenY are the final screen coordinates (offset + point * scale)
+        function mblToGeo(screenX, screenY) {
+            const geoScale = parseFloat(document.getElementById('geoScale').value) || 1.0;
+            const geoRotation = parseFloat(document.getElementById('geoRotation').value) || 0;
+            const flipY = -1; // MBL Y-axis: North=negative, South=positive; negate for Leaflet
+            const scale = parseFloat(document.getElementById('scaleFactor').value) || 0.6;
+
+            // Anchor's screen position (offset.y is flipped during drawing)
+            const anchorScreenX = anchorConfig.mblX;
+            const anchorScreenY = anchorConfig.mblY * flipY;
+
+            // Calculate offset from anchor in screen units
+            let deltaX = screenX - anchorScreenX;
+            let deltaY = screenY - anchorScreenY;
+
+            // Apply rotation around anchor point (clockwise positive)
+            // Convert degrees to radians (negative because clockwise is positive in UI but math uses counter-clockwise)
+            const rotationRad = -geoRotation * Math.PI / 180;
+            const rotatedDeltaX = deltaX * Math.cos(rotationRad) - deltaY * Math.sin(rotationRad);
+            const rotatedDeltaY = deltaX * Math.sin(rotationRad) + deltaY * Math.cos(rotationRad);
+
+            // The screen units are: offset (raw MBL) + metes_distance * scale
+            // Where metes_distance is in feet (after pole/chain conversion)
+            // So screen units = feet * scale for the metes part
+            // The offset units appear to be roughly feet as well
+            // geoScale adjusts the overall size on the real map
+            const deltaXFeet = rotatedDeltaX * geoScale;
+            const deltaYFeet = rotatedDeltaY * geoScale;
+
+            // Convert feet to degrees (approximate for this latitude ~36°N)
+            // 1 degree lat ≈ 364,000 feet, 1 degree lon ≈ 294,000 feet
+            const feetPerDegreeLat = 364000;
+            const feetPerDegreeLon = 294000;
+
+            const lat = anchorConfig.lat + (deltaYFeet / feetPerDegreeLat);
+            const lon = anchorConfig.lon + (deltaXFeet / feetPerDegreeLon);
+
+            return { lat, lon };
+        }
+
+        // Find anchor deed and update anchor MBL coordinates
+        function updateAnchorFromData() {
+            const anchorId = document.getElementById('anchorId').value;
+            const anchorDeed = deedsData.find(d => d.metadata.id === anchorId);
+            if (anchorDeed) {
+                anchorConfig.mblX = anchorDeed.offset.x;
+                anchorConfig.mblY = anchorDeed.offset.y;
+                anchorConfig.lat = parseDMS(document.getElementById('anchorLat').value);
+                anchorConfig.lon = parseDMS(document.getElementById('anchorLon').value);
+                return true;
+            }
+            return false;
+        }
+
+        // Initialize in simple mode by default
+        initSimpleMap();
+
+        // Improved parsing with more metadata and error handling
+        function parseMBL(text) {
+            // Header config from comments in the first record (before first END)
+            parseMBL.header = {};
+            let headerParsed = false;
+
+            const deeds = [];
+            const lines = text.split('\n');
+            let current = { metadata: {}, lines: [], points: [], offset: {x:0, y:0}, inMetes: false };
+            let curPt = {x:0, y:0};
+            let startPt = {x:0, y:0};
+
+            lines.forEach((raw, lineNum) => {
+                const line = raw.trim();
+                if (!line) return;
+
+                // Check for metes trigger even in comments
+                if (line.includes('Metes and bounds')) {
+                    current.inMetes = true;
+                    startPt = {...curPt};
+                    return;
+                }
+
+                // Parse key='value' pairs from comments in the first record only
+                if (line.startsWith('!')) {
+                    if (!headerParsed) {
+                        const pairs = line.matchAll(/(\w+)\s*=\s*'([^']+)'/gi);
+                        for (const m of pairs) {
+                            parseMBL.header[m[1].toLowerCase()] = m[2];
+                        }
+                    }
+                    return;
+                }
+
+                try {
+                    const parts = line.split(/\s+/);
+                    let cmd = parts[0].toUpperCase().replace(/:$/, ''); // Strip colon if present
+
+                    if (cmd === 'DECL') {
+                        const declVal = parseFloat(parts[1]) || 0;
+                        if (!headerParsed) parseMBL.header.decl = declVal;
+                        current.metadata.decl = declVal;
+                    } else if (['TYP','ID','ENTDAT','SURDAT','ISSDAT','FRM','TO','ASSIGNEE','WAT','RE','DAT','ENTRY','GRANTNO','SCC','ADJ'].includes(cmd)) {
+                        current.metadata[cmd.toLowerCase()] = parts.slice(1).join(' ');
+                    } else if (cmd === 'END') {
+                        headerParsed = true; // Stop parsing header comments after first record
+                        if (current.inMetes && (current.lines.length > 0 || current.points.length > 0)) {
+                            deeds.push(current);
+                        }
+                        current = { metadata: {}, lines: [], points: [], offset: {x:0, y:0}, inMetes: false };
+                        curPt = {x:0, y:0};
+                    } else if (!current.inMetes) {
+                        return;
+                    } else if (cmd === 'LOC' && parts.length >= 3) {
+                        current.offset.x = parseFloat(parts[1]) || 0;
+                        current.offset.y = parseFloat(parts[2]) || 0;
+                    } else if (cmd === 'PT') {
+                        current.points.push({coord: {...curPt}, desc: parts.slice(1).join(' ') || 'Corner'});
+                    } else if (['LN','LM','LC'].includes(cmd)) {
+                        let rest = parts.slice(1).join(' ').replace(/\s*;\s*/g, ';'); // Normalize spaces around semicolons
+                        let bearing = '';
+                        let distStr = '';
+                        let note = '';
+                        let isClosing = false;
+
+                        if (rest.includes(';;')) {
+                            const splitParts = rest.split(';;');
+                            if (splitParts[0].trim() === '') {
+                                bearing = '';
+                                distStr = '';
+                                note = splitParts.slice(1).join(';;').trim();
+                                isClosing = true;
+                            } else {
+                                rest = rest.replace(/;/g, ' '); // Normalize separators
+                                const segs = rest.split(' ').filter(Boolean);
+                                bearing = segs[0] || '';
+                                distStr = segs[1] || '';
+                                note = segs.slice(2).join(' ');
+                                isClosing = !bearing && !distStr;
+                            }
+                        } else {
+                            rest = rest.replace(/;/g, ' '); // Normalize separators
+                            const segs = rest.split(' ').filter(Boolean);
+                            bearing = segs[0] || '';
+                            distStr = segs[1] || '';
+                            note = segs.slice(2).join(' ');
+                            isClosing = !bearing && !distStr;
+                        }
+
+                        let brRad = parseBearing(bearing);
+                        let dist = parseDistance(distStr);
+
+                        let next = isClosing ? {...startPt} : { x: curPt.x + dist * Math.sin(brRad), y: curPt.y + dist * Math.cos(brRad) };
+
+                        current.lines.push({
+                            type: cmd,
+                            from: {...curPt},
+                            to: next,
+                            desc: [bearing, distStr, note].filter(Boolean).join(' '),
+                            isClosing: isClosing
+                        });
+
+                        curPt = next;
+                    }
+                } catch (e) {
+                    console.warn(`Parse error on line ${lineNum}: ${line}`, e);
+                }
+            });
+
+            // Skip the first empty deed
+            if (deeds.length > 0 && deeds[0].lines.every(ln => parseDistance(ln.desc.split(' ')[1]) === 0)) {
+                deeds.shift();
+            }
+
+            console.log(`Captured ${deeds.length} tracts`, deeds);
+            return deeds;
+        }
+
+        // Improved bearing parser (handles more formats, e.g., N45E, N45.30E, due N)
+        function parseBearing(s) {
+            if (!s) return 0;
+            s = s.toLowerCase().replace(/[^nesw0-9.]/g, '');
+            if (s === 'duenorth' || s.startsWith('n') && !s.match(/[ew]/)) return 0;
+            if (s === 'duesouth' || s.startsWith('s') && !s.match(/[ew]/)) return Math.PI;
+            if (s === 'dueeast' || s.startsWith('e') && !s.match(/[ns]/)) return Math.PI / 2;
+            if (s === 'duewest' || s.startsWith('w') && !s.match(/[ns]/)) return 3 * Math.PI / 2;
+
+            const deg = parseFloat(s.match(/[\d.]+/)?.[0]) || 0;
+            if (s.startsWith('n') && s.endsWith('e')) return deg * Math.PI / 180;
+            if (s.startsWith('n') && s.endsWith('w')) return (360 - deg) * Math.PI / 180;
+            if (s.startsWith('s') && s.endsWith('e')) return (180 - deg) * Math.PI / 180;
+            if (s.startsWith('s') && s.endsWith('w')) return (180 + deg) * Math.PI / 180;
+            return deg * Math.PI / 180; // Fallback to degrees
+        }
+
+        // Improved distance (full chain support)
+        function parseDistance(s) {
+            if (!s) return 0;
+            const num = parseFloat(s.match(/[\d.]+/)?.[0]) || 0;
+            const u = (s.match(/[a-z]+/i)?.[0] || 'ft').toLowerCase();
+            const conv = {p:16.5, pole:16.5, c:66, ch:66, chain:66, r:16.5, rod:16.5, f:1, ft:1};
+            return num * (conv[u] || 1);
+        }
+
+        // Apply magnetic declination rotation: rotate point (x,y) clockwise
+        // around pivot (px,py) by angleDeg degrees
+        function applyDeclination(x, y, px, py, angleDeg) {
+            if (!angleDeg) return { x, y };
+            const rad = -angleDeg * Math.PI / 180; // negative for clockwise
+            const dx = x - px;
+            const dy = y - py;
+            return {
+                x: px + dx * Math.cos(rad) - dy * Math.sin(rad),
+                y: py + dx * Math.sin(rad) + dy * Math.cos(rad)
+            };
+        }
+
+        // Calculate true polygon centroid using the shoelace formula
+        function getPolygonCentroid(coords) {
+            if (coords.length < 3) {
+                // Fallback to simple average for degenerate cases
+                const avg = coords.reduce((acc, c) => ({lat: acc.lat + c.lat, lng: acc.lng + c.lng}), {lat:0, lng:0});
+                return {lat: avg.lat / coords.length, lng: avg.lng / coords.length};
+            }
+
+            let signedArea = 0;
+            let cx = 0;
+            let cy = 0;
+
+            for (let i = 0; i < coords.length; i++) {
+                const x0 = coords[i].lng;
+                const y0 = coords[i].lat;
+                const x1 = coords[(i + 1) % coords.length].lng;
+                const y1 = coords[(i + 1) % coords.length].lat;
+
+                const a = x0 * y1 - x1 * y0;
+                signedArea += a;
+                cx += (x0 + x1) * a;
+                cy += (y0 + y1) * a;
+            }
+
+            signedArea *= 0.5;
+            if (Math.abs(signedArea) < 0.000001) {
+                // Degenerate polygon, use simple average
+                const avg = coords.reduce((acc, c) => ({lat: acc.lat + c.lat, lng: acc.lng + c.lng}), {lat:0, lng:0});
+                return {lat: avg.lat / coords.length, lng: avg.lng / coords.length};
+            }
+
+            cx /= (6 * signedArea);
+            cy /= (6 * signedArea);
+
+            return {lat: cy, lng: cx};
+        }
+
+        // Build label text based on selected checkboxes
+        function buildLabelText(deed, idx) {
+            const parts = [];
+
+            if (document.getElementById('labelId').checked) {
+                parts.push(deed.metadata.id || `#${idx + 1}`);
+            }
+            if (document.getElementById('labelTo').checked && deed.metadata.to) {
+                parts.push(deed.metadata.to);
+            }
+            if (document.getElementById('labelAssignee').checked && deed.metadata.assignee) {
+                const assignee = deed.metadata.assignee.trim();
+                if (assignee && !/^none(\s|$)/i.test(assignee)) {
+                    parts.push('Assigner: ' + assignee);
+                }
+            }
+            if (document.getElementById('labelFrom').checked && deed.metadata.frm) {
+                parts.push('From: ' + deed.metadata.frm);
+            }
+            if (document.getElementById('labelDate').checked) {
+                const date = deed.metadata.issdat || deed.metadata.dat || '';
+                if (date) parts.push(date);
+            }
+            if (document.getElementById('labelAcres').checked) {
+                const acres = deed.metadata.re?.match(/\d+/)?.[0];
+                if (acres) parts.push(acres + ' A');
+            }
+            if (document.getElementById('labelWat').checked && deed.metadata.wat) {
+                parts.push(deed.metadata.wat);
+            }
+
+            return parts.join('<br>') || `#${idx + 1}`;
+        }
+
+        // Filter deeds based on type checkboxes
+        function getFilteredDeeds() {
+            const showSurvey = document.getElementById('filterSurvey').checked;
+            const showDeed = document.getElementById('filterDeed').checked;
+            const showOther = document.getElementById('filterOther').checked;
+
+            const surveyTypes = ['survey', 'grant', 'nc grant'];
+
+            return deedsData.filter(deed => {
+                const typ = (deed.metadata.typ || '').toLowerCase();
+                if (surveyTypes.includes(typ)) return showSurvey;
+                if (typ === 'deed') return showDeed;
+                return showOther; // Anything else (empty, unknown types)
+            });
+        }
+
+        // Get the original index of a deed in deedsData
+        function getOriginalIndex(deed) {
+            return deedsData.indexOf(deed);
+        }
+
+        // Show/hide tract labels based on current zoom vs cutoff
+        function updateTractLabelVisibility() {
+            if (labelZoomCutoff === null || !mainMap) return;
+            const zoom = mainMap.getZoom();
+            const zoomInfo = document.getElementById('labelZoomValue');
+            if (zoomInfo) zoomInfo.textContent = `cutoff: ${labelZoomCutoff.toFixed(1)} | zoom: ${zoom.toFixed(1)}`;
+            tractLabels.forEach(label => {
+                if (zoom >= labelZoomCutoff) {
+                    if (!mainLayerGroup.hasLayer(label)) mainLayerGroup.addLayer(label);
+                } else {
+                    if (mainLayerGroup.hasLayer(label)) mainLayerGroup.removeLayer(label);
+                }
+            });
+        }
+
+        // Draw function: Individual lines with colors, no single outline
+        function drawOnMap(deeds, mapInstance, isModal = false, preserveView = false) {
+            const layerGroup = isModal ? L.layerGroup() : mainLayerGroup;
+            if (isModal) layerGroup.addTo(mapInstance);
+            if (!isModal) tractLabels = [];
+            layerGroup.clearLayers();
+
+            deeds.forEach(deed => {
+                deed.pointMarkers = [];
+                deed.lineMarkers = [];
+                deed.labelsShown = isModal;
+            });
+
+            const bounds = L.latLngBounds([]);
+            const scale = parseFloat(document.getElementById('scaleFactor').value) || 10;
+            const flipY = -1; // MBL Y-axis: North=negative, South=positive; negate for Leaflet
+            const declination = parseFloat(document.getElementById('parcelDeclination').value) || 0;
+
+            // Helper to convert MBL point to LatLng based on mode
+            function convertToLatLng(mblX, mblY, offsetX, offsetY) {
+                // Calculate screen position (in MBL units, which are feet after scale)
+                const screenX = offsetX + mblX * scale;
+                const screenY = offsetY + mblY * scale;
+
+                if (geoModeEnabled && !isModal) {
+                    // Geographic mode: transform to real lat/lon
+                    // Pass the screen coordinates directly - mblToGeo handles the conversion
+                    const geo = mblToGeo(screenX, screenY);
+                    return L.latLng(geo.lat, geo.lon);
+                } else {
+                    // Simple mode: use screen coordinates directly (Y is lat, X is lng in simple CRS)
+                    return L.latLng(screenY, screenX);
+                }
+            }
+
+            // Precompute colors for 'wat'
+            const watColorMap = new Map();
+            deeds.forEach(deed => {
+                const wat = deed.metadata.wat?.trim() || 'Unknown';
+                if (!watColorMap.has(wat)) {
+                    const hue = Array.from(wat).reduce((acc, char) => acc + char.charCodeAt(0), 0) % 360;
+                    watColorMap.set(wat, `hsl(${hue}, 70%, 80%)`);
+                }
+            });
+
+            deeds.forEach((deed, filteredIdx) => {
+                // Get original index in deedsData for highlighting
+                const idx = isModal ? filteredIdx : getOriginalIndex(deed);
+                const ox = deed.offset.x;
+                const oy = deed.offset.y * flipY;
+                const polygonCoords = [];
+
+                // Declination pivot: rotate around the first point of each parcel
+                const pivot = deed.lines.length > 0 ? deed.lines[0].from : {x:0, y:0};
+
+                // Helper: apply declination then convert to LatLng
+                function declConvert(x, y) {
+                    const r = applyDeclination(x, y, pivot.x, pivot.y, declination);
+                    return convertToLatLng(r.x, r.y, ox, oy);
+                }
+
+                if (deed.lines.length > 0) {
+                    const startLatLng = declConvert(deed.lines[0].from.x, deed.lines[0].from.y);
+                    polygonCoords.push(startLatLng);
+                    bounds.extend(startLatLng);
+                }
+
+                deed.lines.forEach((ln, lineIdx) => {
+                    const fromLatLng = declConvert(ln.from.x, ln.from.y);
+                    const toLatLng = declConvert(ln.to.x, ln.to.y);
+                    polygonCoords.push(toLatLng);
+
+                    const isMeander = ln.type.toUpperCase() === 'LM';
+                    const lineColor = isMeander ? 'blue' : 'black';
+                    const dashArray = ln.isClosing ? '5, 5' : null;
+                    const line = L.polyline([fromLatLng, toLatLng], {
+                        color: lineColor,
+                        weight: 2.5,
+                        dashArray: dashArray
+                    }).bindTooltip(ln.desc || (ln.isClosing ? 'Closing line' : 'Line'), {sticky: true});
+                    line._originalOptions = {color: lineColor, weight: 2.5, dashArray: dashArray};
+                    layerGroup.addLayer(line);
+                    deed.lineMarkers.push(line);
+
+                    if (ln.desc) {
+                        let direction = 'center';
+                        let offset = L.point(0, 0);
+
+                        // Calculate line angle for better placement
+                        const dx = ln.to.x - ln.from.x;
+                        const dy = ln.to.y - ln.from.y;
+                        const angle = Math.atan2(dy, dx) * 180 / Math.PI;
+                        if (Math.abs(angle) < 45 || Math.abs(angle) > 135) {
+                            // Horizontal-ish, place above or below
+                            direction = 'top';
+                            offset = L.point(0, -10);
+                        } else {
+                            // Vertical-ish, place left or right
+                            direction = 'right';
+                            offset = L.point(10, 0);
+                        }
+
+                        line.bindTooltip(ln.desc, {
+                            permanent: deed.labelsShown,
+                            direction: direction,
+                            offset: offset,
+                            className: 'line-label'
+                        });
+                    }
+
+                    bounds.extend(fromLatLng);
+                    bounds.extend(toLatLng);
+                });
+
+                // Optional fill (subtle, no stroke)
+                let polygon = null;
+                if (polygonCoords.length >= 3) {
+                    // Close if needed
+                    const first = polygonCoords[0];
+                    const last = polygonCoords[polygonCoords.length - 1];
+                    if (Math.abs(first.lat - last.lat) > 0.0001 || Math.abs(first.lng - last.lng) > 0.0001) {
+                        polygonCoords.push(first);
+                    }
+                    const wat = deed.metadata.wat?.trim() || 'Unknown';
+                    const fillColor = watColorMap.get(wat);
+                    polygon = L.polygon(polygonCoords, {
+                        stroke: false,
+                        fillColor: fillColor,
+                        fillOpacity: 0.3
+                    }).bindTooltip(getDeedTooltip(deed), {sticky: true});
+                    polygon.on('click', function(e) {
+                        highlightAndCenter(idx, mapInstance);
+                        L.DomEvent.stopPropagation(e);
+                    });
+                    layerGroup.addLayer(polygon);
+                    bounds.extend(polygon.getBounds());
+                }
+
+                // Points
+                deed.points.forEach((pt, i) => {
+                    const ptLatLng = declConvert(pt.coord.x, pt.coord.y);
+                    const marker = L.circleMarker(ptLatLng, {
+                        radius: 4,
+                        color: '#ff6600',
+                        fillColor: '#ff8800',
+                        fillOpacity: 0.6
+                    }).bindTooltip(pt.desc, {direction: 'top'});
+                    layerGroup.addLayer(marker);
+                    bounds.extend(ptLatLng);
+                    deed.pointMarkers.push(marker);
+
+                    if (pt.desc && pt.desc !== 'Corner') {
+                        // Determine blocked directions by checking actual line endpoints
+                        // relative to this corner point
+                        let blockedDirections = new Set();
+                        const threshold = 0.001; // Small threshold for floating point comparison
+
+                        // Check incoming line (the line that ends at this point)
+                        if (i > 0 && deed.lines[i-1]) {
+                            const ln = deed.lines[i-1];
+                            // Line comes FROM ln.from TO this point (ln.to)
+                            const dx = ln.to.x - ln.from.x;
+                            const dy = ln.to.y - ln.from.y;
+
+                            // Block the direction the line comes from
+                            if (Math.abs(dx) > Math.abs(dy)) {
+                                // Primarily horizontal line
+                                if (dx > 0) blockedDirections.add('left');   // Line comes from the left
+                                else blockedDirections.add('right');          // Line comes from the right
+                            } else {
+                                // Primarily vertical line
+                                if (dy > 0) blockedDirections.add('top');     // Line comes from above (in map coords where Y increases downward visually with flip)
+                                else blockedDirections.add('bottom');         // Line comes from below
+                            }
+                        }
+
+                        // Check outgoing line (the line that starts from this point)
+                        if (i < deed.lines.length && deed.lines[i]) {
+                            const ln = deed.lines[i];
+                            // Line goes FROM this point (ln.from) TO ln.to
+                            const dx = ln.to.x - ln.from.x;
+                            const dy = ln.to.y - ln.from.y;
+
+                            // Block the direction the line goes to
+                            if (Math.abs(dx) > Math.abs(dy)) {
+                                // Primarily horizontal line
+                                if (dx > 0) blockedDirections.add('right');   // Line goes to the right
+                                else blockedDirections.add('left');           // Line goes to the left
+                            } else {
+                                // Primarily vertical line
+                                if (dy > 0) blockedDirections.add('bottom');  // Line goes downward
+                                else blockedDirections.add('top');            // Line goes upward
+                            }
+                        }
+
+                        // Preferred directions in order of preference
+                        let preferredDirections = ['left', 'right', 'top', 'bottom'];
+                        let direction = 'left'; // Default
+
+                        // Choose first non-blocked direction
+                        for (let dir of preferredDirections) {
+                            if (!blockedDirections.has(dir)) {
+                                direction = dir;
+                                break;
+                            }
+                        }
+
+                        // If all blocked, use left as fallback
+                        if (blockedDirections.size >= 4) {
+                            direction = 'left';
+                        }
+
+                        // Consistent offset distance for all directions
+                        const offsetDist = 8;
+                        let offset;
+                        let tooltipContent;
+
+                        // Arrow points toward the corner (opposite of label direction)
+                        if (direction === 'right') {
+                            offset = L.point(offsetDist, 0);
+                            tooltipContent = '◄ ' + pt.desc;  // Arrow points left toward corner
+                        } else if (direction === 'left') {
+                            offset = L.point(-offsetDist, 0);
+                            tooltipContent = pt.desc + ' ►';  // Arrow points right toward corner
+                        } else if (direction === 'top') {
+                            offset = L.point(0, -offsetDist);
+                            tooltipContent = pt.desc + ' ▼';  // Arrow points down toward corner
+                        } else if (direction === 'bottom') {
+                            offset = L.point(0, offsetDist);
+                            tooltipContent = '▲ ' + pt.desc;  // Arrow points up toward corner
+                        }
+
+                        marker.bindTooltip(tooltipContent, {
+                            permanent: deed.labelsShown,
+                            direction: direction,
+                            offset: offset,
+                            className: 'point-label'
+                        });
+                    }
+                });
+
+                // Centroid label (clickable) - Ensure it's always visible
+                if (polygonCoords.length >= 3) {
+                    // Calculate true polygon centroid using the shoelace formula
+                    const centroid = getPolygonCentroid(polygonCoords);
+
+                    // Build label text from selected fields
+                    const labelText = buildLabelText(deed, idx);
+
+                    // Check if survey image is available (from pre-loaded cache)
+                    const deedId = deed.metadata.id || '';
+                    const hasImage = deedId && imageCache[deedId];
+                    const iconHtml = hasImage
+                        ? `<span class="doc-icon" data-image-id="${deedId}" title="View survey image">📄</span>`
+                        : '';
+
+                    // Wrap in container for centering, with doc icon next to label
+                    const wrappedHtml = `<div class="tract-label-wrapper"><div class="tract-label">${labelText}${iconHtml}</div></div>`;
+
+                    // Estimate dimensions for centering
+                    const lineCount = (labelText.match(/<br>/g) || []).length + 1;
+                    const maxLineLength = Math.max(...labelText.split('<br>').map(s => s.length));
+                    const extraIconWidth = hasImage ? 22 : 0;
+                    const estWidth = maxLineLength * 7 + extraIconWidth; // ~7px per character
+                    const estHeight = lineCount * 14; // ~14px per line
+
+                    const label = L.marker([centroid.lat, centroid.lng], {
+                        icon: L.divIcon({
+                            className: '',
+                            html: wrappedHtml,
+                            iconSize: [estWidth, estHeight],
+                            iconAnchor: [estWidth / 2, estHeight / 2]
+                        })
+                    }).on('click', (e) => {
+                        // Check if the click was on the doc icon
+                        if (e.originalEvent && e.originalEvent.target && e.originalEvent.target.classList.contains('doc-icon')) {
+                            const imgId = e.originalEvent.target.dataset.imageId;
+                            if (imgId && imageCache[imgId]) {
+                                openImageViewer(imageCache[imgId], imgId);
+                            }
+                            L.DomEvent.stopPropagation(e);
+                            return;
+                        }
+                        highlightAndCenter(idx, mapInstance);
+                        L.DomEvent.stopPropagation(e);
+                    });
+                    layerGroup.addLayer(label);
+                    if (!isModal) tractLabels.push(label);
+                }
+
+                if (!isModal) deed.outline = polygonCoords.length >= 3 ? polygonCoords : null;
+            });
+
+            if (bounds.isValid()) {
+                if (isModal) {
+                    mapInstance.fitBounds(bounds.pad(0.25));
+                } else if (preserveView) {
+                    // Keep current zoom/center — just update label visibility
+                    updateTractLabelVisibility();
+                } else {
+                    mapInstance.fitBounds(bounds, { padding: [40, 40] });
+                    mapInstance.once('zoomend', () => {
+                        const fitZoom = mapInstance.getZoom();
+                        const slider = document.getElementById('labelZoomSlider');
+                        if (slider) {
+                            slider.min = Math.floor(fitZoom - 6);
+                            slider.max = Math.ceil(fitZoom + 2);
+                            slider.step = 0.5;
+                            if (labelZoomCutoff === null) {
+                                labelZoomCutoff = 12;
+                                slider.value = labelZoomCutoff;
+                                document.getElementById('labelZoomValue').textContent = labelZoomCutoff.toFixed(1);
+                            }
+                        }
+                        updateTractLabelVisibility();
+                    });
+                    // Also apply visibility immediately in case zoom won't change
+                    updateTractLabelVisibility();
+                }
+            } else {
+                console.warn('No valid bounds');
+            }
+        }
+
+        // Highlight and center function
+        function highlightAndCenter(index, mapInstance = mainMap, shouldCenter = false) {
+            if (selectedIndex !== -1) {
+                revertHighlight(deedsData[selectedIndex]);
+            }
+
+            selectedIndex = index;
+            const deed = deedsData[index];
+            if (!deed || !deed.outline) return;
+
+            highlightPlot(deed);
+
+            // Center on the plot if requested (e.g., from table click)
+            if (shouldCenter && deed.outline && deed.outline.length > 0) {
+                const centroid = getPolygonCentroid(deed.outline);
+                mapInstance.panTo([centroid.lat, centroid.lng]);
+            }
+        }
+
+        function highlightPlot(deed) {
+            deed.lineMarkers.forEach(line => {
+                if (line._originalOptions.color === 'black') {
+                    line.setStyle({color: 'purple', weight: 3.5});
+                }
+            });
+            deed.labelsShown = true;
+            [deed.pointMarkers, deed.lineMarkers].flat().forEach(m => m.openTooltip());
+        }
+
+        function revertHighlight(deed) {
+            deed.lineMarkers.forEach(line => {
+                line.setStyle(line._originalOptions);
+            });
+            deed.labelsShown = false;
+            [deed.pointMarkers, deed.lineMarkers].flat().forEach(m => m.closeTooltip());
+        }
+
+        mainMap.on('click', () => {
+            if (selectedIndex !== -1) {
+                revertHighlight(deedsData[selectedIndex]);
+                selectedIndex = -1;
+            }
+        });
+
+        // Rich tooltip from metadata
+        function getDeedTooltip(deed) {
+            return `
+                ID: ${deed.metadata.id || 'N/A'}<br>
+                Date: ${deed.metadata.issdat || deed.metadata.dat || 'N/A'}<br>
+                From: ${deed.metadata.frm || 'N/A'}<br>
+                To: ${deed.metadata.to || 'N/A'}<br>
+                Acres: ${deed.metadata.re?.match(/\d+/)?.[0] || 'N/A'}<br>
+                Wat: ${deed.metadata.wat || 'N/A'}<br>
+                Adj: ${deed.metadata.adj || 'N/A'}<br>
+                SCC: ${deed.metadata.scc || 'N/A'}
+            `;
+        }
+
+        // File input with loading/error
+        document.getElementById('fileInput').onchange = e => {
+            const file = e.target.files[0];
+            if (!file) return;
+            loadedFileName = file.name.replace(/\.[^/.]+$/, '');
+            document.getElementById('loading').style.display = 'block';
+            const reader = new FileReader();
+            reader.onload = ev => {
+                try {
+                    deedsData = parseMBL(ev.target.result);
+                    if (deedsData.length === 0) {
+                        alert('No deeds parsed from file. Check file format.');
+                    }
+
+                    // Apply header config from MBL comments if present
+                    const hdr = parseMBL.header;
+                    if (hdr.anchor) {
+                        document.getElementById('anchorId').value = hdr.anchor;
+                    }
+                    if (hdr.lat) {
+                        document.getElementById('anchorLat').value = hdr.lat;
+                    }
+                    if (hdr.lon) {
+                        let lonVal = hdr.lon;
+                        // Assume negative longitude for US if not already negative
+                        if (!lonVal.startsWith('-')) lonVal = '-' + lonVal;
+                        document.getElementById('anchorLon').value = lonVal;
+                    }
+                    if (hdr.decl !== undefined) {
+                        document.getElementById('parcelDeclination').value = hdr.decl;
+                    }
+
+                    plotVisible = {};
+                    initPlotVisibility();
+                    // Preload image cache, then draw so icons appear on first render
+                    preloadImageCache(deedsData).then(() => {
+                        populateTable();
+                        drawOnMap(getVisibleFilteredDeeds(), mainMap);
+                        document.getElementById('loading').style.display = 'none';
+                    });
+                } catch (err) {
+                    alert('Error parsing file: ' + err.message);
+                    document.getElementById('loading').style.display = 'none';
+                }
+            };
+            reader.onerror = () => alert('File read error');
+            reader.readAsText(file);
+        };
+
+        // Initialize visibility for all deeds (called after parsing)
+        function initPlotVisibility() {
+            deedsData.forEach((d, i) => {
+                if (!(i in plotVisible)) plotVisible[i] = true;
+            });
+        }
+
+        // Get filtered deeds that are also visible
+        function getVisibleFilteredDeeds() {
+            return getFilteredDeeds().filter(d => plotVisible[getOriginalIndex(d)] !== false);
+        }
+
+        // Populate table with sort/search
+        function populateTable() {
+            const tbody = document.querySelector('#deedsTable tbody');
+            tbody.innerHTML = '';
+            const filteredDeeds = getFilteredDeeds();
+            filteredDeeds.forEach((d, filteredIdx) => {
+                const originalIdx = getOriginalIndex(d);
+                const isVisible = plotVisible[originalIdx] !== false;
+                const tr = document.createElement('tr');
+                tr.innerHTML = `
+                    <td style="white-space:nowrap"><input type="checkbox" class="plot-toggle" data-index="${originalIdx}" ${isVisible ? 'checked' : ''} title="Show/hide plot"><span>${originalIdx + 1}</span></td>
+                    <td>${d.metadata.id || '—'}</td>
+                    <td>${d.metadata.issdat || d.metadata.dat || '—'}</td>
+                    <td>${d.metadata.frm || '—'}</td>
+                    <td>${d.metadata.to || '—'}</td>
+                    <td>${d.metadata.re?.match(/\d+/)?.[0] || '—'}</td>
+                    <td><a class="view-link" data-index="${originalIdx}">View</a></td>
+                `;
+                tr.onclick = () => highlightAndCenter(originalIdx, mainMap, true);
+                tbody.appendChild(tr);
+            });
+
+            document.querySelectorAll('.view-link').forEach(link => {
+                link.onclick = e => { e.stopPropagation(); showSinglePlot(parseInt(link.dataset.index)); };
+            });
+
+            // Per-row plot visibility checkboxes
+            document.querySelectorAll('.plot-toggle').forEach(cb => {
+                cb.onclick = e => e.stopPropagation(); // Don't trigger row click
+                cb.onchange = e => {
+                    const idx = parseInt(e.target.dataset.index);
+                    plotVisible[idx] = e.target.checked;
+                    drawOnMap(getVisibleFilteredDeeds(), mainMap, false, true);
+                    updateToggleAllState();
+                };
+            });
+
+            addTableSorting();
+            addTableSearch();
+        }
+
+        // Update the "toggle all" checkbox state based on individual checkboxes
+        function updateToggleAllState() {
+            const allCheckboxes = document.querySelectorAll('.plot-toggle');
+            const allChecked = Array.from(allCheckboxes).every(cb => cb.checked);
+            const noneChecked = Array.from(allCheckboxes).every(cb => !cb.checked);
+            const toggleAll = document.getElementById('toggleAllPlots');
+            toggleAll.checked = allChecked;
+            toggleAll.indeterminate = !allChecked && !noneChecked;
+        }
+
+        // Table sorting
+        function addTableSorting() {
+            const headers = document.querySelectorAll('#deedsTable th[data-sort]');
+            headers.forEach(th => {
+                th.onclick = () => {
+                    const type = th.dataset.sort;
+                    const col = Array.from(th.parentNode.children).indexOf(th);
+                    const rows = Array.from(document.querySelectorAll('#deedsTable tbody tr'));
+                    rows.sort((a, b) => {
+                        let va = a.children[col].textContent.trim();
+                        let vb = b.children[col].textContent.trim();
+                        if (type === 'num') return (isNaN(parseFloat(va)) ? 0 : parseFloat(va)) - (isNaN(parseFloat(vb)) ? 0 : parseFloat(vb));
+                        if (type === 'date') return new Date(va) - new Date(vb);
+                        return va.localeCompare(vb);
+                    });
+                    rows.forEach(row => tbody.appendChild(row));
+                };
+            });
+        }
+
+        // Table search
+        function addTableSearch() {
+            const input = document.getElementById('searchInput');
+            input.oninput = () => {
+                const term = input.value.toLowerCase();
+                document.querySelectorAll('#deedsTable tbody tr').forEach(tr => {
+                    tr.style.display = Array.from(tr.children).some(td => td.textContent.toLowerCase().includes(term)) ? '' : 'none';
+                });
+            };
+        }
+
+        // Live update on scale change
+        document.getElementById('scaleFactor').onchange = () => {
+            if (deedsData.length > 0) drawOnMap(getVisibleFilteredDeeds(), mainMap, false, true);
+        };
+
+        // Live update on declination change
+        document.getElementById('parcelDeclination').onchange = () => {
+            if (deedsData.length > 0) drawOnMap(getVisibleFilteredDeeds(), mainMap, false, true);
+        };
+
+        // Live update when label field checkboxes change
+        ['labelId', 'labelTo', 'labelAssignee', 'labelFrom', 'labelDate', 'labelAcres', 'labelWat'].forEach(id => {
+            document.getElementById(id).onchange = () => {
+                if (deedsData.length > 0) drawOnMap(getVisibleFilteredDeeds(), mainMap, false, true);
+            };
+        });
+
+        // Label zoom cutoff slider
+        document.getElementById('labelZoomSlider').oninput = (e) => {
+            labelZoomCutoff = parseFloat(e.target.value);
+            document.getElementById('labelZoomValue').textContent = labelZoomCutoff.toFixed(1);
+            updateTractLabelVisibility();
+        };
+
+        // Live update when type filter checkboxes change
+        ['filterSurvey', 'filterDeed', 'filterOther'].forEach(id => {
+            document.getElementById(id).onchange = () => {
+                if (deedsData.length > 0) {
+                    drawOnMap(getVisibleFilteredDeeds(), mainMap, false, true);
+                    populateTable();
+                }
+            };
+        });
+
+        // Toggle all plots on/off
+        document.getElementById('toggleAllPlots').onclick = (e) => e.stopPropagation(); // Prevent header sort
+        document.getElementById('toggleAllPlots').onchange = (e) => {
+            const checked = e.target.checked;
+            document.querySelectorAll('.plot-toggle').forEach(cb => {
+                const idx = parseInt(cb.dataset.index);
+                cb.checked = checked;
+                plotVisible[idx] = checked;
+            });
+            drawOnMap(getVisibleFilteredDeeds(), mainMap, false, true);
+        };
+
+        // Geographic mode toggle
+        document.getElementById('geoMode').onchange = (e) => {
+            geoModeEnabled = e.target.checked;
+            document.getElementById('geoSettings').style.display = geoModeEnabled ? 'block' : 'none';
+
+            if (geoModeEnabled) {
+                // Update anchor from data if available
+                if (deedsData.length > 0) {
+                    updateAnchorFromData();
+                }
+                initGeoMap();
+            } else {
+                initSimpleMap();
+            }
+
+            // Re-bindmap click handler
+            mainMap.on('click', () => {
+                if (selectedIndex !== -1) {
+                    revertHighlight(deedsData[selectedIndex]);
+                    selectedIndex = -1;
+                }
+            });
+
+            if (deedsData.length > 0) {
+                drawOnMap(getVisibleFilteredDeeds(), mainMap);
+            }
+        };
+
+        // Parcel overlay toggle
+        document.getElementById('showParcels').onchange = (e) => {
+            if (!geoModeEnabled) return; // only works in geo mode
+            if (e.target.checked) {
+                addParcelLayer();
+            } else {
+                removeParcelLayer();
+            }
+        };
+
+        // Apply anchor button
+        document.getElementById('applyGeoBtn').onclick = () => {
+            if (deedsData.length > 0) {
+                if (updateAnchorFromData()) {
+                    drawOnMap(getVisibleFilteredDeeds(), mainMap, false, true);
+                } else {
+                    alert('Anchor plot ID not found: ' + document.getElementById('anchorId').value);
+                }
+            }
+        };
+
+        document.getElementById('reloadBtn').onclick = () => {
+            if (deedsData.length > 0) drawOnMap(getVisibleFilteredDeeds(), mainMap, false, true);
+        };
+
+        document.getElementById('viewAllBtn').onclick = () => {
+            if (mainLayerGroup.getLayers().length > 0) {
+                mainMap.fitBounds(mainLayerGroup.getBounds(), { padding: [40, 40] });
+            }
+        };
+
+        function exportSVG() {
+            const deeds = getVisibleFilteredDeeds();
+            if (deeds.length === 0) return alert('No plots to export');
+
+            const scale = parseFloat(document.getElementById('scaleFactor').value) || 10;
+            const flipY = -1; // MBL Y-axis: North=negative, South=positive; negate for Leaflet
+            const declination = parseFloat(document.getElementById('parcelDeclination').value) || 0;
+
+            // Coordinate conversion (same logic as drawOnMap)
+            function toLatLng(mblX, mblY, offsetX, offsetY) {
+                const screenX = offsetX + mblX * scale;
+                const screenY = offsetY + mblY * scale;
+                if (geoModeEnabled) {
+                    const geo = mblToGeo(screenX, screenY);
+                    return { lat: geo.lat, lng: geo.lon };
+                } else {
+                    return { lat: screenY, lng: screenX };
+                }
+            }
+
+            // Build watColorMap
+            const watColorMap = new Map();
+            deeds.forEach(deed => {
+                const wat = deed.metadata.wat?.trim() || 'Unknown';
+                if (!watColorMap.has(wat)) {
+                    const hue = Array.from(wat).reduce((acc, char) => acc + char.charCodeAt(0), 0) % 360;
+                    watColorMap.set(wat, `hsl(${hue}, 70%, 80%)`);
+                }
+            });
+
+            // First pass: compute all coordinates and bounds
+            let minLat = Infinity, maxLat = -Infinity, minLng = Infinity, maxLng = -Infinity;
+            const deedCoords = deeds.map((deed, idx) => {
+                const ox = deed.offset.x;
+                const oy = deed.offset.y * flipY;
+                const polyCoords = [];
+                const lines = [];
+
+                // Declination pivot: rotate around the first point of each parcel
+                const pivot = deed.lines.length > 0 ? deed.lines[0].from : {x:0, y:0};
+                function declConvert(x, y) {
+                    const r = applyDeclination(x, y, pivot.x, pivot.y, declination);
+                    return toLatLng(r.x, r.y, ox, oy);
+                }
+
+                if (deed.lines.length > 0) {
+                    const start = declConvert(deed.lines[0].from.x, deed.lines[0].from.y);
+                    polyCoords.push(start);
+                }
+
+                deed.lines.forEach(ln => {
+                    const from = declConvert(ln.from.x, ln.from.y);
+                    const to = declConvert(ln.to.x, ln.to.y);
+                    polyCoords.push(to);
+                    lines.push({
+                        from, to,
+                        isMeander: ln.type.toUpperCase() === 'LM',
+                        isClosing: ln.isClosing
+                    });
+                });
+
+                const points = deed.points.map(pt => declConvert(pt.coord.x, pt.coord.y));
+
+                // Update bounds
+                [...polyCoords, ...points].forEach(c => {
+                    if (c.lat < minLat) minLat = c.lat;
+                    if (c.lat > maxLat) maxLat = c.lat;
+                    if (c.lng < minLng) minLng = c.lng;
+                    if (c.lng > maxLng) maxLng = c.lng;
+                });
+
+                // Centroid
+                let centroid = null;
+                if (polyCoords.length >= 3) {
+                    centroid = getPolygonCentroid(polyCoords);
+                }
+
+                const wat = deed.metadata.wat?.trim() || 'Unknown';
+                const fillColor = watColorMap.get(wat);
+                const labelText = buildLabelText(deed, getOriginalIndex(deed));
+
+                return { polyCoords, lines, points, centroid, fillColor, labelText };
+            });
+
+            if (minLat === Infinity) return alert('No valid coordinates to export');
+
+            // SVG dimensions
+            const padding = 60;
+            const svgWidth = 3200;
+            const latRange = maxLat - minLat || 1;
+            const lngRange = maxLng - minLng || 1;
+            const dataAspect = latRange / lngRange;
+            const svgHeight = Math.max(400, Math.round((svgWidth - 2 * padding) * dataAspect + 2 * padding));
+
+            // Map lat/lng to SVG coordinates
+            const drawWidth = svgWidth - 2 * padding;
+            const drawHeight = svgHeight - 2 * padding;
+            function toSVGCoord(c) {
+                const x = padding + ((c.lng - minLng) / lngRange) * drawWidth;
+                const y = padding + ((maxLat - c.lat) / latRange) * drawHeight; // flip Y
+                return { x, y };
+            }
+
+            // Build SVG elements
+            let svgContent = '';
+
+            // Polygon fills (render first so they're behind lines)
+            deedCoords.forEach(d => {
+                if (d.polyCoords.length >= 3) {
+                    const pts = d.polyCoords.map(c => {
+                        const s = toSVGCoord(c);
+                        return `${s.x},${s.y}`;
+                    }).join(' ');
+                    svgContent += `  <polygon points="${pts}" fill="${d.fillColor}" fill-opacity="0.3" stroke="none"/>\n`;
+                }
+            });
+
+            // Lines
+            deedCoords.forEach(d => {
+                d.lines.forEach(ln => {
+                    const f = toSVGCoord(ln.from);
+                    const t = toSVGCoord(ln.to);
+                    const color = ln.isMeander ? 'blue' : 'black';
+                    const dash = ln.isClosing ? ' stroke-dasharray="5,5"' : '';
+                    svgContent += `  <line x1="${f.x}" y1="${f.y}" x2="${t.x}" y2="${t.y}" stroke="${color}" stroke-width="2.5"${dash}/>\n`;
+                });
+            });
+
+            // Corner points
+            deedCoords.forEach(d => {
+                d.points.forEach(pt => {
+                    const s = toSVGCoord(pt);
+                    svgContent += `  <circle cx="${s.x}" cy="${s.y}" r="4" stroke="#ff6600" fill="#ff8800" fill-opacity="0.6" stroke-width="1"/>\n`;
+                });
+            });
+
+            // Centroid labels
+            deedCoords.forEach(d => {
+                if (d.centroid && d.labelText) {
+                    const s = toSVGCoord(d.centroid);
+                    const textLines = d.labelText.replace(/<br\s*\/?>/gi, '\n').split('\n');
+                    const lineHeight = 13;
+                    const totalHeight = textLines.length * lineHeight;
+                    const startY = s.y - totalHeight / 2 + lineHeight / 2;
+
+                    // Background rect
+                    const maxLen = Math.max(...textLines.map(t => t.length));
+                    const rectW = maxLen * 7 + 12;
+                    const rectH = totalHeight + 6;
+                    svgContent += `  <rect x="${s.x - rectW/2}" y="${s.y - rectH/2}" width="${rectW}" height="${rectH}" rx="3" fill="white" fill-opacity="0.75"/>\n`;
+
+                    // Text
+                    svgContent += `  <text x="${s.x}" y="${startY}" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold">\n`;
+                    textLines.forEach((line, i) => {
+                        svgContent += `    <tspan x="${s.x}" dy="${i === 0 ? 0 : lineHeight}">${line.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')}</tspan>\n`;
+                    });
+                    svgContent += `  </text>\n`;
+                }
+            });
+
+            const svg = `<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="${svgWidth}" height="${svgHeight}" viewBox="0 0 ${svgWidth} ${svgHeight}">
+  <rect width="100%" height="100%" fill="#f8f8f8"/>
+${svgContent}</svg>`;
+
+            // Download
+            const blob = new Blob([svg], { type: 'image/svg+xml' });
+            const link = document.createElement('a');
+            link.download = loadedFileName + '.svg';
+            link.href = URL.createObjectURL(blob);
+            link.click();
+            URL.revokeObjectURL(link.href);
+        }
+
+        document.getElementById('exportBtn').onclick = exportSVG;
+
+        // Export Map Region: expand map to 3x3 viewport area, capture, restore
+        async function exportMapRegion() {
+            if (!mainMap) return alert('No map to export');
+
+            const mapEl = document.getElementById('map');
+            const container = document.getElementById('container');
+            const size = mainMap.getSize(); // current {x: width, y: height}
+            const originalCenter = mainMap.getCenter();
+            const originalZoom = mainMap.getZoom();
+            const bounds = mainMap.getBounds();
+            const latSpan = bounds.getNorth() - bounds.getSouth();
+            const lngSpan = bounds.getEast() - bounds.getWest();
+
+            const gridRadius = 1; // 1 = 3x3, future: configurable
+            const gridSize = 2 * gridRadius + 1;
+
+            // Progress indicator
+            const progressDiv = document.createElement('div');
+            progressDiv.style.cssText = 'position:fixed;top:50%;left:50%;transform:translate(-50%,-50%);background:rgba(0,0,0,0.8);color:white;padding:20px 30px;border-radius:8px;z-index:9999;font-size:16px;';
+            progressDiv.textContent = 'Preparing export...';
+            document.body.appendChild(progressDiv);
+
+            // Disable interaction
+            mainMap.dragging.disable();
+            mainMap.scrollWheelZoom.disable();
+            mainMap.doubleClickZoom.disable();
+
+            // Save original map container styles
+            const origMapStyle = mapEl.style.cssText;
+            const origContainerStyle = container.style.cssText;
+
+            // Expand the map container to 3x size, keeping same zoom and center
+            const exportWidth = size.x * gridSize;
+            const exportHeight = size.y * gridSize;
+
+            container.style.cssText = 'position:fixed; top:0; left:0; width:100vw; height:100vh; z-index:-1;';
+            mapEl.style.cssText = `position:fixed; top:0; left:0; width:${exportWidth}px; height:${exportHeight}px; z-index:-1;`;
+
+            // Tell Leaflet about the new size
+            mainMap.invalidateSize();
+            mainMap.setView(originalCenter, originalZoom, { animate: false });
+
+            // Fully redraw all plot layers so SVG pane recalculates for new container size
+            drawOnMap(getVisibleFilteredDeeds(), mainMap, false, true);
+
+            // Wait for tiles and rendering
+            await new Promise(resolve => {
+                function onReady() {
+                    setTimeout(resolve, 1500); // extra time for all tiles and vectors to render
+                }
+                if (basemapLayer) {
+                    mainMap.once('idle', onReady);
+                    setTimeout(resolve, 6000); // fallback
+                } else {
+                    setTimeout(resolve, 1000);
+                }
+            });
+
+            progressDiv.textContent = 'Capturing map...';
+
+            try {
+                // Capture the expanded map with html2canvas
+                const capturedCanvas = await html2canvas(mapEl, {
+                    useCORS: true,
+                    allowTaint: true,
+                    logging: false,
+                    width: exportWidth,
+                    height: exportHeight,
+                    scrollX: 0,
+                    scrollY: 0,
+                    x: 0,
+                    y: 0,
+                    windowWidth: exportWidth,
+                    windowHeight: exportHeight
+                });
+
+                progressDiv.textContent = 'Generating image...';
+
+                // Export as PNG
+                capturedCanvas.toBlob(blob => {
+                    const link = document.createElement('a');
+                    link.download = loadedFileName + '_region.png';
+                    link.href = URL.createObjectURL(blob);
+                    link.click();
+                    URL.revokeObjectURL(link.href);
+                    progressDiv.remove();
+                }, 'image/png');
+
+            } catch (err) {
+                alert('Export error: ' + err.message);
+                progressDiv.remove();
+            } finally {
+                // Restore original map container
+                container.style.cssText = origContainerStyle;
+                mapEl.style.cssText = origMapStyle;
+                mainMap.invalidateSize();
+                mainMap.setView(originalCenter, originalZoom, { animate: false });
+
+                // Redraw plots at original size so SVG pane is correct
+                drawOnMap(getVisibleFilteredDeeds(), mainMap, false, true);
+
+                // Re-enable interaction
+                mainMap.dragging.enable();
+                mainMap.scrollWheelZoom.enable();
+                mainMap.doubleClickZoom.enable();
+            }
+        }
+
+        document.getElementById('exportRegionBtn').onclick = exportMapRegion;
+
+        // Modal with info
+        function showSinglePlot(index) {
+            const deed = deedsData[index];
+            if (!deed) return;
+
+            document.getElementById('modal').style.display = 'block';
+            document.getElementById('modalInfo').innerHTML = getDeedTooltip(deed).replace(/<br>/g, '<br>');
+
+            if (!modalMap) modalMap = L.map('modalMap', { crs: L.CRS.Simple, minZoom: -10, maxZoom: 18 });
+            modalMap.eachLayer(l => modalMap.removeLayer(l));
+
+            drawOnMap([deed], modalMap, true);
+
+            // Highlight the single plot in modal
+            highlightPlot(deed);
+        }
+
+        document.getElementById('closeModal').onclick = () => {
+            document.getElementById('modal').style.display = 'none';
+            // No need to revert in modal since it's closed
+        };
+    </script>
+</body>
+</html>
