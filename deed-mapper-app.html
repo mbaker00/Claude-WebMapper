@@ -424,7 +424,8 @@
             }
             parcelLayer = null;
             basemapLayer = null;
-            mainMap = L.map('map', { crs: L.CRS.Simple, minZoom: -10, maxZoom: 18, zoomSnap: 0, zoomDelta: 0.5, wheelDebounceTime: 80, preferCanvas: true }).setView([0, 0], -2);
+            mainMap = L.map('map', { crs: L.CRS.Simple, minZoom: -10, maxZoom: 18, zoomSnap: 0, zoomDelta: 1.0, wheelDebounceTime: 80, zoomControl: false, preferCanvas: true }).setView([0, 0], -2);
+            addCustomZoomControl(mainMap, 0.5);
             mainLayerGroup = L.featureGroup().addTo(mainMap);
             mainMap.on('zoomend', updateTractLabelVisibility);
         }
@@ -435,7 +436,8 @@
                 mainMap.remove();
             }
             parcelLayer = null;
-            mainMap = L.map('map', { minZoom: 4, maxZoom: 18, zoomSnap: 0, zoomDelta: 0.5, wheelDebounceTime: 80, preferCanvas: true }).setView([anchorConfig.lat, anchorConfig.lon], 14);
+            mainMap = L.map('map', { minZoom: 4, maxZoom: 18, zoomSnap: 0, zoomDelta: 1.0, wheelDebounceTime: 80, zoomControl: false, preferCanvas: true }).setView([anchorConfig.lat, anchorConfig.lon], 14);
+            addCustomZoomControl(mainMap, 0.5);
             mainLayerGroup = L.featureGroup().addTo(mainMap);
             mainMap.on('zoomend', updateTractLabelVisibility);
 
@@ -712,6 +714,37 @@
             const u = (s.match(/[a-z]+/i)?.[0] || 'ft').toLowerCase();
             const conv = {p:16.5, pole:16.5, c:66, ch:66, chain:66, r:16.5, rod:16.5, f:1, ft:1};
             return num * (conv[u] || 1);
+        }
+
+        // Custom zoom control with independent button zoom delta
+        function addCustomZoomControl(map, buttonDelta) {
+            var zoomControl = L.control({ position: 'topleft' });
+            zoomControl.onAdd = function() {
+                var container = L.DomUtil.create('div', 'leaflet-control-zoom leaflet-bar leaflet-control');
+                var zoomIn = L.DomUtil.create('a', 'leaflet-control-zoom-in', container);
+                zoomIn.innerHTML = '+';
+                zoomIn.href = '#';
+                zoomIn.title = 'Zoom in';
+                zoomIn.role = 'button';
+                zoomIn.setAttribute('aria-label', 'Zoom in');
+                var zoomOut = L.DomUtil.create('a', 'leaflet-control-zoom-out', container);
+                zoomOut.innerHTML = '−';
+                zoomOut.href = '#';
+                zoomOut.title = 'Zoom out';
+                zoomOut.role = 'button';
+                zoomOut.setAttribute('aria-label', 'Zoom out');
+                L.DomEvent.disableClickPropagation(container);
+                L.DomEvent.on(zoomIn, 'click', function(e) {
+                    L.DomEvent.preventDefault(e);
+                    map.setZoom(map.getZoom() + buttonDelta);
+                });
+                L.DomEvent.on(zoomOut, 'click', function(e) {
+                    L.DomEvent.preventDefault(e);
+                    map.setZoom(map.getZoom() - buttonDelta);
+                });
+                return container;
+            };
+            zoomControl.addTo(map);
         }
 
         // Apply magnetic declination rotation: rotate point (x,y) clockwise
@@ -1139,11 +1172,16 @@
                         const fitZoom = mapInstance.getZoom();
                         const slider = document.getElementById('labelZoomSlider');
                         if (slider) {
-                            slider.min = Math.floor(fitZoom - 6);
-                            slider.max = Math.ceil(fitZoom + 2);
+                            if (geoModeEnabled) {
+                                slider.min = 11;
+                                slider.max = 14;
+                            } else {
+                                slider.min = Math.floor(fitZoom - 6);
+                                slider.max = Math.ceil(fitZoom + 2);
+                            }
                             slider.step = 0.5;
                             if (labelZoomCutoff === null) {
-                                labelZoomCutoff = 12;
+                                labelZoomCutoff = 12.75;
                                 slider.value = labelZoomCutoff;
                                 document.getElementById('labelZoomValue').textContent = labelZoomCutoff.toFixed(1);
                             }
