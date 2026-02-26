@@ -99,7 +99,7 @@ TRANSFERS:
 ! 2. 230 A, 19 Aug 1793 John Bone Sr. -to- William Nesbit DB-B:87-88 wit Thomas McGuire, James McCreery / proved May 1794 Thomas McGuire
 lbl %to\%dat\File# %Id\%Re\Wm.Nesbit 1793
 ! Metes and bounds
-loc 7919 -12201 F127 L0 P73 0 51 0
+loc 7919 -12201 F127 L0 P73 0 45 0
 txt 6170 -13213 F127 R0 %d =
 Pt BO
 Ln w; 47c; 
@@ -139,7 +139,7 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
 loc 12203 -11284 F127 L0 P255
@@ -198,7 +198,7 @@ TRANSFERS:
 ! x. xxx A, Hugh Bone -to- John Woodside DB-B:148
 lbl %to\%dat\File# %Id\%Re\Hu.Bone 210a 1788
 ! Metes and bounds
-loc 1410 -15250 F127 L0 P73 0 51 0
+loc 1410 -15250 F127 L0 P73 0 45 0
 txt 175 -16358 F127 R0 %d =
 Pt WO stp bnk S crk
 Ln s25w; 20p; 
@@ -245,10 +245,10 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc -2964 -18438 F127 L0 P255
+loc -2964 -18438 F127 L0 P73 0 45 0
 txt -1965 -18709 F127 R0 %d =
 Pt PO Jno.Brotherton beg cnr
 Ln s62e; 180p; 
@@ -338,7 +338,7 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
 loc 10153 -12122 F127 L0 P73 0 51 0
@@ -401,7 +401,7 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
 loc 16634 -8416 F127 L0 P255
@@ -464,7 +464,7 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
 loc 11965 -8313 F127 L0 P255
@@ -511,7 +511,7 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
 loc 11765 -15746 F127 L0 P73 0 51 0
@@ -566,11 +566,11 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc -3933 -18758 F127 L0 P255
-txt -4316 -21252 F127 R0 %d =
+loc -3770 -18895 F127 L0 P73 0 45 0
+txt -4153 -21389 F127 R0 %d =
 Pt PO Col.Cambel cnr
 Ln n52e; 100p; Col.Campbell
 Pt Pine
@@ -615,11 +615,11 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc -1308 -22421 F127 L0 P255
-txt -1181 -21883 F127 R0 %d =
+loc -1020 -22371 F127 L0 P73 0 45 0
+txt -893 -21833 F127 R0 %d =
 Pt PO Jno.Brotherton ln
 Ln s85e; 134p; x br
 Pt PO
@@ -660,7 +660,7 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
 loc 10915 -12247 F127 L0 P73 0 51 0
@@ -725,10 +725,11 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc 15003 -11222 F127 L0 P73 0 51 0
+loc 15003 -11222 F127 L0 P72 0 49 0
+txt 14712 -10464 F127 R0 %d =
 Pt SG S bnk Jno.Little cnr
 Ln e; 23c; Jno.Little
 Pt WOsap his cnr
@@ -781,7 +782,7 @@ TRANSFERS:
 ! x.  35 A, 13 Jan 1795 William Bone Jr. -to- James Callahan DB-D:061-062
 lbl %to\%dat\File# %Id\%Re\Wm.Bone Jr 1792\Jas.Callahan 35a 1795
 ! Metes and bounds
-loc 1846 -10852 F127 L0 P73 0 51 0
+loc 1846 -10852 F127 L0 P73 0 39 0
 txt 60 -9477 F127 R0 %d =
 Pt Gum bnk crk
 Ln s; 67.5c; 
@@ -822,10 +823,10 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc 5482 -12128 F127 L0 P73 0 51 0
+loc 5482 -12128 F127 L0 P73 0 45 0
 txt 3058 -12428 F127 R0 %d =
 Pt Hic N bnk crk Thos.Bone ln
 Ln n; 38p; Thos.Bone
@@ -874,7 +875,7 @@ TRANSFERS:
 ! x. 102 A, 17 Feb 1801 Hugh Andrew -to- Amos Sharpe DB-D-302
 lbl %to\%dat\File# %Id\%Re\Am.Sharpe 102a 1801
 ! Metes and bounds
-loc 4114 -13122 F127 L0 P73 0 51 0
+loc 4114 -13122 F127 L0 P73 0 45 0
 txt 4310 -14637 F127 R0 %d =
 Pt BO Rob.Wasson ln Stuart cnr
 Ln n; 300p; Stuart
@@ -918,7 +919,7 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
 loc 2227 -10940 F127 L0 P73 0 51 0
@@ -961,7 +962,7 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
 loc 5441 3478 F127 L0 P255
@@ -1003,7 +1004,7 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
 loc 10277 -5448 F127 L0 P73 0 51 0
@@ -1050,7 +1051,7 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
 loc 10252 -8047 F127 L0 P73 0 51 0
@@ -1099,7 +1100,7 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
 loc 12683 -3784 F127 L0 P73 0 51 0
@@ -1142,7 +1143,7 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
 loc 13102 -6373 F127 L0 P255
@@ -1236,10 +1237,10 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc 8770 -10603 F127 L0 P73 0 51 0
+loc 8770 -10603 F127 L0 P73 0 45 0
 txt 7517 -11430 F127 R0 %d =
 Pt Hic sap S bnk MidFk Thos.Bone cnr
 Ln s30e; 7c; 
@@ -1283,7 +1284,7 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
 loc 5508 -9203 F127 L0 P73 0 51 0
@@ -1326,7 +1327,7 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
 loc 3851 -3696 F127 L0 P73 0 51 0
@@ -1383,11 +1384,11 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 ! x. 167 A, 19 May 1795 Mary Travers -to- Robert McCorkle DB-B:340
 lbl %to\%dat\File# %Id\%Re\Rob.McCorkle 167a 1795
 ! Metes and bounds
-loc -3532 -4259 F127 L0 P73 0 51 0
+loc -3532 -4259 F127 L0 P73 0 27 0
 txt -3136 -5310 F127 R0 %d =
 Pt WO river Jas.Sharpe low cnr
 Ln n; 190p; 
@@ -1437,10 +1438,10 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc -6226 -4464 F1 L0 P73 0 51 0
+loc -6226 -4464 F1 L0 P73 0 27 0
 txt -5963 -5477 F1 R0 %d =
 Pt Pop bnk sm br Jas.King ln
 Ln e; 168p; 
@@ -1493,10 +1494,10 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc 189 -3157 F127 L0 P73 0 51 0
+loc 189 -3157 F127 L0 P73 0 27 0
 txt 413 -5528 F127 R0 %d =
 Pt BO rvr bnk
 Ln n13w; 160p; Travers
@@ -1544,7 +1545,7 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
 loc 14133 -5141 F127 L0 P73 0 51 0
@@ -1598,8 +1599,8 @@ TRANSFERS:
 ! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc -2862 -24881 F127 L0 P255
-txt -1342 -23941 F127 R0 %d =
+loc -2611 -24856 F127 L0 P73 0 45 0
+txt -1091 -23916 F127 R0 %d =
 Pt PO Brotherton ln
 Ln e; 60p; Brotherton
 Pt Ches his cnr
@@ -1653,10 +1654,10 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc -17365 -16476 F127 L0 P255
+loc -26145 -32132 F127 L0 P255
 Pt 2lgPop N bnk crk by mth lg br
 Lm n66w; 184p; 
 Pt Gum WO Hughes cnr by br
@@ -1705,7 +1706,7 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
 loc 17903 -4276 F127 L0 P73 0 51 0
@@ -1762,7 +1763,7 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
 loc 1284 -21225 F127 L0 P255
@@ -1789,7 +1790,7 @@ ENTRY:
 GrantNo: 
 EntDat: 
 WarDat: 09/13/1778
-SurDat: 
+SurDat: none
 IssDat: 08/09/1787
 SurveyTo: 
 IssuedTo: 
@@ -1814,8 +1815,8 @@ TRANSFERS:
 ! 1. 500 A, 09 Aug 1787 State of NC -> Cowden heirs DB-C:176-177
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc 7284 -19201 F127 L0 P255
-txt 5475 -18427 F127 R0 %d =
+loc 7171 -19451 F127 L0 P73 0 51 0
+txt 5362 -18677 F127 R0 %d =
 Pt Syc N bnk crk beg cnr father old srvy
 Ln n; 120p; 
 Pt smHic
@@ -1862,7 +1863,7 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
 loc 291 -10970 F127 L0 P73 0 51 0
@@ -1913,11 +1914,11 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc -2332 -10344 F127 L0 P73 0 51 0
-txt -2959 -13316 F127 R0 %d =
+loc -2494 -10219 F127 L0 P73 0 45 0
+txt -3121 -13191 F127 R0 %d =
 Pt PO Ben.Dobson Josh.Nicholls cnr
 Ln w; 40p; Nichols
 Pt lBO nr Jno.King crk
@@ -1971,7 +1972,7 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
 loc -6733 -8214 F1 L0 P73 0 51 0
@@ -2014,7 +2015,7 @@ Ref 51:93
 ! -- abstract --
 ! warrant: No. 585 ... John King ... 860 acres ... on the South fork of Rocky Creek joining the lands of Robert Landsail near the fork of the creek, and John Montgomery William Sharp and James McHargue including his own improvement ... 8/17/1778
 Rec 
-Re 860A RC
+Re 860A RC S
 SCC: none listed
 Adj 
 Dat 10/10/1783
@@ -2024,10 +2025,10 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc -7083 -7227 F1 L0 P73 0 51 0
+loc -7083 -7227 F1 L0 P73 0 39 0
 txt -9995 -8622 F1 R0 %d =
 Pt lgBO Sharpes cnr
 Ln w; 380p; 
@@ -2079,7 +2080,7 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
 loc 3234 -21214 F127 L0 P255
@@ -2114,7 +2115,8 @@ Assignee:
 Wat: Rocky Creek
 Ref 64:434
 ! -- abstract --
-! warrant: No. 1541 ... Samuel Henderson ... 200 acres ... both sides of Rocky Creek and on both sides of a small branch that runs into said creek running up both sides of said creek and branch for complement including a small improvement ... 12/19/1778
+!
+WarrantAbs: State of North Carolina No. 1541 County of Rowan Samuel Henderson ... 200 acres ... both sides of Rocky Creek and on both sides of a small branch that runs into said creek running up both sides of said creek and branch for complement including a small improvement ... 12/19/1778
 Rec 
 Re 200A RC
 SCC: none listed
@@ -2126,10 +2128,11 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc 5435 -36474 F127 L0 P255
+loc -1507 -31048 F127 L0 P73 0 51 0
+txt -2365 -31812 F127 R0 %d =
 Pt WO N bnk crk
 Ln n; 70p; 
 Pt BO
@@ -2176,7 +2179,7 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
 loc 2897 -21825 F127 L0 P255
@@ -2225,7 +2228,7 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
 loc 3095 -22400 F127 L0 P255
@@ -2273,7 +2276,7 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
 loc 1272 -14906 F127 L0 P73 0 51 0
@@ -2333,10 +2336,10 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc 1404 -15119 F127 L0 P73 0 51 0
+loc 1404 -15119 F127 L0 P73 0 45 0
 txt 1765 -14684 F127 R0 %d =
 Pt WO stp bnk S sd crk Dan.Boyd beg cnr
 Ln s25w; 20p; 
@@ -2385,10 +2388,10 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc 2378 -10989 F127 L0 P73 0 51 0
+loc 2378 -10989 F127 L0 P73 0 45 0
 txt 286 -12076 F127 R0 %d =
 Pt Bch N bnk crk Rob.Wasson cnr
 Ln n; 220p; R.Wasson
@@ -2431,7 +2434,7 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
 loc 8366 -14081 F127 L0 P255
@@ -2483,11 +2486,11 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc -4045 -12915 F127 L0 P73 0 51 0
-txt -6756 -12921 F127 R0 %d =
+loc -4219 -12902 F127 L0 P73 0 45 0
+txt -6930 -12908 F127 R0 %d =
 Pt Pine nr br Jos.Dobson cnr
 Ln s75e; 100p; 
 Pt lgPine
@@ -2536,7 +2539,7 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
 loc 677 -23702 F127 L0 P255
@@ -2583,11 +2586,11 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc -5151 -7578 F127 L0 P255
-txt -6573 -7623 F127 R0 %d =
+loc -17650 -17033 F127 L0 P255
+txt -19072 -17078 F127 R0 %d =
 Pt BOsap N bnk crk
 Ln n; 50p; 
 Pt WO
@@ -2628,7 +2631,7 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
 loc 3272 -24758 F127 L0 P255
@@ -2684,11 +2687,11 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc -1689 -23152 F127 L0 P255
-txt -4689 -23948 F127 R0 %d =
+loc -1363 -23088 F127 L0 P73 0 45 0
+txt -4363 -23884 F127 R0 %d =
 Pt smBO cnr +srvy
 Ln n30w; 180p; Chambers ln nr Trumpet
 Pt 
@@ -2727,11 +2730,11 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc -13794 -9052 F127 L0 P73 0 51 0
-txt -14775 -10879 F127 R0 %d =
+loc -14043 -9802 F127 L0 P73 0 51 0
+txt -15024 -11629 F127 R0 %d =
 Pt BO Montgomery ln Lansdale cnr
 Ln n; 144p; 
 Pt smPO
@@ -2778,10 +2781,10 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc -20545 -15365 F127 L0 P255
+loc -29332 -30902 F127 L0 P255
 Pt PO ridge cnr +srvy
 Ln e; 188p; +srvy x br
 Pt 2WOsap ege lw grnd
@@ -2820,11 +2823,11 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc -21764 -17228 F127 L0 P255
-txt -22398 -16702 F127 R0 %d =
+loc -30651 -33853 F127 L0 P255
+txt -31285 -33327 F127 R0 %d =
 Pt lgWal S bnk crk Jno.King cnr
 Ln w; 165p; pass Jno.King 2nd cnr
 Pt Pine
@@ -2867,11 +2870,11 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc -21771 -17271 F127 L0 P255
-txt -22401 -18373 F127 R0 %d =
+loc -30683 -33921 F127 L0 P255
+txt -31313 -35023 F127 R0 %d =
 Pt lgWal S bnk crk
 Ln w; 65p; 
 Pt WO Rob.King ln by sm br
@@ -2918,10 +2921,11 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc -19002 -17359 F127 L0 P255
+loc -27820 -33034 F127 L0 P255
+txt -28604 -33455 F127 R0 %d =
 Pt Gum WO by br Jas.King cnr
 Ln n; 98p; 
 Pt BOsap
@@ -2964,7 +2968,7 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
 loc -583 -15839 F127 L0 P73 0 51 0
@@ -3007,11 +3011,11 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc -13808 -9064 F127 L0 P73 0 51 0
-txt -13055 -9916 F127 R0 %d =
+loc -14083 -9114 F127 L0 P73 0 51 0
+txt -13330 -9966 F127 R0 %d =
 Pt BO Montgomery ln
 Ln n; 144p; 
 Pt smPO
@@ -3054,11 +3058,11 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc 3341 -24745 F127 L0 P255
-txt 1521 -27856 F127 R0 %d =
+loc 4141 -24982 F127 L0 P255
+txt 2321 -28093 F127 R0 %d =
 Pt PO beg his +srvy
 Ln e; 140p; 
 Pt WO bnk pond by br
@@ -3107,7 +3111,7 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
 loc 2815 -24076 F127 L0 P255
@@ -3161,7 +3165,7 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
 loc 6403 -16077 F127 L0 P255
@@ -3208,7 +3212,7 @@ TRANSFERS:
 ! 2. 250 A, 20 Aug 1793 sold by sheriff to William Sharpe DB-D:539-541
 lbl %to\%dat\File# %Id\%Re\1793 Wm.Sharpe
 ! Metes and bounds
-loc 3859 -16359 F127 L0 P73 0 51 0
+loc 3859 -16359 F127 L0 P73 0 45 0
 txt 2616 -17488 F127 R0 %d =
 Pt Pine
 Ln w; 110p; 
@@ -3252,11 +3256,11 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc -11276 -16225 F127 L0 P255
-txt -10046 -14568 F127 R0 %d =
+loc -28751 -21975 F127 L0 P255
+txt -27521 -20318 F127 R0 %d =
 Pt lgBO 2Pop Frazier cnr
 Ln e; 85c; 
 Pt WO Blounts cnr
@@ -3295,11 +3299,11 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc -7083 -20869 F127 L0 P255
-txt -7638 -21627 F127 R0 %d =
+loc -6863 -20700 F127 L0 P73 0 51 0
+txt -7418 -21458 F127 R0 %d =
 Pt PO by crk bnk Wm.Brotherton cnr
 Ln w; 100p; 
 Pt PO
@@ -3346,7 +3350,7 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
 loc 8127 -21132 F127 L0 P73 0 51 0
@@ -3405,7 +3409,7 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
 loc 10428 -19213 F127 L0 P73 0 51 0
@@ -3446,7 +3450,7 @@ Ref
 ! -- abstract --
 ! warrant: No. 728 ... William Brotherton ... 200 acres on the middle fork of Rocky Creek joining Joseph Shavers entry ... 8/16/1778
 Rec 
-Re 200A RC
+Re 200A RCmid
 SCC: none listed
 Adj 
 Dat 8/9/1787
@@ -3459,8 +3463,8 @@ TRANSFERS:
 ! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc -7120 -20719 F127 L0 P255
-txt -7625 -19656 F127 R0 %d =
+loc -6869 -20630 F127 L0 P73 0 45 0
+txt -7374 -19567 F127 R0 %d =
 Pt PO by crk Shaver cnr
 Ln w; 100p; 
 Pt PO
@@ -3495,10 +3499,10 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc -3070 2310 F127 L0 P255
+loc -3695 3222 F127 L0 P255
 Pt 
 Ln ; p; 
 Pt 
@@ -3545,10 +3549,10 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc 6708 -2891 F1 L0 P73 0 51 0
+loc 6708 -2891 F1 L0 P73 0 27 0
 txt 5449 -3828 F1 R0 %d =
 Pt Hic nr rcks rvr bnk Archibald cnr
 Ln n; 184p; Archibald
@@ -3588,10 +3592,10 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc 10971 -1715 F1 L0 P73 0 51 0
+loc 10971 -1715 F1 L0 P73 0 27 0
 txt 8087 -3292 F1 R0 %d =
 Pt PO rvr bnk Geo.Locke ln
 Ln n; 270p; 
@@ -3631,7 +3635,7 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
 loc 8088 3672 F127 L0 P255
@@ -3676,7 +3680,7 @@ TRANSFERS:
 ! 1. n A, dd mmm 17yy State of -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc -1797 -26533 F127 L0 P255
+loc -32897 -34133 F127 L0 P255
 Pt Bch N side crk
 Ln n; 55c; 
 Pt pine
@@ -3700,13 +3704,13 @@ IssuedTo: Joseph Nichols
 Frm NC
 To Joseph Nichols
 Assignee: Joshua Nicholls Jr.
-Wat: Rocky Creek, South Yadkin
+Wat: Rocky Creek, South
 Ref 75:571
 ! -- abstract --
 EntryAbs: 571. Mar. 10, 1778 Joshua Nichols Jr enters 400 ac in Rowan Co on both sides of Rocky Cr; border: Benjamin Dobson, James Bone, John Lard, widow Travis and Joseph Nichols claims
 WarrantAbs: No. 571 ... Joshua Nicholls Junr ... 400 acres ... on both sides of the South fork of Rocky Creek, joininig lands claimed by Benjamin Dobson, James Bones and John Lard, Widow Travers and Joseph Nicholls ... 7/21/1778 / I hereby assign my right and title of this warrant unto Joseph Nichols giveing under my hand this thirteenth day of August anno domini 1789 in the presents of ? - Joshua Nichols / Thos Morris, Benj Dobson
 Rec 
-Re 355A RC SoYadkin
+Re 355A RC S
 SCC: none listed
 Adj 
 Dat 
@@ -3716,10 +3720,10 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc -2027 -9251 F127 L0 P73 0 51 0
+loc -2027 -9251 F127 L0 P73 0 39 0
 txt -2489 -8261 F127 R0 %d =
 Pt BO bnk crk
 Ln n57w; 90p; 
@@ -3768,7 +3772,7 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
 loc -3296 -8241 F1 L0 P73 0 51 0
@@ -3817,7 +3821,7 @@ Ref
 ! -- abstract --
 ! 
 Rec 
-Re 670A Fk Yadkin
+Re 670A LtDC
 SCC: Nathan Todd, Robert Holmes
 Adj Richard Rimmington, Nathan Todd, David Woodson
 Dat 
@@ -3830,7 +3834,7 @@ TRANSFERS:
 ! 1. n A, dd mmm 17yy State of North Carolina -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc 13466 -18438 F127 L0 P255
+loc 13466 -18438 F127 L0 P72 0 49 0
 txt 12226 -20098 F127 R0 %d =
 Pt smPine S LlDutchman Crk Nat.Todd cnr
 Ln s; 29c; Nat.Todd
@@ -3917,11 +3921,11 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc -11099 7831 F127 L0 P255
-txt -12841 6643 F127 R0 %d =
+loc -11836 7981 F127 L0 P255
+txt -13578 6793 F127 R0 %d =
 Pt WO Dr.Alexander cnr Wm.McClelan ln
 Ln w; 250p; McCleland
 Pt RO Stuart ln
@@ -3964,7 +3968,7 @@ TRANSFERS:
 ! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc -6405 -2673 F1 L0 P73 0 51 0
+loc -6405 -2673 F1 L0 P73 0 27 0
 txt -8112 -2943 F1 R0 %d =
 Pt WatO nr Sbnk rvr blw mth SnowCrk
 Ln s; 143p; 
@@ -4016,7 +4020,7 @@ TRANSFERS:
 ! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc -9845 -10936 F127 L0 P73 0 51 0
+loc -10582 -11973 F127 L0 P73 0 51 0
 Pt PO N ln his old
 Ln n; 120p; 
 Pt BO
@@ -4054,10 +4058,10 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc -11281 -1772 F1 L0 P73 0 51 0
+loc -11281 -1772 F1 L0 P73 0 27 0
 txt -10446 -3157 F1 R0 %d =
 Pt WO ft Waddles hill by spr
 Ln n70e; 30p; Waddle
@@ -4104,7 +4108,7 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
 loc 8943 -15175 F127 L0 P255
@@ -4189,10 +4193,10 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc 17431 -18522 F127 L0 P255
+loc 17431 -18522 F127 L0 P72 0 49 0
 txt 15082 -18191 F127 R0 %d =
 Pt BO Fr.Holmes ln
 Ln w; 20c; 
@@ -4245,10 +4249,11 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc 13911 -13891 F127 L0 P255
+loc 13911 -13891 F127 L0 P72 0 49 0
+txt 12722 -15365 F127 R0 %d =
 Pt creek
 Ln w; 55c; 
 Pt BO Jno.Dobbins ln
@@ -4278,7 +4283,7 @@ To Francis Holmes
 Wat: Dutchmans Creek
 Ref 51:71
 ! -- abstract --
-! for Francis Holmes ... 600 acres ... on the waters of Dutchmans Creek joining John Little Nathan Todd, John Job Holmes, including his own improvement ... 9/28/1778
+! for Francis Holmes ... 600 acres ... on the waters of Dutchmans Creek joining John Little, Nathan Todd, John Job Holmes, including his own improvement ... 9/28/1778
 Rec 
 Re 519A DC
 SCC: Richard Graham, Hugh Graham
@@ -4290,7 +4295,7 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
 loc 14471 -14254 F127 L0 P255
@@ -4340,7 +4345,7 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
 loc 18209 -12499 F127 L0 P255
@@ -4400,7 +4405,7 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
 loc 20896 -11936 F127 L0 P255
@@ -4444,7 +4449,7 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
 loc 18827 -17753 F127 L0 P255
@@ -4484,10 +4489,10 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc 19264 -19940 F127 L0 P255
+loc 19264 -19940 F127 L0 P72 0 55 0
 txt 18479 -20559 F127 R0 %d =
 Pt PO Wm.Sanderson? cnr
 Ln s; 10c; his ln
@@ -4542,11 +4547,11 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc 11533 -21681 F127 L0 P255
-txt 11223 -23764 F127 R0 %d =
+loc 11608 -22031 F127 L0 P72 0 49 0
+txt 11298 -24114 F127 R0 %d =
 Pt pine Al.McConnells cnr
 Ln n; 25c; 
 Pt PO
@@ -4586,11 +4591,11 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc 14983 -24544 F127 L0 P255
-txt 15528 -20787 F127 R0 %d =
+loc 14808 -24719 F127 L0 P255
+txt 14878 -20924 F127 R0 %d =
 Pt BO NW cnr Nichols
 Ln w; 28c; 
 Pt stk ln
@@ -4618,7 +4623,8 @@ WarDat:
 SurDat: 1784/08/30
 IssDat: 1786/10/25
 Frm NC
-To Thomas Bealey (Loveless)
+To Thomas Bealey
+Assignee: Charles Loveless
 Wat: Little Dutchmans Creek
 Ref 
 ! -- abstract --
@@ -4635,10 +4641,10 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
-lbl %to\%dat\File# %Id\%Re
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to (%Assignee: )\%dat\File# %Id\%Re
 ! Metes and bounds
-loc 16634 -8320 F127 L0 P255
+loc 16634 -8320 F127 L0 P72 0 49 0
 txt 15553 -7763 F127 R0 %d =
 Pt Hic Geo.Locke cnr
 Ln w; 31.5c; G.Locke
@@ -4687,11 +4693,11 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc 18027 -28794 F127 L0 P255
-txt 17031 -27685 F127 R0 %d =
+loc 19964 -28056 F127 L0 P72 0 55 0
+txt 18968 -26947 F127 R0 %d =
 Pt pine E cnr his other
 Ln s; 280p; pass Is.Coleman Jno.Madin cnr
 Pt pine
@@ -4728,10 +4734,11 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc 18252 -30162 F127 L0 P255
+loc 18939 -27774 F127 L0 P72 0 55 0
+txt 16917 -27566 F127 R0 %d =
 Pt BO McConnels ln
 Ln w; 10p; 
 Pt pine his cnr nr br
@@ -4771,11 +4778,11 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc 20990 -31888 F127 L0 P255
-txt 18571 -31554 F127 R0 %d =
+loc 22490 -29625 F127 L0 P72 0 55 0
+txt 20071 -29291 F127 R0 %d =
 Pt Hic crk bnk nr rock
 Ln s45w; 100p; Ch.Houston
 Pt pine
@@ -4817,11 +4824,11 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc 21015 -31900 F127 L0 P255
-txt 21118 -30482 F127 R0 %d =
+loc 22502 -29562 F127 L0 P72 0 55 0
+txt 22605 -28144 F127 R0 %d =
 Pt Hic S bnk crk McConnell cnr
 Ln s45w; 100p; 
 Pt pine
@@ -4885,11 +4892,11 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc 21378 -28844 F127 L0 P255
-txt 21128 -27640 F127 R0 %d =
+loc 22865 -26569 F127 L0 P72 0 55 0
+txt 22615 -25365 F127 R0 %d =
 Pt crBO crk bnk Houston cnr
 Ln s35w; 70p; Houston
 Pt WO by br
@@ -4933,10 +4940,11 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc 21740 -28269 F127 L0 P255
+loc 23240 -25981 F127 L0 P72 0 55 0
+txt 24050 -25936 F127 R0 %d =
 Pt WO Houston cnr N bnk crk
 Ln s28e; 145p; 
 Pt pine nr crk
@@ -4961,10 +4969,10 @@ Pt PO
 Ln ;; to beg
 End
 ! -- n ------ watercourse ------ last, first
-TYP Grant
+TYP NC Grant
 ID Rowan-1158
 ENTRY: 
-GrantNo: 
+WarrantNo: 1935
 EntDat: 
 WarDat: 
 SurDat: 1783/03/06
@@ -4975,22 +4983,23 @@ Wat: Hunting Creek Long Branch
 Ref 51:147
 ! -- abstract --
 ! 
+WarrantAbs: State of North Carolina Count of Rowan No. 1935 survey for John Maiden 640 acres on the long branch near the South side of Hunting Creek joining the West side of Andrew Mitchell's land and on the North side of an entry made by Isaac Loveless and running up both sides of the said Long Branch including Luke Loveless's improvement ... 31st March 1779.
 Rec 
 Re 640A HC LgBr
 SCC: 
-Adj 
-Dat 
+Adj Andrew Mitchell, Isaac Loveless
+Dat 1783
 PRESENT: 
 ALTSPELL: 
 FOLLOWUP: 
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc 19871 -23656 F127 L0 P255
-txt 19371 -25871 F127 R0 %d =
+loc 21208 -21281 F127 L0 P72 0 55 0
+txt 20708 -23496 F127 R0 %d =
 Pt fkBO nr br
 Ln n70e; 150p; 
 Pt BO And.Mitchell cnr
@@ -5033,10 +5042,10 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc 19677 -29968 F127 L0 P255
+loc 21327 -27692 F127 L0 P72 0 55 0
 Pt lnPO Arc.McConnell ln
 Ln s40e; 80p; 
 Pt smPO hill
@@ -5074,10 +5083,11 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc 25303 -23888 F127 L0 P255
+loc 26540 -21750 F127 L0 P72 0 55 0
+txt 23725 -23058 F127 R0 %d =
 Pt WO
 Ln n; 65c; 
 Pt PO
@@ -5113,7 +5123,7 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
 loc 21721 -4657 F127 L0 P255
@@ -5159,10 +5169,11 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc 18758 -5126 F127 L0 P255
+loc 18758 -5126 F127 L0 P72 0 49 0
+txt 17180 -6033 F127 R0 %d =
 Pt pine Rosebrough cnr Jac.Nichols ln
 Ln w; 54c; 
 Pt BO Nichols cnr
@@ -5198,7 +5209,7 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
 loc 20871 -9933 F127 L0 P255
@@ -5239,7 +5250,7 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
 loc 18107 -7970 F127 L0 P255
@@ -5283,7 +5294,7 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
 loc 19958 -10520 F127 L0 P255
@@ -5301,9 +5312,9 @@ Ln ;; his ln to beg
 End
 ! -- n ------ watercourse ------ last, first
 TYP Grant
-ID Rowan-2144
+ID Rowan-2199
 ENTRY: 
-GrantNo: 1414
+WarrantNo: 2385
 EntDat: 
 WarDat: 1780/06/24
 SurDat: 
@@ -5325,10 +5336,10 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc 17490 -22526 F127 L0 P255
+loc 17490 -22526 F127 L0 P72 0 55 0
 txt 15226 -23587 F127 R0 %d =
 Pt pine Jno.Nichols cnr
 Ln e; 25c; his ln
@@ -5369,10 +5380,10 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc 19120 -23982 F127 L0 P255
+loc 19120 -23982 F127 L0 P72 0 55 0
 txt 17898 -23231 F127 R0 %d =
 Pt pine Jno.Maiden ln
 Ln w; 40c; 
@@ -5409,11 +5420,11 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc 18965 -33438 F127 L0 P255
-txt 15159 -31591 F127 R0 %d =
+loc 20527 -31325 F127 L0 P72 0 55 0
+txt 16046 -30028 F127 R0 %d =
 Pt fkWO crk bnk McConnell cnr
 Ln s45w; 340p; 
 Pt xO
@@ -5457,11 +5468,11 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc 20552 -27632 F127 L0 P255
-txt 19087 -27437 F127 R0 %d =
+loc 22114 -25207 F127 L0 P255
+txt 20649 -25012 F127 R0 %d =
 Pt PO Is.Holman cnr
 Ln s22w; 10c; 
 Pt pine Maiden ln
@@ -5475,7 +5486,7 @@ End
 TYP Grant
 ID Rowan-1128
 ENTRY: 
-GrantNo: 
+WarrantNo: 0716
 EntDat: 
 WarDat: 1778/08/16
 SurDat: 1779/04/29
@@ -5490,14 +5501,14 @@ Rec
 Re 43A DC
 SCC: Richard Graham, Archibald McConnal
 Adj 
-Dat 
+Dat 1783
 PRESENT: 
 ALTSPELL: 
 FOLLOWUP: 
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
 loc 21333 -8915 F127 L0 P255
@@ -5579,10 +5590,10 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc 3253 -3096 F127 L0 P73 0 51 0
+loc 3253 -3096 F127 L0 P73 0 27 0
 txt 1114 -1135 F127 R0 %d =
 Pt PO bnk rvr Hu.Hall cnr
 Ln s; 62c; Hu.Hall
@@ -5628,7 +5639,7 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
 loc 9908 -4489 F127 L0 P255
@@ -5683,10 +5694,10 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc 8140 -2534 F127 L0 P73 0 51 0
+loc 8140 -2534 F127 L0 P73 0 27 0
 Pt WO on rvr
 Ln s; 50c; 
 Pt BOsap
@@ -5725,11 +5736,11 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc 1721 -34832 F127 L0 P255
-txt 1820 -34085 F127 R0 %d =
+loc -11897 -30769 F127 L0 P255
+txt -11798 -30022 F127 R0 %d =
 Pt PO N sd crk Bakers ln
 Ln e; 100p; 
 Pt PO
@@ -5768,11 +5779,11 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc 1658 -34857 F127 L0 P255
-txt -263 -34141 F127 R0 %d =
+loc -11929 -30819 F127 L0 P255
+txt -13462 -30115 F127 R0 %d =
 Pt PO N sd crk Willisons beg cnr
 Ln w; 240p; 
 Pt PO
@@ -5811,11 +5822,11 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc 2871 -33369 F127 L0 P255
-txt 4183 -34203 F127 R0 %d =
+loc -10890 -30805 F127 L0 P73 0 51 0
+txt -9578 -31639 F127 R0 %d =
 Pt WO by br Geo.Mattison ln
 Ln e; 400p; 
 Pt pine
@@ -5854,10 +5865,10 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc -17366 -16483 F127 L0 P255
+loc -26115 -32333 F127 L0 P255
 Pt 2Pop N bnk crk mth br Jas.King cnr
 Ln e; 174p; 
 Pt BOsap
@@ -5900,11 +5911,11 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc -14584 -17045 F127 L0 P255
-txt -13589 -16309 F127 R0 %d =
+loc -23583 -33007 F127 L0 P255
+txt -22588 -32271 F127 R0 %d =
 Pt PO N bnk crk
 Ln n60e; 108p; Cooke
 Pt pine high hill
@@ -5954,7 +5965,7 @@ TRANSFERS:
 ! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc -10184 -20501 F127 L0 P255
+loc -18884 -36176 F127 L0 P255
 Pt ChO side mtns 34p N of Coles cnr
 Ln s; 344p; 
 Pt PO Coles 2nd cnr
@@ -6007,7 +6018,7 @@ TRANSFERS:
 ! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc -10196 -20125 F127 L0 P255
+loc -18895 -35825 F127 L0 P255
 Pt PO Whitehead ln side mtn
 Ln s; 310p; 
 Pt PO on hillsd
@@ -6050,10 +6061,10 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc -12003 -21014 F127 L0 P255
+loc -20714 -36738 F127 L0 P255
 Pt PO spur mtn Whitehead cnr
 Ln s; 192p; 
 Pt BO
@@ -6094,10 +6105,10 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc -14084 -20338 F127 L0 P255
+loc -23433 -35750 F127 L0 P255
 Pt BO spur mtn Redman 4th cnr
 Ln n43e; 160p; Redman
 Pt pine on mtn
@@ -6136,11 +6147,11 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc 10736 -19503 F127 L0 P255
-txt 7047 -26780 F127 R0 %d =
+loc 10711 -19803 F127 L0 P72 0 48 0
+txt 7022 -27080 F127 R0 %d =
 Pt BO Jno.McConnell cnr Rimington ln
 Ln e; 62p; 
 Pt RO McConnell cnr
@@ -6182,17 +6193,19 @@ End
 TYP Grant
 Id Rowan-2238
 ENTRY: 
-GrantNo: 1453
-EntDat: 1778-11-28
-WarDat: 
+GrantNo: 
+EntDat: 
+WarDat: 1778-11-28
 SurDat: 1786-03-10
 IssDat: 1787-08-09
-Frm 
-To John Hay (Easley)
+Frm NC
+To John Booker Hay 
+Assignee: Daniel Easley
 Wat: Rocky Creek North Side
 Ref 
 ! -- abstract --
 ! 
+WarrantAbs: State of North Carolina No. 1439 County of Rowan survey for Daniel Easly 300 acres on Rocky Creek begining below Nathaniel Winn's running up the North side of said creek for complement ... 28th November 1778
 Rec 
 Re 300A RC
 SCC: 
@@ -6204,10 +6217,11 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
-lbl %to\%dat\File# %Id\%Re
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to (%Assignee:)\%dat\File# %Id\%Re
 ! Metes and bounds
-loc -831 -34021 F127 L0 P255
+loc -12260 -30481 F127 L0 P73 0 51 0
+txt -11627 -31875 F127 R0 %d =
 Pt PO N bnk crk Re.Baker ln
 Ln n; 100p; 
 Pt PO his cnr
@@ -6251,7 +6265,7 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
 loc 5373 -24255 F127 L0 P255
@@ -6296,10 +6310,10 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc 4727 -3058 F127 L0 P73 0 51 0
+loc 4727 -3058 F127 L0 P73 0 27 0
 Pt stk bnk S.Yadkin
 Ln s; 240p; est.
 Pt his old ln
@@ -6335,10 +6349,10 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc -13859 -1183 F1 L0 P73 0 51 0
+loc -13859 -1183 F1 L0 P73 0 27 0
 txt -13375 -3023 F1 R0 %d =
 Pt BO N bnk rvr Adam.Simonton cnr
 Ln n; 150p; 
@@ -6383,11 +6397,11 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc -14653 -7165 F1 L0 P73 0 51 0
-txt -13897 -7855 F1 R0 %d =
+loc -14915 -7215 F1 L0 P73 0 51 0
+txt -14159 -7905 F1 R0 %d =
 Pt lgWO E sd Ormond br
 Ln e; 86p; 
 Pt PO King cnr
@@ -6429,7 +6443,7 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
 loc -8085 -5190 F1 L0 P73 0 51 0
@@ -6488,7 +6502,7 @@ TRANSFERS:
 ! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc -13765 -1215 F1 L0 P73 0 51 0
+loc -13765 -1215 F1 L0 P73 0 27 0
 txt -15446 -1816 F1 R0 %d =
 Pt BO N bnk rvr Jno.Sharpe cnr frd
 Ln n; 150p; 
@@ -6532,8 +6546,8 @@ TRANSFERS:
 ! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc -15434 -7421 F127 L0 P73 0 51 0
-txt -17586 -9096 F127 R0 %d =
+loc -15684 -8196 F127 L0 P73 0 51 0
+txt -17836 -9871 F127 R0 %d =
 Pt BOsap 7pW Jno.Montgomery
 Ln n; 246p; 
 Pt pine
@@ -6585,10 +6599,10 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc 541 -3490 F127 L0 P73 0 51 0
+loc 541 -3490 F127 L0 P73 0 27 0
 Pt BO WO Jos.Kilpatrick cnr SbnkRvr
 Ln s; 60c; Jos.Kilpatrick
 Pt Hic cnr?Wm.Hale?
@@ -6628,10 +6642,10 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc -8060 -626 F127 L0 P73 0 51 0
+loc -8060 -626 F127 L0 P73 0 27 0
 txt -8878 1142 F127 R0 %d =
 Pt PO He.Potts ln
 Ln w; 140p; 
@@ -6680,10 +6694,10 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc -6146 490 F127 L0 P73 0 51 0
+loc -6146 490 F127 L0 P73 0 27 0
 txt -5940 1402 F127 R0 %d =
 Pt BO Wm.Bones cnr
 Ln n; 160p; Wm.Bones
@@ -6732,10 +6746,10 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc -18160 -554 F127 L0 P73 0 51 0
+loc -18160 -554 F127 L0 P73 0 27 0
 Pt PO Jas.Adams ln Mos.Purviance cnr
 Ln s; 218p; Moses
 Pt WO sm br
@@ -6779,10 +6793,10 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc -18310 3658 F127 L0 P255
+loc -18241 3533 F127 L0 P255
 Pt BO J.Guy beg cnr
 Ln s; 340p; 
 Pt Pop by br nr Guy last cnr
@@ -6822,7 +6836,7 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
 loc -20491 1633 F127 L0 P73 0 51 0
@@ -6870,7 +6884,7 @@ TRANSFERS:
 ! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc -18334 3658 F127 L0 P255
+loc -18359 3708 F127 L0 P255
 Pt BO N sd crk
 Ln w; 338p; Eph.Hill
 Pt Dw forks br
@@ -6910,10 +6924,10 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc -11947 -397 F127 L0 P73 0 51 0
+loc -11947 -397 F127 L0 P73 0 27 0
 txt -10964 -912 F127 R0 %d =
 Pt WO fk br Jas.Potts ln
 Ln e; 84p; Jas.Potts
@@ -6969,7 +6983,7 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
 loc -8215 4627 F127 L0 P73 0 51 0
@@ -7052,10 +7066,10 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc -15603 -261 F127 L0 P73 0 51 0
+loc -15603 -261 F127 L0 P73 0 27 0
 Pt BO S sd fk
 Ln s; 236p; 
 Pt BO Jno.Potts ln
@@ -7092,11 +7106,11 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc -19583 -19150 F127 L0 P255
-txt -18456 -18760 F127 R0 %d =
+loc -28320 -34850 F127 L0 P255
+txt -27193 -34460 F127 R0 %d =
 Pt SO nr bld mtn brch
 Ln S; 50p; 
 Pt BO S sd mtn
@@ -7138,10 +7152,10 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc -15684 2116 F127 L0 P73 0 51 0
+loc -15634 2116 F127 L0 P73 0 27 0
 Pt BO his cnr (Ja.Potts)
 Ln s; 150p; 
 Pt PO
@@ -7177,7 +7191,7 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
 loc -12109 4104 F127 L0 P255
@@ -7216,7 +7230,7 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
 loc -10916 3048 F127 L0 P73 0 51 0
@@ -7267,7 +7281,8 @@ TRANSFERS:
 ! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc -19947 -3061 F127 L0 P255
+loc -22896 -4661 F127 L0 P73 0 51 0
+txt -22215 -6013 F127 R0 %d =
 Pt PO Jno.Scroggs NW cnr old srv
 Ln e; 360p; his ln
 Pt pine Jas.Adams cnr
@@ -7307,7 +7322,7 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
 loc -15991 -436 F127 L0 P255
@@ -7346,10 +7361,10 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc -18297 -586 F127 L0 P73 0 51 0
+loc -18297 -586 F127 L0 P73 0 27 0
 Pt PO Jno.Purviance cnr Adams ln
 Ln w; 200p; 
 Pt PO nr lg br Scrogg cnr
@@ -7388,7 +7403,7 @@ TRANSFERS:
 ! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc -20528 1788 F127 L0 P73 0 51 0
+loc -20503 1813 F127 L0 P73 0 27 0
 Pt smBO E cnr Eph.Hill 
 Ln n; 250p; Feimster ln
 Pt POsap by br Feimster cnr
@@ -7428,10 +7443,10 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc 4796 3176 F127 L0 P255
+loc 4558 3301 F127 L0 P255
 Pt Gum glade Jas.Hall ln 20c W NE cnr
 Ln n; 46c; 
 Pt BO 9.5c E Hu.Hall cnr
@@ -7476,7 +7491,7 @@ TRANSFERS:
 ! 2. 385 A, 1769-08-01 Alexander Reed -to- William Bone Sr, wit: Max Chambers, Wm Nessbit Deed7:149
 lbl %to\%dat\File# %Id\%Re\Wm.Bone Sr 1769
 ! Metes and bounds
-loc -2878 -1845 F127 L0 P73 0 51 0
+loc -2878 -1845 F127 L0 P73 0 27 0
 txt -4932 -963 F127 R0 %d =
 Pt BO E sd br
 Ln s; 55c; 
@@ -7516,7 +7531,7 @@ TRANSFERS:
 ! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc -2788 -3993 F127 L0 P73 0 51 0
+loc -2788 -3993 F127 L0 P73 0 27 0
 txt -4807 -3305 F127 R0 %d =
 Pt WOs bnk rvr abv mth Wm.Bone br
 Ln s; 190p; 
@@ -7564,10 +7579,11 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc 1810 -38730 F127 L0 P255
+loc -5114 -33467 F127 L0 P73 0 51 0
+txt -4464 -32716 F127 R0 %d =
 Pt BO Speeks cnr
 Ln s78e; 130p; 
 Pt PO
@@ -7607,10 +7623,10 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc 13192 1567 F127 L0 P255
+loc 12992 1429 F127 L0 P255
 Pt pine
 Ln n; 17c; 
 Pt BO Jno.Baley cnr
@@ -7661,8 +7677,8 @@ TRANSFERS:
 ! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
-loc 15954 -1282 F127 L0 P255
-txt 15984 156 F127 R0 %d =
+loc 15666 -1494 F127 L0 P255
+txt 15696 -56 F127 R0 %d =
 Pt Pers Dav.Begarley cnr
 Ln s; 74c; 
 Pt BO Begarley cnr
@@ -7699,7 +7715,7 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
 loc 19305 -19971 F127 L0 P255
@@ -7738,7 +7754,7 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
 loc -3072 9338 F127 L0 P255
@@ -7777,7 +7793,7 @@ FOLLOWUP:
 PLACES: 
 IMPROVEMENT: 
 TRANSFERS: 
-! 1. n A, dd mmm 17yy State of Kentucky -> first last
+! 1. n A, dd mmm 17yy State of NC -> first last
 lbl %to\%dat\File# %Id\%Re
 ! Metes and bounds
 loc -1092 9339 F127 L0 P255
@@ -7789,4 +7805,5327 @@ Pt c
 Ln e; 200p; 
 Pt d
 Ln s; 200p; 
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-1807
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 1779-10-14
+SurDat: 1786-12-12
+IssDat: 1788-07-11
+Frm NC
+To James Wistlock
+Wat: Main Rocky Creek
+Ref 
+! -- abstract --
+! State of North Carolina No 2274 survey for James Wislock 100 acres on Rockey Creek joining Robert Chambers and John Richardson between the same ... 14 October 1779
+SurveyAbs: on main Rocky Creek above Chambers Mill tract ... Dec 12 1786
+Rec 
+Re 100A
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 237 -27803 F127 L0 P255
+txt -135 -28440 F127 R0 %d =
+Pt WO N bnk crk by mth br
+Ln e; 80p; 
+Pt smPO
+Ln n; 140p; 
+Pt BO
+Ln w; 120p; 
+Pt WO hllw
+Ln s; 140p; x crk
+Pt pine
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-1061
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 1779-11-12
+SurDat: 1780-02-17
+IssDat: 1783-10-10
+Frm NC
+To William Sharpe
+Wat: Rocky Creek South Fork
+Ref 
+! -- abstract --
+! North Carolina No 2774 for William Sharpe 50 acres on the main branch of Rocky Creek including the Trough Shoals ... 12 Nov'r 1779
+Rec 
+Re 50A RC SF
+SCC: John Sharpe, John Smith
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -18906 -14202 F127 L0 P255
+Pt Pop pt hill
+Ln e; 20p; 
+Pt BO
+Ln n; 110p; 
+Pt BO
+Ln w; 80p; 
+Pt WO
+Ln s; 110p; 
+Pt pine
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-1072 
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 1778-11-06
+SurDat: 1782-10-23
+IssDat: 1783-10-10
+Frm NC
+To John Smith
+Wat: Rocky Creek, Bartons Branch
+Ref 
+! -- abstract --
+! State of North Carolina No 1325 survey for John Smith 25 acres on Bartons branch that runs into Rockey Creek on the North side of Bartons Gap 6th November 1778
+SurveyAbs: on a branch of Main Rocky Creek joining Robert Kings upper line ... October 23 1782
+Rec 
+Re 25A RC
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -20035 -17652 F127 L0 P255
+Pt WOsap by br on King
+Ln n; 40p; 
+Pt Hic sap
+Ln w; 70p; 
+Pt WO
+Ln s; 60p; 
+Pt BO
+Ln e; 70p; 
+Pt Ches
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-1075
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 1778-11-06
+SurDat: 1782-10-23
+IssDat: 1783-10-10
+Frm NC
+To John Smith
+Wat: South Yadkin
+Ref 
+! -- abstract --
+! North Carolina No 1327 survey for John Smith 105 acres on the South side of Rockey Creek ridge ... 6th November 1778
+Rec 
+Re 100A SY
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -22082 -17896 F127 L0 P255
+Pt BO Davis ln nr Schl Hs br
+Ln e; 120p; 
+Pt pine his other cnr
+Ln n; 140p; 
+Pt BO
+Ln w; 120p; 
+Pt pine
+Ln ;; McCaffertie to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-0879
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 1779-10-05
+SurDat: 1782-12-13
+IssDat: 1783-10-10
+Frm NC
+To Phillip Williams
+Wat: Rocky Creek, Hunting Creek
+Ref 
+! -- abstract --
+! North Carolina No 2785 survey for Phillip Williams 350 acres on the waters of Rocky Creek and Hunting Creek on the West end of the Grassy Nobb ... 5th October 1779
+SurveyAbs: for Phillip Williams 300 acres of land on the branches of Hunting Creek and Rocky Creek at the West end of the Grassy Nob joining the lines of Daniel Weldon Early, Obadiah Baker and Edward Roberts
+Rec 
+Re 300A RC HC 
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -13795 -35170 F127 L0 P72 0 48 0
+grp 567A4B96
+txt -12046 -35262 F127 R0 %d =
+Pt BO Easely beg cnr
+Ln e; 140p; 
+Pt BO his 2cnr
+Ln n; 120p; 
+Pt Ches nr his SO cnr
+Ln e; 154p; 
+Pt RO
+Ln n; 11p; 
+Pt PO
+Ln e; 100p; 
+Pt PO Obediah ln
+Ln s25w; 76p; 
+Pt Ches his cnr
+Ln s80e; 40p; 
+Pt ChO his othr ln
+Ln s; 20p; 
+Pt stk spur mnt
+Ln s58w; 248p;
+Pt PO on hill
+Ln w; 194p;
+Pt PO
+Ln ;; N to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-1123
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 1779-06-30
+SurDat: 1780-02-17
+IssDat: 1783-10-10
+Frm NC
+To William Sharpe
+Wat: Rocky Creek
+Ref 
+! -- abstract --
+! State of North Carolina No. 2775 survey for William Sharpe 100 acres on the main Rockey Creek joining above his other entry ... 30th Jun 1779
+Rec 
+Re 100A RC
+SCC: John Sharpe, John Smith
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -20125 -16059 F127 L0 P255
+Pt lgWO N bnk crk his othr ln
+Ln n; 40p; 
+Pt BOsap
+Ln w; 90p; 
+Pt WO
+Ln s; 180p; 
+Pt WO
+Ln e; 90p; 
+Pt Ches
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-1564
+ENTRY: 
+GrantNo: 1915
+EntDat: 1779-04-02
+WarDat: 1779-04-02
+SurDat: 1783-12-20
+IssDat: 1784-11-04
+Frm NC
+To Moses Parris
+Wat: Rocky Creek Main
+Ref 
+! -- abstract --
+! North Carolina No 1915 survey for Moses Pariss 250 acres on Rocky Creek including his own improvement and the improvement whereon his son Ezekial Pariss now lives ... 2nd April 1779
+SurveyAbs: Moses Paris entered 250 acres of land on April 2d 1779 and has obtained a warrant No 1915 therefore surveyed for Moses Paris 250 acres of land on main Rocky Creek joining above John Shoemaker
+Rec 
+Re 250A RC
+SCC: 
+Adj John Shoemaker, Ezekial Paris
+Dat 1784
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -18705 -27383 F127 L0 P255
+txt -19593 -29460 F127 R0 %d =
+Pt RO Shoemaker cnr
+Ln s84w; 120p; Pet.Eaton
+Pt Ches on mtn
+Ln n; 335p; 
+Pt PO
+Ln e; 210p; 
+Pt PO
+Ln s; 80p; 
+Pt PO abv Ez.Paris cabin on Shoemaker ln
+Ln s40w; 130p; 
+Pt BO nr crk
+Ln ;; Shoemaker S to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-2128
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 1779-01-27
+SurDat: 1784-07-28
+IssDat: 1786-10-25
+Frm NC
+To Nathaniel Hartness
+Assignee: William Jolley
+Wat: Rocky Creek
+Ref 
+! -- abstract --
+! 
+WarrantAbs: State of North Carolina No. 1707 County of Rowan survey for William Jolley 150 acres on the North side of the Timber ridge where the path crosses the ridge from Alexander McCurdy's to Rocky Creek ... 27th January 1779
+Rec 
+Re 150A RC
+SCC: 
+Adj Peter Keton
+Dat 1786
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -17712 -26858 F127 L0 P73 0 51 0
+txt -18643 -25393 F127 R0 %d =
+Pt ches Keton ln 34p fr BJ cnr
+Ln s41w; 160p; same ln
+Pt SO
+Ln s5w; 160p; 
+Pt BO
+Ln n62e; 250p; S side Mtn
+Pt stk
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-2136
+ENTRY: 
+GrantNo: 1808
+EntDat: 
+WarDat: 1779-03-07
+SurDat: 1784-07-28
+IssDat: 1786-10-25
+Frm NC
+To Peter Keton
+Assignee: Joseph Millsaps
+Wat: Rocky Creek
+Ref 
+! -- abstract --
+! North Carolina No. 1808 survey for Joseph Millsaps 200 acres on the waters of Rocky Creek joining Moses Pearis's entry including his improvement ... 7th March 1779 ... For and in consideration of ten pounds to me in hand paid by Peter Keton I do by these presents make over all my claim and demand to the two hundred acres of land within mentioned Witness my hand this 28th July 1784 Joseph Milsaps his J mark Test Wm Sharpe
+SurveyAbs: surveyed for Peter Keton 200 acres on branches of main Rocky Creek joining the lines of Shoemaker, Parris and Hartness
+Rec 
+Re 200A RC
+SCC: 
+Adj 
+Dat 1786
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -18400 -27282 F127 L0 P73 0 51 0
+txt -19722 -26501 F127 R0 %d =
+Pt BO Parris beg cnr
+Ln s28e; 80p; 
+Pt BJ
+Ln s41w; 114p; Hartness
+Pt BO
+Ln s80w; 165p; 
+Pt Ches on mtn
+Ln n12e; 185p; 
+Pt Ches
+Ln ;; Parris to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-2268
+ENTRY: 
+GrantNo: 729
+EntDat: 
+WarDat: 
+SurDat: 
+IssDat: 1787-08-09
+Frm NC
+To John Kinkead Dornbush
+Wat: Rocky Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 200A RC
+SCC: 
+Adj 
+Dat 1787
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -8899 -23646 F127 L0 P255
+Pt 
+Ln ; p; 
+Pt 
+Ln ; p; 
+Pt 
+Ln ; p; 
+Pt 
+Ln ; p; 
+Pt 
+Ln ; p; 
+Pt 
+Ln ; p; 
+Pt 
+Ln ; p; 
+Pt 
+Ln ; p; 
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-2478
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 1778-08-13
+SurDat: 1783-03-31
+IssDat: 1789-05-18
+Frm NC
+To Moses Hale
+Wat: South Yadkin
+Ref 
+! -- abstract --
+! State of North Carolina No. 800 ... surveyfor Moses Hale 425 acres on the South side of the Yadkin joining his deeded land, William Bone and an old conditional line made by Andrew Killpatrick and McDonel on the South side of the Yadkin ... 13 August 1778
+Rec 
+Re 425A SY
+SCC: Andrew Killpatrick, Joseph Killpatrick
+Adj 
+Dat 1789
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 549 -1065 F127 L0 P73 0 27 0
+Pt Hic cnr A.Killpatrick ln J.Killpatrick
+Ln s; 60c; Killpatrick
+Pt PO Killpatrick cnr
+Ln w; 53c; 
+Pt stk
+Ln n; 8c; 
+Pt BO
+Ln w; 20c; 
+Pt stk
+Ln n; 52c; 
+Pt stk
+Ln ;; E to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-1831
+ENTRY: 
+GrantNo: 320
+EntDat: 
+WarDat: 1778-05-11
+SurDat: 1787-02-23
+IssDat: 1788-07-11
+Frm NC
+To Alexander Witherspoon
+Wat: South Yadkin
+Ref 
+! -- abstract --
+! 
+WarrantAbs: State of North Carolina No. 320 survey for Alexander Witherspoon 430 acres on the South Yadkin river bounded by the river on the North John Scroogs entry on the South, John Scroggs Sen'r deeded land on the East vacant on the West ... 11th May 1778
+Rec 
+Re 430A SY
+SCC: 
+Adj 
+Dat 1788
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -21438 -659 F127 L0 P73 0 27 0
+txt -23252 -1483 F127 R0 %d =
+Pt SO Scroggs corner by sm br
+Ln w; 30p; 
+Pt WO ridge
+Ln s65w; 250p; 
+Pt WOfk young Scroggs cnr
+Ln n; 340p; 
+Pt pine
+Ln e; 260p; 
+Pt S bnk rvr x Scrogg ln
+Ln ;; Scroggs to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-2405
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 1779-09-10
+SurDat: 1786-11-26
+IssDat: 1787-08-09
+Frm NC
+To Charles McDonnell
+Assignee: William Sloan
+Wat: South Yadkin, Fourth Creek
+Ref 
+! -- abstract --
+! 
+WarrantAbs: State of North Carolina No. 2228 survey William Sloan 300 acres on the waters of Fourth Creek and the South River. Joining James Potts, John Purviance, James Hall, William Potts and Ephraim Hill ... 10th September 1779
+SurveyAbs: surveyed for Charles McDonnald 190 acres of land on the ridge between Fourth Creek and the South Yadkin
+Rec 
+Re 190A SY
+SCC: 
+Adj 
+Dat 1787
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> Charles McDonnell
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -16444 2828 F127 L0 P73 0 27 0
+Pt WO Wm.Potts 2nd cnr
+Ln e; 80p; 
+Pt BO Jas.Potts cnr
+Ln n; 148p; Jas.Potts
+Pt PO
+Ln w; 54p; Purviance
+Pt WO
+Ln s; 34p;
+Pt WO
+Ln w; 198p;
+Pt WO Purviance 2nd cnr
+Ln s; 115p; Eph.Hill
+Pt stk Jas.Hill ln
+Ln ;; same to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-2405 (2406?)
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 1785-11-26
+IssDat: 1787-08-09
+Frm NC
+To David Beall
+Wat: Fifth Creek
+Ref 
+! -- abstract --
+! 
+WarrantAbs: State of North Carolina No. 1863 survey for David Beall 250 acres on the waters of Fifth Creek on the North side of the widow Rossbrough and Andrew Reeds deeded lands, joining the widow Bell his own and James Halls lines and perhaps Bealy's lines ... 1st April 1779
+Rec 
+Re 219A 5thC
+SCC: Evan beall, Zadock Beall
+Adj 
+Dat 1787
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 15624 1484 F127 L0 P255
+txt 14253 1992 F127 R0 %d =
+Pt BO Dav.Begerly cnr
+Ln s55e; 40c; Ev.Beall
+Pt PO Thos.Beall ln
+Ln s; 10c; Thos.Beall
+Pt Hic Beall
+Ln w; 25.5c; 
+Pt PO Jas.Beall cnr
+Ln s; 27c; 
+Pt BO Jno.Rosebrough ln
+Ln w; 4.5c; 
+Pt pine stmp And.?
+Ln n; 37c; 
+Pt PO Reed cnr
+Ln w; 69c; 
+Pt PO Reed cnr
+Ln n; 23c; 
+Pt pine Begerly cnr
+Ln ;; E to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-1832
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 1779-01-27
+SurDat: 1787-02-23
+IssDat: 1788-07-11
+Frm NC
+To James Milligan
+Wat: South Yadkin
+Ref 
+! -- abstract --
+! 
+WarrantAbs: State of North Carolina No. 1673 survey for James Milligan 640 acres on the South Yadkin with an improvement of about 16 acres, bounded on James Huston on the North West, John Wetherspoons on the SouthWest ... 27th January 1779
+Rec 
+Re 600A SY
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -23948 -3096 F127 L0 P73 0 27 0
+txt -25935 -2823 F127 R0 %d =
+Pt pine Al.Witherspoon cnr
+Ln n62w; 46p; xRvr
+Pt WO nr mth lg br Hill cnr
+Ln n35w; 54p; 
+Pt PO
+Ln n10e; 32p; 
+Pt BO
+Ln w; 176p; 
+Pt BO
+Ln s23w; 68p; xRvr at mth br
+Pt PO
+Ln s; 66p; 
+Pt pine
+Ln s38w; 94p;
+Pt PO
+Ln s75e; 60p; 
+Pt BO
+Ln s; 16p; 
+Pt smBO Ferg.Milligan ln
+Ln e; 135p; Milligan
+Pt WO his cnr
+Ln s; 320p; 
+Pt stk
+Ln e; 125p; 
+Pt stk
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-1758
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 1779-11-04
+SurDat: 1787-02-24
+IssDat: 
+Frm NC
+To Abraham Hill
+Assignee: Robert Hill
+Wat: South Yadkin
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 200A
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -27541 -7409 F127 L0 P73 0 51 0
+txt -25921 -6165 F127 R0 %d =
+Pt BO Huston cnr
+Ln n45e; 120p; 
+Pt pine Rob.Hill cnr
+Ln s45e; 420p; Rob.Hill
+Pt stk Witherspoon ln
+Ln s; 210p; (estim) to beg
+Pt pine Witherspoon + Milligan
+Ln n62w; 46p; 
+Pt WO by mth lg br
+Ln n35w; 54p; 
+Pt PO
+Ln n10e; 32p; 
+Pt BO by br Houstin cnr
+Lm ;; up meanders
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-1763
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 1778-05-12
+SurDat: 1787-02-24
+IssDat: 1788-07-10
+Frm NC
+To Robert Hill
+Wat: South Yadkin
+Ref 
+! -- abstract --
+! 
+WarrantAbs: State of North Carolina No. 373 survey for Robert Hill 400 acres on the North side of the South Yadkin bounded on the East by Archibald Wason, on the North vacant land, on the West by James Huston and on the South by Alexander Weatherspoon ... 12th May 1778
+Rec 
+Re 400A
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -23204 -5046 F127 L0 P73 0 51 0
+txt -25025 -7007 F127 R0 %d =
+Pt Brch Scoggs old ln N bnk rvr
+Ln n; 305p; 
+Pt pine
+Ln w; 380p; 
+Pt pine
+Ln s45e; 420p; Ab.Hill
+Pt stk Witherspoon ln
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-1855
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 1778-07-29
+SurDat: 1787-03-09
+IssDat: 1788-07-11
+Frm NC
+To James Houston
+Wat: South Yadkin
+Ref 
+! -- abstract --
+! 
+WarrantAbs: State of North Carolina No. 547 survey for James Huston 400 acres lying and bing on both sides of the South River on little Shoals, including an improvement ... 29th July 1778
+Rec 
+Re 400A SY
+SCC: 
+Adj 
+Dat 1788
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: Little Shoals
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -30829 -2577 F127 L0 P73 0 27 0
+Pt PO
+Ln n; 232p; xRvr
+Pt 
+Ln e; 160p; 
+Pt smWO
+Ln s; 60p; 
+Pt pine bnk rvr
+Lm s64e; 220p; Rvr
+Pt stk bnk Rvr
+Ln s; 100p; 
+Pt smBO Fer.Milligan cnr
+Ln w; 120p; Fer.Milligan
+Pt BO
+Ln n; 20p; F.Milligan xBr
+Pt pine
+Ln w; 214p; sd ln to beg 24p W ln
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-1780
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 1780-05-10
+SurDat: 1787-06-13
+IssDat: 1788-07-11
+Frm NC
+To James Huston
+Wat: South Yadkin
+Ref 
+! -- abstract --
+! 
+WarrantAbs: State of North Carolina No. 1469 survey for James Houston 640 acres on the South Yadkin on both sides of the same on a big branch called the Mulberry branch on a conditional line between Robert Hill and said Houston ... 10th May 1780
+Rec 
+Re 300A
+SCC: 
+Adj 
+Dat 1788
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> James Huston
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -26223 -4702 F127 L0 P255
+txt -28020 -4179 F127 R0 %d =
+Pt BO
+Ln w; 260p; 
+Pt PO
+Ln n; 20p; 
+Pt WO
+Ln w; 40p; 
+Pt Ches
+Ln s; 65p; his other srvy
+Pt pine RvrBnk
+Lm s64e; 220p; dwn rvr
+Pt pt due N beg cnr Fer.Milligan320A
+Ln s; 100p; ?
+Pt stk Jas.Milligan ln
+Ln n38e; 60p; Milligan
+Pt 
+Ln n; 66p; Milligan
+Pt 
+Ln n23e; 68p; ?
+Pt BO Jas.Milligan cnr
+Ln e; 176p; 
+Pt  BO by lg br Ab.Hill cnr
+lm ;; up br to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-1770
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 1779-01-24
+SurDat: 1787-03-08
+IssDat: 1788-07-11
+Frm NC
+To Fergus Milligan
+Wat: South Yadkin
+Ref 
+! -- abstract --
+! 
+WarrantAbs: State of No. Carolina No 1672 survey for Fergus Milligan 320 acres with about 12 acres of an improvement on a branch of the South Yadkin on the South side not bounding any ... 24th January 1779 
+Rec 
+Re 320A SY
+SCC: David Milligan, John Huston
+Adj 
+Dat 1788
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -27292 -2321 F127 L0 P73 0 27 0
+txt -29461 -1513 F127 R0 %d =
+Pt smBO Jas.Huston cnr
+Ln w; 120p; Huston
+Pt BO
+Ln n; 20p; Huston
+Pt pine
+Ln w; 194p; Huston
+Pt PO Huston ln
+Ln s; 171p; 
+Pt stk
+Ln e; 314p; 
+Pt stk
+Ln n; 151p; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Iredell-0142
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 
+IssDat: 1795-05-11
+Frm NC
+To David Caldwell
+Wat: South Yadkin
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 7857A SY
+SCC: 
+Adj 
+Dat 1795
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -33592 -4434 F127 L0 P73 0 51 0
+txt -25425 -10285 F127 R0 %d =
+Pt 
+Ln n; 320p; 
+Pt 
+Ln e; 580p; 
+Pt 
+Ln n45e; 120p; 
+Pt 
+Ln e; 380p; 
+Pt 
+Ln s; 40p; 
+Pt 
+Ln e; 260p; 
+Pt 
+Ln n; 40p; 
+Pt 
+Ln w; 160p; 
+Pt 
+Ln n; 374p; 
+Pt 
+Ln n85w; 180p; 
+Pt 
+Ln n; 250p; 
+Pt 
+Ln w; 80p; 
+Pt 
+Ln s; 80p; 
+Pt 
+Ln e; 30p; 
+Pt 
+Ln s; 106p; 
+Pt 
+Ln w; 220p; 
+Pt 
+Ln s; 262p; 
+Pt 
+Ln w; 160p; 
+Pt 
+Ln n; 200p; 
+Pt 
+Ln w; 240p; 
+Pt 
+Ln s; 100p; 
+Pt 
+Ln w; 104p; 
+Pt 
+Ln s; 80p; 
+Pt 
+Ln w; 130p; 
+Pt 
+Ln s; 190p; 
+Pt 
+Ln w; 84p; 
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Iredell-0101
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 1778-06-17
+SurDat: 1793-06-07
+IssDat: 1794-07-07
+Frm NC
+To Archibald Sloan
+Assignee: John Sloan
+Wat: Snow Creek
+Ref 
+! -- abstract --
+! 
+WarrantAbs: State of North Carolina Rowan No. 603 survey for John Sloan 400 acres on both side of Snow Creek beginning at the No West of a former survey for David Orman dec'd thence East to said Ormons NE corner thence South to Orman SE cnr thence the same to Capt Morrisons ln thence East to a large branch joining John Mongomery thence No into vacant land thence West ? far as to cross James Rodgers Creek and to be ? ... 17th June 1778
+Rec 
+Re 400A Snow
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -16948 -10790 F127 L0 P73 0 51 0
+txt -19068 -12112 F127 R0 %d =
+Pt WOsap Ormond ln nr lgBr
+Ln w; 280p; Ormond xSnowCrk WO
+Pt ChesHic stnyHill
+Ln w; 40p; 
+Pt pine
+Ln n; 200p; x Rodgers crk
+Pt BO
+Ln e; 320p; xSnowCrk shoal
+Pt BOsap
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Iredell-0077
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 1778-06-25
+SurDat: 
+IssDat: 1794-07-07
+Frm NC
+To John Sloan
+Wat: Snow Creek
+Ref 
+! -- abstract --
+! 
+WarrantAbs: State of North Carolina No. 648 Rowan survey for John Slone 400 acres on both sides of a small branch running into Snow Creek begining at the SE cnr of David Orman running South to Patrick Morrison ln thence ? to said Morrisons NW cnr thence South 60p to the conditional line with Joseph Wasson in Morrisons West line thence along said conditional line thence North through vacant lands thence East ? opposite to Ormand Nw cnr thence S to the said corner thence along said Ormonds West and South line to the beginning including all his improvement on the West side of Snow Creek ... 25th Jun 1778
+Rec 
+Re 400A Snow
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -19310 -10946 F127 L0 P73 0 51 0
+txt -21095 -9574 F127 R0 %d =
+Pt WO mth glly byCrk Ormond cnr
+Ln s; 60p; 
+Pt BO
+Ln w; 11p; 
+Pt PO
+Ln s; 8p; 
+Pt PO
+Ln w; 11p; 
+Pt WO
+Ln s; 8p; 
+Pt Map clust
+Ln w; 40p; xCrk
+Pt PO
+Ln s; 120p; 
+Pt Hic old fld
+Ln e; 14p; 
+Pt Pop
+Ln s; 59p; 
+Pt PO
+Ln e; 100p; 
+Pt pine Jas.King cnr
+Ln s; 80p; 
+Pt PO Wasson cnr
+Ln w; 260p; 
+Pt pine
+Ln n; 350p; 
+Pt pine
+Ln ;; E Arch.Sloan to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Iredell-0611
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 1809-10-28
+IssDat: 1809-12-06
+Frm NC
+To Joseph Sharpe
+Wat: Rocky Creek, Hunting Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 2255A
+SCC: Thomas Sloan, Eli Bagwell
+Adj 
+Dat 1809
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: Wilkes County Line
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -29866 -40259 F127 L0 P72 0 48 0
+txt -28872 -38275 F127 R0 %d =
+Pt beg stk Th.Cook cnr Wilkes ln
+Ln s; 100p; Th.Cook
+Pt stk ? cnr
+Ln w; 130p; 
+Pt stk his cnr
+Ln s; 55p; 
+Pt WO
+Ln n80w; 300p; 
+Pt Loc Stanlies ln
+Ln s; 43p; 
+Pt pine Guys/Gays ln
+Ln e; 13p; 
+Pt WO his cnr
+Ln s; 176p; 
+Pt stk Jas.Qu?ing ln
+Ln e; 110p; 
+Pt Ches his cnr
+Ln s; 100p; 
+Pt pine Francis Qu? old cnr
+Ln e; 430p; 
+Pt Ches his cnr
+Ln s; 200p; 
+Pt stk sd ln widow Cook cnr
+Ln e; 53p; Cook
+Pt stk her other cnr
+Ln n; 170p; her ln
+Pt lgPine her cnr
+Ln e; 120p; her ln
+Pt stk Whitehead cnr
+Ln n; 80p; Whitehead
+Pt WO his cnr
+Ln e; 110p; 
+Pt pine his other cnr
+Ln n; 100p; 
+Pt Ches
+Ln n70e; 92p; 
+Pt Hic
+Ln n; 50p; 
+Pt BO Johnston cnr
+Ln s70e; 270p; 
+Pt pine his cnr
+Ln n; 60p; 
+Pt pine Lackey ln
+Ln w; 4p; 
+Pt 
+Ln n26w; 120p; 
+Pt 
+Ln n; 222p; 
+Pt 
+Ln ; p; 
+Pt 
+Ln ; p; 
+Pt 
+Ln ; p; 
+Pt 
+Ln ; p; 
+Pt 
+Ln ; p; 
+Pt 
+Ln ; p; 
+Pt 
+Ln ; p; 
+Pt 
+Ln ; p; 
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-2427
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 1785-03-07
+IssDat: 
+Frm NC
+To David Woodson
+Wat: Rocky Creek, Hunting Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 1668A RC HC
+SCC: Humphry Roberts, William Jolly
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -18267 -38133 F127 L0 P72 0 48 0
+txt -17708 -32523 F127 R0 %d =
+Pt Hic Jno.Kemp cnr
+Ln s; 6.5c; Kemp
+Pt Ches
+Ln e; 7.25c; 
+Pt ches
+Ln n45e; 12.5; 
+Pt ches
+Ln e; 25c; 
+Pt ches
+Ln s; 4c; 
+Pt ches
+Ln e; 7c; 
+Pt ches
+Ln n; 14c; 
+Pt po
+Ln e; 1.75c; 
+Pt RO
+Ln n; 20c; 
+Pt RO
+Ln e; 22c; 
+Pt BO Jno.Filps cnr
+Ln s; 131c; Filps, Sam.Williams, Th.Pinkston
+Pt stk Pinkston cnr
+Ln e; 37.5c; Pinkston
+Pt stk his cnr
+Ln s; 90c; 
+Pt smBO Woodson ln
+Ln w; 54c; Woodson
+Pt pine
+Ln n; 10c; 
+Pt PO
+Ln w; 70c; 
+Pt PO Wm.P.Turner ln
+Ln n; 26c; Wm.P.Turner
+Pt stk Job.Cole ln
+Ln e; 7.75c; Job.Cole
+Pt BO Ches Cole cnr
+Ln n; 35c; Cole
+Pt stk Hump.Roberts ln
+Ln e; 34c; H.Roberts
+Pt BO
+Ln n; 33c; 
+Pt BO
+Ln w; 9.5c; 
+Pt BO
+Ln n; 44.5c; 
+Pt stk stone top mtn
+Ln w; 48c; 
+Pt stk
+Ln n; 66c; 
+Pt stk Jno.Kemp ln
+Ln ;; to beg Kemp
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-1749
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 1778-09-17
+SurDat: 1785-03-07
+IssDat: 1788-07-11
+Frm NC
+To William Pinkston Turner
+Wat: Rocky Creek
+Ref 
+! -- abstract --
+! 
+WarrantAbs: State of North Carolina county of Rowan No. 935 survey for William Turner 320 acres on the waters of Rocky Creek between John Jolly and Moses Pearis upon a creek called Mill's Creek, including an improvement made by Bazel Pinkston ... 17th September 1778
+Rec 
+Re 295A RC
+SCC: 
+Adj 
+Dat 1788
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -20278 -32595 F127 L0 P255
+txt -20221 -31556 F127 R0 %d =
+Pt 2smMap Wsd rn Jno.Jolly Laz.Whitehead cnr
+Ln s25w; 53c; Jolly
+Pt smPO
+Ln e; 72c; 
+Pt stk
+Ln n; 48c; 
+Pt stk Job.Cole ln
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-0881
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 1778-05-18
+SurDat: 1782-12-13
+IssDat: 1788-10-11
+Frm NC
+To Obediah Baker
+Wat: Hunting Creek
+Ref 
+! -- abstract --
+! 
+WarrantAbs: State of North Carolina No. 440 County of Rowan survey for Obadiah Baker (James King crossed out) 200 acres on the North side of the dividing ridge between Snow Creek on the South Yadkin and Rocky Creek joining his own lands on the North side of the Yadkin ... 18th May 1778
+Rec 
+Re 200A HC
+SCC: 
+Adj 
+Dat 1788
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -8048 -35008 F127 L0 P72 0 55 0
+grp 567A4B96
+txt -9214 -35877 F127 R0 %d =
+Pt Hic E spur mtn Sylvester cnr
+Ln n80w; 220p; alng rdg mtn
+Pt ches Williams cnr
+Ln n25e; 154p; 
+Pt pine
+Ln s80e; 220p; 
+Pt PO
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-0926
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 1779-06-21
+SurDat: 1782-12-09
+IssDat: 1783-10-10
+Frm NC
+To Charles Jolly
+Wat: Hunting Creek
+Ref 
+! -- abstract --
+! 
+WarrantAbs: State of North Carolina No. 1652 County of Rowan survey for Charles Jolly 200 acres on Brush Creek waters of Hunting Creek joining Daniel Easlys land ... 21st June 1779
+Rec 
+Re 200A HC
+SCC: 
+Adj 
+Dat 1783
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> Charles Jolly
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -12817 -36471 F127 L0 P72 0 55 0
+grp 567A4B96
+txt -13563 -37358 F127 R0 %d =
+Pt ches nr sm br Easly cnr
+Ln s73e; 52p; Easly
+Pt SOsap his othr cnr
+Ln n; 214p; 
+Pt BO
+Ln w; 160p; 
+Pt BO
+Ln s; 210p; 
+Pt stk Easley ln
+Ln ;; same to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-x114
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 1782-12-09
+IssDat: 
+Frm NC
+To Daniel W. Easley
+Wat: Hunting Creek, Brush Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 120A HC BrCrk
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -13798 -35208 F127 L0 P72 0 55 0
+grp 567A4B96
+txt -13634 -35896 F127 R0 %d =
+Pt BO 15p fr 2lg spgs nr wid Roberts br
+Ln e; 140p; 
+Pt BO ridge
+Ln n; 116p; xMtgHs
+Pt SO Jolly cnr
+Ln n73w; 52p; Jolly
+Pt ches nr br
+Ln s85w; 130p; 
+Pt ches
+Ln s; 65p; 
+Pt ches
+Ln e; 40p; 
+Pt stk
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-1801
+ENTRY: 
+WarrantNo: 1889
+EntDat: 
+WarDat: 1779-03-28
+SurDat: 1785-03-09
+IssDat: 1788-07-11
+Frm NC
+To Thomas Pinkston
+Wat: Hunting Creek, Brushy Fork
+Ref 
+! -- abstract --
+! 
+WarrantAbs: State of North Carolina County of Rowan No. 1889 survey for Thomas Pinkston 200 acres on Brushey Fork joining his first entry above and joining the conditional line made between him and James Tackett, including the improvement he bought of James Tackett ... 28 March 1779
+Rec 
+Re 168A HC BrFk
+SCC: Samuel Williams, Philip Williams
+Adj 
+Dat 1788
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -13986 -35664 F127 L0 P72 0 55 0
+txt -15339 -34952 F127 R0 %d =
+Pt smBO Dan.Easly cnr
+Ln w; 37.5c; Easly
+Pt smBO his cnr
+Ln s; 5c; 
+Pt Long Br
+Lm s; 40c; Long Br
+Pt stk
+Ln e; 37.5c; xLongBr
+Pt stk stone
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-1839
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 1778-11-08
+SurDat: 1785-03-05
+IssDat: 1788-07-11
+Frm NC
+To John Roberts
+Wat: 
+Ref 
+! -- abstract --
+! 
+WarrantAbs: State of North Carolina No. 1350 County of Rowan survey for John Kimbell Roberts 200 acres beginning at the East end of the grassy knob running thence South thence North including Abraham Sanders improvement or Edward Roberts former improvement ... 8th November 1778
+Rec 
+Re 199A
+SCC: Obediah Baker, Humphrey Roberts
+Adj 
+Dat 1788
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -8405 -34664 F127 L0 P255
+Pt PO SEside EEnd Grassy Nobb Mtn Woodson ln
+Ln s; 35c; Woodson
+Pt stk Glade Robert's sprg br
+Ln w; 57c; x sm br
+Pt stk gld nr same
+Ln n; 35c; 
+Pt stk E sd smSprBr BrusheyCrk
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Iredell-0142
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 
+IssDat: 
+Frm NC
+To David Woodson
+Wat: 
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 5073 -29737 F127 L0 P73 0 51 0
+txt -7468 -27328 F127 R0 %d =
+Pt fkPO D.Woodson cnr
+Ln n; 350p; Woodson
+Pt PO BO Woodson cnr
+Ln e; 326p; Woodson
+Pt pine widow Owen cnr
+Ln n; 118p; wid Owen
+Pt Hic Morgan cnr
+Ln w; 200p; Morgan
+Pt pine
+Ln n; 100p; his other ln
+Pt BO Sbnk HuntingCrk Dennelson cnr
+Ln w; 134p; Donnelson
+Pt pine Donnelson Molles ln
+Ln s; 168p; 
+Pt pine his cnr
+Ln w; 172p; 
+Pt PO Campbell
+Ln s; 202p; 
+Pt his cnr ln
+Ln w; 200p; 
+Pt pine Catons ln
+Ln s; 84p; 
+Pt PO his cnr
+Ln w; 200p; 
+Pt pine Sam.Hendersons ln
+Ln s; 20p; S.Henderson
+Pt BO
+Ln w; 24p; 
+Pt BO
+Ln s; 104p; ?
+Pt WO N bnk RockyCrk
+Ln w; 184p; 
+Pt 
+Ln n; 20p; 
+Pt WO
+Ln w; 110p; 
+Pt PO
+Ln n; 160p; 
+Pt PO Walks ln
+Ln n78w; 320p; Walks 
+Pt PO
+Ln s; 220p; 
+Pt pine Fletchers cnr
+Ln e; 136p;
+Pt
+Ln s; 160p;
+Pt
+Ln w; 200p;
+Pt
+Ln n; 160p;
+Pt
+Ln w; 342p; 
+Pt 
+Ln s; 80p; Mattison
+Pt PO
+Ln w; 340p; 
+Pt WO Hic
+Ln n; 96p; 
+Pt stk NBnk RockyCrk
+Lm s70w; 80p; RockyCrk
+Pt WO Shoemaker cnr
+Ln s; 380p; 
+Pt his other cnr
+Ln w; 320p; 
+Pt BO Keeton ln
+Ln s28e; 80p; Keeton
+Pt BO
+Ln s41w; 34p; 
+Pt BO
+Ln s50e; 180p; 
+Pt Hic
+Ln s62w; 135p; 
+Pt Hic
+Ln s; 60p; 
+Pt WO
+Ln e; 100p; 
+Pt BO
+Ln s; 108p; 
+Pt BO
+Ln e; 128p; 
+Pt WO McHargues ln
+Ln n; 82p; McHargue
+Pt Hic his cnr
+Ln e; 102p; 
+Pt BO his cnr
+Ln n; 40p; 
+Pt WO Sharpes beg cnr
+Ln w; 160p; Sharpe
+Pt PO
+Ln n; 180p; Sharpe
+Pt PO
+Ln e; 160p; Sharpe
+Pt PO
+Ln n; 160p; Sharpe
+Pt PO
+Ln e; 600p; Sharpe
+Pt PO
+Ln s; 360p; Sharpe
+Pt PO
+Ln e; 160p; 
+Pt PO
+Ln s; 80p; 
+Pt WO
+Ln e; 178p; 
+Pt BO
+Ln n20w; 80p; 
+Pt WO
+Ln n; 170p; ?
+Pt PO Brotherton cnr
+Ln e; 316p; 
+Pt BO
+Ln n; 46p; 
+Pt stk
+Ln e; 80p; 
+Pt stk
+Ln s52e; 120p; 
+Pt BO
+Ln s77e; 120p; 
+Pt PO
+Ln n9e; 84p; 
+Pt PO
+Ln n81w; 220p; 
+Pt BO
+Ln n9e; 181p; 
+Pt BO
+Ln s81e; 220p; 
+Pt BO
+Ln n9e; 31p; 
+Pt pine
+Ln n32e; 278p; 
+Pt Ches
+Ln e; 244p; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-0872
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 1778-11-03
+SurDat: 1782-12-13
+IssDat: 1783-10-10
+Frm NC
+To Sylvester Baker
+Wat: Hunting Creek
+Ref 
+! -- abstract --
+! 
+WarrantAbs: State of North Carolina No. 1203 County of Rowan suvey for Sylvester Baker 150 acres on the waters of Hunting Creek at the East end of the grassy knob Bazel Pinkstons entry and running across the waters of said creek ... 3rd Novemer 1778
+Rec 
+Re 150A HC
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: Grassy Knob
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -8016 -34980 F127 L0 P72 0 55 0
+grp 567A4B96
+txt -7515 -35377 F127 R0 %d =
+Pt Hic E spur mtn Obediah cnr
+Ln s75e; 160p; 
+Pt pine
+Ln n25e; 160p; 
+Pt pine
+Ln n75w; 160p; 
+Pt pine
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-0880
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 1778-11-04
+SurDat: 1782-12-14
+IssDat: 1783-10-10
+Frm NC
+To Daniel Rash
+Wat: Hunting Creek South Fork
+Ref 
+! -- abstract --
+! 
+WarrantAbs: State of North Carolina No. 1241 Count of Rowan suvey for Daniel Rash 100 acres on the South fork of Hunting Creek joining the Surry line including part of his improvement ... 
+Rec 
+Re 100
+SCC: 
+Adj 
+Dat 1783
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: Wilkes county line, Surry County line
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -786 -39318 F127 L0 P72 0 55 0
+grp 6B9AC9D8
+txt -2234 -38817 F127 R0 %d =
+Pt PO nr cnr Wilkes Surry
+Ln w; 160p; xCrk
+Pt PO sd ln
+Ln s; 120p; xBrushCrk
+Pt pine
+Ln e; 140p; 
+Pt pine
+Ln n; 60p; 
+Pt stk crkBnk
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Iredell-0044
+ENTRY: 
+GrantNo: 
+EntDat: 1803-03-05
+WarDat: 1803-06-01
+SurDat: 1804-10-22
+IssDat: 
+Frm NC
+To Randall Shoemaker
+Wat: Rocky Creek
+Ref 
+! -- abstract --
+! 
+WarrantAbs: North Carolina Iredell County survey for Randolph Shomaker 50 acres on waters of Rocky Creek bounded by lands of George Mathuson, David Woodson and his own land for complement entered March 5th 1803 ... 1st day of Jun 1803
+Rec 
+Re 
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -10977 -30699 F127 L0 P255
+Pt BO Geo.Mattison cnr
+Ln n; 80p; 
+Pt PO Woodson ln
+Ln w; 118p; Woodson
+Pt PO Baker cnr
+Ln s; 80p; 
+Pt PO Mattison cnr
+Ln e; 118p; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Iredell-0139
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 
+IssDat: 
+Frm NC
+To Abner Sharpe
+Wat: Rocky Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re A RC
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -15016 -23746 F127 L0 P73 0 51 0
+txt -13097 -21414 F127 R0 %d =
+Pt WO spur ? mtn Wm.McHargue cnr
+Ln n; 40p; 
+Pt ChOsap othr cnr
+Ln e; 20p; 
+Pt WO othr cnr
+Ln n; 100p; 
+Pt 3BOsap othr cnr
+Ln e; 60p; 
+Pt PO his othr cnr
+Ln n; 40p; 
+Pt BO his othr cnr
+Ln e; 160p; 
+Pt PO his othr cnr
+Ln s; 160p; 
+Pt Ches sap
+Ln w; 160p; 
+Pt BO 20p N McHargue othr srvy
+Ln s; 540p; past his cnr
+Pt PO
+Ln w; 140p; 
+Pt WO mth McBrooms br McCurdy cnr
+Ln s; 160p; 
+Pt BO
+Ln e; 269p; Black
+Pt PO his cnr
+Ln s; 290p; 
+Pt stk Sharpe ln
+Ln e; 92p; 
+Pt BO his cnr
+Ln n; 40p; 
+Pt PO Johnston cnr
+Ln e; 94p; 
+Pt pine his othr cnr
+Ln s; 160p; 
+Pt PO Kings cnr
+Ln e; 120p; 
+Pt PO his othr cnr
+Ln n; 120p; 
+Pt BO his othr cnr
+Ln e; 260p; 
+Pt pine Harden ln
+Ln n35w; 142p; 
+Pt PO his cnr
+Ln n28w; 100p; 
+Pt pine Graham 4th cnr
+Ln w; 200p; 
+Pt SO his 3rd cnr
+Ln s; 40p; 
+Pt WO his 2nd cnr
+Ln w; 120p; 
+Pt WOs his 1st cnr
+Ln n; 220p; 
+Pt stk his last cnr
+Ln e; 20p; 
+Pt PO Walkers cnr
+Ln n; 212p; 
+Pt SO his othr cnr
+Ln e; 120p; 
+Pt PO his othr cnr
+Ln s; 40p; 
+Pt BO his othr cnr
+Ln e; 140p; 
+Pt lnPine his othr cnr
+Ln n; 52p; 
+Pt PO Dickens ln
+Ln w; 72p; 
+Pt pine his cnr
+Ln n; 100p; 
+Pt PO BO his cnr
+Ln e; 210p; 
+Pt PO Shavers 2nd cnr
+Ln n; 240p; 
+Pt PO
+Ln w; 160p; 
+Pt PO
+Ln n; 360p; 
+Pt PO
+Ln w; 600p; 
+Pt PO due N of beg
+Ln s; 160p; 
+Pt PO
+Ln w; 160p;
+Pt PO
+Ln s; 180p;
+Pt PO
+Ln e; 160p; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Iredel-0089
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 1779-02-03
+SurDat: 1792-12-09
+IssDat: 1794-07-07
+Frm NC
+To William McHargue
+Wat: Rocky Creek
+Ref 
+! -- abstract --
+! 
+WarrantAbs: State of North Carolina No. 1707 Count of Roan (Rowan) survey for William McHargue 200 acres on the South fork of Rocky Creek including his own improvement ... 3rd February 1779
+Rec 
+Re 150A RC
+SCC: 
+Adj 
+Dat 1794
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -14950 -23620 F127 L0 P73 0 51 0
+txt -14372 -24471 F127 R0 %d =
+Pt WO spur Brushy Mtn
+Ln n; 40p; 
+Pt ChOsap
+Ln e; 20p; 
+Pt WO
+Ln n; 100p; 
+Pt 3BOsap
+Ln e; 60p; 
+Pt PO
+Ln n; 40p; 
+Pt BO
+Ln e; 160p; 
+Pt PO
+Ln s; 100p; 
+Pt stk
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Iredell- 
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 1779-02-03
+SurDat: 1792-12-09
+IssDat: 1794-07-07
+Frm NC
+To William McHargue
+Wat: Rocky Creek
+Ref 
+! -- abstract --
+! 
+WarrantAbs: State of North Carolina No. 1708 Rowan County survey for William McHargue 200 acres on the South Fork of Rocky Creek including his own improvement ... 3rd Feb 1779
+Rec 
+Re 200A RC
+SCC: none listed
+Adj 
+Dat 1794
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -19375 -22020 F127 L0 P255
+Pt BO stony hill
+Ln s; 200p; 
+Pt pine
+Ln w; 160p; 
+Pt ChO
+Ln n; 200p; 
+Pt stk mtn
+Ln ;; E to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Iredell-0069
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 1779-02-03
+SurDat: 1793-12-08
+IssDat: 1794-07-07
+Frm NC
+To John Graham
+Assignee: John McHargue
+Wat: Rocky Creek South
+Ref 
+! -- abstract --
+! including an improvement made by John McHargue
+WarrantAbs: State of North Carolina Rowan County No. 1705 survey for John McHargue 400 acres on the waters of the South Fork of Rocky Creek including my own improvement ... 3rd February 1779 (reverse side) Be it remembered that the within mentioned John McHargue deceased in the year 1780 and that afterward his executors sold the claim to the within mentioned land to John Graham who has been in possession of the same ever since that time, and that there is not the least dispute respecting Grahams title ? within the particular knowledge of Wm Sharpe June 10th 1793
+Rec 
+Re 400A RC S
+SCC: 
+Adj 
+Dat 1794
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -12038 -14333 F127 L0 P73 0 51 0
+txt -10556 -15448 F127 R0 %d =
+Pt 4WOsap hollow
+Ln e; 120p; 
+Pt smWO by br
+Ln n; 40p; 
+Pt SO
+Ln e; 200p; 
+Pt pine
+Ln n; 60p; 
+Pt PO
+Ln e; 16p; 
+Pt fkSO
+Ln n; 120p; xCrk bel shoals
+Pt pine
+Ln w; 336p; 
+Pt stk
+Ln ;; S to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Iredell-0220
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 1794
+SurDat: 1794-12-18
+IssDat: 1797-06-30
+Frm NC
+To James Walker
+Wat: Rocky Creek Middle Branch
+Ref 
+! -- abstract --
+! The warrant is illegible, see original as NC SOS office by request
+Rec 
+Re 300A RCmid
+SCC: 
+Adj 
+Dat 1797
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -9187 -16558 F127 L0 P73 0 45 0
+txt -10979 -17551 F127 R0 %d =
+Pt WO Jno.Graham ln by br
+Ln n; 172p; 
+Pt lngPine Gregory ln
+Ln w; 140p; 
+Pt BO
+Ln n; 40p; 
+Pt PO
+Ln w; 120p; 
+Pt SO
+Ln s; 212p; 
+Pt PO Graham ln
+Ln ;; Graham E to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Iredell-0106
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 1786-12-29
+SurDat: 1793-06-07
+IssDat: 1797-07-07
+Frm NC
+To John Black
+Wat: Rocky Creek South head
+Ref 
+! -- abstract --
+! 
+WarrantAbs: State of North Carolina No. 3044 Rowan County survey for John Black 200 acres South fork of Rocky Creek near John Blacks entry or perhaps joining the same including the head springs of the said fork ... 29th December 1786  (second warrant) State of North Carolina No. 3042 Rowan County survey for John Black 200 acres on the South fork of Rocky Creek including the head spring of the same ... 29th December 1786
+Rec 
+Re 400A RC S
+SCC: 
+Adj 
+Dat 1797
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -15600 -12739 F127 L0 P73 0 39 0
+txt -15176 -14001 F127 R0 %d =
+Pt pine NW cnr Wm.Sharpe
+Ln w; 22p; 
+Pt stk Arch.Sloan last ln
+Ln n; 10p; 
+Pt Bsap his cnr
+Ln n; 280p; 
+Pt lgPine
+Ln e; 221p; 
+Pt PO
+Ln s; 290p; 
+Pt stk Sharpe ln
+Ln ;; same to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Iredell-0247
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 1779-03-23
+SurDat: 1794-12-18
+IssDat: 1798-01-15
+Frm NC
+To James Gregory
+Assignee: Matthew Long
+Wat: Rocky Creek Middle Fork
+Ref 
+! -- abstract --
+! 
+WarrantAbs: State of North Carolina No. 2145 Rowan County survey for James Gregory 300 acres on Hardens Creek including a large meadow or marsh on both sides of said creek above Hardens entry ... 23rd March 1779 (reverse side) I do certify that the within claim to land was sold to James Gregory by the legal representative of Matthew Long deceased and that the said James Gregory has lived upon and cultivated the said land for many years past in consequence of the said purchase - Wm Sharpe NB the papers respecting this transaction are lost but these facts are within my own knowledge - W.S.
+Rec 
+Re 270A RCmid
+SCC: 
+Adj 
+Dat 1798
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -8591 -16040 F127 L0 P73 0 45 0
+txt -8810 -17346 F127 R0 %d =
+Pt PO Graham ln
+Ln n; 50p; 
+Pt pine his cnr
+Ln w; 56p; 
+Pt WO by br Walker cnr
+Ln n; 224p; 
+Pt PO Deckers ln
+Ln e; 88p; 
+Pt pine Decker cnr
+Ln n; 96p; 
+Pt stk nr Deckers cnr
+Ln e; 50p; 
+Pt PO Shaffer cnr
+Ln s; 200p; 
+Pt pine Dobson cnr
+Ln e; 120p; 
+Pt pine
+Ln s; 200p; (text 100)
+Pt smPO
+Ln w; 188p; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Iredell-0248
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 1795-10-16
+SurDat: 1795-01-07
+IssDat: 1798-01-15
+Frm NC
+To William Harden
+Wat: Rocky Creek Harden Fork
+Ref 
+! -- abstract --
+! 
+WarrantAbs: State of North Carolina No. 66 Iredell County survey for William Harden 140 acres on the South Fork of Rocky Creek joining lands of Jean Harden on the North East ... 16th October 1795?
+Rec 
+Re 140A RC Harden
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -5798 -14552 F127 L0 P73 0 51 0
+txt -6207 -16074 F127 R0 %d =
+Pt PO fathers old ln
+Ln n; 80p; 
+Pt PO
+Ln e; 20p; 
+Pt PO
+Ln n; 44p; 
+Pt BO nr br
+Ln e; 40p; 
+Pt BJ
+Ln n; 100p; 
+Pt fkChes
+Ln w; 140p; 
+Pt pine
+Ln s; 200p; 
+Pt pine father's ln
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Iredell-0249
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 1795-10-16
+SurDat: 1794-12-21
+IssDat: 1798-01-15
+Frm NC
+To William Harden
+Wat: Rocky Creek Middle Fork
+Ref 
+! -- abstract --
+! 
+WarrantAbs: State of North Carolina No. 65 Iredell County survey for William Hardin 100 acres on the waters of the South fork of Rocky Creek adjoining the land of Jean Harden on the East John Graham on the West and James Gregory on the North ... 16th of October 1795
+Rec 
+Re 100A RCmid
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: Shoals
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -7655 -13808 F127 L0 P73 0 45 0
+txt -7876 -15118 F127 R0 %d =
+Pt lgPine fathers ln
+Ln n28w; 146p; 
+Pt blzPine Graham crk ln bel Shoals
+Ln n; 50p; 
+Pt PO Gregory cnr
+Ln e; 160p; 
+Pt BO 
+Ln s; 65p; 
+Pt pine
+Ln w; 40p; 
+Pt pine fathers cnr
+Ln s20w; 100p;
+Pt 
+Ln s40w; 27p; (est dist)
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Iredell-0143
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 1795-04-24
+SurDat: 1795-04-18
+IssDat: 1795-05-11
+Frm NC
+To David Caldwell
+Wat: Hunting Creek
+Ref 
+! -- abstract --
+! 
+WarrantAbs: State of North Carolina No. 17 Iredell County survey for David Caldwell 521 acres adjoining lands of Elizabeth and John Campbell on the waters of Hunting Creek ... 24th April 1795
+Rec 
+Re 521A HC
+SCC: 
+Adj 
+Dat 1795
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -1180 -33783 F127 L0 P72 0 55 0
+grp BF692BA
+txt -2197 -34782 F127 R0 %d =
+Pt BO Sam.Henderson cnr
+Ln n; 61p; 
+Pt pine Caton cnr
+Ln e; 200p; Caton
+Pt Hic
+Ln n; 104p; Jno.Campbell
+Pt RO his cnr
+Ln e; 196p; J.Campbell
+Pt BGm his cnr
+Ln n; 88p; 
+Pt stk widow Campbell ln
+Ln w; 276p; wd Campbell
+Pt stk Mart.Morgan ln
+Ln s; 100p; 
+Pt BO
+Ln w; 320p; 
+Pt stk
+Ln s12w; 120p; 
+Pt WO
+Ln s78e; 140p; 
+Pt PO
+Ln s12w; 80p; 
+Pt BO
+Ln e; 160p; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Iredell-0111
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 1778-04-01
+SurDat: 1790-05-12
+IssDat: 1794-07-07
+Frm NC
+To John Campbell
+Wat: Hunting Creek, Owen Branch, Doyle Branch
+Ref 
+! -- abstract --
+! 
+WarrantAbs: State of North Carolina NO. 1397 Rowan County survey for John Campbell 250 acres lyin on the East side of the road from Robert Chamber's to Hunting Creek on the head of Owen's and Doyles branches waters of Hunting Creek on the South side of said creek including vacancy for quantity ... 
+Rec 
+Re 250A HC
+SCC: Joseph Gipson, James Gibson
+Adj 
+Dat 1794
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: Road from Robert Chambers to Hunting Creek
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 1264 -35239 F127 L0 P72 0 55 0
+grp BF692BA
+txt 1349 -34232 F127 R0 %d =
+Pt RO
+Ln e; 160p; 
+Pt BGm
+Ln s; 250p; 
+Pt pine
+Ln w; 160p; 
+Pt pine Chas.Caton ln
+Ln n; 250p; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-2331
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 1786-03-10
+IssDat: 1787-08-09
+Frm NC
+To Aaron Luckey Speeks
+Wat: Hunting Creek
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 200A HC
+SCC: 
+Adj 
+Dat 1787
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -4673 -33858 F127 L0 P72 0 55 0
+txt -4396 -34743 F127 R0 %d =
+Pt BO Mar.Walk cnr
+Ln s78e; 130p; 
+Pt PO his cnr
+Ln n12e; 250p; 
+Pt PO
+Ln n78w; 130p; 
+Pt smBO
+Ln s12w; 250p; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Granat
+Id Rowan-2247
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 1785-12-03
+SurDat: 1786-03-11	
+IssDat: 1787-08-09
+Frm NC
+To Thomas Speeks
+Assignee: Bazel Pinkston
+Wat: Hunting Creek
+Ref 
+! -- abstract --
+! 
+WarrantAbs: State of North Carolina No. 2922 Rowan County survey for Basel Pinkston 250 acres on Brushy Creek joining Philip Williams, John Philps and Nimrod Lunsford's conditional line including his improvement ... 3rd December 1785 (reverse side) March 10th 1786 I do in consideration of twenty pounds to me paid by Thomas Speeks, hereby transfered all my claim to the land within mentioned to him his heirs and assigns for ever Bazel Pinkston his B mark - Wm Sharpe
+Rec 
+Re 238A HC
+SCC: 
+Adj 
+Dat 1787
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: Merridian
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to (%Assignee:)\%dat\File# %Id\%Re
+! Metes and bounds
+loc -12410 -36370 F127 L0 P72 0 55 0
+grp 567A4B96
+txt -12074 -36773 F127 R0 %d =
+Pt Ches SO Ph.Williams cnr
+Ln e; 154p; 
+Pt RO
+Ln n; 11p; 
+Pt PO
+Ln e; 100p; 
+Pt WO
+Ln n10e; 90p; 
+Pt WO
+Ln w; 60p; 
+Pt BO
+Ln s73w; 74p; 
+Pt WO by br
+Ln n; 54p; 
+Pt WO Brush crk
+Ln n30w; 160p; 
+Pt pine
+Ln w; 10p; Meridian
+Pt stk E end Philps 50a
+Ln s; 65p; 
+Pt BO last cnr srvy
+Ln w; 40p; 
+Pt BO cnr Philps other srvy
+Ln s; 214p; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-2327
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 1778-11-31
+SurDat: 1786-03-11
+IssDat: 1787-08-09
+Frm NC
+To Aaron Luckie Speeks
+Assignee: William Pinkston, Peter Pinkston, Nimrod Lunsford, William Robords, James Lunsford
+Wat: Hunting Creek
+Ref 
+! -- abstract --
+! 
+WarrantAbs: State of North Carolina No. 1445 Rowan County William Pinkston 200 acres on Brushy Creek and perhaps joining to John Howards entry below on the creek for complement ... 31 November 1778 (reverse side) I do hereby assign over to Peter Pinkston all my rights titles interests and claim I ... in warrant witness my hand this 13th of March 1782 William Pinkston (next note) I do hereby assign over to Nimrod Lunsford all my rights and claims interests that I have to the within mentioned warrant given under my hand this 24th May 1785 - Peter Pinkston his P mark Test Wm Lunsford (next note) December ? 1785 I do hereby assign over all my right of the within mentioned warrant to William Robords - Nimrod Lunsford  (next note) I do by these presents assign and transfer all my right and claim to the within mention unto Aaron Luckey Speeks for value received. Witness my hand this 17th March 1786. James Lunsford his x mark Test. Wm Sharpe
+Rec 
+Re 195A HC
+SCC: 
+Adj 
+Dat 1787
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -9666 -37158 F127 L0 P72 0 55 0
+grp 567A4B96
+txt -10843 -38037 F127 R0 %d =
+Pt WO nr lg br Th.Speeks cnr
+Ln w; 60p; 
+Pt BO
+Ln s73w; 74p; 
+Pt WO by br
+Ln n; 54p; 
+Pt WO over Brush Crk
+Ln n30w; 160p; 
+Pt pine
+Ln e; 112p; 
+Pt PO
+Ln s; 10p; 
+Pt PO
+Ln e; 150p; 
+Pt stk
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 
+IssDat: 
+Frm NC
+To John Philps
+Wat: 
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 50A HC Brushy
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -13762 -38544 F127 L0 P72 0 55 0
+grp 567A4B96
+txt -12630 -38683 F127 R0 %d =
+Pt BO cnr his tract
+Ln n; 40p; 
+Pt BO
+Ln e; 40p; 
+Pt Map
+Ln s; 5p; 
+Pt PO
+Ln e; 60p; 
+Pt BO
+Ln n; 10p; 
+Pt WO
+Ln e; 100p; 
+Pt stk
+Ln s; 45p; 
+Pt BO
+Ln ;; his old ln to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-0843
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 1779-10-10
+SurDat: 1782-12-13
+IssDat: 1783-10-10
+Frm NC
+To Elizabeth Campbell
+Wat: Hunting Creek
+Ref 
+! -- abstract --
+! 
+WarrantAbs: State of North Carolina No. 2077 Rowan County survey for Elizabeth Campbell 200 acres on the South side of Hunting Creek joining the lines of John Henderson and John Hughes including the improvement whereon she now lives ... 10th October 1779
+SurveyAbs: surveyed for Elizabeth Campbell 200 acres of land on the South side of Hunting Creek joining the lines of John Henderson and John Hughes.
+Rec 
+Re 200A HC
+SCC: 
+Adj 
+Dat 1783
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 1022 -37906 F127 L0 P72 0 55 0
+grp BF692BA
+txt 1146 -36921 F127 R0 %d =
+Pt WO on crk Henderson cnr
+Ln s22w; 48p; Henderson
+Pt PO on hill
+Ln s; 132p; 
+Pt PO
+Ln e; 220p; 
+Pt PO Hughes cnr
+Ln n30e; 120p; 
+Pt pine crk bnk opp pt rocks
+Lm ;; up crk to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-1195
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 1782-12-18
+IssDat: 1783-10-10
+Frm NC
+To John Hughes
+Wat: 
+Ref 
+! -- abstract --
+! 
+Rec 
+Re 400A HC
+SCC: 
+Adj 
+Dat 1783
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 5277 -36087 F127 L0 P72 0 55 0
+grp BF692BA
+txt 3497 -35140 F127 R0 %d =
+Pt BJ crk bnk opp mth Buck Shoal
+Ln s; 240p; 
+Pt pine
+Ln w; 238p; 
+Pt pine
+Ln n; 216p; 
+Pt PO Campbell cnr
+Ln n30e; 120p; Campbell
+Pt pine crk bnk opp rocks
+Lm ;; down crk to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-0846
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 1778-08-16
+SurDat: 
+IssDat: 1783-10-10
+Frm NC
+To John Henderson
+Wat: Hunting Creek
+Ref
+! -- abstract --
+! 
+WarrantAbs: State of North Carolina No. 702 Rowan County survey for John Henderson 200 acres on the side of Hunting Creek, joining said creek, Adam Campbells claim to the South all the rest vacant lands ... 16th August 1778
+Rec 
+Re 200A
+SCC: 
+Adj 
+Dat 1783
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 1016 -37912 F127 L0 P72 0 55 0
+grp BF692BA
+txt -728 -37353 F127 R0 %d =
+Pt lgHangWO crk bnk wid cnr
+Ln s22w; 48p; wid Henderson
+Pt PO on hill
+Ln s; 132p; 
+Pt PO
+Ln w; 190p; 
+Pt pine
+Ln n; 180p; 
+Pt stk on crk bnk
+Lm ;; down crk to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-0871
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 1778-11-04
+SurDat: 1782-12-17
+IssDat: 1783-10-10
+Frm NC
+To Theophilus Morgan
+Wat: Hunting Creek South Fork
+Ref 
+! -- abstract --
+! 
+WarrantAbs: State of North Carolina No. 1242 County of Rowan survey for Theophilus Morgan 200 acres lying in the North side of the South fork of Hunting Creek joining the Surry line including his improvement ... 4th November 1778
+SurveyAbs: Theophilies Morgan 200 acres on the North side of Hunting Creek, joining Surry County line and the lines of Daniel Rash and William Campbell.
+Rec 
+Re 230A HC
+SCC: 
+Adj 
+Dat 1783
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: Surry county line
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -993 -38671 F127 L0 P72 0 55 0
+grp 6B9AC9D8
+txt 228 -38619 F127 R0 %d =
+Pt Creek
+Ln n15e; 70p; (est.)
+Pt beg PO Wilkes CntyLn Rash cnr
+Ln e; 292p; x Wilkes-Surry cnr
+Pt BO SurryLn
+Ln s; 75p; 
+Pt PO hllw
+Ln s10w; 110p; 
+Pt Brch mth br
+Lm ;; Crk to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-0965
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 1779-05-13
+SurDat: 1783-01-30
+IssDat: 1783-10-10
+Frm NC
+To Thomas Young
+Wat: Hunting Creek
+Ref 
+! -- abstract --
+! 
+WarrantAbs: State of North Carolina No. 2082 County of Rowan survey for Thomas Young 320 acres at the head of Rocky Branch and on the waters of Owen's branch including an old improvement made by Bazel Owens ... 13th May 1779
+Rec 
+Re 320A HC
+SCC: 
+Adj 
+Dat 1783
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 12806 -31346 F127 L0 P72 0 55 0
+txt 10934 -30899 F127 R0 %d =
+Pt 2PO Elsberry cnr Cass ln
+Ln s; 180p; 
+Pt PO
+Ln w; 220p; 
+Pt BO
+Ln n; 250p; 
+Pt pine Owens ln nr Owens br
+Ln e; 180p; 
+Pt PO
+Ln s; 70p; 
+Pt Cass cnr
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-0882
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 1778-12-20
+SurDat: 1782-12-20
+IssDat: 1783-10-10
+Frm NC
+To Benjamin Elsberry
+Wat: Hunting Creek
+Ref 
+! -- abstract --
+! 
+WarrantAbs: State of North Carolina No. 1391 County of Rowan survey for Benjamin Elsberry 250 acres on Hunting Creek joining on the South side of James Cass mill place ... 20th December 1778
+Rec 
+Re 250A HC
+SCC: 
+Adj 
+Dat 1783
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: James Cass Mill
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 12951 -31346 F127 L0 P72 0 55 0
+txt 13193 -30425 F127 R0 %d =
+Pt 2PO Cass ln SsdCrk
+Ln e; 200p; xCrk
+Pt PO opp MthSmBr nr abv RckBr
+Ln s; 200p; 
+Pt pine
+Ln w; 200p; 
+Pt pine
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-1189
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 1782-12-20
+IssDat: 
+Frm NC
+To James Cass
+Wat: Hunting Creek
+Ref 
+! -- abstract --
+! 
+WarrantAbs: State of North Carolina No. 1242 County of Rowan survey for James Cass (Theophilus Morgan crossed out) 250 acres on the North side of the South Fork of Hunting Creek including his own improvement joining Surry line ... 4th November 1778
+Rec 
+Re 200A HC
+SCC: 
+Adj 
+Dat 1782
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 15412 -34020 F127 L0 P72 0 55 0
+txt 14068 -33367 F127 R0 %d =
+Pt Crk
+Lm s23e; 50p; Crk
+Pt fkWO bent crk abv mill
+Ln s23e; 60p; Elsberry
+Pt PO
+Ln s; 86p; 
+Pt PO on crk bnk
+Ln w; 300p; xCrk
+Pt pine
+Ln n; 100p; 
+Pt stk crk bnk
+Lm ;; down crk to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-1779
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 1778-05-18
+SurDat: 1786-12-12
+IssDat: 1788-07-11
+Frm NC
+To Martin Morgan
+Wat: Hunting Creek, Straight Creek
+Ref 
+! -- abstract --
+! 
+WarrantAbs: State of North Carolina NO. 2876 County of Rowan survey for Martin Morgan 300 acres on Strait Creek waters of Hunting Creek ... 18th May 1778.
+Rec 
+Re 300A HC StrCrk
+SCC: 
+Adj 
+Dat 1788
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -3830 -37789 F127 L0 P72 0 55 0
+grp BF692BA
+txt -3409 -36831 F127 R0 %d =
+Pt PO WsdCrk
+Ln n75e; 74p; 
+Pt PO nrCrk
+Ln s60e; 102p; 
+Pt WO Henderson ln
+Ln s; 100p; 
+Pt pine his cnr
+Ln e; 250p; xHenderson + Campbell cnr
+Pt stk Campbell
+Ln s; 100p; 
+Pt PO
+Ln w; 295p; 
+Pt stk Speek ln
+Ln n12e; 60p; 
+Pt PO Speek cnr
+Ln n78w; 85p; Speek
+Pt stk Speek ln
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Iredell-0251
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 1795-10-12
+SurDat: 1795-04-10
+IssDat: 1798-10-27
+Frm NC
+To Christopher Houstin
+Wat: Hunting Creek
+Ref 
+! -- abstract --
+! 
+WarrantAbs: State of North Carolina No. 49 County of Iredell survey for Christopher Houstin 640 acres of land on the waters of Hunting Creek joining the land on which he now lives ... 12th October 1795 (next warrant) State of North Carolina No. 55 County of Iredell survey for Christopher Houstin 640 acres adjoining his entry dated the 3rd January 1795 and running towards the Surry line ... 12th October 1795 (next warrant) State of North Carolina No. 56 County of Rowan survey for Christopher Houstin 640 acres adjoining his entry dated the 3rd January 1795 and running toward Rowan line ... 12th October 1795
+Rec 
+Re 1920A HC
+SCC: 
+Adj 
+Dat 1798
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 24106 -30133 F127 L0 P72 0 55 0
+txt 25228 -34745 F127 R0 %d =
+Pt SO He.Young cnr
+Ln n38e; 128p; H.Young
+Pt SO
+Ln n; 180p; 
+Pt WO
+Ln n25w; 227p; 
+Pt BO Elsberry cnr
+Ln n17e; 226p; Elsberry
+Pt PO
+Ln e; 200p; 
+Pt PO
+Ln n; 160p; 
+Pt BO Surry Ln
+Ln e; 80p; Surry Ln
+Pt BO
+Ln s; 246p; 
+Pt pine
+Ln e; 38p;
+Pt pine Marlow cnr
+Ln s; 248p; Marlow
+Pt 2PO Reavis ln
+Ln w; 87p; 
+Pt Ches his cnr
+Ln s; 193p; 
+Pt Grub his other cnr
+Ln w; 80p; 
+Pt smPO
+Ln s; 212p; 
+Pt WO nr br
+Ln e; 246p; Jno.Gastins ln
+Pt PO Hic his cnr
+Ln n; 154p; 
+Pt BO by Rd
+Ln w; 80p; 
+Pt PO
+Ln n; 66p; 
+Pt Ches
+Ln e; 136p; 
+Pt Hic
+Ln s; 96p; 
+Pt stk Cooper cnr
+Ln e; 41p; 
+Pt stk Boans cnr
+Ln s; 410p; 
+Pt stk his own ln
+Ln w; 40p; 
+Pt stk Lovelace ln
+Ln n; 80p; 
+Pt PO his cnr
+Ln w; 80p; 
+Pt RO his other cnr
+Ln n; 20p; 
+Pt WO his other cnr
+Ln w; 204p; 
+Pt stk his other cnr
+Ln s; 25p; 
+Pt PO Eliis cnr
+Ln s75w; 126p; 
+Pt PO
+Ln n; 100p; 
+Pt pine his own old cnr
+Ln e; 10p; 
+Pt PO his other cnr
+Ln n; 190p; 
+Pt stk 
+Ln ;; W to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-3531
+ENTRY: 
+GrantNo: 
+EntDat: 1797-02-08
+WarDat: 1798-11-06
+SurDat: 
+IssDat: 1800-11-20
+Frm NC
+To Samuel Stanley
+Assignee: John Little, Elias Loveless
+Wat: Hunting Creek
+Ref 
+! -- abstract --
+! 
+WarrantAbs: State of North Carolina No. 382 survey for Samuel Stanley 130 acres on the waters of Hunting Creek joining John Hudson William Shaw Benjamin Galpin and John Brackwood entered Feb 8th 1797 ... 6th November 1798 (reverse side) Paid for under the new law in the name of Elias Loveless for one hundred and thirty acres land
+Rec 
+Re 108A HC
+SCC: Isaac Hutson, Joseph Roberson
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 32094 -32845 F127 L0 P255
+Pt pine Jno.Hodgson cnr
+Ln s57w; 10c; his ln
+Pt PO Hudson cnr
+Ln s; 17c; 
+Pt stk Ben.Gilpin cnr
+Ln w; 43.5c; Gilpin
+Pt BO Gilpin ln
+Ln n; 4.5c; 
+Pt PO Chris.Houston cnr
+Ln n70e; 66c; C.Houston
+Pt PO his cnr
+Ln n; 25.5c; 
+Pt BO Houstin cnr
+Ln e; 16c; 
+Pt SO Hen.Miller cnr 
+Ln s; 28c; 
+Pt WO Miller cnr Jno.Hodgsons ln
+Ln ;; s83w his ln to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-0946
+ENTRY: 
+GrantNo: 
+EntDat: 
+WarDat: 1779-01-24
+SurDat: 1783-01-26
+IssDat: 1783-10-10
+Frm NC
+To William Donaldson
+Assignee: Bazel Prather
+Wat: Hunting Creek
+Ref 
+! -- abstract --
+! 
+WarrantAbs: State of North Carolina No. 1663 County of Rowank survey for Bazel Prater 685 acres on both side of Kenneday's Creek waters of Hunting Creek joining William Donaldson, John Slone? or Josias Nonis? including his own improvement ...  24th January 1779 (reverse side) May the 29 1779 I Hearby assign my right and title of this warrant to William Donnalson for value received Basil Prather, Teste Joshua Nicholson Jr
+Rec 
+Re 685A HC
+SCC: 
+Adj 
+Dat 1783
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 21800 -34308 F127 L0 P72 0 55 0
+txt 20640 -36334 F127 R0 %d =
+Pt Ald CrkBnk Mth Norris SprgBr
+Lm n10w; 55p; up crk
+Pt lgWO mth smbr
+Lm n70w; 112p; up br
+Pt PO waggon rd
+Ln n18w; 190p; 
+Pt pine
+Ln n70e; 78p; 
+Pt WO by br
+Ln n; 152p; 
+Pt Ash by br SurryLn
+Ln e; 200p; Surry Ln
+Pt WO
+Ln s28e; 62p; 
+Pt WO
+Ln s39w; 46p; 
+Pt WO nr crk
+Lm s7w; 140p; 
+Pt Wal
+Ln s73e; 42p; 
+Pt pine
+Ln s40e; 154p; 
+Pt BO
+Ln s50w; 156p; 
+Pt BO
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-0947
+ENTRY: 
+WarrantNo: 1199
+EntDat: 
+WarDat: 1778-11-01
+SurDat: 1787-01-30
+IssDat: 1783-10-10
+Frm NC
+To George Wealls
+Assignee: William Grant
+Wat: Hunting Creek
+Ref 
+! -- abstract --
+! 
+WarrantAbs: State of North Carolina No. 1199 County of Rowan survey for William Grant 440 acres on both sides of the North Fork of Hunting Creek joining Moses Mitchell and James McCord including his improvement ... 1st November 1778 (reverse side) I assign my right of the within warrant to George Weal as witness my hand this tench day of September 1779 William Grant
+Rec 
+Re 400A HC
+SCC: 
+Adj 
+Dat 1783
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 18356 -33351 F127 L0 P72 0 55 0
+txt 17481 -35281 F127 R0 %d =
+Pt mth br at crk
+Ln n56e; 65p; 
+Pt pine McCord cnr
+Ln s77e; 50p; 
+Pt PO his ln Norris cnr
+Ln n8e; 134p; 
+Pt WO fk br Mitchell cnr
+Ln n4e; 86p; 
+Pt BO
+Ln w; 48p; 
+Pt BO
+Ln n13w; 120p; 
+Pt WO fk br
+Lm s80w; 52p; (est.) br to beg 
+Pt Pers CrkBnk mth br Mitchel cnr
+Ln w; 98p; 
+Pt pine Cass ln
+Ln s; 104p; 
+Pt BO hollow Cass cnr
+Ln w; 84p; 
+Pt WO Fords br
+Ln s10e; 95p; 
+Pt BO sd br
+Lm ;; br to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-0948
+ENTRY: 
+WarrantNo: 1113
+EntDat: 
+WarDat: 1779-10-28
+SurDat: 1783-01-30
+IssDat: 1783-10-10
+Frm NC
+To Moses Mitchell
+Wat: 
+Ref 
+! -- abstract --
+! 
+WarrantAbs: State of North Carolina No. 1113 Counth of Rowan survey for Moses Mitchell 500? acres on Hunting Creek joining William Grant on the South, James Cass on the West ? on the North, William Donaldson on the East include his own improvement ... 28th October 1779 (reverse side) I do hereby assign and make over my right to the within order of survey unto Christopher Houston witness my hand this 18 August 1779 Moses Mitchell (next) I do hereby assign and make over my right to the within order of survey unto John McDonnel, witness my hand this 28th of January 1782 - Christof'r Houston (next) I do hereby assign and make over my right to the within order of surveing unto Moses Mitchel witness my hand this 27th February 1782 - John McDonel
+SurveyAbs: State of North Carolina Rowan County surveyed for Moses Mitchel 450 acres of land on the North Fork of Hunting Creek ... January 30th 1783
+Rec 
+Re 450A HC
+SCC: 
+Adj 
+Dat 1783
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: Surry Line
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 20913 -38711 F127 L0 P72 0 55 0
+txt 18832 -37650 F127 R0 %d =
+Pt Ash Surry ln Donnaldson cnr
+Ln s; 152p; 
+Pt W
+Ln s70w; 78p; 
+Pt 
+Ln s18e; 190p; 
+Pt 
+Ln s70w; 90p; 
+Pt 
+Ln n4e; 86p; 
+Pt 
+Ln w; 48p; 
+Pt 
+Ln n13w; 120p; 
+Pt 
+Lm s80w; 52p; (est)
+Pt 
+Ln w; 98p; 
+Pt 
+Ln n; 155p; 
+Pt 
+Ln e; 60p; 
+Pt 
+Ln n; 30p; 
+Pt 
+Ln e; 70p; 
+Pt 
+Ln n; 20p; 
+Pt 
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-0950
+ENTRY: 
+WarrantNo: 1929
+EntDat: 
+WarDat: 1779-04-01
+SurDat: 1783-01-28
+IssDat: 1783-10-10
+Frm NC
+To Michael Ellsberry
+Wat: Hunting Creek, Kennedy Creek
+Ref 
+! -- abstract --
+! 
+SurveyAbs: Surveyed for Michael Elsberry 450 acres of land on Kenedy creek the waters of Hunting Creek joining William Donnaldsons and Surry County lines ... 
+WarrantAbs: State of North Carolina No. 1929 County of Rowan survey for Nicholas Aldridge 450 acres on the West side of his own land joining a conditional line of John Wilson ... 1st April 1779 (reverse side) Know all men by these presents that I do make over unto William ? title of the within warrant it being for value ? witness ?Isaac Holliman? this 2d day of April 1781 (next) I William Aldridge do make over unto Isaac Holeman senior all my right and title of the within warrant it being for value received witness my hand ? William Aldridge (next) Isaac Holman gave all his interest to the within warrant to Michael Elsberry before Wm Sharpe
+Rec 
+Re 400A HC KC
+SCC: 
+Adj 
+Dat 1783
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 23163 -38748 F127 L0 P72 0 55 0
+txt 24090 -37898 F127 R0 %d =
+Pt WO Surry ln Donnaldson cnr
+Ln s28e; 62p; 
+Pt WO
+Ln s39w; 46p; 
+Pt WO nr crk
+Lm s7w; 140p; 
+Pt Wal
+Ln s73e; 42p; 
+Pt pine
+Ln s40e; 154p; 
+Pt BO
+Ln e; 40p; 
+Pt BO
+Ln n; 220p; 
+Pt PO
+Ln e; 200p; 
+Pt PO by br Dutchmans Crk
+Ln n; 140p; 
+Pt stk Surry ln
+Ln ;; Surry ln to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-1035
+ENTRY: 
+WarrantNo: 1089
+EntDat: 
+WarDat: 1778-10-24
+SurDat: 1782-12-20
+IssDat: 1783-10-10
+Frm NC
+To James McCord
+Wat: Hunting Creek
+Ref 
+! -- abstract --
+! 
+WarrantAbs: State of North Carolina No. 1089 County of Rowan survey for James McCord 350 acres on Hunting Creek beginning about a quarter of a mile below the forks of said creek running North joining Jonas Norris, William Grant, Benjamin Elsberry and taking in both sides of the North Fork and joining the South fork on the North side ... 24th October 1778
+Rec 
+Re 300A HC
+SCC: 
+Adj 
+Dat 1783
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 20443 -31661 F127 L0 P72 0 55 0
+txt 18104 -32626 F127 R0 %d =
+Pt Dwd mth dry br 100p bel fks crk
+Ln n; 155p; 
+Pt WO ridge
+Ln n77w; 176p; 
+Pt pine
+Ln s56w; 65p; 
+Pt Hic NFk opp mth Fords br
+Ln n79w; 36p; 
+Pt Gum bnk br Elsberry cnr
+Ln s; 165p; 
+Pt RO bnk SFk by grt rocks
+Lm ;; down creek to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-0951
+ENTRY: 
+WarrantNo: 1098
+EntDat: 
+WarDat: 1779-01-24
+SurDat: 1783-02-25
+IssDat: 1783-10-10
+Frm NC
+To Thomas Young
+Assignee: Josias Norris
+Wat: Hunting Creek, Kennedys Creek
+Ref 
+! -- abstract --
+! 
+WarrantAbs: State of North Carolina No. 1098 County of Rowan survey for Josias Norris 640 acres on the North side of Hunting Creek below the forks of said creek joining Christopher Erwins below James McCord above taking in both sides of a creek known by the name of Kennedys Creek including his own improvement ... 24th January 1779 (reverse side) I the subscriber do by these presents assign over to Thomas Young his heirs and assigns forever all my right title claim and demand of or into the within mentioned land and premises for and in consideration of the sum of five hundred pounds to me in hand paid by the said Thomas Young. Witness my hand this 24th February 1783 Joshua Norris - Test. Wm Sharpe 
+SurveyAbs: State of North carolina Rowan County surveyed for Thomas Young 640 acres of land on the North side of Hunting Creek joining James McCord, Christopher Houstins lines ... February 25 1783. 
+Rec 
+Re 640A HC KC
+SCC: 
+Adj 
+Dat 1783
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of Kentucky -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 20194 -31698 F127 L0 P72 0 55 0
+txt 21530 -31590 F127 R0 %d =
+Pt Dw mth dry br McCord cnr
+Ln n; 175p; 
+Pt PO
+Ln s84e; 36p; 
+Pt P by br
+Ln s87e; 70p; 
+Pt WO mth Kennedy crk
+Ln e; 32p; 
+Pt PO
+Ln n70e; 60p; 
+Pt PO
+Ln e; 205p; (writ 225p)
+Pt fkWO
+Ln s; 320p; xBryansBr
+Pt SO Houstin cnr
+Ln s68w; 170p; Houstin
+Pt Hic HuntingCrk FlatRck
+Lm ;; up Creek to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-1237
+ENTRY: 
+WarrantNo: 1736
+EntDat: 
+WarDat: 1779-02-05
+SurDat: 1783-02-25
+IssDat: 1783-10-10
+Frm NC
+To William Norris
+Assignee: Josia Norris
+Wat: Hunting Creek, Bryans Branch
+Ref 
+! -- abstract --
+! 
+WarrantAbs: State of North Carolina No 1736 County of Rowan survey for Jonas Norris 150 acres on a branch of Hunting Creek called Bryants branch joining his former entry and running up from the said entry ... 5th February 1779 (reverse side) I the subscriber do by these presents assign over all my right title claim and demand whatsoever of or into the within mentioned land and premises to William Norris his heirs and assigns forever for and consideration of the sum of fifty pounds to me in hand paid by William Norris. Given under my hand this 25th February 1783 Josia Norras - Test. Wm Sharpe
+SurveyAbs: State of North Carolina Rowan County - surveyed for Wm Norris 150 acres of land on the North side of Hunting Creek on Bryan's branch ... February 25th 1783
+Rec 
+Re 150A HC Bbr
+SCC: 
+Adj 
+Dat 1783
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 24169 -34799 F127 L0 P72 0 55 0
+txt 23102 -33891 F127 R0 %d =
+Pt BO Mi.Elsberry cnr
+Ln w; 40p; 
+Pt BO Donnaldson cnr
+Ln s50w; 156p; 
+Pt BO
+Ln w; 30p; 
+Pt pine
+Ln s; 42p; 
+Pt  on Young ln
+Ln e; 205p; 
+Pt fkWO Young cnr
+Ln s; 80p; 
+Pt stk his ln
+Ln e; 80p; 
+Pt stk
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-1129
+ENTRY: 
+WarrantNo: 286
+EntDat: 
+WarDat: 1778-08-06
+SurDat: 1783-03-08
+IssDat: 1783-10-10
+Frm NC
+To Josiah Norris
+Assignee: John Sloan
+Wat: Hunting Creek, Kennedys Creek
+Ref 
+! -- abstract --
+! 
+WarrantAbs: State of North Carolina No. 286 County of Rowan survey for John Sloane 200 acres lying upon Hunting Creek bounded by a survey of land that Joseph Bryant sold to Silas Norris including an improvement bought of William Cope 6th August 1778 (reverse side) I the subscriber do hereby assign my right and title of the within warrant to Josiah Norris this second day of February 1779 for value rec'd by me - John Sloan
+SurveyAbs: State of North Carolina Rowan County survey for Josiah Norris 200 acres of land on Kennedys Creek of Hunting Creek ... March 8 1783
+Rec 
+Re 200A HC KC
+SCC: 
+Adj 
+Dat 1783
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: Waggon Road
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 19663 -34967 F127 L0 P72 0 55 0
+txt 20080 -34198 F127 R0 %d =
+Pt WO fk br Wealls cnr
+Ln s8w; 134p; Wealls
+Pt PO McCord ln
+Ln s77e; 100p; 
+Pt WO his cnr
+Ln n; 20p; 
+Pt PO Young cnr
+Ln s84e; 36p; 
+Pt PO by by
+Ln s87e; 70p;
+Pt WO mth on Kennedy crk
+Ln e; 32p; 
+Pt PO
+Ln n70e; 60p; 
+Pt PO
+Ln e; 20p; 
+Pt Pop
+Ln n; 42p; 
+Pt pine
+Ln w; 80p; 
+Pt Ald Donnaldson 1stCnr
+Lm n10w; 55p; up KennedyCrk
+Pt lgWO mth sm br
+Lm n70w; 112p; up Br hllw
+Pt PO on Waggon Rd
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-1186
+ENTRY: 
+WarrantNo: 1480
+EntDat: 
+WarDat: 1778-12-07
+SurDat: 1782-12-19
+IssDat: 1783-10-10
+Frm NC
+To James Cass
+Wat: Hunting Creek, Fords Branch
+Ref 
+! -- abstract --
+! 
+WarrantAbs: State of North Carolina No. 1480 County of Rowan survey for James Cass 500 acres joining Moses Mitchell, William Grant and James Sanders, including his own improvement on the waters of Hunting Creek ... 7th December 1778
+SurveyAbs: State of North Carolina Rowan County surveyed for James Cass 500 acres of land on Fords branch in the fork of Hunting Creek ... December 19 1782
+Rec 
+Re 500A HC FBr
+SCC: none listed
+Adj Moses Mitchell, William Grant, James Sanders
+Dat 1783
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 17476 -38582 F127 L0 P72 0 55 0
+txt 15123 -37563 F127 R0 %d =
+Pt WO Jas.Saunders ln smBr
+Ln w; 290p; Sanders
+Pt PO 
+Ln s; 260p; 
+Pt lngPO
+Ln e; 310p; xBr
+Pt BO by hollow
+Ln n; 260p; 
+Pt stk
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-0964
+ENTRY: 
+WarrantNo: 347
+EntDat: 
+WarDat: 
+SurDat: 
+IssDat: 1783-10-10
+Frm NC
+To Theophilus Morgan
+Wat: Hunting Creek
+Ref 
+! -- abstract --
+! 
+WarrantAbs: 
+SurveyAbs: 
+Rec 
+Re 640A HC
+SCC: 
+Adj 
+Dat 1783
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -773 -39450 F127 L0 P255
+grp 6B9AC9D8
+Pt WO cnr Surry-Wilkes Rowan ln
+Ln n; 340p; 
+Pt PO
+Ln e; 235p; 
+Pt BO by BuckShoal crk Meyers cnr
+Ln s42e; 180p; 
+Pt Ches
+Ln s; 60p; 
+Pt stk nr crk
+Ln s38w; 194p; 
+Pt stk Rowan ln
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-0842
+ENTRY: 
+WarrantNo: 1057
+EntDat: 
+WarDat: 1778-09-04
+SurDat: 1782-12-18
+IssDat: 1783-10-10
+Frm NC
+To William Campbell
+Wat: Hunting Creek
+Ref 
+! -- abstract --
+! 
+WarrantAbs: State of North Carolina No. 1057 County of Rowan survey for William Campbell 200 acres on the North side of Hunting Creek joining the Surry line and Theophilus Morgans and Simontons land ... 4th September 1778
+SurveyAbs: State of North Carolina Rowan County surveyed for William Campbell 175 acres on the North side of Hunting Creek joining the lines of Adam Simonton and Theophilus Morgan ... December 18 1782
+Rec 
+Re 175A HC
+SCC: 
+Adj 
+Dat 1783
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 3513 -37089 F127 L0 P72 0 55 0
+grp 6B9AC9D8
+txt 2221 -38048 F127 R0 %d =
+Pt PO crk pt rock Simonton cnr
+Ln n; 204p; 
+Pt BO Surry ln
+Ln w; 150p; Surry Cty Ln
+Pt BO Morgan cnr
+Ln s; 75p; 
+Pt PO hollow
+Lm s10w; 110p; (frmAdj) dn hllw and br
+Pt crk
+Lm ;; crk to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-0925
+ENTRY: 
+WarrantNo: 1611
+EntDat: 
+WarDat: 1778-12-30
+SurDat: 1782-12-18
+IssDat: 1783-10-10
+Frm NC
+To Adam Simonton
+Assignee: 
+Wat: Hunting Creek South Fork
+Ref 
+! -- abstract --
+! 
+WarrantAbs: State of North Carolina No. 1611 County of Rowan survey for James Woodburn 300 acres on the South Fork of Hunting Creek joining Adam Campbell at a place called the Point Rock running North to the Surry line and joining Nathaniel Munsy? at the first hollow below the mouth of the Buck Shoals including his improvement where he now lives ... 30th December 1778 (reverse side) for and in consideration of sixty pounds to me in hand paid by Adam Simonton I do by these presents assign over all my right title claim and demands whatsoever to the within mentioned land an premises to the use and behoof of the said Adam Simonton his heirs and assigns forever Witness my hand this 8th day of November 1782 James Woodburn - Witness present John Hughs, John Simonton
+SurveyAbs: State of North Carolina Rowan County surveyed for Adam Simonton 290 acres on the North side of Hunting Creek joining William Campbell lower ln ... December 18 1782
+Rec 
+Re 290A HC
+SCC: 
+Adj 
+Dat 1783
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 3557 -37096 F127 L0 P72 0 55 0
+grp 6B9AC9D8
+txt 4040 -37820 F127 R0 %d =
+Pt PO crk rock pt Campbell cnr
+Ln n; 204p; 
+Pt BO SurryCo ln
+Ln e; 190p; Surry Co ln
+Pt PO
+Ln s8e; 120p; 
+Pt WO BuckShoalCrk
+Lm s8w; 140p; (est) dn Buck Shoal
+Pt creek
+Lm ;; Creek to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-2060
+ENTRY: 
+WarrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 
+IssDat: 1786-10-25
+Frm NC
+To Alexander Donoldson
+Wat: Hunting Creek, Buck Shoal
+Ref 
+! -- abstract --
+! 
+WarrantAbs: State of North Carolina No. 1866 County of Rowan survey for Alexander Donaldson 500 acres lying on Buck Shoal Branch and on both sides of Hunting Creek joining Surry line and Reubin Morgin etc for complement ... 29 March 1779
+SurveyAbs: 
+Rec 
+Re 390A HC BuckSh
+SCC: 
+Adj 
+Dat 1786
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 6632 -35514 F127 L0 P72 0 55 0
+txt 6887 -38309 F127 R0 %d =
+Pt WO Rub.Morgan ln
+Ln n; 15c; 
+Pt WO Morgan cnr
+Ln n40e; 30c; 
+Pt BO his cnr
+Ln n; 21c; Ru.Morgan
+Pt BO his cnr
+Ln e; 40c; Morgan
+Pt pine
+Ln n; 31c; 
+Pt pine Surry Ln
+Ln w; 56c; Surry Ln
+Pt WO hd Buck Shole br
+Ln s53w; 15c; 
+Pt map
+Ln s13w; 11c; 
+Pt Ash
+Ln s30w; 12c; 
+Pt Dw
+Ln s20w; 8c; 
+Pt 
+Ln w; 3c; 
+Pt WO
+Ln s15w; 19c; 
+Pt Wil
+Ln e; 3c; 
+Pt Wil
+Ln s20w; 36c; 
+Pt pine
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-1194
+ENTRY: 
+WarrantNo: 1377
+EntDat: 
+WarDat: 
+SurDat: 
+IssDat: 1783-10-10
+Frm NC
+To Reuben Morgain
+Wat: Hunting Creek
+Ref 
+! -- abstract --
+! 
+WarrantAbs: State of North Carolina No. 1377 County of Rowan survey for Reuben Morgan 300 acres on Hunting Creek joining Owens and Austins land and including his own improvement ... 3rd December 1778
+SurveyAbs: State of North Carolina Rowan County 300 acres on Hunting Creek joining the lines of Richard Outin and Bethsheba Owens ... December 19 1782
+Rec 
+Re 300A HC
+SCC: 
+Adj 
+Dat 1783
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 6832 -35852 F127 L0 P72 0 55 0
+txt 7154 -35804 F127 R0 %d =
+Pt WO N bnk crk mth sm br
+Ln n33e; 136p; Outins ln
+Pt RO
+Ln n; 80p; 
+Pt RO
+Ln e; 116p; 
+Pt PO
+Ln s; 320p; xCreek Owens ln
+Pt pine
+Ln w; 190p; 
+Pt pine
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-1026
+ENTRY: 
+WarrantNo: 1376
+EntDat: 
+WarDat: 1778-12-03
+SurDat: 1782-12-18
+IssDat: 1783-10-10
+Frm NC
+To Bethsheba Owens
+Wat: Hunting Creek
+Ref 
+! -- abstract --
+! 
+WarrantAbs: State of North Carolina No. 1376 County of Rowan survey for Bethsheba Owens 500 acres on both side of Hunting Creek beginning at the upper end of Anthony Shoals and running up the creek for complement ... 3rd December 1778
+SurveyAbs: State of North Carolina Rowan County surveyed for Bethsheba Owens 475 acres on Hunting Creek above Anthony Shoals ... December 18 1782
+Rec 
+Re 475A HC
+SCC: 
+Adj 
+Dat 1783
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 12394 -33951 F127 L0 P72 0 55 0
+txt 9987 -34276 F127 R0 %d =
+Pt WO N bnk crk up end shoals
+Ln n; 120p; 
+Pt WO
+Ln w; 320p; 
+Pt PO hllw
+Ln w; 60p; 
+Pt stk Ru.Morgan ln
+Ln s; 200p; xCrk Morgan
+Pt pine
+Ln e; 380p; 
+Pt pine
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-0852
+ENTRY: 
+WarrantNo: 1378
+EntDat: 
+WarDat: 1778-12-03
+SurDat: 
+IssDat: 1783-10-10
+Frm NC
+To Bethsheba Owens
+Wat: Hunting Creek
+Ref 
+! -- abstract --
+! 
+WarrantAbs: State of North Carolina No. 1378 Rowan County survey for Bethsheba Owens 100 acres on Hunting Creek joining below her other entry and including Anthonys shoals ... 3rd December 1778
+SurveyAbs: 
+Rec 
+Re 100A HC
+SCC: 
+Adj 
+Dat 1783
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: Anthonys Shoals
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 12406 -33964 F127 L0 P72 0 55 0
+txt 12497 -34397 F127 R0 %d =
+Pt WO NbnkCrk upEnd shoals BegOthrSrvy
+Ln n; 120p; 
+Pt WO her cnr
+Ln e; 130p; 
+Pt PO
+Ln s; 140p; 
+Pt stk S bnk crk
+Lm ;; up crk incl shoals to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-2563
+ENTRY: 
+WarrantNo: 2346
+EntDat: 
+WarDat: 1780-01-16
+SurDat: 
+IssDat: 1789-05-18
+Frm NC
+To William Ball
+Wat: Hunting Creek, Fords Branch
+Ref 
+! -- abstract --
+! 
+WarrantAbs: State of North Carolina No. 2346 County of Rowan survey for William Ball 300 acres on the waters of Hunting Creek joining Surry line and Moses Mitchel including a meadow and a small improvement ... 16th January 1780
+SurveyAbs: 
+Rec 
+Re 300A HC FordsBr
+SCC: James Cast, Daniel Ball
+Adj 
+Dat 1789
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 14494 -38877 F127 L0 P72 0 55 0
+txt 13179 -37805 F127 R0 %d =
+Pt PO County ln
+Ln s; 70c; 
+Pt BO Jas.Cast ln
+Ln w; 42.86c; 
+Pt BO
+Ln n; 70c; 
+Pt PO on CtyLn
+Ln ;; County Ln to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-2100
+ENTRY: 
+WarrantNo: 1854
+EntDat: 
+WarDat: 1779-10-03
+SurDat: 1784-07-30
+IssDat: 1786-10-25
+Frm NC
+To John Little
+Wat: Hunting Creek, Fords Branch
+Ref 
+! -- abstract --
+! 
+WarrantAbs: State of North Carolina No. 1854 County of Rowan survey for John Little (Joseph Taylor crossed out) 150 acres in the forks of Hunting Creek on Fords branch joining the lines of James Cass and Benjamin Elsberry ... 3rd October 1779.
+SurveyAbs: State of North Carolina Rowan County surveyed for John Little 160 acres of land on Fords branch in the forks of Hunting Creek ... July 30th 1784
+Rec 
+Re 160A
+SCC: none listed
+Adj 
+Dat 1786
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 14269 -35827 F127 L0 P72 0 55 0
+txt 14780 -35264 F127 R0 %d =
+Pt lngPO Jas.Cass 2d cnr
+Ln e; 226p; Jas.Cass
+Pt WO br Weals cnr
+Ln s10e; 95p; Weals
+Pt BO on br
+Ln s15e; 20p; 
+Pt WO 2p fr MthSmBr Elsberry cnr
+Ln w; 255p; Elsberry past his cnr
+Pt stk
+Ln n; 112p; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-1039
+ENTRY: 
+WarrantNo: 1390
+EntDat: 
+WarDat: 1778-12-12
+SurDat: 1782-12-19
+IssDat: 1783-10-10
+Frm NC
+To Benjamin Elsberry
+Assigns: none
+Wat: Hunting Creek South Fork
+Ref 
+! -- abstract --
+! 
+WarrantAbs: State of North Carolina No. 1390 County of Rowan survey for Benjamin Elsberry 250 on the North side of the South fork of Hunting Creek joining McCords, Wealls anad Cass lands ... 12th December 1778
+SurveyAbs: 
+Rec 
+Re 258A HC
+SCC: none listed
+Adj James Cass, McCord, George Wealls
+Dat 1783
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 17869 -31808 F127 L0 P72 0 55 0
+txt 16177 -33002 F127 R0 %d =
+Pt RO crk bnk UpEnd GreatRock
+Ln n; 165p; 
+Pt Gum Fords br
+Lm n62w; 180p; up br
+Pt WO 2p fr mth sm br
+Ln w; 120p; 
+Pt PO
+Ln s; 84p; 
+Pt Pers crn bnk
+Lm e; 50p; (est)
+Pt WO bend Cass cnr
+Ln s23e; 60p; 
+Pt PO
+Ln s; 86p; 
+Pt PO crk bnk
+Ln ;; dwn Crk to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Iredell-0049
+ENTRY: 
+WarrantNo: 1703
+EntDat: 
+WarDat: 1779-01-
+SurDat: 1792-03-15
+IssDat: 1793-11-26
+Frm NC
+To Ebenezer Jones
+Wat: Hunting Creek South Fork
+Ref 
+! -- abstract --
+! 
+WarrantAbs: State of North Carolina County of Rowan No. 1703 survey for Ebenezer Jones 200 acres on both sides of the South side of the South fork of Hunting Creek upon the great shoals joining Benjamin Alsberry running up the creek for complement ... 17th January 1779
+SurveyAbs: 
+Rec 
+Re 250A HCSF
+SCC: none listed
+Adj 
+Dat 1793
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 15638 -33552 F127 L0 P255
+txt 14468 -32584 F127 R0 %d =
+Pt fkWO bend crk abv mill
+Ln s23e; 60p; Elsberry
+Pt PO
+Ln s; 86p; 
+Pt PO crk bnk
+Ln w; 300p; xCrk
+Pt pine
+Ln n; 100p; 
+Pt stk on crk
+Lm ;; Crk to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Iredell-0434
+ENTRY: 
+WarrantNo: 42
+EntDat: 1800-01-15
+WarDat: 1800-04-15
+SurDat: 1800-10-07
+IssDat: 1802-09-23
+Frm NC
+To William Ball
+Wat: Hunting Creek
+Ref 
+! -- abstract --
+! 
+WarrantAbs: North Carolina Iredell County No. 42 survey for William Bawl 100 acres on waters of Hunting Creek adjoining lines with John Privit, William Pinkston and others Entered on the 15th day of January 1800 ... 15th April 1800
+SurveyAbs: State of North Carolina Iredell County surveyed for William Ball 100 acres on the branches of Hunting Creek beginning at a post oak Daniel Balls corner ... Oct 7th 1800
+Rec 
+Re 100A HC
+SCC: 
+Adj 
+Dat 1802
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -5899 -37433 F127 L0 P72 0 55 0
+grp 6E737456
+txt -6561 -36683 F127 R0 %d =
+Pt PO Dan.Ball cnr
+Ln s; 80p; 
+Pt PO Lunsford cnr
+Ln e; 60p; 
+Pt stk Pinkston ln
+Ln s; 78p; 
+Pt stk
+Ln n75w; 210p; xSylv.Baker cnr swmp
+Pt pine his cnr
+Ln n; 20p; 
+Pt stk
+Ln w; 12p; 
+Pt stk
+Ln n; 10p; 
+Pt stk
+Ln e; 80p; 
+Pt PO
+Ln n; 40p; 
+Pt PO
+Ln w; 26p; 
+Pt stk
+Ln n; 30p; 
+Pt PO
+Ln ;; E to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Iredell-0709
+ENTRY: 
+WarrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 1824-07-26
+IssDat: 
+Frm NC
+To William Ball
+Wat: Hunting Creek, Rocky Creek
+Ref 
+! -- abstract --
+! https://nclandgrants.com/frame/?fdr=488&frm=61&mars=12.14.76.709
+WarrantAbs: 
+SurveyAbs: 
+Rec 
+Re 250A HC
+SCC: Theophilus Campbell, Jordan Mosbey?
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -3743 -33552 F127 L0 P255
+Pt PO hllw Walk cnr
+Ln s78e; 138p; Walk
+Pt PO his cnr
+Ln s12w; 50p; 
+Pt PO Henderson cnr
+Ln n88e; 180p; Henderson
+Pt BO his cnr Grant ln
+Ln n; 66p; Grant
+Pt pine
+Ln n68w; 49p; 
+Pt pine Morgan cnr
+Ln n; 42p; Morgan
+Pt pine Campbell ln
+Ln w; 102p; Campbell
+Pt BO his cnr
+Ln n; 74p; Campbell
+Pt Hic Rash ln
+Ln w; 140p; Rash
+Pt stk Speak ln
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Iredell-0234
+ENTRY: 
+WarrantNo: 306
+EntDat: 
+WarDat: 
+SurDat: 
+IssDat: 
+Frm NC
+To John Houston
+Wat: Hunting Creek, Dutchman Creek
+Ref 
+! -- abstract --
+! https://nclandgrants.com/frame/?fdr=486&frm=1224&mars=12.14.76.234
+WarrantAbs: 
+SurveyAbs: 
+Rec 
+Re 300A HC
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 25994 -29521 F127 L0 P72 0 55 0
+txt 26635 -30378 F127 R0 %d =
+Pt 
+Ln e; 246p; 
+Pt 
+Ln n; 154p; 
+Pt 
+Ln w; 80p; 
+Pt 
+Ln n; 66p; 
+Pt 
+Ln w; 166p; 
+Pt 
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Iredell-0282
+ENTRY: 
+WarrantNo: 6
+EntDat: 
+WarDat: 1795-02-17
+SurDat: 
+IssDat: 1792-06-07
+Frm NC
+To Thomas Young
+Wat: Hunting Creek
+Ref 
+! -- abstract --
+! https://nclandgrants.com/frame/?fdr=486&frm=1506&mars=12.14.76.281
+WarrantAbs: 
+SurveyAbs: 
+Rec 
+Re 248A HC
+SCC: 
+Adj 
+Dat 1792
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 12700 -29552 F127 L0 P72 0 55 0
+txt 11836 -29020 F127 R0 %d =
+Pt PO cnr his 320A
+Ln s; 21p; 
+Pt pine Jas.Campbell cnr
+Ln e; 258p; Campbell
+Pt PO his own ln
+Ln s; 88p; his ln
+Pt pine his cnr
+Ln w; 416p; his ln
+Pt smWO his cnr
+Ln n; 109p; 
+Pt pine
+Ln ;; E to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Iredell-0132
+ENTRY: 
+WarrantNo: 
+EntDat: 
+WarDat: 1785-12-03
+SurDat: 1793-12-27
+IssDat: 1794-07-07
+Frm NC
+To Daniel Ball
+Assignee: John Howard
+Wat: 
+Ref 
+! -- abstract --
+! 
+WarrantAbs: State of North Carolina County of Rowan No. 2921 survey for John Howard 350 acres on the waters of Brushy Creek in the forks of said creek joining Obediah Baker, Nimrod Lunsford, Bazel Pinkston and Philip Williams ... 3rd December 1785 (reverse side) I do hereby sign over the within warrant and defend the same from all manner of persons to John Littel for value received of him as witness my hand this 28 of March 1786 John Howard his H mark. Test James G? (next note) I do hereby sign the within land warrant and defend the same clear from all persons whatever to David Ball for value rec'd of him witness my hand this 13th day of Nov'r 1795 John Howard his H mark - Test John Hughs
+SurveyAbs: 
+Rec 
+Re 310A 
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: Meeting House
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to (%Assignee:)\%dat\File# %Id\%Re
+! Metes and bounds
+loc -8955 -38864 F127 L0 P72 0 55 0
+grp 6E737456
+txt -8056 -37967 F127 R0 %d =
+Pt smBO AarL.Speeks cnr stk
+Ln s; 160p; 
+Pt WO by br Speeks cnr
+Ln e; 160p; 
+Pt WO
+Ln s; 40p; 
+Pt stk
+Ln e; 80p; 
+Pt 2Ches PO
+Ln n; 40p; 
+Pt BO
+Ln w; 26p; 
+Pt smPO
+Ln n; 30p; 
+Pt Hic bel MtgHouse
+Ln e; 96p; 
+Pt PO
+Ln n; 133p; 
+Pt pine
+Ln ;; W to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-1886
+ENTRY: 
+WarrantNo: 483
+EntDat: 
+WarDat: 
+SurDat: 1784-09-14
+IssDat: 
+Frm NC
+To John Little
+Wat: Little Dutchmans Creek
+Ref 
+! -- abstract --
+! 
+WarrantAbs: 
+SurveyAbs: 
+Rec 
+Re 300A LtDC
+SCC: John Little, John Current
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 15063 -11475 F127 L0 P72 0 49 0
+txt 15097 -12973 F127 R0 %d =
+Pt SG crkBnk Jno.Current cnr
+Ln e; 33c; Current+Little
+Pt PO Little cnr
+Ln n; 69c; Little
+Pt pine his cnr Fr.Holms ln
+Ln w; 54c; 
+Pt Pop sap crk bnk
+Lm ;; dwn Creek to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-1748
+ENTRY: 
+WarrantNo: 2349
+EntDat: 
+WarDat: 1780-01-09
+SurDat: 
+IssDat: 1788-07-11
+Frm NC
+To William Pinkston
+Wat: Hunting Creek, Straight Creek
+Ref 
+! -- abstract --
+! 
+WarrantAbs: State of North Carolina County of Rowan No. 2349 survey for William Pinkston 250 acres on the South East side of the North fork of Straight Creek above Munsey's? including the land between the said creek and the ? ?spring? branch and up both side of Straight Creek ... 9th January 1780
+SurveyAbs: 
+Rec 
+Re 350A HC
+SCC: William Roberts, Bazel Pinkston
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -2755 -38989 F127 L0 P255
+Pt lgPine Popsa? Hill NsdStCrk
+Ln w; 37c;
+Pt branch
+Ln w; 23c; 
+Pt pine
+Ln s; 41.75c; 
+Pt smPO
+Ln e; 28c; 
+Pt WFk StraightCrk
+Ln e; 32c; 
+Pt stk
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Iredell-0620
+ENTRY: 
+WarrantNo: 672
+EntDat: 1808-11-02
+WarDat: 1809-02-02
+SurDat: 1809-12-11
+IssDat: 1809-12-22
+Frm NC
+To Jonathan Lunsford
+Wat: Straight Creek
+Ref 
+! -- abstract --
+! 
+WarrantAbs: State of North Carolina Iredell County survey for Jonathan Lunsford 100 acres on the waters of Straight Creek waters of Hunting Creek bounded by lands of John Prevet heirs of Phillip Williams Asner Crabb Lucas, and Besheers lands for complement entered 2nd Nov 1808 ... 2d February 1809
+SurveyAbs: Pursuant to warrant No. 672 entered Nov 2d 1808 surveyed for Jonathan Lunsford 100 acres on the waters fo Straight Creek waters of Hunting Creek bounded by lands of John Privet heirs of Phillip Williams adn Bethears land for complement ... 
+Rec 
+Re 100A
+SCC: John Privet, Jared Crab
+Adj 
+Dat 1809
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: Wilkes Road
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -5978 -41582 F127 L0 P255
+Pt pine Williams ln Privet cnr
+Ln s; 146p; Privet?
+Pt stk nr Wilkes Rd Privet cnr
+Ln e; 110p; 
+Pt stk Beshears ln
+Ln n; 146p; 
+Pt stk Williams ln
+Ln ;; same to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-1773
+ENTRY: 
+WarrantNo: 1120
+EntDat: 
+WarDat: 1778-10-28
+SurDat: 1785-03-09
+IssDat: 1788-07-11
+Frm NC
+To Thomas Pinkston
+Wat: Hunting Creek
+Ref 
+! -- abstract --
+! 
+WarrantAbs: State of North Carolina County of Rowan No. 1120 survey for Thomas Pinkston 218 acres on Brushey Creek beginning on the North side of the same running across said fork to the waters of Long Branch and taking in the hill between the two branches and running downwards etc for complement ... 28th October 1778
+SurveyAbs: State of North Carolina Rowan County surveyed for Thomas Pinkstone by virtue of a Warrant to me directed bearing date 28th October and Number 1120 on Brushy Creek ... 
+Rec 
+Re 218A HC
+SCC: 
+Adj 
+Dat 1788
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -12505 -36376 F127 L0 P255
+Pt smSO Nsd BrushyCrk Dan.Easly cnr
+Ln e; 15c; 
+Pt smSO
+Ln s; 58c; 
+Pt stk
+Ln e; 21.5c; 
+Pt stk
+Ln s; 36.25c; 
+Pt stk Bazel Baker field
+Ln w; 36.25c; 
+Pt stk
+Ln n; 18c; 
+Pt PO Sam.William cnr
+Ln ;; Williams and Dan.Easley to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Iredell-0427
+ENTRY: 
+WarrantNo: 81
+EntDat: 
+WarDat: 1795-02-18
+SurDat: 1795-03-13
+IssDat: 1807-12-10
+Frm NC
+To James Williams
+Wat: Rocky Creek
+Ref 
+! -- abstract --
+! 
+WarrantAbs: State of North Carolina Iredell County survey for James Williams 200 acres on the waters of Rocky Creek between Reuben Fletchers land and Dornbush Mountain ... 18th February 1795 No. 81 (reverse side) No. 81 returned in the name of Jo Dicksie? for 400 acres No. 404 (next document) State of North Carolina Iredell County I hereby certify that I James Williams came into open court and made oath that the purchase money etc for lands claimed under the annexed receipt was paid by him In witness whereof I have hereunto set my hand and affixed the seal of said county at office the 20th day of November 1799 - A. Sharpe Clk
+sSurveyAbs: 
+Rec 
+Re 200A RC
+SCC: 
+Adj 
+Dat 1807
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -7527 -30539 F127 L0 P73 0 51 0
+txt -7105 -29759 F127 R0 %d =
+Pt PO Fletcher ln
+Ln s; 160p; 
+Pt PO
+Ln e; 200p; 
+Pt RO
+Ln n; 160p; 
+Pt PO
+Ln w; 136p; 
+Pt Fletcher cnr
+Ln ;; Fletcher ln to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Iredell-0428
+ENTRY: 
+WarrantNo: 80
+EntDat: 
+WarDat: 1795-02-18
+SurDat: 1798-12-05
+IssDat: 1801-12-10
+Frm NC
+To John Ball
+Assignee: James Williams
+Wat: Rocky Creek
+Ref 
+! -- abstract --
+! 
+WarrantAbs: State of North Carolina Iredell County survey for James Williams 100 acres on the waters of Rocky Creek bounded by lands of Thomas Pinkston, John Roberts and Phillip Williams ... 18 February 1795 No. 80 (reverse side) Entered in the name of Joseph Dixon for 100 acres of land and paid for ... (next note) I assign to John Ball all my right and title of the within warrant of 100 acres of land  witness my hand - James Williams this 5th January 1797 Test Jacob 
+SurveyAbs: 
+Rec 
+Re 100A RC
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to (%Assignee:)\%dat\File# %Id\%Re
+! Metes and bounds
+loc -10795 -34726 F127 L0 P73 0 51 0
+txt -11385 -34212 F127 R0 %d =
+Pt 12p N mkd WO x Fletcher-Ph.Williams
+Ln s58w; 148p; Ph.Williams
+Pt PO his cnr
+Ln e; 86p; 
+Pt stk Jas.Williams cnr
+Ln s; 95p; 
+Pt pine Book.Hays cnr
+Ln e; 234p; 
+Pt pine
+Ln n; 40p; 
+Pt PO
+Ln w; 194p; Fletcher
+Pt stk in br his cnr
+Ln ;; Fletcher to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Iredell-0538
+ENTRY: 
+WarrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 1804-08-09
+IssDat: 
+Frm NC
+To Reuben Fletcher
+Wat: 
+Ref 
+! -- abstract --
+! 
+WarrantAbs: 
+SurveyAbs: 
+Rec 
+Re 15A
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: Grassy Knob
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -9877 -35248 F127 L0 P255
+Pt stk spr GrassyNob 9th cnr PW
+Ln s58w; 100p; 
+Pt xhis own ln
+Ln e; 92p; with same
+Pt BO
+Ln n; 55; N to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Iredell-0346
+ENTRY: 
+WarrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 
+IssDat: 
+Frm NC
+To Reuben Fletcher
+Wat: 
+Ref 
+! -- abstract --
+! 
+WarrantAbs: 
+SurveyAbs: 
+Rec 
+Re 30A
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -8490 -34987 F127 L0 P255
+txt -9461 -34960 F127 R0 %d =
+Pt ChO E end GKMtn D.Woodson cnr J.Williams ln
+Ln s; 30p; Woodson
+Pt PO Fletcher cnr
+Ln w; 124p; Fletcher
+Pt stk
+Ln n; 51p; 
+Pt stk Williams ln
+Ln ;; same to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Iredell-0393
+ENTRY: 
+WarrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 
+IssDat: 1801-11-23
+Frm NC
+To Aaron Luckey Speeks
+Wat: Hunting Creek
+Ref 
+! -- abstract --
+! 
+WarrantAbs: 
+SurveyAbs: 
+Rec 
+Re 63A HC
+SCC: 
+Adj 
+Dat 1801
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -9528 -36881 F127 L0 P72 0 55 0
+txt -8558 -36862 F127 R0 %d =
+Pt 
+Ln s80e; 220p; 
+Pt 
+Ln n; 26p; 
+Pt 
+Ln w; 12p; 
+Pt 
+Ln n; 40p; 
+Pt 
+Ln w; 200p; 
+Pt 
+Ln s; 29p; 
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Iredell-
+ENTRY: 
+WarrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 1801-10-14
+IssDat: 
+Frm NC
+To Nimrod Lunsford
+Wat: Rocky Creek
+Ref 
+! -- abstract --
+! 
+WarrantAbs: 
+SurveyAbs: 
+Rec 
+Re 100A
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 426 -34439 F127 L0 P255
+Pt PO D.Caldwell ln
+Ln s; 20c; Caldwell
+Pt pine stk Ch.Caton ln
+Ln s68w; 27c; Caton
+Pt stk
+Ln n68w; 15c; 
+Pt stk Wallises ln
+Ln n; 24c; his ln
+Pt stk Mar.Morgan old srv
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Iredell-0134
+ENTRY: 
+WarrantNo: 1478
+EntDat: 
+WarDat: 1778-12-04
+SurDat: 1793-12-07
+IssDat: 1794-07-07
+Frm NC
+To John Kemp
+Wat: Hunting Creek, Brushy Fork
+Ref 
+! -- abstract --
+! 
+WarrantAbs: State of North Carolina County of Rowan No. 1478 survey for John Kemp 200 acres on Brushy Creek joining James Tackett above, the rest unbounded including his own improvement ... 4th December 1778
+SurveyAbs: 
+Rec 
+Re 200A HC Brush
+SCC: none listed
+Adj 
+Dat 1794
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -19579 -39532 F127 L0 P255
+txt -20930 -39455 F127 R0 %d =
+Pt Ches D.Woodson cnr
+Ln w; 40p; 
+Pt Woodson cnr
+Ln s1e; 94p; 
+Pt 
+Ln n57e; 46p; 
+Pt Woodson cnr
+Ln n85e; 20p; 
+Pt 
+Ln s5e; 26p; 
+Pt 
+Ln s45e; 120p; 
+Pt PO Woodson cnr
+Ln s45w; 80p; 
+Pt BO
+Ln n45w; 320p; 
+Pt BO
+Ln n45e; 270p; 
+Pt stk due N of 1st
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-0849
+ENTRY: 
+WarrantNo: 1009
+EntDat: 
+WarDat: 1778-10-09
+SurDat: 1783-03-08
+IssDat: 1783-10-10
+Frm NC
+To Christopher Houstin
+Wat: Hunting Creek
+Ref 
+! -- abstract --
+! 
+WarrantAbs: State of North Carolina County of Rowan No. 1009 survey for Nehemiah Hearn 320 acres on the waters of Hunting Creek joining John Hutson, James Hearn and William Fullerton, including his own improvement ... 9th October 1778 (reverse side) For and in consideration of eight hundred pounds to me in hand paid I do hereby assign and make over unto Christopher Houston or his heirs the within warrant witness my hand this 3rd April 1779 Nehemiah Hearn - Test Charity Hously her x mark
+SurveyAbs: 
+Rec 
+Re 320A HC
+SCC: none listed
+Adj John Hutson, James Hearn, William Fullerton
+Dat 1783
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc 31840 -30331 F127 L0 P255
+txt 31029 -29603 F127 R0 %d =
+Pt PO by br
+Ln n12w; 110p; 
+Pt lgWO
+Ln n65w; 70p; 
+Pt pine
+Ln s19w; 154p; 
+Pt pine
+Ln s43w; 42p; 
+Pt PO
+Ln s40e; 56p; 
+Pt pine
+Ln s11e; 154p; 
+Pt PO
+Ln n61e; 266p; 
+Pt PO
+Ln n; 102p; 
+Pt crkBO
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Iredell-0115
+ENTRY: 
+WarrantNo: 1003
+EntDat: 
+WarDat: 1778-10-27
+SurDat: 1793-10-10
+IssDat: 1794-07-07
+Frm NC
+To George Decker
+Assignee: James Bone
+Wat: Rocky Creek South Fork, Gregorys Branch
+Ref 
+! -- abstract --
+! 
+WarrantAbs: State of North Carolina County of Rowan No. 1003 survey for James Bones 100 acres on the waters of the South Yadkin, joining William Bones deeded land on the North vacant elsewhere ... 27th October 1778 (reverse side) For and in consideration of twelve pounds I do by these presents transfer all my title and claim to the warrant and land within mentioned to George Decker his hiers and assigns forever - Given under my hand and seal the 30th August 1793 - James Bone - Test Wm Sharpe
+SurveyAbs: 
+Rec 
+Re 100A SY
+SCC: none listed
+Adj 
+Dat 1794
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -8022 -20287 F127 L0 P73 0 51 0
+txt -9227 -20300 F127 R0 %d =
+Pt WO low end fltRckFalls
+Ln n; 44p; 
+Pt PO
+Ln w; 160p; 
+Pt PO BO
+Ln s; 100p; 
+Pt pine
+Ln e; 160p; 
+Pt stk
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Iredell-0085
+ENTRY: 
+WarrantNo: 1207
+EntDat: 
+WarDat: 1778-11-03
+SurDat: 1792-12-10
+IssDat: 1794-07-07
+Frm NC
+To James McBroom
+Assignee: John McBroom
+Wat: Rocky Creek South Fork
+Ref 
+! -- abstract --
+! 
+WarrantAbs: State of North Carolina Rowan County No. 1207 survey for John McBroom 250 acres on the head of the South branch of Rockey Creek bounded by Alexander McCurdy's conditional line including his improvement ... 3rd November 1778
+SurveyAbs: Iredell County pursuant to a warrant late of Rowan now Iredell county No. 1207 surveyed for James McBroom heir at law to John McBroom deceased 200 acres on the branches of the South fork of Rocky Creek ...
+Rec 
+Re 200A RCSF
+SCC: none listed
+Adj 
+Dat 1794
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -15897 -18627 F127 L0 P73 0 51 0
+txt -15832 -19904 F127 R0 %d =
+Pt WO mth McBroom br
+Ln n10w; 240p; McCurdy
+Pt WO
+Ln n80e; 60p; 
+Pt Sas
+Ln n85e; 22p; 
+Pt PO stoney rdg Sharpe cnr
+Ln s60e; 140p; 
+Pt stk
+Ln s19w; 190p; 
+Pt stk
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Iredell-0095
+ENTRY: 
+WarrantNo: 3028
+EntDat: 
+WarDat: 1786-11-11
+SurDat: 1793-12-05
+IssDat: 1794-07-07
+Frm NC
+To William Millsap
+Assignee: William Hughes
+Wat: Rocky Creek
+Ref 
+! -- abstract --
+! 
+WarrantAbs: State of North Carolina Rowan County No. 3028 survey for William Hughes 150 acres on waters of Rocky Creek on the South side of said creek joining James King on the West etc. ... 11th November 1786 (reverse side) I do by these presents transfer all my right and claim of and to the within mentioned land to William Milsaps his heirs etc for ever - for value received witness my hand and seal this 5th December 1793 Williaim Hughes (seal) - Witness Wm Sharpe
+SurveyAbs: 
+Rec 
+Re 150A RC
+SCC: 
+Adj James King, Joseph Millsap
+Dat 1794
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -24725 -28132 F127 L0 P255
+txt -25944 -27802 F127 R0 %d =
+Pt PO Jas.King+Jo.Millsap cnr
+Ln n; 40p; 
+Pt POsap
+Ln w; 140p; 
+Pt WO by br
+Ln s; 180p; 
+Pt BO
+Ln e; 140p; 
+Pt stk Jo.Millsaps ln
+Ln ;; same to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Iredell-0099
+ENTRY: 
+WarrantNo: 
+EntDat: 
+WarDat: 1787-05-08
+SurDat: 1793-12-05
+IssDat: 1794-07-07
+Frm NC
+To Joseph Milsaps
+Assignee: Nathaniel Hartness, Alexander McCurdy
+Wat: Rocky Creek, Snow Creek
+Ref 
+! -- abstract --
+! 
+WarrantAbs: State of North Carolina Rowan County No. 2341? survey for Nathaniel Hartness 100 acres on the waters of Rockey Creek adjoining Joseph Milsap and Archibald Hogston in the Rockey Ridge ... 8th May 1787 (reverse side) I do sign over this warrant to Alexander McCurdy as my right and title Witness my hand Nathaniel Hartness his x mark Test. Wm Harden Wm McHargue (next note) I do sign over my warrant to Joseph Millsaps as my right and title for value received of him by me May 24 1792 Alex'r McCurdy his x mark - Teste Jas Sharpe
+SurveyAbs: 
+Rec 
+Re 100A RC
+SCC: 
+Adj James King
+Dat 1794
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -24188 -28070 F127 L0 P255
+Pt smWO Jas.King cnr Millsap ln
+Ln s; 118p; 
+Pt Ches nr gully
+Ln e; 140p; 
+Pt BO by sm br
+Ln n; 118p; 
+Pt stk King ln
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Iredell-0321
+ENTRY: 
+WarrantNo: 
+EntDat: 
+WarDat: 
+SurDat: 1798-12-12
+IssDat: 
+Frm NC
+To Edward Griffeth
+Wat: 
+Ref 
+! -- abstract --
+! 
+WarrantAbs: 
+SurveyAbs: 
+Rec 
+Re 100A
+SCC: 
+Adj 
+Dat 
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -26119 -28613 F127 L0 P255
+txt -27412 -28151 F127 R0 %d =
+Pt WO by br Wm.Millsap 3rd
+Ln w; 160p; 
+Pt smWO
+Ln s; 100p; 
+Pt PO Jno.Smith ln
+Ln e; 160p; 
+Pt BO
+Ln ;; to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Iredell-0320
+ENTRY: 
+WarrantNo: 389
+EntDat: 1796-01-20
+WarDat: 1798-12-11
+SurDat: 1798-12-26
+IssDat: 1800-01-02
+Frm NC
+To John Griffith
+Wat: Rocky Creek
+Ref 
+! -- abstract --
+! 
+WarrantAbs: North Carolina Iredell County survey for John Griffith 100 acres on the South side of Rocky Creek bounded by lands of James Harness and his own land entered on the 20th January 1796 ... 11th December 1798 No. 389
+SurveyAbs: 
+Rec 
+Re 100A RC
+SCC: none listed
+Adj 
+Dat 1800
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -21938 -29301 F127 L0 P255
+Pt Ches Jas.Hartness ln
+Ln n; 92p; 
+Pt WO his cnr Jolly old ln
+Ln n64w; 160p; with same
+Pt ChO
+Ln s; 170p; 
+Pt stk
+Ln ;; E to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-3023
+ENTRY: 
+WarrantNo: 
+EntDat: 
+WarDat: 1779-03-29
+SurDat: 1785-03-09
+IssDat: 1793-11-26
+Frm NC
+To David Woodson
+Wat: Rocky Creek
+Ref 
+! -- abstract --
+! 
+WarrantAbs: State of North Carolina Rowan County No. 1898 survey for David Woodson 700 acres on the spur of the Brushy Mountain in the waters of Rocky Creek called the Grassey Knob ... 29th March 1779
+SurveyAbs: State of North Carolina Rowan County surveyed for David Woodson by virtue of a warrants bearing date 29th March 1799 and No. 1898 ... 
+Rec 
+Re 679A RC
+SCC: Humphrey Roberts, William Jolly
+Adj 
+Dat 1793
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -8292 -34669 F127 L0 P73 0 51 0
+txt -7901 -33217 F127 R0 %d =
+Pt PO SE sd GrassyNobMt Jno.Roberds cnr
+Ln n; 7c; 
+Pt ChO top mtn Ob.Bake ln
+Ln e; 8c; 
+Pt Baker cnr Hic
+Ln e; 59c; 
+Pt pine
+Ln s; 69c; 
+Pt branch
+Ln s; 22.5c; 
+Pt WO BO
+Ln w; 82c; 
+Pt PO
+Ln n; 48.5c; 
+Pt stk Jno.Roberts ln
+Ln e; 14c; Roberts
+Pt stk Roberts cnr
+Ln ;; Roberts N to beg
+End
+! -- n ------ watercourse ------ last, first
+TYP NC Grant
+Id Rowan-1439
+ENTRY: 
+WarrantNo: 1890
+EntDat: 
+WarDat: 1779-04-01
+SurDat: 1780-04-06
+IssDat: 1784-11-04
+Frm NC
+To David Woodson
+Wat: Rocky Creek
+Ref 
+! -- abstract --
+! 
+WarrantAbs: State of North Carolina Rowan County No. 1890 survey for David Woodson 640 acres on Rocky Creek joining to Moses Pearis's entry which includes the improvement that the said Moses Pearis and his son Ezekiel Pearis lives on, extending down Rocky Creek on both sides thereof so as to include the improvement whereon John Shoemaker lives for quantity ... 1st April 1779
+SurveyAbs: 
+Rec 
+Re 587A RC
+SCC: Joseph Millsaps, Samuel Billinsley
+Adj 
+Dat 1784
+PRESENT: 
+ALTSPELL: 
+FOLLOWUP: 
+PLACES: 
+IMPROVEMENT: 
+TRANSFERS: 
+! 1. n A, dd mmm 17yy State of NC -> first last
+lbl %to\%dat\File# %Id\%Re
+! Metes and bounds
+loc -18395 -29645 F127 L0 P255
+txt -17744 -28583 F127 R0 %d =
+Pt lgWO N sd crk Mos.Parris cnr
+Ln e; 30c; Parris
+Pt his cnr PO
+Ln n; 17c; Parris
+Pt pine
+Ln e; 48c; 
+Pt Bridge Br
+Ln e; 2c;
+Pt smPO
+Ln s; 5.75c; 
+Pt Rocky Crk Allens Ore Rd
+Ln s; 69.25c; 
+Pt PO stmp
+Ln w; 76c; 
+Pt SO Jos.Millsap cnr
+Ln n45w; 18c; Jo.Millsap
+Pt his cnr stk
+Ln n; 13.5c; 
+Pt Rocky Crk
+Ln n; 13.5c; 
+Pt Rocky Crk 
+Ln n; 5c;
+Pt sPO Sam.Billinsley cnr
+Ln ;; to beg Billinsley
 End

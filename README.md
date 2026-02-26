@@ -5,7 +5,7 @@ A web application for viewing historical land records from DeedMapper (.mbl file
 ## Files
 
 - `deed-mapper-app.html` - The main web application
-- `NC_Iredell.mbl` - Database of historical land surveys (Iredell County, NC area)
+- `NC_Iredell.mbl` - Database of historical land surveys example: (Iredell County, NC area), other .mbl files can be loaded
 
 ## How to Use
 
@@ -30,7 +30,7 @@ A web application for viewing historical land records from DeedMapper (.mbl file
 Controls the size of individual plot shapes. This value correctly scales metes and bounds measurements (poles, chains) for display.
 
 ### Geographic Mode Settings
-
+Some of these can probably be removed at some point since I am now icluding the values in a comment in the .mbl file
 | Setting | Value | Description |
 |---------|-------|-------------|
 | Anchor Plot ID | Rowan-3090 | Reference plot for positioning |

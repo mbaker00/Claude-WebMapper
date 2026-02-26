@@ -1,0 +1,296 @@
+// ============================================================
+// NC Land Grants Scraper - Paste this in the browser console
+// while signed in at nclandgrants.com
+// ============================================================
+(async function() {
+    const GRANT_IDS = [{"id":"Rowan-1711","county":"Rowan","cyid":"85","fileNo":"1711"},{"id":"Rowan-0669","county":"Rowan","cyid":"85","fileNo":"669"},{"id":"Rowan-2902","county":"Rowan","cyid":"85","fileNo":"2902"},{"id":"Rowan-1238","county":"Rowan","cyid":"85","fileNo":"1238"},{"id":"Iredell-0156","county":"Iredell","cyid":"54","fileNo":"156"},{"id":"Rowan-2897","county":"Rowan","cyid":"85","fileNo":"2897"},{"id":"Rowan-1569","county":"Rowan","cyid":"85","fileNo":"1569"},{"id":"Rowan-1273","county":"Rowan","cyid":"85","fileNo":"1273"},{"id":"Rowan-2293","county":"Rowan","cyid":"85","fileNo":"2293"},{"id":"Rowan-0952","county":"Rowan","cyid":"85","fileNo":"952"},{"id":"Rowan-1658","county":"Rowan","cyid":"85","fileNo":"1658"},{"id":"Rowan-1435","county":"Rowan","cyid":"85","fileNo":"1435"},{"id":"Rowan-1945","county":"Rowan","cyid":"85","fileNo":"1945"},{"id":"Rowan-0671","county":"Rowan","cyid":"85","fileNo":"671"},{"id":"Rowan-1882","county":"Rowan","cyid":"85","fileNo":"1882"},{"id":"Rowan-2048","county":"Rowan","cyid":"85","fileNo":"2048"},{"id":"Iredell-0011","county":"Iredell","cyid":"54","fileNo":"11"},{"id":"Rowan-0664","county":"Rowan","cyid":"85","fileNo":"664"},{"id":"Rowan-0640","county":"Rowan","cyid":"85","fileNo":"640"},{"id":"Rowan-3094","county":"Rowan","cyid":"85","fileNo":"3094"},{"id":"Rowan-0715","county":"Rowan","cyid":"85","fileNo":"715"},{"id":"Rowan-2401","county":"Rowan","cyid":"85","fileNo":"2401"},{"id":"Rowan-3090","county":"Rowan","cyid":"85","fileNo":"3090"},{"id":"Rowan-3091","county":"Rowan","cyid":"85","fileNo":"3091"},{"id":"Rowan-0729","county":"Rowan","cyid":"85","fileNo":"729"},{"id":"Iredell-0020","county":"Iredell","cyid":"54","fileNo":"20"},{"id":"Rowan-1814","county":"Rowan","cyid":"85","fileNo":"1814"},{"id":"Rowan-1037","county":"Rowan","cyid":"85","fileNo":"1037"},{"id":"Rowan-1057","county":"Rowan","cyid":"85","fileNo":"1057"},{"id":"Rowan-0655","county":"Rowan","cyid":"85","fileNo":"655"},{"id":"Rowan-1048","county":"Rowan","cyid":"85","fileNo":"1048"},{"id":"Rowan-0774","county":"Rowan","cyid":"85","fileNo":"774"},{"id":"Rowan-1815","county":"Rowan","cyid":"85","fileNo":"1815"},{"id":"Rowan-2294","county":"Rowan","cyid":"85","fileNo":"2294"},{"id":"Rowan-0784","county":"Rowan","cyid":"85","fileNo":"784"},{"id":"Rowan-0870","county":"Rowan","cyid":"85","fileNo":"870"},{"id":"Rowan-1020","county":"Rowan","cyid":"85","fileNo":"1020"},{"id":"Rowan-1036","county":"Rowan","cyid":"85","fileNo":"1036"},{"id":"Rowan-1790","county":"Rowan","cyid":"85","fileNo":"1790"},{"id":"Rowan-1852","county":"Rowan","cyid":"85","fileNo":"1852"},{"id":"Rowan-1826","county":"Rowan","cyid":"85","fileNo":"1826"},{"id":"Rowan-1827","county":"Rowan","cyid":"85","fileNo":"1827"},{"id":"Rowan-2015","county":"Rowan","cyid":"85","fileNo":"2015"},{"id":"Rowan-1865","county":"Rowan","cyid":"85","fileNo":"1865"},{"id":"Rowan-2176","county":"Rowan","cyid":"85","fileNo":"2176"},{"id":"Rowan-2342","county":"Rowan","cyid":"85","fileNo":"2342"},{"id":"Rowan-2217","county":"Rowan","cyid":"85","fileNo":"2217"},{"id":"Rowan-1423","county":"Rowan","cyid":"85","fileNo":"1423"},{"id":"Rowan-0953","county":"Rowan","cyid":"85","fileNo":"953"},{"id":"Rowan-0957","county":"Rowan","cyid":"85","fileNo":"957"},{"id":"Rowan-1050","county":"Rowan","cyid":"85","fileNo":"1050"},{"id":"Rowan-1082","county":"Rowan","cyid":"85","fileNo":"1082"},{"id":"Rowan-1097","county":"Rowan","cyid":"85","fileNo":"1097"},{"id":"Rowan-1096","county":"Rowan","cyid":"85","fileNo":"1096"},{"id":"Rowan-1098","county":"Rowan","cyid":"85","fileNo":"1098"},{"id":"Rowan-1111","county":"Rowan","cyid":"85","fileNo":"1111"},{"id":"Rowan-1182","county":"Rowan","cyid":"85","fileNo":"1182"},{"id":"Rowan-1835","county":"Rowan","cyid":"85","fileNo":"1835"},{"id":"Rowan-2101","county":"Rowan","cyid":"85","fileNo":"2101"},{"id":"Rowan-2166","county":"Rowan","cyid":"85","fileNo":"2166"},{"id":"Rowan-2278","county":"Rowan","cyid":"85","fileNo":"2278"},{"id":"Rowan-2300","county":"Rowan","cyid":"85","fileNo":"2300"},{"id":"Rowan-2305","county":"Rowan","cyid":"85","fileNo":"2305"},{"id":"Rowan-2306","county":"Rowan","cyid":"85","fileNo":"2306"},{"id":"Rowan-2326","county":"Rowan","cyid":"85","fileNo":"2326"},{"id":"Iredell-0043","county":"Iredell","cyid":"54","fileNo":"43"},{"id":"Rowan-1190","county":"Rowan","cyid":"85","fileNo":"1190"},{"id":"Rowan-0301","county":"Rowan","cyid":"85","fileNo":"301"},{"id":"Iredell-0016","county":"Iredell","cyid":"54","fileNo":"16"},{"id":"Iredell-0032","county":"Iredell","cyid":"54","fileNo":"32"},{"id":"Rowan-1446","county":"Rowan","cyid":"85","fileNo":"1446"},{"id":"Rowan-0652","county":"Rowan","cyid":"85","fileNo":"652"},{"id":"Iredell-0160","county":"Iredell","cyid":"54","fileNo":"160"},{"id":"Rowan-1021","county":"Rowan","cyid":"85","fileNo":"1021"},{"id":"Rowan-0657","county":"Rowan","cyid":"85","fileNo":"657"},{"id":"Rowan-2404","county":"Rowan","cyid":"85","fileNo":"2404"},{"id":"Iredell-0664","county":"Iredell","cyid":"54","fileNo":"664"},{"id":"Rowan-2025","county":"Rowan","cyid":"85","fileNo":"2025"},{"id":"Rowan-2042","county":"Rowan","cyid":"85","fileNo":"2042"},{"id":"Rowan-2323","county":"Rowan","cyid":"85","fileNo":"2323"},{"id":"Rowan-1023","county":"Rowan","cyid":"85","fileNo":"1023"},{"id":"Rowan-1058","county":"Rowan","cyid":"85","fileNo":"1058"},{"id":"Rowan-1056","county":"Rowan","cyid":"85","fileNo":"1056"},{"id":"Rowan-1043","county":"Rowan","cyid":"85","fileNo":"1043"},{"id":"Rowan-0845","county":"Rowan","cyid":"85","fileNo":"845"},{"id":"Iredell-0268","county":"Iredell","cyid":"54","fileNo":"268"},{"id":"Rowan-2238","county":"Rowan","cyid":"85","fileNo":"2238"},{"id":"Iredell-0170","county":"Iredell","cyid":"54","fileNo":"170"},{"id":"Iredell-0119","county":"Iredell","cyid":"54","fileNo":"119"},{"id":"Rowan-1019","county":"Rowan","cyid":"85","fileNo":"1019"},{"id":"Rowan-1180","county":"Rowan","cyid":"85","fileNo":"1180"},{"id":"Rowan-1201","county":"Rowan","cyid":"85","fileNo":"1201"},{"id":"Rowan-1034","county":"Rowan","cyid":"85","fileNo":"1034"},{"id":"Iredell-0015","county":"Iredell","cyid":"54","fileNo":"15"},{"id":"Rowan-2527","county":"Rowan","cyid":"85","fileNo":"2527"},{"id":"Rowan-1472","county":"Rowan","cyid":"85","fileNo":"1472"},{"id":"Rowan-1532","county":"Rowan","cyid":"85","fileNo":"1532"},{"id":"Rowan-0916","county":"Rowan","cyid":"85","fileNo":"916"},{"id":"Rowan-2296","county":"Rowan","cyid":"85","fileNo":"2296"},{"id":"Rowan-1860","county":"Rowan","cyid":"85","fileNo":"1860"},{"id":"Rowan-1951","county":"Rowan","cyid":"85","fileNo":"1951"},{"id":"Rowan-1805","county":"Rowan","cyid":"85","fileNo":"1805"},{"id":"Rowan-2202","county":"Rowan","cyid":"85","fileNo":"2202"},{"id":"Rowan-0480","county":"Rowan","cyid":"85","fileNo":"480"},{"id":"Rowan-0469","county":"Rowan","cyid":"85","fileNo":"469"},{"id":"Rowan-0915","county":"Rowan","cyid":"85","fileNo":"915"},{"id":"Iredell-0163","county":"Iredell","cyid":"54","fileNo":"163"},{"id":"Iredell-0164","county":"Iredell","cyid":"54","fileNo":"164"},{"id":"Rowan-1762","county":"Rowan","cyid":"85","fileNo":"1762"},{"id":"Rowan-1959","county":"Rowan","cyid":"85","fileNo":"1959"},{"id":"Rowan-1192","county":"Rowan","cyid":"85","fileNo":"1192"},{"id":"Rowan-1586","county":"Rowan","cyid":"85","fileNo":"1586"},{"id":"Rowan-1759","county":"Rowan","cyid":"85","fileNo":"1759"},{"id":"Rowan-2515","county":"Rowan","cyid":"85","fileNo":"2515"},{"id":"Rowan-0511","county":"Rowan","cyid":"85","fileNo":"511"},{"id":"Rowan-1778","county":"Rowan","cyid":"85","fileNo":"1778"},{"id":"Rowan-2310","county":"Rowan","cyid":"85","fileNo":"2310"},{"id":"Rowan-2346","county":"Rowan","cyid":"85","fileNo":"2346"},{"id":"Rowan-2261","county":"Rowan","cyid":"85","fileNo":"2261"},{"id":"Rowan-2129","county":"Rowan","cyid":"85","fileNo":"2129"},{"id":"Rowan-1807","county":"Rowan","cyid":"85","fileNo":"1807"},{"id":"Rowan-1061","county":"Rowan","cyid":"85","fileNo":"1061"},{"id":"Rowan-1072","county":"Rowan","cyid":"85","fileNo":"1072"},{"id":"Rowan-1075","county":"Rowan","cyid":"85","fileNo":"1075"},{"id":"Rowan-0879","county":"Rowan","cyid":"85","fileNo":"879"},{"id":"Rowan-1123","county":"Rowan","cyid":"85","fileNo":"1123"},{"id":"Rowan-1564","county":"Rowan","cyid":"85","fileNo":"1564"},{"id":"Rowan-2128","county":"Rowan","cyid":"85","fileNo":"2128"},{"id":"Rowan-2136","county":"Rowan","cyid":"85","fileNo":"2136"},{"id":"Rowan-2268","county":"Rowan","cyid":"85","fileNo":"2268"},{"id":"Rowan-2478","county":"Rowan","cyid":"85","fileNo":"2478"}];
+    const DELAY_MS = 2000; // 2 seconds between requests
+    const results = {};
+    let completed = 0;
+    let errors = 0;
+
+    function sleep(ms) { return new Promise(r => setTimeout(r, ms)); }
+
+    function log(msg) {
+        console.log('[Scraper] ' + msg);
+    }
+
+    // Step 1: Query the search page to find the grant detail link (MARS ID)
+    async function queryGrant(entry) {
+        const formData = new URLSearchParams();
+        formData.append('pg', 'query');
+        formData.append('name', '');
+        formData.append('xn', 'F');
+        formData.append('cyid', entry.cyid);
+        formData.append('datemin', '');
+        formData.append('datemax', '');
+        formData.append('search', 'SEARCH');
+        formData.append('identtype', 'F');
+        formData.append('identvalue', entry.fileNo);
+        formData.append('sortfld', 'LNDNAME');
+        formData.append('show_C', 'on');
+        formData.append('show_L', 'on');
+        formData.append('gtP', 'on');
+        formData.append('gtC', 'on');
+        formData.append('gtG', 'on');
+        formData.append('gtS', 'on');
+        formData.append('gtU', 'on');
+        formData.append('usedate', 'B');
+        formData.append('screenvals', '1');
+        formData.append('screenwidth', window.screen.width.toString());
+
+        const resp = await fetch('/query/', {
+            method: 'POST',
+            body: formData,
+            credentials: 'include'
+        });
+        const html = await resp.text();
+
+        // Parse the results HTML to find the grant detail link
+        const parser = new DOMParser();
+        const doc = parser.parseFromString(html, 'text/html');
+
+        // Look for links to /grant/ pages
+        const links = doc.querySelectorAll('a[href*="/grant/"]');
+        if (links.length === 0) {
+            // Try alternate: look for any link containing 'mars='
+            const allLinks = doc.querySelectorAll('a[href*="mars="]');
+            if (allLinks.length === 0) {
+                return null;
+            }
+            return allLinks[0].href;
+        }
+
+        // Get the first grant link
+        let href = links[0].getAttribute('href');
+        if (href && !href.startsWith('http')) {
+            href = new URL(href, 'https://nclandgrants.com').href;
+        }
+        return href;
+    }
+
+    // Step 2: Fetch the grant detail page and extract data
+    async function fetchGrantDetail(url) {
+        const resp = await fetch(url, { credentials: 'include' });
+        const html = await resp.text();
+
+        const parser = new DOMParser();
+        const doc = parser.parseFromString(html, 'text/html');
+        const body = doc.body;
+        if (!body) return null;
+
+        const data = {};
+
+        // Get all text content for parsing
+        const fullText = body.innerText || body.textContent || '';
+
+        // Extract the header info (name, county, acres, dates)
+        // The grant page typically has structured sections
+
+        // Parse key sections from the HTML
+        // Look for bold labels followed by data
+        const allBold = doc.querySelectorAll('b, strong');
+        allBold.forEach(b => {
+            const label = (b.textContent || '').trim();
+            const nextText = getNextText(b);
+            if (label && nextText) {
+                data[label.replace(/:$/, '')] = nextText.trim();
+            }
+        });
+
+        // Extract narrative section
+        const narrativeMatch = fullText.match(/NARRATIVE:(.*?)(?=From PATENT BOOK|From WARRANT|Other Identifiers|Subjects|$)/si);
+        if (narrativeMatch) {
+            data.narrative = narrativeMatch[1].trim();
+        }
+
+        // Extract Patent Book section
+        const patentMatch = fullText.match(/From PATENT BOOK[^:]*:(.*?)(?=From WARRANT|Other Identifiers|Subjects|NARRATIVE|$)/si);
+        if (patentMatch) {
+            data.patentBook = patentMatch[1].trim();
+        }
+
+        // Extract Warrant/Plat section
+        const warrantMatch = fullText.match(/From WARRANT\/PLAT[^:]*:(.*?)(?=From PATENT|Other Identifiers|Subjects|NARRATIVE|$)/si);
+        if (warrantMatch) {
+            data.warrantPlat = warrantMatch[1].trim();
+        }
+
+        // Extract Other Identifiers
+        const identMatch = fullText.match(/Other Identifiers:(.*?)(?=Subjects|NARRATIVE|From PATENT|From WARRANT|$)/si);
+        if (identMatch) {
+            data.otherIdentifiers = identMatch[1].trim();
+        }
+
+        // Extract Subjects
+        const subjectMatch = fullText.match(/Subjects:(.*?)$/si);
+        if (subjectMatch) {
+            data.subjects = subjectMatch[1].trim();
+        }
+
+        // Also try to extract structured table data
+        const tables = doc.querySelectorAll('table');
+        tables.forEach((table, idx) => {
+            const rows = table.querySelectorAll('tr');
+            rows.forEach(row => {
+                const cells = row.querySelectorAll('td, th');
+                if (cells.length >= 2) {
+                    const key = (cells[0].textContent || '').trim().replace(/:$/, '');
+                    const val = (cells[1].textContent || '').trim();
+                    if (key && val && key.length < 50) {
+                        if (!data[key]) data[key] = val;
+                    }
+                }
+            });
+        });
+
+        // Extract key header fields commonly found on grant pages
+        // Name/Grantee
+        const nameMatch = fullText.match(/(?:Grantee|Granted to|Name)[:\s]+([^\n]+)/i);
+        if (nameMatch && !data.grantee) data.grantee = nameMatch[1].trim();
+
+        // County
+        const countyMatch = fullText.match(/County[:\s]+([^\n]+)/i);
+        if (countyMatch && !data.county) data.county = countyMatch[1].trim();
+
+        // Acres
+        const acresMatch = fullText.match(/(\d+)\s*(?:acres|a\.)/i);
+        if (acresMatch && !data.acres) data.acres = acresMatch[1];
+
+        // Dates
+        const issuedMatch = fullText.match(/Issued[:\s]+([^\n]+)/i);
+        if (issuedMatch && !data.issued) data.issued = issuedMatch[1].trim();
+
+        const enteredMatch = fullText.match(/Entered[:\s]+([^\n]+)/i);
+        if (enteredMatch && !data.entered) data.entered = enteredMatch[1].trim();
+
+        // File number
+        const fileMatch = fullText.match(/File(?:\s*No\.?)?[:\s]+([^\n]+)/i);
+        if (fileMatch && !data.fileNo) data.fileNo = fileMatch[1].trim();
+
+        // Grant number
+        const grantNoMatch = fullText.match(/Grant(?:\s*No\.?)?[:\s]+([^\n]+)/i);
+        if (grantNoMatch && !data.grantNo) data.grantNo = grantNoMatch[1].trim();
+
+        // Location/watercourse
+        const locationMatch = fullText.match(/(?:Location|Watercourse|Waters?)[:\s]+([^\n]+)/i);
+        if (locationMatch && !data.location) data.location = locationMatch[1].trim();
+
+        // MARS ID from URL
+        const marsMatch = url.match(/mars=([^&]+)/);
+        if (marsMatch) data.marsId = marsMatch[1];
+
+        // Store full text as fallback
+        data._fullText = fullText.substring(0, 5000);
+        data._sourceUrl = url;
+
+        return data;
+    }
+
+    function getNextText(element) {
+        let node = element.nextSibling;
+        let text = '';
+        while (node && node.nodeType !== 1) {
+            if (node.nodeType === 3) text += node.textContent;
+            node = node.nextSibling;
+        }
+        if (!text.trim() && element.parentElement) {
+            // Try getting rest of parent text
+            const parentText = element.parentElement.textContent || '';
+            const labelText = element.textContent || '';
+            const idx = parentText.indexOf(labelText);
+            if (idx >= 0) {
+                text = parentText.substring(idx + labelText.length);
+            }
+        }
+        return text.trim().substring(0, 500);
+    }
+
+    // Main loop
+    log('Starting NC Land Grants scraper...');
+    log('Total grants to query: ' + GRANT_IDS.length);
+    log('Estimated time: ~' + Math.ceil(GRANT_IDS.length * DELAY_MS / 60000) + ' minutes');
+    log('---');
+
+    for (let i = 0; i < GRANT_IDS.length; i++) {
+        const entry = GRANT_IDS[i];
+        log('[' + (i+1) + '/' + GRANT_IDS.length + '] Querying ' + entry.id + ' (' + entry.county + ' File #' + entry.fileNo + ')...');
+
+        try {
+            // Step 1: Search for the grant
+            const grantUrl = await queryGrant(entry);
+
+            if (!grantUrl) {
+                log('  WARNING: No results found for ' + entry.id);
+                results[entry.id] = { error: 'No results found', county: entry.county, fileNo: entry.fileNo };
+                errors++;
+            } else {
+                log('  Found grant page: ' + grantUrl);
+
+                // Step 2: Fetch detail page
+                await sleep(500); // small delay between search and detail
+                const detail = await fetchGrantDetail(grantUrl);
+
+                if (detail) {
+                    detail.mblId = entry.id;
+                    detail.searchCounty = entry.county;
+                    detail.searchFileNo = entry.fileNo;
+                    results[entry.id] = detail;
+                    log('  SUCCESS: Got data for ' + entry.id);
+                } else {
+                    results[entry.id] = { error: 'Could not parse grant page', url: grantUrl, county: entry.county, fileNo: entry.fileNo };
+                    errors++;
+                    log('  WARNING: Could not parse grant page for ' + entry.id);
+                }
+            }
+        } catch (err) {
+            log('  ERROR: ' + err.message);
+            results[entry.id] = { error: err.message, county: entry.county, fileNo: entry.fileNo };
+            errors++;
+        }
+
+        completed++;
+
+        // Progress
+        const pct = Math.round(completed / GRANT_IDS.length * 100);
+        log('  Progress: ' + pct + '% (' + completed + '/' + GRANT_IDS.length + ', ' + errors + ' errors)');
+
+        // Delay between requests
+        if (i < GRANT_IDS.length - 1) {
+            await sleep(DELAY_MS);
+        }
+    }
+
+    // Done! Download results
+    log('===================================');
+    log('COMPLETE! ' + completed + ' grants processed, ' + errors + ' errors.');
+    log('Downloading nc_iredell_grants.json...');
+
+    const output = {
+        metadata: {
+            source: 'nclandgrants.com',
+            mblFile: 'NC_Iredell.mbl',
+            scrapeDate: new Date().toISOString(),
+            totalQueried: GRANT_IDS.length,
+            totalSuccess: completed - errors,
+            totalErrors: errors
+        },
+        grants: results
+    };
+
+    const blob = new Blob([JSON.stringify(output, null, 2)], { type: 'application/json' });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = 'nc_iredell_grants.json';
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+    URL.revokeObjectURL(url);
+
+    log('Download initiated! Check your Downloads folder.');
+    log('You can also access the data via: window._grantResults');
+    window._grantResults = output;
+
+    return output;
+})();
